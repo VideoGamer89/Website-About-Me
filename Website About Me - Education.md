@@ -1,10 +1,6 @@
-<!DOCTYPE html>
-<html>
+
 	<head>
 		<link href="styles/Website About Me - main.css" rel="stylesheet"/>
-		<meta charset="UTF-8">
-		<script type="text/javascript" src="javascript/Website About Me - Education.js"></script>
-		<title>Website About Me - Education</title>
 	</head>
 	<body onload="EducationProcess()">
 		<div class = "header">
@@ -47,4 +43,3 @@
 			<p>&copy; Jeff Vogel 2017</p>
 		</div>
 	</body>
-</html>
