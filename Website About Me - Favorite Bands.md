@@ -1,4 +1,4 @@
-	<head>
+<head>
 		<link href="styles/Website About Me - main.css" rel="stylesheet"/>
 		<meta charset="UTF-8">
 	</head>
