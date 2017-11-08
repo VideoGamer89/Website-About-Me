@@ -1,6 +1,6 @@
 <head>
 		<link href="styles/Website About Me - main.css" rel="stylesheet"/>
-		<title>Website About Me - Hobbies</title>
+		<meta charset="UTF-8">
 	</head>
 	<body onload="HobbiesPorcess()">
 		<div class = "header">
