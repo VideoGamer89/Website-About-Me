@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<link href = "styles/Website About Me - main.css" rel="stylesheet"/>
-		<title>Website About Me - Image Gallery</title>
+		<meta charset="UTF-8">
 	</head>
 	<body>
 		<div class ="header">
