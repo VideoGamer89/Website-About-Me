@@ -1,4 +1,5 @@
-<head>
+<html
+	<head>
 		<link href="styles/Website About Me - main.css" rel="stylesheet"/>
 		<meta charset="UTF-8">
 	</head>
@@ -44,3 +45,4 @@
 			<p>&copy; Jeff Vogel 2017</p>
 		</div>
 	</body>
+</html>
