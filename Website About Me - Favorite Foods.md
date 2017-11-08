@@ -1,10 +1,6 @@
-<!DOCTYPE html>
-<html>
-	<head>
+<head>
 		<link href="styles/Website About Me - main.css" rel="stylesheet"/>
-		<script type="text\javascript" src="Website About Me - Favorite Foods.js"></script>
-		<meta charset="UTF-8">
-		<title>Website About Me - Favorite Foods</title>
+		<meta charset="UTF-8"
 	</head>
 	<body onload="FavoriteFoodsProcess()">
 		<div class = "header">
@@ -53,4 +49,3 @@
 			<p>&copy; Jeff Vogel 2017</p>
 		</div>
 	</body>
-</html>
