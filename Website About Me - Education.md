@@ -1,5 +1,4 @@
-
-	<head>
+<head>
 		<link href="styles/Website About Me - main.css" rel="stylesheet"/>
 	</head>
 	<body onload="EducationProcess()">
