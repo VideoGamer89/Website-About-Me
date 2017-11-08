@@ -1,10 +1,6 @@
-<!DOCTYPE html>
-<html>
-	<head>
+<head>
 		<link href="styles/Website About Me - main.css" rel="stylesheet"/>
-		<script type="text/javascript" src="javascript/Website About Me - Favorite TV Shows.js"></script>
 		<meta charset="UTF-8">
-		<title>Website About Me - Favorite TV Shows</title>
 	</head>
 	<body onload = "FavoriteTVShowsProcess()">
 		<div class = "header">
@@ -60,4 +56,3 @@
 			<p>&copy; Jeff Vogel 2017</p>
 		</div>
 	</body>
-</html>
