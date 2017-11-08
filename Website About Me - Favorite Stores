@@ -1,9 +1,8 @@
-<html>
 	<head>
 		<link href="styles/Website About Me - main.css" rel="stylesheet"/>
 		<meta charset="UTF-8">
 	</head>
-	<body onload="FavoriteStoresProcess()">
+	<body>
 		<div class = "header">
 			<h1>Favorite Stores</h1>
 		</div>
@@ -45,4 +44,3 @@
 			<p>&copy; Jeff Vogel 2017</p>
 		</div>
 	</body>
-</html>
