@@ -29,22 +29,98 @@
 		<div class = "content">
 			<p>Here are the computer software that I have used.</p>
 			<div id="mySoftwareDivElement">
-				<ul>
-					<li>Microsoft Office 2010 (Word, Excel, PowerPoint, Access), Developer: Microsoft, Initial Release: June 15 2010</li>
-					<li>Microsoft Office 2013 (Word, Excel, PowerPoint), Developer: Microsoft, Initial Release: January 29, 2013</li>
-					<li>Microsoft Office 2016 (Word, Excel, PowerPoint), Developer: Microsoft, Initial Release: September 22, 2015</li>
-          <li>Microsoft Notepad, Developer: Microsoft, Initial Release: May 1, 1983</li>
-					<li>Notepad++, Developer: Don Ho, Initial Release: November 24, 2003</li>
-					<li>Internet Explorer, Developer: Microsoft, Initial Release: August 16, 1995</li>
-					<li>Microsoft Edge, Developer: Microsoft, Initial Release: July 29, 2015</li>
-					<li>Mozilla Firefox, Developer(s): Mozilla Foundation, Mozilla Corporation, Initial Release: September 23, 2002</li>
-					<li>Google Chrome, Developer: Google Inc., Initial Release: September 2, 2008</li>
-					<li>Microsoft Visual Studio 2010 Professional, Developer: Microsoft, Initial Release: April 12, 2010</li>
-					<li>Microsoft Visual Studio 2015 Community, Developer: Microsoft, Initial Release: July 20, 2015</li>
-					<li>Eclipse, Developer: Eclipse Foundation, Initial Release: November 7, 2001</li>
-					<li>Android Studio, Developer: Google, Initial Release: December 1, 2014</li>
-					<li>WAMPServer, Developer: Romain Bourdon, Initial Release: January 10, 2006</li>
-				</ul>
+				<table>
+					<th>
+						<td>Name</td>
+						<td>Developer(s)</td>
+						<td>Initial Release</td>
+						<td>Type(s)</td>
+					</th>
+					<tr>
+						<td>Microsoft Office 2010 (Word, Excel, PowerPoint, Access)</td>
+						<td>Microsoft</td>
+						<td>June 15 2010</td>
+						<td>Office Suite</td>
+					</tr>
+					<tr>
+						<td>Microsoft Office 2013 (Word, Excel, PowerPoint)</td>
+						<td>Microsoft</td>
+						<td>January 29, 2013</td>
+						<td>Office Suite</td>
+					</tr>
+					<tr>
+						<td>Microsoft Office 2016 (Word, Excel, PowerPoint)</td>
+						<td>Microsoft</td>
+						<td>September 22, 2015</td>
+						<td>Office Suite</td>
+					</tr>
+					<tr>
+						<td>Microsoft Notepad</td>
+						<td>Microsoft</td>
+						<td>May 1, 1983</td>
+						<td>Text Editor</td>
+					</tr>
+					<tr>
+						<td>Notepad++</td>
+						<td>Don Ho</td>
+						<td>November 24, 2003</td>
+						<td>Source code editor</td>
+					</tr>
+					<tr>
+						<td>Internet Explorer</td>
+						<td>Microsoft</td>
+						<td>August 16, 1995</td>
+						<td>Web browser, Feed reader</td>
+					</tr>
+					<tr>
+						<td>Microsoft Edge</td>
+						<td>Microsoft</td>
+						<td>July 29, 2015</td>
+						<td>Web browser, Feed reader</td>
+					</tr>
+					<tr>
+						<td>Mozilla Firefox</td>
+						<td>Mozilla Foundation, Mozilla Corporation</td>
+						<td>September 23, 2002</td>
+						<td>Web browser, Feed reader, Mobile Web Browser</td>
+					</tr>
+					<tr>
+						<td>Google Chrome</td>
+						<td>Google Inc.</td>
+						<td>September 2, 2008</td>
+						<td>Web Browser, Mobile Browser</td>
+					</tr>
+					<tr>
+						<td>Microsoft Visual Studio 2010 Professional</td>
+						<td>Microsoft</td>
+						<td>April 12, 2010</td>
+						<td>Integrated development environment</td>
+					</tr>
+					<tr>
+						<td>Microsoft Visual Studio 2015 Community</td>
+						<td>Microsoft</td>
+						<td>July 20, 2015</td>
+						<td>Integrated development environment</td>
+					</tr>
+					<tr>
+						<td>Eclipse</td>
+						<td>Eclipse Foundation</td>
+						<td>November 7, 2001</td>
+						<td>Programming Tool, Integrated development environment</td>
+					</tr>
+					<tr>
+						<td>Android Studio</td>
+						<td>Google Inc.</td>
+						<td>December 1, 2014</td>
+						<td>Integrated development environment</td>
+					</tr>
+					<tr>
+						<td>WAMPServer</td>
+						<td>Romain Bourdon</td>
+						<td>December 14, 2005</td>
+						<td>Web server stack package</td>
+					</tr>
+				</table>
 			</div>
 		</div>
 		<div class = "footer">
