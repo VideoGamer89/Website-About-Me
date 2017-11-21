@@ -30,12 +30,12 @@
 			<p>Here are the computer software that I have used.</p>
 			<div>
 				<table>
-					<th>
-						<td>Name</td>
-						<td>Developer(s)</td>
-						<td>Initial Release</td>
-						<td>Type(s)</td>
-					</th>
+					<tr>
+						<th>Name</th>
+						<th>Developer(s)</th>
+						<th>Initial Release</th>
+						<th>Type(s)</th>
+					</tr>
 					<tr>
 						<td>Microsoft Office 2010 (Word, Excel, PowerPoint, Access)</td>
 						<td>Microsoft</td>
