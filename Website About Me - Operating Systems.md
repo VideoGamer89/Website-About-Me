@@ -29,13 +29,62 @@
 		<div class = "content">
 			<p>Here are the operating systems that I have used.</p>
 			<div id = "myOperatingSystemsDivElement">
-				<ul>
-					<li>Microsoft Windows 7, Developer: Microsoft, Date of Release: July 22, 2009, Date of Availablity: October 22, 2009</li>
-					<li>Microsoft Windows 8, Developer: Microsoft, Date of Release: August 1, 2012, Date of Availablity: October 26, 2012</li>
-					<li>Microsoft Windows 8.1, Developer: Microsoft, Date of Release: August 27, 2013, Date of Availablity: October 17, 2013</li>
-					<li>Microsoft Windows 10, Developer: Microsoft, Date of Release: July 15, 2015, Date of Availablity: July 29, 2015</li>
-					<li>Android, Developer(s): Google. Open Handset, Open Handset Alliance, Date of Release: September 23, 2008, Date of Availablity: September 23, 2008</li>
-				</ul>
+				<table>
+					<tr>
+						<th>Name</th>
+						<th>Developer(s)</th>
+						<th>Date of Release</th>
+						<th>Date of Availablity</th>
+						<th>Source Model(s)</th>
+						<th>Kernel type</th>
+						<th>Update Method(s)</td>
+					</tr>
+					<tr>
+						<td>Microsoft Windows 7</td>
+						<td>Microsoft</td>
+						<td>July 22, 2009</td>
+						<td>October 22, 2009</td>
+						<td>Closed Source and Shared Source</td>
+						<td>Hybrid</td>
+						<td>Windows Update</td>
+					</tr>
+					<tr>
+						<td>Microsoft Windows 8</td>
+						<td>Microsoft</td>
+						<td>August 1, 2012</td>
+						<td>October 26, 2012</td>
+						<td>Closed Source and Shared Source</td>
+						<td>Hybrid</td>
+						<td>Windows Update, Windows Store, Windows Server Update Services</td>
+					</tr>
+					<tr>
+						<td>Microsoft Windows 8.1</td>
+						<td>Microsoft</td>
+						<td>August 27, 2013</td>
+						<td>October 17, 2013</td>
+						<td>None</td>
+						<td>Hybrid</td>
+						<td>Windows Update, Windows Store, Windows Server Update Services</td>
+					</tr>
+					<tr>
+						<td>Microsoft Windows 10</td>
+						<td>Microsoft</td>
+						<td>July 15, 2015</td>
+						<td>July 29, 2015</td>
+						<td>Closed Source and Shared Source (Windows Driver Frameworks is now open-source)</td>
+						<td>Hybrid (Windows NT)</td>
+						<td>Windows Update, Windows Store, Windows Server Update Services</td>
+					</tr>
+					<tr>
+						<td>Android</td>
+						<td>Google. Open Handset, Open Handset Alliance</td>
+						<td>September 23, 2008</td>
+						<td>September 23, 2008</td>
+						<td>Open source and in most devices with proprietary components</td>
+						<td>Monlithic</td>
+						<td>None</td>
+					</tr>
+				</table>
 			</div>
 		</div>
 		<div class = "footer">
