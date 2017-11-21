@@ -27,7 +27,7 @@
 			</ul>
 		</div>
 		<div class = "content">
-			<p>Hello, My Name is Jeff Vogel. I have high achieving autism. I live in Stacy, MN for 28 years.</p>
+			<p>Hello, My Name is Jeff Vogel. I have high achieving autism.</p>
 		</div>
 		<div class = "footer">
 			<p>&copy; Jeff Vogel 2017</p>
