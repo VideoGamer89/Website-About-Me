@@ -28,7 +28,7 @@
 		</div>
 		<div class = "content">
 			<p>Here is a list of my favorite places to shop.</p>
-			<div id = "myFavoriteStoresDivElement">
+			<div>
 				<table>
 					<tr>
 						<th>Name</th>
