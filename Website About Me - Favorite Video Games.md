@@ -2,9 +2,7 @@
 <html>
 	<head>
 		<link href="styles/Website About Me - main.css" rel="stylesheet"/>
-		<script type = "text\javascript" src = "javascript/Website About Me - Favorite Video Games.js"></script>
 		<meta charset="UTF-8">
-		<title>Website About Me - Favorite Video Games</title>
 	</head>
 	<body onload="FavoriteVideoGamesProcess()">
 		<div class = "header">
