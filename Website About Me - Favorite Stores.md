@@ -57,7 +57,7 @@
 						<td>1962</td>
 						<td>Bentonville, Arkansas</td>
 						<td>11,695</td>
-						<td>Electronics, Movies and music, Home and furniture, Home improvement, Clothing, Footwear, Jewelry, Toys, Health and beauty, Pet supplies, Sporting goods and fitness, Auto, Photo finishing, craft supplies, party supplies, grocery</td>
+						<td>Electronics, Movies and music, Home and furniture, Home improvement, Etc.</td>
 						<td>Walmart U.S. Walmart International, Sam's Club, Global eCommerce</td>
 					</tr>
 					<tr>
@@ -67,9 +67,8 @@
 						<td>1902</td>
 						<td>Minneapolis, Minnesota</td>
 						<td>1,816</td>
-						<td>Beauty and health products, bedding, clothing and accessories, electronics, food, furniture, housewares, jewelry, gardening supplies, pet supplies, shoes, sporting goods, toys/games, small appliances, office supplies, books, movies, music</td>
+						<td>Beauty and health products, bedding, clothing and accessories, etc.</td>
 						<td>Financial and Retail Services, Target Sourcing Services</td>
-						
 					</tr>
 					<tr>
 						<td><a href="http://www.bestbuy.com/">Best Buy</a></td>
@@ -100,7 +99,6 @@
 						<td>357</td>
 						<td>Clothing, footwear, bedding, furniture, jewelry, beauty products, electronics, market, housewares, contact lenses</td>
 						<td>None</td>
-						
 					</tr>
 					<tr>
 						<td><a href="https://www.cub.com/">Cub Foods</a></td>
@@ -118,4 +116,5 @@
 		<div class = "footer">
 			<p>&copy; Jeff Vogel 2017</p>
 		</div>
+					
 	</body>
