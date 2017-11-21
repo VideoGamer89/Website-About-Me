@@ -28,7 +28,7 @@
 		</div>
 		<div class = "content">
 			<p>Here are the computer software that I have used.</p>
-			<div id="mySoftwareDivElement">
+			<div>
 				<table>
 					<th>
 						<td>Name</td>
