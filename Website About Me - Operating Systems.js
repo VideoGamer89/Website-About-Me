@@ -1,16 +1,65 @@
-function OperatingSystemProcess()
+function OperatingSystemsProcess()
 {
-  // Create HTML code
-  var string;
-  string = "<ul>"
-			+ "<li>Microsoft Windows 7</li>"
-			+ "<li>Microsoft Windows 8</li>"
-			+ "<li>Microsoft Windows 8.1</li>"
-			+ "<li>Microsoft Windows 10</li>"
-			+ "<li>Android</li>"
-		+ "</ul>";
-    // obtain a reference to the <div>
-    myDiv = document.getElementById("myDivOperatingSystemsElement");
-    // add content to the <div> element
-    myDiv.innerHTML = string;
+	// Create HTML code
+	var string;
+	string = "<table>"
+			+ "<tr>"
+				+ "<th>Name</th>"
+				+ "<th>Developer(s)</th>"
+				+ "<th>Date of Release</th>"
+				+ "<th>Date of Availablity</th>"
+				+ "<th>Source Model(s)</th>"
+				+ "<th>Kernel type</th>"
+				+ "<th>Update Method(s)</td>"
+			+ "</tr>"
+			+ "<tr>"
+				+ "<td>Microsoft Windows 7</td>"
+				+ "<td>Microsoft</td>"
+				+ "<td>July 22, 2009</td>"
+				+ "<td>October 22, 2009</td>"
+				+ "<td>Closed Source and Shared Source</td>"
+				+ "<td>Hybrid</td>"
+				+ "<td>Windows Update</td>"
+			+ "</tr>"
+			+ "<tr>"
+				+ "<td>Microsoft Windows 8</td>"
+				+ "<td>Microsoft</td>"
+				+ "<td>August 1, 2012</td>"
+				+ "<td>October 26, 2012</td>"
+				+ "<td>Closed Source and Shared Source</td>"
+				+ "<td>Hybrid</td>"
+				+ "<td>Windows Update, Windows Store, Windows Server Update Services</td>"
+			+ "</tr>"
+			+ "<tr>"
+				+ "<td>Microsoft Windows 8.1</td>"
+				+ "<td>Microsoft</td>"
+				+ "<td>August 27, 2013</td>"
+				+ "<td>October 17, 2013</td>"
+				+ "<td>None</td>"
+				+ "<td>Hybrid</td>"
+				+ "<td>Windows Update, Windows Store, Windows Server Update Services</td>"
+			+ "</tr>"
+			+ "<tr>"
+				+ "<td>Microsoft Windows 10</td>"
+				+ "<td>Microsoft</td>"
+				+ "<td>July 15, 2015</td>"
+				+ "<td>July 29, 2015</td>"
+				+ "<td>Closed Source and Shared Source (Windows Driver Frameworks is now open-source)</td>"
+				+ "<td>Hybrid (Windows NT)</td>"
+				+ "<td>Windows Update, Windows Store, Windows Server Update Services</td>"
+			+ "</tr>"
+			+ "<tr>"
+				+ "<td>Android</td>"
+				+ "<td>Google., Open Handset, Open Handset Alliance</td>"
+				+ "<td>September 23, 2008</td>"
+				+ "<td>September 23, 2008</td>"
+				+ "<td>Open source and in most devices with proprietary components</td>"
+				+ "<td>Monlithic</td>"
+				+ "<td>None</td>"
+			+ "</tr>"
+		+ "</table>";
+	// obtain a reference to the <div>
+	myDiv = document.getElementById("myDivOperatingSystemsElement");
+	// add content to the <div> elementFromPoint
+	myDiv.innerHTML = string;
 }
