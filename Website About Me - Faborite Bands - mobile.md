@@ -70,7 +70,7 @@
 			</div>
 		</div>
 		<div id = "backToTop">
-			<a href = "Website About Me - Mobile/Website About Me - Favorite Bands - mobile.html">BackToTop</a>
+			<a href = "Website About Me - Favorite Bands - mobile.md">BackToTop</a>
 		</div>
 		<div id = "footer">
 			<p>&copy; Jeff Vogel 2017</p>
