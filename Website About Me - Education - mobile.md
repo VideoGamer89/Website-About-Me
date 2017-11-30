@@ -84,7 +84,7 @@
 			</div>
 		</div>
 		<div id = "backToTop">
-			<a href="Website About Me - Mobile/Website About Me - Education - mobile.html">BackToTop</a>
+			<a href="Website About Me - Education - mobile.md">BackToTop</a>
 		</div>
 		<div class = "footer">
 			<p>&copy; Jeff Vogel 2017</p>
