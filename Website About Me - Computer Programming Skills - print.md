@@ -4,21 +4,21 @@
 		</div>
 		<div class = "nav">
 			<ul>
-				<li><a href="Website About Me - Main - print.html">Home</a></li>
-				<li><a href="Website About Me - Hobbies - print.html">Hobbies</a></li>
-				<li><a href="Website About Me - Favorite Music - print.html">Favorite Music</a></li>
-				<li><a href="Website About Me - Favorite Bands - print.html">Favorite Bands</a></li>
-				<li><a href="Website About Me - Favorite Video Games - print.html">Favorite Video Games</a></li>
-				<li><a href="Website About Me - Favorite Movies - print.html">Favorite Movies</a></li>
-				<li><a href="Website About Me - Favorite TV Shows - print.html">Favorite TV Shows</a></li>
-				<li><a href="Website About Me - Favorite Foods - print.html">Favorite Foods</a></li>
-				<li><a href="Website About Me - Favorite Restaurants - print.html">Favorite Restaurants</a></li>
-				<li><a href="Website About Me - Favorite Stores - print.html">Favorite Stores</a></li>
-				<li><a href="Website About Me - Image Gallery - print.html">Image Gallery</a></li>
-				<li><a href="Website About Me - Education - print.html">Education</a></li>
-				<li><a href="Website About Me - Work Samples - print.html">Work Samples</a></li>
-				<li><a href="Website About Me - Operating Systems - print.html">Operating Systems</a></li>
-				<li><a href="Website About Me - Software - print.html">Software</a></li>
+				<li><a href="Website About Me - Main - print.md">Home</a></li>
+				<li><a href="Website About Me - Hobbies - print.md">Hobbies</a></li>
+				<li><a href="Website About Me - Favorite Music - print.md">Favorite Music</a></li>
+				<li><a href="Website About Me - Favorite Bands - print.md">Favorite Bands</a></li>
+				<li><a href="Website About Me - Favorite Video Games - print.md">Favorite Video Games</a></li>
+				<li><a href="Website About Me - Favorite Movies - print.md">Favorite Movies</a></li>
+				<li><a href="Website About Me - Favorite TV Shows - print.md">Favorite TV Shows</a></li>
+				<li><a href="Website About Me - Favorite Foods - print.md">Favorite Foods</a></li>
+				<li><a href="Website About Me - Favorite Restaurants - print.md">Favorite Restaurants</a></li>
+				<li><a href="Website About Me - Favorite Stores - print.md">Favorite Stores</a></li>
+				<li><a href="Website About Me - Image Gallery - print.md">Image Gallery</a></li>
+				<li><a href="Website About Me - Education - print.md">Education</a></li>
+				<li><a href="Website About Me - Work Samples - print.md">Work Samples</a></li>
+				<li><a href="Website About Me - Operating Systems - print.md">Operating Systems</a></li>
+				<li><a href="Website About Me - Software - print.md">Software</a></li>
 			</ul>
 		</div>
 		<div class = "content">
