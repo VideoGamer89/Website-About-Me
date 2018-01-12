@@ -1,10 +1,4 @@
 <html>
-	<head>
-		<link href = "styles/Website About Me - main.css" rel="stylesheet"/>
-		<meta charset = "UTF-8">
-		<title>Website About Me - Favorite Beverages</title>
-		<script type = "text/javascript" src = "javascript/Website About Me - Favorite Beverages.js"></script>
-	</head>
 	<body>
 		<div id = "header">
 			<h1>Favorite Beverages</h1>
