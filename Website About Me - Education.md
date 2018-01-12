@@ -24,7 +24,7 @@
 				<li><a href="Website About Me - Computer Programming Skills.md">Computer Programming Skills</a></li>
 				<li><a href="Website About Me - Operating Systems.md">Operating Systems</a></li>
 				<li><a href="Website About Me - Software.md">Software</a></li>
-				<li><a href="Website About Me - References.md">References</a></li>
+				<li><a href="Website About Me - Resources.md">Resources</a></li>
 			</ul>
 		</div>
 		<div class = "content">
