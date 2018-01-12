@@ -16,6 +16,7 @@
 				<li><a href="Website About Me - Favorite Gaming Consoles.md">Favorite Gaming Consoles</a></li>
 				<li><a href="Website About Me - Favorite TV Shows.md">Favorite TV Shows</a></li>
 				<li><a href="Website About Me - Favorite Foods.md">Favorite Foods</a></li>
+				<li><a href="Website About Me - Favorite Beverages.md">Favorite Beverages</a></li>
 				<li><a href="Website About Me - Favorite Restaurants.md">Favorite Restaurants</a></li>
 				<li><a href="Website About Me - Favorite Stores.md">Favorite Stores</a></li>
 				<li><a href="Website About Me - Image Gallery.md">Image Gallery</a></li>
@@ -24,6 +25,7 @@
 				<li><a href="Website About Me - Computer Programming Skills.md">Computer Programming Skills</a></li>
 				<li><a href="Website About Me - Operating Systems.md">Operating Systems</a></li>
 				<li><a href="Website About Me - Software.md">Software</a></li>
+				<li><a href="Website About Me - References.md">References</a></li>
 			</ul>
 		</div>
 		<div class = "content">
