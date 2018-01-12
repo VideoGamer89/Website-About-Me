@@ -22,7 +22,7 @@
 				<li><a href="Website About Me - Computer Programming Skills.md">Computer Programming Skills</a></li>
 				<li><a href="Website About Me - Operating Systems.md">Operating Systems</a></li>
 				<li><a href="Website About Me - Software.md">Software</a></li>
-				<li><a href="Website About Me - References.md">References</a></li>
+				<li><a href="Website About Me - Resources.md">Resources</a></li>
 			</ul>
 		</div>
 		<div id = "content">
@@ -38,7 +38,7 @@
 						<td>Introduced</td>
 						<td>Reformulated</td>
 						<td>Variant(s)</td>
-						<td>Reference Number</td>
+						<td>Resource Number</td>
 					</tr>
 					<tr>
 						<td>Diet Pepsi</td>
@@ -48,7 +48,7 @@
 						<td>1964</td>
 						<td>2013</td>
 						<td>Caffeine Free Diet Pepsi, Diet Pepsi Lime, Diet Pepsi Vanilla, Diet Pepsi Wild Cherry</td>
-						<td><a href="Website About Me - References.md">1</a></td>
+						<td><a href="Website About Me - Resources.md">1</a></td>
 					<tr>
 					<tr>
 						<td>Snapple</td>
@@ -58,7 +58,7 @@
 						<td>1972</td>
 						<td>None</td>
 						<td>Diet Snapple Half Lemonade and Half Iced Tea</td>
-						<td><a href="Website About Me - References.md">2</a></td>
+						<td><a href="Website About Me - Resources.md">2</a></td>
 					</tr>
 					<tr>
 						<td>Diet Coke</td>
@@ -68,7 +68,7 @@
 						<td>1982</td>
 						<td>None</td>
 						<td>Caffeine Free Diet Coke, Diet Coke Cherry, Diet Coke with Lime, Diet Coke Sweetened with Splenda, Diet Coke with Citrus Zest</td>
-						<td><a href="Website About Me - References.md">3</a></td>
+						<td><a href="Website About Me - Resources.md">3</a></td>
 					</tr>
 					<tr>
 						<td>Sprite Zero</td>
@@ -78,7 +78,7 @@
 						<td>1974</td>
 						<td>None</td>
 						<td>None</td>
-						<td><a href="Website About Me - References.md">4</a></td>
+						<td><a href="Website About Me - Resources.md">4</a></td>
 					</tr>
 				</table>
 			</div>
