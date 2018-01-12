@@ -181,7 +181,7 @@
 					<td>None</td>
 					<td>None</td>
 					<td>Google</td>
-					</td><a href="Website About Me - Resource.md">19</a></td>
+					<td><a href="Website About Me - Resource.md">19</a></td>
 				</tr>
 				<tr>
 					<td>Gliffy</td>
