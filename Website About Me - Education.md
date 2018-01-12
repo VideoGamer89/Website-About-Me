@@ -6,64 +6,26 @@
 			<h1>Education</h1>
 		</div>
 		<div class="nav">
-			<table>
-					<tr>
-						<th>Name</th>
-						<th>Year Started</th>
-						<th>Year Ended</th>
-						<th>Area of Study</th>
-						<th>Location</th>
-						<th>Number of Years</th>
-					</tr>
-					<tr>
-						<td>Pine Technical and Community College</td>
-						<td>2011</td>
-						<td>2015</td>
-						<td>Computer Programming</td>
-						<td>Pine City, MN</td>
-						<td>4</td>
-					</tr>
-					<tr>
-						<td>North Branch Area STEP (Student Transition and Employability Program)</td>
-						<td>2008</td>
-						<td>2011</td>
-						<td>Life Skills</td>
-						<td>North Branch, MN</td>
-						<td>3</td>
-					</tr>
-					<tr>
-						<td>North Branch Area Senior High School</td>
-						<td>2004</td>
-						<td>2008</td>
-						<td>General</td>
-						<td>North Branch, MN</td>
-						<td>4</td>
-					</tr>
-					<tr>
-						<td>North Branch Area Middle School</td>
-						<td>2000</td>
-						<td>2004</td>
-						<td>General</td>
-						<td>North Branch, MN</td>
-						<td>4</td>
-					</tr>
-					<tr>
-						<td>North Branch Area Main Street School</td>
-						<td>1999</td>
-						<td>2000</td>
-						<td>General</td>
-						<td>North Branch, MN</td>
-						<td>1</td>
-					</tr>
-					<tr>
-						<td>North Branch Area Primary School</td>
-						<td>1992</td>
-						<td>1999</td>
-						<td>General</td>
-						<td>North Branch, MN</td>
-						<td>7</td>
-					</tr>
-				</table>
+			<ul>
+				<li><a href="Website About Me - Main.md">Home</a></li>
+				<li><a href="Website About Me - Hobbies.md">Hobbies</a></li>
+				<li><a href="Website About Me - Favorite Music.md">Favorite Music</a></li>
+				<li><a href="Website About Me - Favorite Bands.md">Favorite Bands</a></li>
+				<li><a href="Website About Me - Favorite Video Games.md">Favorite Video Games</a></li>
+				<li><a href="Website About Me - Favorite Gaming Consoles.md">Favorite Gaming Consoles</a></li>
+				<li><a href="Website About Me - Favorite Movies.md">Favorite Movies</a></li>
+				<li><a href="Website About Me - Favorite TV Shows.md">Favorite TV Shows</a></li>
+				<li><a href="Website About Me - Favorite Foods.md">Favorite Foods</a></li>
+				<li><a href="Website About Me - Favorite Beverages.md">Favorite Beverages</a></li>
+				<li><a href="Website About Me - Favorite Restaurants.md">Favorite Restaurants</a></li>
+				<li><a href="Website About Me - Favorite Stores.md">Favorite Stores</a></li>
+				<li><a href="Website About Me - Image Gallery.md">Image Gallery</a></li>
+				<li><a href="Website About Me - Work Samples.md">Work Samples</a></li>
+				<li><a href="Website About Me - Computer Programming Skills.md">Computer Programming Skills</a></li>
+				<li><a href="Website About Me - Operating Systems.md">Operating Systems</a></li>
+				<li><a href="Website About Me - Software.md">Software</a></li>
+				<li><a href="Website About Me - References.md">References</a></li>
+			</ul>
 		</div>
 		<div class = "content">
 			<p>I graduated from the following institutions:</p>
@@ -79,6 +41,6 @@
 			</div>
 		</div>
 		<div class = "footer">
-			<p>&copy; Jeff Vogel 2017</p>
+			<p>&copy; Jeff Vogel 2018</p>
 		</div>
 	</body>
