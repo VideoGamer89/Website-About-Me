@@ -25,7 +25,7 @@
 				<li><a href="Website About Me - Computer Programming Skills.md">Computer Programming Skills</a></li>
 				<li><a href="Website About Me - Operating Systems.md">Operating Systems</a></li>
 				<li><a href="Website About Me - Software.md">Software</a></li>
-				<li><a href="Website About Me - References.md">References</a></li>
+				<li><a href="Website About Me - Resources.md"><Resources/a></li>
 			</ul>
 		</div>
 		<div class = "content">
@@ -46,7 +46,7 @@
 						<th>Number of EPs</th>
 						<th>Number of Singles</th>
 						<th>Associated Acts</th>
-						<th>Reference Number</th>
+						<th>Resources Number</th>
 					</tr>
 					<tr>
 						<td>Trip Lee</td>
@@ -60,7 +60,7 @@
 						<td>1</td>
 						<td>13</td>
 						<td>116 Clique</td>
-						<td><a href="Website About Me - References.md">1</a>, <a href="Website About Me - References.md">2</a></td>
+						<td><a href="Website About Me - Resources.md">1</a>, <a href="Website About Me - Resources.md">2</a></td>
 					</tr>
 					<tr>
 						<td>The Offspring</td>
@@ -74,7 +74,7 @@
 						<td>4</td>
 						<td>34</td>
 						<td>Face to Face, Saves the Day, Steady Ground, Angels & Airwaves, Moth, Social Distortion, Thirty Stones</td>
-						<td><a href="Website About Me - References.md">3</a>, <a href="Website About Me - References.md">4</a></td>
+						<td><a href="Website About Me - Resources.md">3</a>, <a href="Website About Me - Resources.md">4</a></td>
 					</tr>
 					<tr>
 						<td>Decyfer Down</td>
@@ -88,7 +88,7 @@
 						<td>4</td>
 						<td>15</td>
 						<td>None</td>
-						<td><a href="Website About Me - References.md">5</a></td>
+						<td><a href="Website About Me - Resources.md">5</a></td>
 					</tr>
 					<tr>
 						<td>Kutless</td>
@@ -102,7 +102,7 @@
 						<td>0</td>
 						<td>42</td>
 						<td>None</td>
-						<td><a href="Website About Me - References.md">6</a>, <a href="Website About Me - References.md">7</a></td>
+						<td><a href="Website About Me - Resources.md">6</a>, <a href="Website About Me - Resources.md">7</a></td>
 					</tr>
 					<tr>
 						<td>Motion City Soundtrack</td>
@@ -116,7 +116,7 @@
 						<td>5</td>
 						<td>19</td>
 						<td>Farewell Continental, The Company We Keep</td>
-						<td><a href="Website About Me - References.md">8</a>, <a href="Website About Me - References.md">9</a></td>
+						<td><a href="Website About Me - Resources.md">8</a>, <a href="Website About Me - Resources.md">9</a></td>
 					</tr>
 					<tr>
 						<td>Haste the Day</td>
@@ -130,7 +130,7 @@
 						<td>2</td>
 						<td>0</td>
 						<td>New Day Awakening, Beyond Oceans</td>
-						<td><a href="Website About Me - References.md">10</a></td>
+						<td><a href="Website About Me - Resources.md">10</a></td>
 					</tr>
 					<tr>
 						<td>Grits (Hip Hop Group)</td>
@@ -144,7 +144,7 @@
 						<td>2</td>
 						<td>20</td>
 						<td>DC Talk, tobyMac, DJ Form, Incorporated Elements</td>
-						<td><a href="Website About Me - References.md">11</a></td>
+						<td><a href="Website About Me - Resources.md">11</a></td>
 					</tr>
 					<tr>
 						<td>Hawk Nelson</td>
@@ -158,7 +158,7 @@
 						<td>8</td>
 						<td>20</td>
 						<td>PAX217, Thousand Foot Krutch</td>
-						<td><a href="Website About Me - References.md">12</a>, <a href="Website About Me - References.md">13</a></td>
+						<td><a href="Website About Me - Resources.md">12</a>, <a href="Website About Me - Resources.md">13</a></td>
 					</tr>
 					<tr>
 						<td>Red (Band)</td>
@@ -172,7 +172,7 @@
 						<td>4</td>
 						<td>35</td>
 						<td>None</td>
-						<td><a href="Website About Me - References.md">14</a>, <a href="Website About Me - References.md">15</a></td>
+						<td><a href="Website About Me - Resources.md">14</a>, <a href="Website About Me - Resources.md">15</a></td>
 					</tr>
 					<tr>
 						<td>Skillet (Band)</td>
@@ -186,7 +186,7 @@
 						<td>4</td>
 						<td>58</td>
 						<td>None</td>
-						<td><a href="Website About Me - References.md">16</a>, <a href="Website About Me - References.md">17</a></td>
+						<td><a href="Website About Me - Resources.md">16</a>, <a href="Website About Me - Resources.md">17</a></td>
 					</tr>
 					<tr>
 						<td>My Chemical Romance</td>
@@ -200,7 +200,7 @@
 						<td>6</td>
 						<td>25</td>
 						<td>Leathermouth, Reggie and the Full Effect, Death Spells</td>
-						<td><a href="Website About Me - References.mdhtml">18</a>, <a href="Website About Me - References.md">19</a></td>
+						<td><a href="Website About Me - Resources.md">18</a>, <a href="Website About Me - Resources.md">19</a></td>
 					</tr>
 					<tr>
 						<td>Demon Hunter</td>
@@ -214,7 +214,7 @@
 						<td>0</td>
 						<td>21</td>
 						<td>Training for Utopia, The Showdown, Society's Finest</td>
-						<td><a href="Website About Me - References.md">20</a>, <a href="Website About Me - References.md">21</a></td>
+						<td><a href="Website About Me - Resources.md">20</a>, <a href="Website About Me - Resources.md">21</a></td>
 					</tr>
 					<tr>
 						<td>Group 1 Crew</td>
@@ -228,7 +228,7 @@
 						<td>7</td>
 						<td>18</td>
 						<td>None</td>
-						<td><a href="Website About Me - References.md">22</a></td>
+						<td><a href="Website About Me - Resources.md">22</a></td>
 					</tr>
 					<tr>
 						<td>Bad Religion</td>
@@ -242,7 +242,7 @@
 						<td>2</td>
 						<td>29</td>
 						<td>None</td>
-						<td><a href="Website About Me - References.md">23</a>, <a href="Website About Me - References.md">24</a></td>
+						<td><a href="Website About Me - Resources.md">23</a>, <a href="Website About Me - Resources.md">24</a></td>
 					</tr>
 					<tr>
 						<td>Fall Out Boy</td>
@@ -256,7 +256,7 @@
 						<td>5</td>
 						<td>22</td>
 						<td>Arma Angelus, Racetraitor, The Damned Things</td>
-						<td><a href="Website About Me - References.md">25</a>, <a href="Website About Me - References.md">26</a></td>
+						<td><a href="Website About Me - Resources.md">25</a>, <a href="Website About Me - Resources.md">26</a></td>
 					</tr>
 					<tr>
 						<td>Foo Fighters</td>
@@ -270,7 +270,7 @@
 						<td>4</td>
 						<td>36</td>
 						<td>Nirvana, Sunny Day Real Estate</td>
-						<td><a href="Website About Me - References.md">27</a>, <a href="Website About Me - References.md">28</a></td>
+						<td><a href="Website About Me - Resources.md">27</a>, <a href="Website About Me - Resources.md">28</a></td>
 					</tr>
 					<tr>
 						<td>State Champs</td>
@@ -284,7 +284,7 @@
 						<td>4</td>
 						<td>0</td>
 						<td>None</td>
-						<td><a href="Website About Me - References.md">29</a></td>
+						<td><a href="Website About Me - Resources.md">29</a></td>
 					</tr>
 					<tr>
 						<td>For Today</td>
@@ -298,7 +298,7 @@
 						<td>2</td>
 						<td>0</td>
 						<td>Nothing Left</td>
-						<td><a href="Website About Me - References.md">30</a></td>
+						<td><a href="Website About Me - Resources.md">30</a></td>
 					</tr>
 					<tr>
 						<td>Manafest</td>
@@ -312,7 +312,7 @@
 						<td>3</td>
 						<td>32</td>
 						<td>Thousand Foot Krutch</td>
-						<td><a href="Website About Me - References.md">31</a>, <a href="Website About Me - References.md">32</a></td>
+						<td><a href="Website About Me - Resources.md">31</a>, <a href="Website About Me - Resources.md">32</a></td>
 					</tr>
 					<tr>
 						<td>The Ramones</td>
@@ -326,7 +326,7 @@
 						<td>0</td>
 						<td>71</td>
 						<td>None</td>
-						<td><a href="Website About Me - References.md">33</a>, <a href="Website About Me - References.md">34</a></td>
+						<td><a href="Website About Me - Resources.md">33</a>, <a href="Website About Me - Resources.md">34</a></td>
 					</tr>
 					<tr>
 						<td>Seventh Day Slumber</td>
@@ -340,7 +340,7 @@
 						<td>1</td>
 						<td>1</td>
 						<td>None</td>
-						<td><a href="Website About Me - References.md">35</a></td>
+						<td><a href="Website About Me - Resources.md">35</a></td>
 					</tr>
 					<tr>
 						<td>Fighting Instinct</td>
@@ -354,7 +354,7 @@
 						<td>1</td>
 						<td>3</td>
 						<td>None</td>
-						<td><a href="Website About Me - References.md">36</a></td>
+						<td><a href="Website About Me - Resources.md">36</a></td>
 					</tr>
 					<tr>
 						<td>Newsboys</td>
@@ -368,7 +368,7 @@
 						<td>8</td>
 						<td>91</td>
 						<td>None</td>
-						<td><a href="Website About Me - References.md">37</a>, <a href="Website About Me - References.md">38</a></td>
+						<td><a href="Website About Me - Resources.md">37</a>, <a href="Website About Me - Resources.md">38</a></td>
 					</tr>
 					<tr>
 						<td>War of Ages</td>
@@ -382,7 +382,7 @@
 						<td>1</td>
 						<td>8</td>
 						<td>None</td>
-						<td><a href="Website About Me - References.md">39</a></td>
+						<td><a href="Website About Me - Resources.md">39</a></td>
 					</tr>
 					<tr>
 						<td>Nine Lashes</td>
@@ -396,7 +396,7 @@
 						<td>0</td>
 						<td>14</td>
 						<td>None</td>
-						<td><a href="Website About Me - References.md">40</a></td>
+						<td><a href="Website About Me - Resources.md">40</a></td>
 					</tr>
 					<tr>
 						<td>KJ-52</td>
@@ -410,7 +410,7 @@
 						<td>0</td>
 						<td>6</td>
 						<td>Peace of Mind</td>
-						<td><a href="Website About Me - References.md">41</a></td>
+						<td><a href="Website About Me - Resources.md">41</a></td>
 					</tr>
 					<tr>
 						<td>Pillar (Band)</td>
@@ -424,7 +424,7 @@
 						<td>3</td>
 						<td>24</td>
 						<td>Stars Go Dim</td>
-						<td><a href="Website About Me - References.md">42</a>, <a href="Website About Me - References.md">43</a></td>
+						<td><a href="Website About Me - Resources.md">42</a>, <a href="Website About Me - Resources.md">43</a></td>
 					</tr>
 					<tr>
 						<td>Payable on Death (P.O.D.)</td>
@@ -438,7 +438,7 @@
 						<td>3</td>
 						<td>20</td>
 						<td>None</td>
-						<td><a href="Website About Me - References.md">44</a>, <a href="Website About Me - References.md">45</a></td>
+						<td><a href="Website About Me - Resources.md">44</a>, <a href="Website About Me - Resources.md">45</a></td>
 					</tr>
 					<tr>
 						<td>Disciple (Band)</td>
@@ -452,7 +452,7 @@
 						<td>4</td>
 						<td>1</td>
 						<td>None</td>
-						<td><a href="Website About Me - References.md">46</a>, <a href="Website About Me - References.md">47</a></td>
+						<td><a href="Website About Me - Resources.md">46</a>, <a href="Website About Me - Resources.md">47</a></td>
 					</tr>
 					<tr>
 						<td>Falling Up (Band)</td>
@@ -466,7 +466,7 @@
 						<td>1</td>
 						<td>4</td>
 						<td>None</td>
-						<td><a href="Website About Me - References.md">48</a></td>
+						<td><a href="Website About Me - Resources.md">48</a></td>
 					</tr>
 					<tr>
 						<td>Thousand Foot Krutch</td>
@@ -480,7 +480,7 @@
 						<td>3</td>
 						<td>39</td>
 						<td>FM Static, The Drawing Room, Hawk Nelson, Manafest, Three Days Grace</td>
-						<td><a href="Website About Me - References.md">49</a>, <a href="Website About Me - References.md">50</a></td>
+						<td><a href="Website About Me - Resources.md">49</a>, <a href="Website About Me - Resources.md">50</a></td>
 					</tr>
 					<tr>
 						<td>Relient K</td>
@@ -494,7 +494,7 @@
 						<td>10</td>
 						<td>9</td>
 						<td>Ace Troubleshooter, Guerilla Rodeo, Inhale Exhale</td>
-						<td><a href="Website About Me - References.md">51</a>, <a href="Website About Me - References.md">52</a></td>
+						<td><a href="Website About Me - Resources.md">51</a>, <a href="Website About Me - Resources.md">52</a></td>
 					</tr>
 				</table>
 			</div>
