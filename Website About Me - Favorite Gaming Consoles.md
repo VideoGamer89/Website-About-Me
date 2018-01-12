@@ -24,7 +24,7 @@
 				<li><a href="Website About Me - Computer Programming Skills.md">Computer Programming Skills</a></li>
 				<li><a href="Website About Me - Operating Systems.md">Operating Systems</a></li>
 				<li><a href="Website About Me - Software.md">Software</a></li>
-				<li><a href="Website About Me - References.md">References</a></li>
+				<li><a href="Website About Me - Resources.md">Resources</a></li>
 			</ul>
 		</div>
 		<div class = "content">
@@ -49,7 +49,7 @@
 						<th>Media</th>
 						<th>Storage</td>
 						<th>Operating System</td>
-						<th>Reference Number</th>
+						<th>Resource Number</th>
 					</tr>
 					<tr>
 						<td>Nintendo Switch</td>
@@ -68,7 +68,7 @@
 						<td>Game Card, Digital Distribution (Nintendo eShop)</td>
 						<td>32 GB Internal Flash Memory</td>
 						<td>Nintendo Switch System Software</td>
-						<td><a href="Website About Me - References.html">1</a>, <a href="Website About Me - References.md">2</a></td>
+						<td><a href="Website About Me - Resources.html">1</a>, <a href="Website About Me - Resources.md">2</a></td>
 					</tr>
 					<tr>
 						<td>Wii U</td>
@@ -87,7 +87,7 @@
 						<td>Wii U Optical Disc, Wii Optical Disc, Digital Distribution (Nintendo eShop)</td>
 						<td>8 or 32 GB Internal Flash Memory, SD/SDHC Card, USB Storage Device</td>
 						<td>Wii U System Software</td>
-						<td><a href="Website About Me - References.md">3</a></td>
+						<td><a href="Website About Me - Resources.md">3</a></td>
 					</tr>
 					<tr>
 						<td>Nintendo 3DS</td>
@@ -106,7 +106,7 @@
 						<td>Nintendo 3DS Game Card, Nintendo DS Game Card, Digital Distribution (Nintendo eShop), SD/SDHC card</td>
 						<td>1 GB Internal Flash Memory</td>
 						<td>Nintendo 3DS System Software</td>
-						<td><a href="Website About Me - References.md">4</a></td>
+						<td><a href="Website About Me - Resources.md">4</a></td>
 					</tr>
 					<tr>
 						<td>Nintendo DS</td>
@@ -125,7 +125,7 @@
 						<td>Nintendo Game Card, ROM cartridge</td>
 						<td>Cartridge save 256 KB flash memory</td>
 						<td>None</td>
-						<td><a href="Website About Me - References.md">5</a>, <a href="Website About Me - References.md">6</a>, <a href="Website About Me - References.md">7</a></td>
+						<td><a href="Website About Me - Resources.md">5</a>, <a href="Website About Me - Resources.md">6</a>, <a href="Website About Me - Resources.md">7</a></td>
 					</tr>
 					<tr>
 						<td>Xbox One</td>
@@ -144,7 +144,7 @@
 						<td>UHD Blu-Ray (S and X Models), Blu-Ray, DVD, CD (All Models)</td>
 						<td>500 GB, 1 or 2 TB Internal Hard Drive, USB 3.0 Storage Device 256 GB or Greater</td>
 						<td>Xbox One System Software</td>
-						<td><a href="Website About Me - References.md">8</a>, <a href="Website About Me - References.md">9</a></td>
+						<td><a href="Website About Me - Resources.md">8</a>, <a href="Website About Me - Resources.md">9</a></td>
 					</tr>
 					<tr>
 						<td>Xbox 360</td>
@@ -163,7 +163,7 @@
 						<td>DVD, CD, Digital Distribution, HD DVD (discontinued)</td>
 						<td>20, 60, 120, or 250 GB (Older Models) or 250 or 320 GB Detachable Hard Drives (Xbox 360 S Models), 64, 256, or 512 GB Removable Memory Cards (Original Design Only), 256 or 512 MB for Arcade Consoles (Later Models), 4 GB for Budget Level "Xbox 360 S" Consoles, 1 or 32 GB USB Storage Device (requires System Software Update), 2 GB Cloud Storage (requires Xbox LIVE Gold Membership)</td>
 						<td>Xbox 360 System Software</td>
-						<td><a href="Website About Me - References.md">10</a></td>
+						<td><a href="Website About Me - Resources.md">10</a></td>
 					</tr>
 					<tr>
 						<td>PlayStation 4 (PS4)</td>
@@ -182,7 +182,7 @@
 						<td>Blu-Ray Disc, DVD</td>
 						<td>500 GB, or 1 TB Hard Drive</td>
 						<td>PlayStation 4 System Software</td>
-						<td><a href="Website About Me - References.md">11</a>, <a href="Website About Me - References.md">12</a></td>
+						<td><a href="Website About Me - Resources.md">11</a>, <a href="Website About Me - Resources.md">12</a></td>
 					</tr>
 					<tr>
 						<td>GameCube</td>
@@ -201,7 +201,7 @@
 						<td>Nintendo GameCube Game Disc, Game Pak (Game Boy Player required)</td>
 						<td>None, 16 GB Nintendo GameCube Memory Card</td>
 						<td>Dolphin OS</td>
-						<td><a href="Website About Me - References.md">13</a>, <a href="Website About Me - References.md">6</a></td>
+						<td><a href="Website About Me - Resources.md">13</a>, <a href="Website About Me - Resources.md">6</a></td>
 					</tr>
 					<tr>
 						<td>Wii</td>
@@ -220,7 +220,7 @@
 						<td>Wii Optical Disc, GameCube Controller, Digital Distribution (Wii Shop Channel)</td>
 						<td>512 MB Internal Flash Memory</td>
 						<td>Wii System Software</td>
-						<td><a href="Website About Me - References.md">14</a></td>
+						<td><a href="Website About Me - Resources.md">14</a></td>
 					</tr>
 					<tr>
 						<td>Nintendo 64</td>
@@ -239,7 +239,7 @@
 						<td>Nintendo 64 Game Pak, Magnetic Disc (64DD)</td>
 						<td>64 MB Game Pak</td>
 						<td>None</td>
-						<td><a href="Website About Me - References.md">15</a>, <a href="Website About Me - References.md">6</a></td>
+						<td><a href="Website About Me - Resources.md">15</a>, <a href="Website About Me - Resources.md">6</a></td>
 					</tr>
 					<tr>
 						<td>Super Nintendo Entertainment System (SNES)</td>
@@ -258,7 +258,7 @@
 						<td>ROM Cartridge</td>
 						<td>None</td>
 						<td>None</td>
-						<td><a href="Website About Me - References.md">16</a>, <a href="Website About Me - References.md">6</a></td>
+						<td><a href="Website About Me - Resources.md">16</a>, <a href="Website About Me - Resources.md">6</a></td>
 					</tr>
 					<tr>
 						<td>Game Boy Advance (GBA)</td>
@@ -277,7 +277,7 @@
 						<td>ROM cartridge</td>
 						<td>None</td>
 						<td>None</td>
-						<td><a href="Website About Me - References.md">17</a>, <a href="Website About Me - References.md">6</a></td>
+						<td><a href="Website About Me - Resources.md">17</a>, <a href="Website About Me - Resources.md">6</a></td>
 					</tr>
 					<tr>
 						<td>PlayStation (PS)</td>
@@ -296,7 +296,7 @@
 						<td>CD-ROM</td>
 						<td>Memory Card</td>
 						<td>None</td>
-						<td><a href="Website About Me - References.md">18</a>, <a href="Website About Me - References.md">6</a></td>
+						<td><a href="Website About Me - Resources.md">18</a>, <a href="Website About Me - Resources.md">6</a></td>
 					</tr>
 					<tr>
 						<td>PlayStation 2 (PS2)</td>
@@ -315,7 +315,7 @@
 						<td>DVD, CD</td>
 						<td>40 GB Hard Drive, 8 MB PlayStation 2 Memory Card, 128 KB PlayStation Memory Card</td>
 						<td>None</td>
-						<td><a href="Website About Me - References.md">19</a>, <a href="Website About Me - References.md">6</a></td>
+						<td><a href="Website About Me - Resources.md">19</a>, <a href="Website About Me - Resources.md">6</a></td>
 					</tr>
 					<tr>
 						<td>Sega Genesis</td>
@@ -334,7 +334,7 @@
 						<td>ROM cartridge</td>
 						<td>None</td>
 						<td>None</td>
-						<td><a href="Website About Me - References.md">20</a>, <a href="Website About Me - References.md">6</a>
+						<td><a href="Website About Me - Resources.md">20</a>, <a href="Website About Me - Resources.md">6</a>
 					</tr>
 				</table>
 			</div>
