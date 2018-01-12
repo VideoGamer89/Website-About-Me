@@ -25,7 +25,7 @@
 				<li><a href="Website About Me - Computer Programming Skills.md">Computer Programming Skills</a></li>
 				<li><a href="Website About Me - Operating Systems.md">Operating Systems</a></li>
 				<li><a href="Website About Me - Software.md">Software</a></li>
-				<li><a href="Website About Me - Resources.md"><Resources/a></li>
+				<li><a href="Website About Me - Resources.md"><Resources</a></li>
 			</ul>
 		</div>
 		<div class = "content">
@@ -46,7 +46,7 @@
 						<th>Number of EPs</th>
 						<th>Number of Singles</th>
 						<th>Associated Acts</th>
-						<th>Resources Number</th>
+						<th>Resource Number</th>
 					</tr>
 					<tr>
 						<td>Trip Lee</td>
