@@ -340,6 +340,6 @@
 			</div>
 		</div>
 		<div class = "footer">
-			<p>&copy; Jeff Vogel 2017</p>
+			<p>&copy; Jeff Vogel 2018</p>
 		</div>
 	</body>
