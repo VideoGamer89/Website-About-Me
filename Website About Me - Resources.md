@@ -5,7 +5,7 @@
 	</head>
 	<body>
 		<div id = "header">
-			<h1>Work Samples</h1>
+			<h1>Resources</h1>
 		</div>
 		<div id = "nav">
 			<ul>
