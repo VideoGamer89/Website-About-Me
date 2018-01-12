@@ -640,8 +640,8 @@
 						<td>Colin Trevorrow</td>
 						<td>Amblin Entertainment, Legendary Pictures</td>
 						<td>Universal Pictures</td>
-						<td>$150 Million (Gross), $129.3 Million (Net)</td>
 						<td>Michael Giacchino</td>
+						<td>$150 Million (Gross), $129.3 Million (Net)</td>
 						<td>$1.672 Billion</td>
 						<td>United States</td>
 						<td>English</td>
