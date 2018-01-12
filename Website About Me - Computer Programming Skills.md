@@ -1,7 +1,7 @@
 <head>
 		<link href="styles/Website About Me - main.css" rel="stylesheet"/>
 	</head>
-	<body onload = "ComputerProgrammingSkillsProcess()">
+	<body>
 		<div class = "header">
 			<h1>Computer Programming Skills</h1>
 		</div>
