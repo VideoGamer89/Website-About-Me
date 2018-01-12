@@ -24,6 +24,7 @@
 				<li><a href="Website About Me - Computer Programming Skills.md">Computer Programming Skills</a></li>
 				<li><a href="Website About Me - Operating Systems.md">Operating Systems</a></li>
 				<li><a href="Website About Me - Software.md">Software</a></li>
+				<li><a href="Website About Me - References.md">References</a></li>
 			</ul>
 		</div>
 		<div class = "content">
@@ -41,6 +42,6 @@
 			</div>
 		</div>
 		<div class = "footer">
-			<p>&copy; Jeff Vogel 2017</p>
+			<p>&copy; Jeff Vogel 2018</p>
 		</div>
 	</body>
