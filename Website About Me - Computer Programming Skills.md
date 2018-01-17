@@ -61,7 +61,7 @@
 					<td>Multi-Paradigm, Object-Oriented (Class-Based), Structured, Imperative, Generic, Reflective, Concurrent</td>
 					<td>Static, Strong, Safe, Nominative, Manifest</td>
 					<td>James Gosling</td>
-					<td><a href="Website About Me - Resource.md"><a href="Website About Me - Resource.md">3</a></td>
+					<td><a href="Website About Me - Resource.md">3</a></td>
 				</tr>
 				<tr>
 					<td>JavaScript</td>
@@ -229,7 +229,7 @@
 					<td>Imperative (Procedural), Structured</td>
 					<td>Static, Weak, Manifest, Nominal</td>
 					<td>Dennis Ritchie</td>
-					<td><a href="Website About Me - Resource.md">25</a></td>
+					<td><a href="Website About Me - Resource.md">23</a></td>
 				</tr>
 			</table>
 			<ul>
