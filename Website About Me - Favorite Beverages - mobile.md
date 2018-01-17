@@ -1,8 +1,3 @@
-	<head>
-		<link href="style/Website About Me - mobile.css" rel="stylesheet" />
-		<meta charset = "UTF-8">
-		<script type = "text/javascript" src = "javascript/Website About Me - Favorite Beverages.js"></script>
-	</head>
 	<body>
 		<div id = "header">
 			<h1>Favorite Beverages</h1>
