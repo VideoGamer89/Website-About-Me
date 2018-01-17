@@ -1,4 +1,4 @@
-
+<body>
 		<div id = "header">
 			<h1>Favorite Beverages</h1>
 		</div>
@@ -88,3 +88,4 @@
 		<div id = "footer">
 			<p>&copy; Jeff Vogel 2018</p>
 		</div>
+</body>
