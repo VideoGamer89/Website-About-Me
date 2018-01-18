@@ -436,6 +436,8 @@
 				<img src = "https://cdn57.androidauthority.net/wp-content/uploads/2017/05/android-studio-logo-840x359.png" alt = "Android Studio" height = "200" width = "200" />
 				<img src = "https://upload.wikimedia.org/wikipedia/commons/f/f8/WampServer-logo.png" alt = "WAMPServer" height = "200" width = "200" />
 		</div>
+		<div id = "backToTop">
+			<a href = "Website About Me - Image Gallery - mobile.md">BackToTop</a>
 		</div>
 		<div class = "footer">
 			<p>&copy; Jeff Vogel 2018</p>
