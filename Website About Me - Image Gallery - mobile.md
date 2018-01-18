@@ -1,6 +1,10 @@
-	<body>
+<head>
+		<title>Website About Me - Image Gallery</title>
+		<link href="styles/Website About Me - mobile.css" rel = "stylesheet" >
+</head>
+<body>
 		<div id ="header">
-			<h1> Image Gallery </h1>
+			<h1>Image Gallery</h1>
 		</div>
 		<div id = "nav">
 			<ul>
