@@ -10,24 +10,24 @@
 		</div>
 		<div id = "nav">
 			<ul>
-				<li><a href="Website About Me - Main - mobile.md">Home</a></li>
-				<li><a href="Website About Me - Hobbies - mobile.md">Hobbies</a></li>
-				<li><a href="Website About Me - Favorite Music - mobile.md">Favorite Music</a></li>
-				<li><a href="Website About Me - Favorite Bands - mobile.md">Favorite Bands</a></li>
-				<li><a href="Website About Me - Favorite Movies - mobile.md">Favorite Movies</a></li>
-				<li><a href="Website About Me - Favorite Video Games - mobile.md">Favorite Video Games</a></li>
-				<li><a href="Website About Me - Favorite Gaming Consoles - mobile.md">Favorite Gaming Consoles</a></li>
-				<li><a href="Website About Me - Favorite TV Shows - mobile.md">Favorite TV Shows</a></li>
-				<li><a href="Website About Me - Favorite Foods - mobile.md">Favorite Foods</a></li>
-				<li><a href="Website About Me - Favorite Beverages - mobile.md">Favorite Beverages</a></li>
-				<li><a href="Website About Me - Favorite Restaurants - mobile.md">Favorite Restaurants</a></li>
-				<li><a href="Website About Me - Favorite Stores - mobile.md">Favorite Stores</a></li>
-				<li><a href="Website About Me - Image Gallery - mobile.md">Image Gallery</a></li>
-				<li><a href="Website About Me - Education - mobile.md">Education</a></li>
-				<li><a href="Website About Me - Computer Programming Skills - mobile.md">Computer Programming Skills</a></li>
-				<li><a href="Website About Me - Operating Systems - mobile.md">Operating Systems</a></li>
-				<li><a href="Website About Me - Software - mobile.md">Software</a></li>
-				<li><a href="Website About Me - Resources - mobile.md">Resources</a></li>
+				<li><a href="Website About Me - Main.md">Home</a></li>
+				<li><a href="Website About Me - Hobbies.md">Hobbies</a></li>
+				<li><a href="Website About Me - Favorite Music.md">Favorite Music</a></li>
+				<li><a href="Website About Me - Favorite Bands.md">Favorite Bands</a></li>
+				<li><a href="Website About Me - Favorite Video Games.md">Favorite Video Games</a></li>
+				<li><a href="Website About Me - Favorite Gaming Consoles.md">Favorite Gaming Consoles</a></li>
+				<li><a href="Website About Me - Favorite Movies.md">Favorite Movies</a></li>
+				<li><a href="Website About Me - Favorite TV Shows.md">Favorite TV Shows</a></li>
+				<li><a href="Website About Me - Favorite Foods.md">Favorite Foods</a></li>
+				<li><a href="Website About Me - Favorite Beverages.md">Favorite Beverages</a></li>
+				<li><a href="Website About Me - Favorite Restaurants.md">Favorite Restaurants</a></li>
+				<li><a href="Website About Me - Favorite Stores.md">Favorite Stores</a></li>
+				<li><a href="Website About Me - Work Samples.md">Work Samples</a></li>
+				<li><a href="Website About Me - Education.md">Education</a></li>
+				<li><a href="Website About Me - Computer Programming Skills.md">Computer Programming Skills</a></li>
+				<li><a href="Website About Me - Operating Systems.md">Operating Systems</a></li>
+				<li><a href="Website About Me - Software.md">Software</a></li>
+				<li><a href="Website About Me - Resources.md">Resources</a></li>
 			</ul>
 		</div>
 		<div id = "content">
@@ -435,10 +435,6 @@
 				<img src = "http://www.eclipse.org/eclipse.org-common/themes/solstice/public/images/logo/eclipse-800x188.png" alt = "Eclipse" height = "200" width = "200" />
 				<img src = "https://cdn57.androidauthority.net/wp-content/uploads/2017/05/android-studio-logo-840x359.png" alt = "Android Studio" height = "200" width = "200" />
 				<img src = "https://upload.wikimedia.org/wikipedia/commons/f/f8/WampServer-logo.png" alt = "WAMPServer" height = "200" width = "200" />
-		</div>
-		<div id = "backToTop">
-			<a href = "Website About Me - Image Gallery - mobile.md">BackToTop</a>
-		</div>
 		<div class = "footer">
 			<p>&copy; Jeff Vogel 2018</p>
 		</div>
