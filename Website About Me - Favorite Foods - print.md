@@ -27,6 +27,8 @@
 		<div id = "content">
 			<p>Here Are My Favorite Foods</p>
 			<div id = "myFavoriteFoodsDivElement">
+				<table border = "3">
+					<caption>Favorite Foods</caption>
 				<tr>
 						<th>Name</th>
 						<th>Type</th>
