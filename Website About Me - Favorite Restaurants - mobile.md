@@ -9,9 +9,11 @@
 				<li><a href="Website About Me - Favorite Music - mobile.md">Favorite Music</a></li>
 				<li><a href="Website About Me - Favorite Movies - mobile.md">Favorite Movies</a></li>
 				<li><a href="Website About Me - Favorite Bands - mobile.md">Favorite Bands</a></li>
+				<li><a href="Website About Me - Gaming Consoles - mobile.md">Favorite Gaming Consoles</a></li>
 				<li><a href="Website About Me - Favorite Video Games - mobile.md">Favorite Video Games</a></li>
 				<li><a href="Website About Me - Favorite TV Shows - mobile.md">Favorite TV Shows</a></li>
 				<li><a href="Website About Me - Favorite Foods - mobile.md">Favorite Foods</a></li>
+				<li><a href="Website About Me - Favorite Beverages - mobile.md">Favorite Beverages</a></li>
 				<li><a href="Website About Me - Favorite Stores - mobile.md">Favorite Stores</a></li>
 				<li><a href="Website About Me - Image Gallery - mobile.md">Image Gallery</a></li>
 				<li><a href="Website About Me - Work Samples - mobile.md">Work Samples</a></li>
@@ -19,12 +21,14 @@
 				<li><a href="Website About Me - Computer Programming Skills - mobile.md">Computer Programming Skills</a></li>
 				<li><a href="Website About Me - Operating Systems - mobile.md">Operating Systems</a></li>
 				<li><a href="Website About Me - Software - mobile.md">Software</a></li>
+				<li><a href="Website About Me - Resoruces - mobile.md">Resources</a></li>
 			</ul>
 		</div>
 		<div class="content">
 			<p>Here are my favorite restaurants</p>
 			<div id="myFavoriteRestaurantsDivElement">
-				<table>
+				<table border = "3">
+				<caption>Favorite Restaurants</caption>
 					<tr>
 						<th>Name</th>
 						<th>Type</th>
@@ -34,6 +38,9 @@
 						<th>Genre(s)</th>
 						<th>Product(s)</th>
 						<th>Number of Location(s)</th>
+						<th>Number of Employees</th>
+						<th>Founder(s)</th>
+						<th>Resource Number(s)</th>
 					</tr>
 					<tr>
 						<td><a href="https://www.wendys.com/">Wendy's</a></td>
@@ -42,8 +49,11 @@
 						<td>1969</td>
 						<td>Dublin, Ohio</td>
 						<td>Fast Food</td>
-						<td>Hamburgers, Chicken sandwich, Salads, French fries, Breakfast sandwich, Frozen dessert</td>
+						<td>Hamburgers, Chicken Sandwiches, Salads, French Fries, Breakfast Sandwiches, Frozen Dessert</td>
 						<td>6,500+</td>
+						<td>100+</td>
+						<td>Dave Thomas</td>
+						<td><a href="Website About Me - Resources - mobile.md">1</a></td>
 					</tr>
 					<tr>
 						<td><a href="https://www.mcdonalds.com/">McDonald's</a></td>
@@ -52,8 +62,11 @@
 						<td>1940</td>
 						<td>Oak Brook, Illinois</td>
 						<td>Fast Food</td>
-						<td>Hamburgers, Chicken, French fries, Soft drinks, Milkshakes, Salads, Desserts, Coffee, Breakfast, Wraps</td>
+						<td>Hamburgers, Chicken, French Fries, Soft Drinks, Milkshakes, Salads, Desserts, Coffee, Breakfast, Wraps</td>
 						<td>36,900</td>
+						<td>375,000</td>
+						<td>Richard McDonald, Maurice McDonald, Ray Kroc</td>
+						<td><a href="Website About Me - Resources - mobile.md">2</a></td>
 					</tr>
 					<tr>
 						<td><a href="http://www.goldencorral.com/">Golden Corral</a></td>
@@ -64,16 +77,22 @@
 						<td>Buffet</td>
 						<td>Food</td>
 						<td>200</td>
+						<td>9000</td>
+						<td>James Maynard, William F. Carl</td>
+						<td><a href="Website About Me - Resources - mobile.md">3</a></td>
 					</tr>
 					<tr>
 						<td><a href="https://www.pizzahut.com/">Pizza Hut</a></td>
-						<td>Wholly owned subsidiary</td>
+						<td>Wholly Owned Subsidiary</td>
 						<td>Restaurant</td>
 						<td>1958</td>
 						<td>Plano, Texas</td>
 						<td>Fast Food, Buffet</td>
 						<td>Italian-American Cuisine, Pizza, Pasta, Buffalo Wings</td>
 						<td>13,728</td>
+						<td>100+</td>
+						<td>Dan Carney, Frank Carney</td>
+						<td><a href="Website About Me - Resources - mobile.md">4</a></td>
 					</tr>
 					<tr>
 						<td><a href="http://www.perkinsrestaurants.com/">Perkins Restaurant and Bakery</a></td>
@@ -83,9 +102,11 @@
 						<td>Memphis, Tennessee</td>
 						<td>Dining, Bakery</td>
 						<td>Food</td>
-						<td>391</td>
+						<td>390</td>
+						<td>25,000</td>
+						<td>Matt Perkins, Ivan Perkins</td>
+						<td><a href="Website About Me - Resources - mobile.md">5</a>, <a href="Website About Me - Resources - mobile.md">6</a></td>
 					</tr>
-					<tr>
 					<tr>
 						<td><a href="https://pizzaranch.com/">Pizza Ranch</a></td>
 						<td>Private</td>
@@ -94,7 +115,10 @@
 						<td>Orange City, Iowa</td>
 						<td>Buffet</td>
 						<td>Pizza, Chicken</td>
-						<td>202</td>
+						<td>204</td>
+						<td>100+</td>
+						<td>Adrie Groeneweg, Lawrence Vander Esch</td>
+						<td><a href="Website About Me - Resources - mobile.md">7</a>, <a href="Website About Me - Resources - mobile.md">8</a></td>
 					</tr>
 					<tr>
 						<td><a href="https://www.whitecastle.com/">White Castle</a></td>
@@ -104,7 +128,10 @@
 						<td>Columbus, Ohio</td>
 						<td>Fast Food</td>
 						<td>Hamburgers, Chicken</td>
+						<td>420</td>
 						<td>100+</td>
+						<td>Billy Ingram, Walter Anderson</td>
+						<td><a href="Website About Me - Resources - mobile.md">9</a></td>
 					</tr>
 					<tr>
 						<td><a href="https://www.kfc.com/">KFC (Kentucky Fried Chicken)</a></td>
@@ -113,8 +140,11 @@
 						<td>1930</td>
 						<td>Louisville, Kentucky</td>
 						<td>Fast Food, Buffet</td>
-						<td>Fried Chicken, Chicken sandwiches, Wraps, French Fries, Soft drinks, Salads, Desserts, Breakfast</td>
+						<td>Fried Chicken, Chicken Sandwiches, Wraps, French Fries, Soft Drinks, Salads, Desserts, Breakfast</td>
 						<td>19,952</td>
+						<td>100+</td>
+						<td>Harland Sanders</td>
+						<td><a href="Website About Me - Resources - mobile.md">10</a></td>
 					</tr>
 					<tr>
 						<td><a href="http://www.subway.com/en-us">Subway</a></td>
@@ -123,8 +153,11 @@
 						<td>1965</td>
 						<td>Milford, Connecticut</td>
 						<td>Fast Food</td>
-						<td>Submarine sandwich, Pizzas (located at Walmart), Salads</td>
+						<td>Submarine Sandwiches, Pizzas (Located at Walmart), Salads</td>
 						<td>44,834</td>
+						<td>100+</td>
+						<td>Fred DeLuca, Peter Buck</td>
+						<td><a href="Website About Me - Resources - mobile.md">11</a></td>
 					</tr>
 					<tr>
 						<td><a href="https://www.dennys.com/">Denny's</a></td>
@@ -132,9 +165,12 @@
 						<td>Restaurant</td>
 						<td>1953</td>
 						<td>Spartanburg, South Carolina</td>
-						<td>Dining</td>
+						<td>Family Dining</td>
 						<td>Food</td>
 						<td>1,700</td>
+						<td>100+</td>
+						<td>Harold Butler, Richard Jezak</td>
+						<td><a href="Website About Me - Resources - mobile.md">12</a></td>
 					</tr>
 					<tr>
 						<td><a href="http://www.oldcountrybuffet.com/">Old Country Buffet</a></td>
@@ -144,7 +180,10 @@
 						<td>Hollywood Park, Texas</td>
 						<td>Buffet</td>
 						<td>Buffet</td>
+						<td>113</td>
 						<td>100+</td>
+						<td>Roe Halten, C. Dennis Scott, Dermot Rowland, Doron Jensen</td>
+						<td><a href="Website About Me - Resources - mobile.md">13</a></td>
 					</tr>
 					<tr>
 						<td><a href="http://www.starbucks.com/">Starbucks</a></td>
@@ -153,18 +192,24 @@
 						<td>1971</td>
 						<td>Seattle, Washington</td>
 						<td>Coffee Shop</td>
-						<td>Coffee beverages, smoothies, tea, baked goods, sandwiches</td>
+						<td>Coffee Beverages, Smoothies, Tea, Baked Goods, Sandwiches</td>
 						<td>26,696</td>
+						<td>238,000</td>
+						<td>Jerry Baldwin, Zev Siegl, Gordon Bowker</td>
+						<td><a href="Website About Me - Resources - mobile.md">14</a></td>
 					</tr>
 					<tr>
-						<td><a href="https://www.dairyqueen.com/us-en/?localechange=1&">Dairy Queen (DQ)</a></td>
+						<td><a href="https://www.dairyqueen.com/us-en/">Dairy Queen (DQ)</a></td>
 						<td>Subsidiary</td>
 						<td>Restaurant</td>
 						<td>1940</td>
 						<td>Edina, Minnesota</td>
 						<td>Fast Food</td>
-						<td>Soft server, fast food, ice cream, milkshakes, sundaes, hamburgers, hot dogs, chicken, french fries, soft drinks, salads</td>
+						<td>Soft Serve, Fast Food, Ice Cream, Milkshakes, Sundaes, Hamburgers, Hot Dogs, Chicken, French Fries, Soft Drinks, Salads</td>
 						<td>6,400</td>
+						<td>100+</td>
+						<td>John Fremont McCullough</td>
+						<td><a href="Website About Me - Resources - mobile.md">15</a></td>
 					</tr>
 					<tr>
 						<td><a href="https://www.tacobell.com/">Taco Bell</a></td>
@@ -173,8 +218,11 @@
 						<td>1962</td>
 						<td>Irvine, California</td>
 						<td>Fast Food</td>
-						<td>Tacos</td>
+						<td>Tacos, Burritos, Other Tex-Mex Cuisine-Related Fast Food</td>
 						<td>7,000</td>
+						<td>175,000+</td>
+						<td>Glen Bell</td>
+						<td><a href="Website About Me - Resources - mobile.md">16</a></td>
 					</tr>
 					<tr>
 						<td><a href="https://www.sonicdrivein.com/">Sonic</a></td>
@@ -185,12 +233,106 @@
 						<td>Fast Food</td>
 						<td>Fast Food</td>
 						<td>3,557</td>
+						<td>9,200</td>
+						<td>Troy Smith</td>
+						<td><a href="Website About Me - Resources - mobile.md">17</a></td>
+					</tr>
+					<tr>
+						<td><a href="https://arbys.com/">Arby's</a></td>
+						<td>Private</td>
+						<td>Restaurant</td>
+						<td>1964</td>
+						<td>Sandy Springs, Georgia</td>
+						<td>Fast Food</td>
+						<td>Fast Food, Sandwiches, Salads, Sides</td>
+						<td>3,342</td>
+						<td>74,000</td>
+						<td>Forrest Raffel, Leroy Raffel</td>
+						<td><a href="Website About Me - Resources - mobile.md">18</a></td>
+					</tr>
+					<tr>
+						<td><a href="https://www.culvers.com/">Culver's</a></td>
+						<td>Private</td>
+						<td>Fast Food Restaurant</td>
+						<td>1984</td>
+						<td>Prairie du Sac, Wisconsin</td>
+						<td>Fast Food</td>
+						<td>Frozen Custard, Butterburgers, Chicken</td>
+						<td>640</td>
+						<td>100+</td>
+						<td>Craig Culver, Lea Culver</td>
+						<td><a href="Website About Me - Resources - mobile.md">19</a></td>
+					</tr>
+					<tr>
+						<td><a href="https://awrestaurants.com/">A & W</a></td>
+						<td>Private</td>
+						<td>Fast Food</td>
+						<td>1923</td>
+						<td>Lexington, Kentucky</td>
+						<td>Fast Food</td>
+						<td>Hot Dogs, Root Beer, Cheese Curds, Hamburgers, Chicken</td>
+						<td>1,200+</td>
+						<td>100+</td>
+						<td>Roy W. Allen, Frank Wright</td>
+						<td><a href="Website About Me - Resources - mobile.md">20</a></td>
+					</tr>
+					<tr>
+						<td><a href="http://www.bk.com/">Burger King</a></td>
+						<td>Subsidiary</td>
+						<td>Restaurants</td>
+						<td>1954</td>
+						<td>Miami-Dade County, Florida</td>
+						<td>Fast Food</td>
+						<td>Hamburgers, Chicken, French Fries, Soft Drinks, Milkshakes, Salads, Desserts, Breakfast, Hot Dogs</td>
+						<td>15,000+</td>
+						<td>34,248</td>
+						<td>Keith J. Kramer, Matthew Burns, David Edgerton, James McLamore</td>
+						<td><a href="Website About Me - Resources - mobile.md">21</a></td>
+					</tr>
+					<tr>
+						<td><a href="http://www.olivegarden.com/home">Olive Garden</a></td>
+						<td>Wholly Owned Subsidiary</td>
+						<td>Restaurants</td>
+						<td>1982</td>
+						<td>Orlando, Florida</td>
+						<td>Casual Dining</td>
+						<td>Italian Cuisine (Pasta, Salads, Chicken, Seafood, Breadsticks)</td>
+						<td>844</td>
+						<td>100+</td>
+						<td>Bill Darden</td>
+						<td><a href="Website About Me - Resources - mobile.md">22</a></td>
+					</tr>
+					<tr>
+						<td><a href="https://www.outback.com/">Outback Steakhouse</a></td>
+						<td>Wholly Owned Subsidiary</td>
+						<td>Restaurants</td>
+						<td>1988</td>
+						<td>Tampa, Florida</td>
+						<td>Casual Dining</td>
+						<td>American Cuisine</td>
+						<td>978</td>
+						<td>100+</td>
+						<td>Bob Basham, Trudy Cooper, Chris T. Sullivan, Tim Cannon</td>
+						<td><a href="Website About Me - Resources - mobile.md">23</a></td>
+					</tr>
+					<tr>
+						<td><a href="https://www.pon-bon.com/">Ponderosa</a></td>
+						<td>Wholly Owned Subsidiary</td>
+						<td>Casual Dining, Buffet</td>
+						<td>1965</td>
+						<td>Plano, Texas</td>
+						<td>Casual Dining</td>
+						<td>Steak, Salad, Seafood</td>
+						<td>88</td>
+						<td>100+</td>
+						<td>Dan Lasater, Norm Wiese, Charles Kelptz</td>
+						<td><a href="Website About Me - Resources - mobile.md">24</a></td>
 					</tr>
 				</table>
 			</div>
 		</div>
 		<div class="footer">
-			<p>&copy; Jeff Vogel 2017</p>
+			<p>&copy; Jeff Vogel 2018</p>
 		</div>
 		<div id = "backToTop">
 			<a href = "Website About Me - Favorite Restaurants - mobile.md">BackToTop</a>
