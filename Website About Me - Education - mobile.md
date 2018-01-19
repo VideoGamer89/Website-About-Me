@@ -1,6 +1,6 @@
 <head>
-	<link href="Website About Me - main.md" rel="stylesheet"/>
-</head>
+	<link href="Website About Me - mobile.md" rel="stylesheet"/>
+	</head>
 <body>
 <div class = "header">
 			<h1>Education</h1>
