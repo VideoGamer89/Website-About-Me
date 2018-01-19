@@ -1,3 +1,6 @@
+<head>
+	<link href="Website About Me - mobile.md" rel="stylesheet"/>
+</head>
 <body>
 		<div id = "header">
 			<h1>Welcome</h1>
