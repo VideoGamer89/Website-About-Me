@@ -1,6 +1,5 @@
 <head>
-		<link href="Website About Me - main.css" rel="stylesheet"/>
-		<meta charset="UTF-8">
+		<link href="Website About Me - main.md" rel="stylesheet"/>
 	</head>
 	<body onload="FavoriteStoresProcess()">
 		<div class = "header">
