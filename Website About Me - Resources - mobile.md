@@ -1,5 +1,5 @@
 <head>
-		<link href="styles/Website About Me - mobilemd" rel="stylesheet"/>
+		<link href="styles/Website About Me - mobile.md" rel="stylesheet"/>
 	</head>
 	<body>
 		<div id = "header">
