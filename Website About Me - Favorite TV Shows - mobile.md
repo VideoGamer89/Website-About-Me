@@ -1,3 +1,6 @@
+<head>
+	<link href="Website About Me - mobile.md" rel="stylesheet"/>
+</head>
 <body onload = "FavoriteTVShowsProcess()">
 		<div id = "header">
 			<h1>Favorite TV Shows</h1>
