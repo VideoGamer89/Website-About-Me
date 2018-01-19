@@ -1,3 +1,6 @@
+<head>
+	<link href="Website About Me - mobile.md" rel="stylesheet"/>
+</head>
 <body onload="HobbiesProcess()">
 		<div id = "header">
 			<h1>Hobbies</h1>
