@@ -1,6 +1,5 @@
 <head>
-		<title>Website About Me - Image Gallery</title>
-		<link href="styles/Website About Me - mobile.css" rel = "stylesheet" >
+		<link href="styles/Website About Me - mobile.md" rel = "stylesheet" >
 </head>
 <body>
 		<div id ="header">
