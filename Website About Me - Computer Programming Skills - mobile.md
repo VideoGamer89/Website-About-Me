@@ -1,3 +1,6 @@
+<head>
+	<link href="Website About Me - mobile.md" rel="stylesheet"/>
+	</head>
 <div class = "header">
 			<h1>Computer Programming Skills</h1>
 		</div>
