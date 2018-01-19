@@ -1,3 +1,6 @@
+<head>
+	<link href="Website About Me - mobile.md" rel="stylesheet"/>
+	</head>
 <body onload="FavoriteGamingConsolesProcess">
 		<div class = "header">
 			<h1>Favorite Gaming Consoles</h1>
