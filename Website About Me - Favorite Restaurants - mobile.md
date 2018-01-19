@@ -331,10 +331,10 @@
 				</table>
 			</div>
 		</div>
-		<div class="footer">
-			<p>&copy; Jeff Vogel 2018</p>
-		</div>
 		<div id = "backToTop">
 			<a href = "Website About Me - Favorite Restaurants - mobile.md">BackToTop</a>
+		</div>
+		<div class="footer">
+			<p>&copy; Jeff Vogel 2018</p>
 		</div>
 	</body>
