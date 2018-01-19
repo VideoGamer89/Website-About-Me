@@ -1,6 +1,5 @@
 <head>
-		<link href="styles/Website About Me - main.css" rel="stylesheet"/>
-		<meta charset="UTF-8">
+		<link href="Website About Me - main.md" rel="stylesheet"/>
 	</head>
 	<body onload="FavoriteBandsProcess()">
 		<div class = "header">
