@@ -1,3 +1,7 @@
+<head>
+	<link href="Website About Me - print.md" rel="stylesheet"/>
+</head>
+<body>
 <div id = "header">
 			<h1>Favorite TV Shows</h1>
 		</div>
@@ -394,3 +398,4 @@
 		<div id = "footer">
 			<p>&copy; Jeff Vogel 2018</p>
 		</div>
+	</body>
