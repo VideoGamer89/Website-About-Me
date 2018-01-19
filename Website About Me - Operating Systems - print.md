@@ -1,3 +1,6 @@
+<head>
+	<link href="Website About Me - print.md" rel="stylesheet"/>
+	</head>
 <body>
 		<div class = "header">
 			<h1>Operating Systems</h1>
