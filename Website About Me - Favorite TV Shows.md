@@ -1,6 +1,5 @@
 <head>
-		<link href="styles/Website About Me - main.css" rel="stylesheet"/>
-		<meta charset="UTF-8">
+		<link href="styles/Website About Me - main.md" rel="stylesheet"/>
 	</head>
 	<body onload = "FavoriteTVShowsProcess()">
 		<div class = "header">
@@ -397,6 +396,6 @@
 			</div>
 		</div>
 		<div class = "footer">
-			<p>&copy; Jeff Vogel 2017</p>
+			<p>&copy; Jeff Vogel 2018</p>
 		</div>
 	</body>
