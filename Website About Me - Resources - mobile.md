@@ -1,8 +1,5 @@
-
-	<head>
-		<title>Website About Me - Resources</title>
-		<link href="styles/Website About Me - mobile.css" rel="stylesheet"/>
-		<meta charset="UTF-8">
+<head>
+		<link href="styles/Website About Me - mobilemd" rel="stylesheet"/>
 	</head>
 	<body>
 		<div id = "header">
