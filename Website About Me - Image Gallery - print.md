@@ -321,6 +321,6 @@
 				<img src = "https://upload.wikimedia.org/wikipedia/commons/f/f8/WampServer-logo.png" alt = "WAMPServer" height = "200" width = "200" />
 		</div>
 		<div id = "footer">
-			<p> &copy; Jeff Vogel 2017</p>
+			<p> &copy; Jeff Vogel 2018</p>
 		</div>
 	</body>
