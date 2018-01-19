@@ -1,5 +1,4 @@
-	
-	<body>
+<body>
 		<div id = "header">
 			<h1>Resources</h1>
 		</div>
