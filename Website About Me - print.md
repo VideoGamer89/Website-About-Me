@@ -1,0 +1,22 @@
+body { background-color: #FFFFFF;
+	  color: #006600;
+	  font_family: Arial, Verdana, sans-serif;}
+h1	{ background-color: #FFFFFF
+	  color: #006600;
+	  font-family: Arial, Verdana, sans-serif; 
+	  text-align: center; }
+h2 { background-color: #006600;
+	color: #FFFFFF;
+	font-family: Arial, Verdana, sans-serif; 
+	text-align: center; }
+#nav { float: left;
+	 width: 100px;
+	 padding: 15px 0 0 15px; 
+	 font-family: Arial, Verdana, sans-serif;
+	 display: none;}
+p {font-family: Arial, Verdana, sans-serif; }
+header, nav, main {display: block;}
+table { background-color: #FFFFFF;
+			color: #006600;
+			font-family: Arial, Verdana, sans-serif; 
+			border = 2;}
