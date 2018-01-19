@@ -1,5 +1,5 @@
 <head>
-		<link href="styles/Website About Me - main.md" rel="stylesheet"/>
+		<link href="Website About Me - main.md" rel="stylesheet"/>
 	</head>
 	<body>
 		<div class = "header">
