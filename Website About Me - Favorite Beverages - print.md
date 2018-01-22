@@ -1,6 +1,6 @@
 <head>
 	<link href="Website About Me - print.md" rel="stylesheet"/>
-	</head>
+</head>
 <body>
 		<div id = "header">
 			<h1>Favorite Beverages</h1>
