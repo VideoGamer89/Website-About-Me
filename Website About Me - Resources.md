@@ -133,6 +133,7 @@
 					<li><a href="https://en.wikipedia.org/wiki/Potato_chip">Potato chip - Wikipedia</a>, January 1, 2018</li>
 					<li><a href="https://en.wikipedia.org/wiki/Blooming_onion">Blooming onion - Wikipedia</a>, November 14, 2017</li>
 					<li><a href="https://en.wikipedia.org/wiki/Gnocchi">Gnocchi - Wikipedia</a>, December 26, 2017</li>
+					<li><a href="https://en.wikipedia.org/wiki/Rice-A-Roni">Rice-A-Ront - Wikipedia</a>, August 13, 2017</li>
 				</ol>
 			<h2>Favorite Gaming Consoles</h2>
 				<ol>
