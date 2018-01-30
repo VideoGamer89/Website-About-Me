@@ -16,6 +16,7 @@
         <li><a href="Website About Me - Favorite Video Games.md">Favorite Video Games</a></li>
         <li><a href="Website About Me - Favorite TV Shows.md">Favorite TV Shows</a></li>
         <li><a href="Website About Me - Favorite Foods.md">Favorite Foods</a></li>
+	      <li><a href="Website About Me - Favorite Beverages.md">Favorite Beverages</a></li>
         <li><a href="Website About Me - Favorite Stores.md">Favorite Stores</a></li>
         <li><a href="Website About Me - Image Gallery.md">Image Gallery</a></li>
         <li><a href="Website About Me - Work Samples.md">Work Sample</a></li>
