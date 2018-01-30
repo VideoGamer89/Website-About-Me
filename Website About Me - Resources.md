@@ -236,6 +236,10 @@
 					<li><a href="https://en.wikipedia.org/wiki/Remember_the_Titans">Remember the Titans - Wikipedia</a>, December 21, 2017</li>
 					<li><a href="https://en.wikipedia.org/wiki/Star_Wars:_The_Last_Jedi">Star Wars: The Last Jedi - Wikipedia</a>, January 2, 2018</li>
 					<li><a href="https://en.wikipedia.org/wiki/Valerian_and_the_City_of_a_Thousand_Planets">Valerian and the City of a Thousand Planets - Wikipedia</a>, December 28, 2017</li>
+	<li><a href="https://en.wikipedia.org/wiki/The_Social_Network">The Social Network - Wikipedia</a>, January 1, 2018</li>
+					<li><a href="https://en.wikipedia.org/wiki/Star_Wars:_Episode_I_%E2%80%93_The_Phantom_Menace">Star Wars: Episode I - The Phantom Menace - Wikipedia</a>, January 15, 2018</li>
+					<li><a href="https://en.wikipedia.org/wiki/Star_Wars:_Episode_II_%E2%80%93_Attack_of_the_Clones">Star Wars: Episode II - Attack of the Clones - Wikipedia</a>, January 12, 2018</li>
+					<li><a href="https://en.wikipedia.org/wiki/Star_Wars:_Episode_III_%E2%80%93_Revenge_of_the_Sith">Star Wars: Episode III - Revenge of the Sith - Wikipedia</a>, January 14, 2018</li>
 				</ol>
 			<h2>Favorite Restaurants</h2>
 				<ol>
@@ -302,6 +306,7 @@
 					<li><a href="https://en.wikipedia.org/wiki/Skylanders_Academy">Skylanders Academy - Wikipedia</a>, January 2, 2018</li>
 					<li><a href="https://en.wikipedia.org/wiki/Baby_Daddy">Baby Daddy - Wikipedia</a>, December 9, 2017</li>
 					<li><a href="https://en.wikipedia.org/wiki/Milo_Murphy%27s_Law">Milo Murphy's Law - Wikipedia</a>, January 2, 2018</li>
+	<li><a href="https://en.wikipedia.org/wiki/Adventure_Time">Adventure Time - Wikipedia</a>, January 27, 2018</li>
 				</ol>
 			<h2>Favorite Video Games</h2>
 				<ol>
