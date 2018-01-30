@@ -44,6 +44,7 @@
 						<th>Mode(s)</th>
 						<th>Composer(s)</th>
 						<th>Director(s)</th>
+						<th>Designer(s)</th>
 						<th>Engine(s)</th>
 						<th>Series</th>
 						<th>Reception(s)</th>
@@ -61,10 +62,11 @@
 						<td>Single-Player, Multiplayer</td>
 						<td>Mick Gordon, Atlas Plug, Celldweller</td>
 						<td>Ken Lobb, Adam Isgreen, Michael Donges</td>
+						<td>David Verfaillie, Adam Heart, James Goddard</td>
 						<td>None</td>
 						<td>Killer Instinct</td>
 						<td>GameRankings: 75% (Season One), 85% (Season Two), 84% (Season Three), Metacritic: 73/100 (Season One), 85/100 (Season Two), 86/100 (Season Three)</td>
-						<td><a href="Website About Me - Resources.md">1</a></td>
+						<td><a href="Website About Me - Resources.html">1</a></td>
 					</tr>
 					<tr>
 						<td>Call Of Duty: Black Ops III</td>
@@ -78,10 +80,11 @@
 						<td>Single-Player, Multiplayer</td>
 						<td>Jack Wall</td>
 						<td>Jason Blundell, Dan Bunting</td>
+						<td>Gavin Locke</td>
 						<td>IW Engine</td>
 						<td>Call of Duty</td>
 						<td>GameRankings: N/A, Metacritic: 81/100 (Xbox One), 81/100 (PS4)</td>
-						<td><a href="Website About Me - Resources.md">2</a></td>
+						<td><a href="Website About Me - Resources.html">2</a></td>
 					</tr>
 					<tr>
 						<td>Super Mario Maker (Side-Scrolling and Game Creation)</td>
@@ -95,10 +98,11 @@
 						<td>Single-Player</td>
 						<td>Koji Kondo, Naoto Kubo, Asuka Hayazaki</td>
 						<td>Yosuke Oshino</td>
+						<td>Shigefumi Hino, Arisa Hosaka</td>
 						<td>None</td>
 						<td>Super Mario</td>
 						<td>GameRankings: N/A, Metacritic: 88/100</td>
-						<td><a href="Website About Me - Resources.md">3</a>, <a href="Website About Me - Resources.md">4</a></td>
+						<td><a href="Website About Me - Resources.html">3</a>, <a href="Website About Me - Resources.html">4</a></td>
 					</tr>
 					<tr>
 						<td>Spider-Man: Shattered Dimensions</td>
@@ -113,12 +117,13 @@
 						<td>Jim Dooley</td>
 						<td>Jose Pablo Gonzalez</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Spider-Man</td>
 						<td>GameRankings: 79.16% (Xbox 360), 74.50% (DS), Metacritic: 76/100 (Xbox 360), 73/100 (DS)</td>
-						<td><a href="Website About Me - Resources.md">5</a>, <a href="Website About Me - Resources.md">6</a></td>
+						<td><a href="Website About Me - Resources.html">5</a>, <a href="Website About Me - Resources.html">6</a></td>
 					</tr>
 					<tr>
-						<td>Pok&ecaute;mon Puzzle League</td>
+						<td>Pok&eacute;mon Puzzle League</td>
 						<td>Nintendo 64</td>
 						<td>E</td>
 						<td>Everyone</td>
@@ -129,10 +134,11 @@
 						<td>Single-Player, Multiplayer</td>
 						<td>John Loeffler, Manny Corallo</td>
 						<td>None</td>
+						<td>Genyo Takeda</td>
 						<td>None</td>
 						<td>Pok&eacute;mon</td>
 						<td>GameRankings: 82.65%, Metacritic: 81/100</td>
-						<td><a href="Website About Me - Resources.md">7</a>, <a href="Website About Me - Resources.md">8</a></td>
+						<td><a href="Website About Me - Resources.html">7</a>, <a href="Website About Me - Resources.html">8</a></td>
 					</tr>
 					<tr>
 						<td>Dr. Mario 64</td>
@@ -146,10 +152,11 @@
 						<td>Single-Player, Multiplayer</td>
 						<td>Seiichi Tokunaga</td>
 						<td>Hitoshi Yamaguchi, Yoshiyuki Kato</td>
+						<td>Hitoshi Yamaguchi, Kazushi Maeda, Yohei Fujigawa</td>
 						<td>None</td>
 						<td>Dr. Mario</td>
 						<td>GameRankings: 70.03%, Metacritic: 71/100</td>
-						<td><a href="Website About Me - Resources.md">9</a>, <a href="Website About Me - Resources.md">10</a></td>
+						<td><a href="Website About Me - Resources.html">9</a>, <a href="Website About Me - Resources.html">10</a></td>
 					</tr>
 					<tr>
 						<td>Injustice: Gods Among Us</td>
@@ -163,9 +170,10 @@
 						<td>Single-Player, Multiplayer</td>
 						<td>Christopher Drake, Dean Grinsfelder, Cris Velasco, Sascha Dikiciyan</td>
 						<td>Ed Boon</td>
+						<td>Paulo Garcia, John Edwards</td>
 						<td>Unreal Engine 3</td>
 						<td>DC Universe</td>
-						<td><a href="Website About Me - Resources.md">11</a></td>
+						<td><a href="Website About Me - Resources.html">11</a></td>
 					</tr>
 					<tr>
 						<td>Teenage Mutant Ninja Turtles: Mutants in Manhattan</td>
@@ -179,10 +187,11 @@
 						<td>Single-Player</td>
 						<td>Masafumi Takada, Naofumi Harada, Vince DiCola, Kenny Meriedeth</td>
 						<td>Eiro Shirahama</td>
+						<td>Eiro Shirahama</td>
 						<td>None</td>
 						<td>Teenage Mutant Ninja Turtles</td>
 						<td>GameRankings: N/A, Metacritic: 55/100</td>
-						<td><a href="Website About Me - Resources.md">12</a></td>
+						<td><a href="Website About Me - Resources.html">12</a></td>
 					</tr>
 					<tr>
 						<td>Call of Duty: Ghosts</td>
@@ -196,10 +205,11 @@
 						<td>Single-Player, Multiplayer</td>
 						<td>David Buckley</td>
 						<td>Sylvain Doreau</td>
+						<td>None</td>
 						<td>IW Engine</td>
 						<td>Call of Duty</td>
 						<td>GameRankings: 78.31% (PS4), 77.40% (Xbox One), 76.64% (Xbox 360), Metacritic: 78/100 (PS4), 78/100 (Xbox One), 73/100 (Xbox 360)</td>
-						<td><a href="Website About Me - Resources.md">13</a></td>
+						<td><a href="Website About Me - Resources.html">13</a></td>
 					</tr>
 					<tr>
 						<td>Call of Duty: Advanced Warfare</td>
@@ -214,9 +224,10 @@
 						<td>Audiomachine</td>
 						<td>Glen Schofield, Michael Condrey</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Call of Duty</td>
 						<td>GameRankings: 83.50% (PS4), 82.88% (Xbox One), Metacritic: 83/100 (PS4), 81/100 (Xbox One)</td>
-						<td><a href="Website About Me - Resources.md">14</a></td>
+						<td><a href="Website About Me - Resources.html">14</a></td>
 					</tr>
 					<tr>
 						<td>Call of Duty 4: Modern Warfare</td>
@@ -230,10 +241,11 @@
 						<td>Single-Player, Multiplayer</td>
 						<td>Stephan Barton</td>
 						<td>Jason West</td>
+						<td>Todd Alderman, Steve Fukuda, Mackey McCandlish</td>
 						<td>IW 3.0</td>
 						<td>Call of Duty</td>
 						<td>GameRankings: N/A, Metacritic: 94/100</td>
-						<td><a href="Website About Me - Resources.md">15</a></td>
+						<td><a href="Website About Me - Resources.html">15</a></td>
 					</tr>
 					<tr>
 						<td>Bayonetta 2</td>
@@ -247,10 +259,11 @@
 						<td>Single-Player, Multiplayer</td>
 						<td>Masami Ueda, Naofume Harada, Hiroshi Yamaguchi, Norihiko Hibino, Takahiro Izutani, Satoshi Igarashi, Hitomi Hurokawa, Takayasu Sodeoka, Rei Kondoh, Naoto Tanaka</td>
 						<td>Yusuke Hashimoto</td>
+						<td>Hirono Sato, Junichi Oka, Akiteru Naka</td>
 						<td>None</td>
 						<td>Bayonetta</td>
 						<td>GameRankings: N/A, Metacritic: 91/100</td>
-						<td><a href="Website About Me - Resources.md">16</a></td>
+						<td><a href="Website About Me - Resources.html">16</a></td>
 					</tr>
 					<tr>
 						<td>Guitar Hero Live</td>
@@ -265,9 +278,10 @@
 						<td>Various Artists</td>
 						<td>Giorgio Testi</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Guitar Hero</td>
 						<td>GameRankings: 80.93%, Metacritic: 81/100</td>
-						<td><a href="Website About Me - Resources.md">17</a>, <a href="Website About Me - Resources.md">18</a></td>
+						<td><a href="Website About Me - Resources.html">17</a>, <a href="Website About Me - Resources.html">18</a></td>
 					</tr>
 					<tr>
 						<td>Street Fighter V</td>
@@ -281,10 +295,11 @@
 						<td>Single-Player, Multiplayer</td>
 						<td>Masahiro Aoki, Hideyuki Fukasawa, Keiki Kobayashi, Takatsugu Wakabayashi, Zac Zinger</td>
 						<td>Takayuki Nakayama</td>
+						<td>None</td>
 						<td>Unreal Engine 4</td>
 						<td>Street Fighter</td>
 						<td>GameRankings: N/A, Metacritic: 77/100</td>
-						<td><a href="Website About Me - Resources.md">19</a></td>
+						<td><a href="Website About Me - Resources.html">19</a></td>
 					</tr>
 					<tr>
 						<td>Call of Duty: Infinite Warfare</td>
@@ -298,10 +313,11 @@
 						<td>Single-Player, Multiplayer</td>
 						<td>Sarah Schachner</td>
 						<td>Jacob Minkoff, Jordan Hirsh, Brian Bright</td>
+						<td>Joe Cecot</td>
 						<td>IW Engine</td>
 						<td>Call of Duty</td>
 						<td>GameRankings: N/A, Metacritic: 77/100 (PS4), 78/100 (Xbox One)</td>
-						<td><a href="Website About Me - Resources.md">20</a></td>
+						<td><a href="Website About Me - Resources.html">20</a></td>
 					</tr>
 					<tr>
 						<td>Watch Dogs</td>
@@ -315,10 +331,11 @@
 						<td>Single-Player, Multiplayer</td>
 						<td>Brian Reitzell</td>
 						<td>Jonathon Morin</td>
+						<td>Danny B&eacute;langer, Yvan Poeymirou</td>
 						<td>None</td>
 						<td>Watch Dogs</td>
 						<td>GameRankings: N/A, Metacritic: 78/100</td>
-						<td><a href="Website About Me - Resources.md">21</a></td>
+						<td><a href="Website About Me - Resources.html">21</a></td>
 					</tr>
 					<tr>
 						<td>Watch Dogs 2</td>
@@ -331,11 +348,12 @@
 						<td>Ubisoft</td>
 						<td>Single-Player, Multiplayer</td>
 						<td>Hudson Mohawke</td>
-						<td>Jonathon Morin, Patrick Plourde, Danny Belanger</td>
+						<td>Jonathon Morin, Patrick Plourde, Danny B&eacute;langer</td>
+						<td>Pierre-Yves Savard, Falko Poiker</td>
 						<td>None</td>
 						<td>Watch Dogs</td>
 						<td>GameRankings: N/A, Metacritic: 82/100</td>
-						<td><a href="Website About Me - Resources.md">22</a></td>
+						<td><a href="Website About Me - Resources.html">22</a></td>
 					</tr>
 					<tr>
 						<td>Assassin's Creed (video game)</td>
@@ -348,11 +366,12 @@
 						<td>Ubisoft</td>
 						<td>Single-Player</td>
 						<td>Jesper Kyd</td>
-						<td>Patrice Desilets</td>
+						<td>Patrice D&eacute;silets</td>
+						<td>Maxime B&eacute;land</td>
 						<td>Scimitar</td>
 						<td>Assassin's Creed</td>
 						<td>GameRankings: N/A, Metacritic: 81/100</td>
-						<td><a href="Website About Me - Resources.md">23</a></td>
+						<td><a href="Website About Me - Resources.html">23</a></td>
 					</tr>
 					<tr>
 						<td>Puyo Puyo Tetris</td>
@@ -366,10 +385,11 @@
 						<td>Single-Player, Multiplayer</td>
 						<td>Hideki Abe</td>
 						<td>Koji Shindo</td>
+						<td>Hiroyuki Hosoyamada</td>
 						<td>None</td>
 						<td>Puyo Puyo, Tetris</td>
 						<td>GameRankings: N/A, Metacritic: N/A</td>
-						<td><a href="Website About Me - Resources.md">24</a></td>
+						<td><a href="Website About Me - Resources.html">24</a></td>
 					</tr>
 					<tr>
 						<td>Injustice 2</td>
@@ -377,16 +397,17 @@
 						<td>Fighting</td>
 						<td>T</td>
 						<td>Teen</td>
-						<td>May 11, 2017 (Android) May 16, 2017 (PlayStation 4, Xbox One)</td>
+						<td>May 11, 2017 (Android), May 16, 2017 (PlayStation 4 (PS4), Xbox One)</td>
 						<td>NetherRealm Studios</td>
 						<td>Warner Bros. Interactive Entertainment</td>
 						<td>Single-Player, Multiplayer</td>
 						<td>Christopher Drake, Dynamedion, Richard Carle, Dan Forden</td>
 						<td>Ed Boon</td>
+						<td>None</td>
 						<td>Unreal Engine 3, Unreal Engine 4 (Android)</td>
 						<td>DC Universe</td>
 						<td>GameRankings: N/A, Metacritic: 87/100 (PS4), 89/100 (Xbox One)</td>
-						<td><a href="Website About Me - Resources.md">25</a></td>
+						<td><a href="Website About Me - Resources.html">25</a></td>
 					</tr>
 					<tr>
 						<td>Hey! Pikmin</td>
@@ -400,10 +421,11 @@
 						<td>Single-Player</td>
 						<td>Masato Kouda, Kento Shirasu</td>
 						<td>Tomohide Hayashi</td>
+						<td>Kenta Usui</td>
 						<td>None</td>
 						<td>Pikmin</td>
 						<td>GameRankings: N/A, Metacritic: 69/100</td>
-						<td><a href="Website About Me - Resources.md">26</a></td>
+						<td><a href="Website About Me - Resources.html">26</a></td>
 					</tr>
 					<tr>
 						<td>Bulletstorm</td>
@@ -417,10 +439,11 @@
 						<td>Single-Player, Multiplayer</td>
 						<td>Michal Cielecki, Kryzsztof Wierzynkiewicz</td>
 						<td>Adrian Chmielarz</td>
+						<td>Cliff Bleszinski</td>
 						<td>Unreal Engine 3</td>
 						<td>None</td>
 						<td>GameRankings: N/A, Metacritic: 84/100 (Xbox 360), N/A (Xbox One)</td>
-						<td><a href="Website About Me - Resources.md">27</a></td>
+						<td><a href="Website About Me - Resources.html">27</a></td>
 					</tr>
 					<tr>
 						<td>Ultimate Marvel vs. Capcom 3 (Crossover Game)</td>
@@ -434,10 +457,11 @@
 						<td>Single-Player, Multiplayer</td>
 						<td>Hideyuki Fukasawa</td>
 						<td>Hiroyoki Nara, Go Usuma</td>
+						<td>None</td>
 						<td>MT Framework</td>
 						<td>Marvel vs. Capcom</td>
 						<td>GameRankings: 81% (Xbox 360), 79% (PS4), N/A (Xbox One), Metacritic: 79/100 (Xbox 360), 77/100 (PS4), N/A (Xbox One)</td>
-						<td><a href="Website About Me - Resources.md">28</a></td>
+						<td><a href="Website About Me - Resources.html">28</a></td>
 					</tr>
 					<tr>
 						<td>Spider-Man: Edge of Time</td>
@@ -452,9 +476,10 @@
 						<td>Gerard Marino</td>
 						<td>Gerard Lehiany</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Spider-Man</td>
 						<td>GameRankings: N/A, Metacritic: N/A</td>
-						<td><a href="Website About Me - Resources.md">29</a></td>
+						<td><a href="Website About Me - Resources.html">29</a></td>
 					</tr>
 					<tr>
 						<td>Ultra Street Fighter II: The Final Challengers</td>
@@ -468,10 +493,11 @@
 						<td>Single-Player, Multiplayer</td>
 						<td>Satoshi Hori, Marika Suzuki, Reo Uratani</td>
 						<td>Toshiyuki Yamamoto</td>
+						<td>None</td>
 						<td>MT Framework</td>
 						<td>Street Fighter</td>
 						<td>GameRankings: N/A, Metacritic: 66/100</td>
-						<td><a href="Website About Me - Resources.md">30</a>, <a href="Website About Me - Resources.md">31</a></td>
+						<td><a href="Website About Me - Resources.html">30</a>, <a href="Website About Me - Resources.html">31</a></td>
 					</tr>
 					<tr>
 						<td>Batman: Arkham Knight</td>
@@ -485,10 +511,11 @@
 						<td>Single-Player</td>
 						<td>Nick Arundel, David Buckley</td>
 						<td>Sefton Hill</td>
+						<td>Ian Ball</td>
 						<td>Unreal Engine 3</td>
 						<td>Batman: Arkham</td>
 						<td>GameRankings: N/A, Metacritic: 87/100 (PS4), 85/100 (Xbox One)</td>
-						<td><a href="Website About Me - Resources.md">32</a></td>
+						<td><a href="Website About Me - Resources.html">32</a></td>
 					</tr>
 					<tr>
 						<td>Marvel vs. Capcom: Infinite (Crossover Game)</td>
@@ -502,10 +529,11 @@
 						<td>Single-Player, Multiplayer</td>
 						<td>Eishi Segawa</td>
 						<td>Norio Hirose</td>
+						<td>Tsuyoshi Nagayama</td>
 						<td>Unreal Engine 4</td>
 						<td>Marvel vs. Capcom</td>
 						<td>GameRankings: N/A, Metacritic: 77/100</td>
-						<td><a href="Website About Me - Resources.md">33</a></td>
+						<td><a href="Website About Me - Resources.html">33</a></td>
 					</tr>
 					<tr>
 						<td>Sonic Mania (Side-Scrolling Game)</td>
@@ -519,10 +547,11 @@
 						<td>Single-Player, Multiplayer</td>
 						<td>Tee Lopes</td>
 						<td>Christian Whitehead</td>
+						<td>Jared Kasl</td>
 						<td>Retro Engine</td>
 						<td>Sonic the Hedgehog</td>
 						<td>GameRankings: N/A, Metacritic: 83/100</td>
-						<td><a href="Website About Me - Resources.md">34</a></td>
+						<td><a href="Website About Me - Resources.html">34</a></td>
 					</tr>
 					<tr>
 						<td>Splatoon 2</td>
@@ -537,9 +566,10 @@
 						<td>Toru Minegishi, Ryo Nagamatsu, Shiho Fujii</td>
 						<td>Yusuke Amano, Seita Inoue, Shintaro Sato</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Splatoon</td>
 						<td>GameRankings: N/A, Metacritic: 83/100</td>
-						<td><a href="Website About Me - Resources.md">35</a>, <a href="Website About Me - Resources.md">36</a></td>
+						<td><a href="Website About Me - Resources.html">35</a>, <a href="Website About Me - Resources.html">36</a></td>
 					</tr>
 					<tr>
 						<td>Arms (video game)</td>
@@ -555,8 +585,9 @@
 						<td>Kenta Sato, Masaaki Ishikawa, Shintaro Jikumaru</td>
 						<td>None</td>
 						<td>None</td>
+						<td>None</td>
 						<td>GameRankings: N/A, Metacritic: 77/100</td>
-						<td><a href="Website About Me - Resources.md">37</a>, <a href="Website About Me - Resources.md">36</a></td>
+						<td><a href="Website About Me - Resources.html">37</a>, <a href="Website About Me - Resources.html">36</a></td>
 					</tr>
 					<tr>
 						<td>Prototype (Open World Video Game)</td>
@@ -570,10 +601,11 @@
 						<td>Single-Player</td>
 						<td>Cris Velasco, Sascha Dikiciyan</td>
 						<td>Lindsey Williamson-Christy</td>
+						<td>Eric Holmes</td>
 						<td>Titanium</td>
 						<td>Prototype</td>
 						<td>GameRankings: 80% (Xbox 360), N/A (Xbox One and PS4), Metacritic: 78/100 (Xbox 360), N/A (Xbox One and PS4)</td>
-						<td><a href="Website About Me - Resources.md">38</a></td>
+						<td><a href="Website About Me - Resources.html">38</a></td>
 					</tr>
 					<tr>
 						<td>Prototype 2 (Open World)</td>
@@ -587,10 +619,11 @@
 						<td>Single-Player</td>
 						<td>Scott R. Morgan</td>
 						<td>Tom Legal</td>
+						<td>Matthew Armstrong</td>
 						<td>None</td>
 						<td>Prototype</td>
 						<td>GameRankings: 75% (Xbox 360), N/A (Xbox One and PS4), Metacritic: 74/100 (Xbox 360), N/A (Xbox One and PS4)</td>
-						<td><a href="Website About Me - Resources.md">39</a></td>
+						<td><a href="Website About Me - Resources.html">39</a></td>
 					</tr>
 					<tr>
 						<td>Star Fox Zero (3D Game)</td>
@@ -604,10 +637,11 @@
 						<td>Single-Player, Multiplayer</td>
 						<td>Hiroshi Yamaguchi, Yukari Suita, Hitomi Kurokawa, Naofumi Harada, Rei Kondoh, Keiki Kobayashi</td>
 						<td>Yugo Hayashi, Yusuke Hashimoto</td>
+						<td>Hirono Sato, Akiteru Naka, Ryoya Sakabe, Kazuhide Kawamura</td>
 						<td>None</td>
 						<td>Star Fox</td>
 						<td>GameRankings: N/A, Metacritic: 69/100</td>
-						<td><a href="Website About Me - Resources.md">40</a>, <a href="Website About Me - Resources.md">36</a></td>
+						<td><a href="Website About Me - Resources.html">40</a>, <a href="Website About Me - Resources.html">36</a></td>
 					</tr>
 					<tr>
 						<td>Splatoon</td>
@@ -622,9 +656,10 @@
 						<td>Toru Minegishi, Shiho Fujii</td>
 						<td>Yusuke Amano, Tsubasa Sakaguchi</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Splatoon</td>
 						<td>GameRankings: N/A, Metacritic: 81/100</td>
-						<td><a href="Website About Me - Resources.md">41</a>, <a href="Website About Me - Resources.md">4</a></td>
+						<td><a href="Website About Me - Resources.html">41</a>, <a href="Website About Me - Resources.html">4</a></td>
 					</tr>
 					<tr>
 						<td>Gears of War 4</td>
@@ -638,10 +673,11 @@
 						<td>Single-Player, Multiplayer</td>
 						<td>Ramin Djawadi</td>
 						<td>Chuck Osieja</td>
+						<td>Matt Searcy</td>
 						<td>Unreal Engine 4</td>
 						<td>Gears of War</td>
 						<td>GameRankings: N/A, Metacritic: 84/100</td>
-						<td><a href="Website About Me - Resources.md">42</a></td>
+						<td><a href="Website About Me - Resources.html">42</a></td>
 					</tr>
 					<tr>
 						<td>Crash Bandicoot N. Sane Trilogy</td>
@@ -655,10 +691,11 @@
 						<td>Single-Player</td>
 						<td>Josh Mancell, Mark Mothersbaugh (Original)</td>
 						<td>Dan Tanguay</td>
+						<td>Dan Tanguay</td>
 						<td>None</td>
 						<td>Crash Bandicoot</td>
 						<td>GameRankings: N/A, Metacritic: 80/100</td>
-						<td><a href="Website About Me - Resources.md">43</a></td>
+						<td><a href="Website About Me - Resources.html">43</a></td>
 					</tr>
 					<tr>
 						<td>Puzzle & Dragons Z + Puzzle & Dragons: Super Mario Bros. Edition</td>
@@ -673,9 +710,10 @@
 						<td>Kenji Ito, Yukio Nakajima (Puzzle & Dragons Z), Keigo Ozaki, Toshiko Tasaki (Puzzle & Dragons: Super Mario Bros. Edition)</td>
 						<td>Takayuki Takahara, Naoki Fukuda (Puzzle & Dragons Z), Yoshimasa Yamada (Puzzle & Dragons: Super Mario Bros. Edition)</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Puzzle & Dragons</td>
 						<td>GameRankings: N/A, Metacritic: 73%</td>
-						<td><a href="Website About Me - Resources.md">44</a></td>
+						<td><a href="Website About Me - Resources.html">44</a></td>
 					</tr>
 					<tr>
 						<td>Kid Icarus: Uprising</td>
@@ -690,9 +728,10 @@
 						<td>Motoi Sakuraba, Yuzo Takada, Masafumi Iwadare, Takahiro Nishi, Yasunori Mitsuda</td>
 						<td>Masahiro Sakurai</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Kid Icarus</td>
 						<td>GameRankings: N/A, Metacritic: 83/100</td>
-						<td><a href="Website About Me - Resources.md">45</a></td>
+						<td><a href="Website About Me - Resources.html">45</a></td>
 					</tr>
 					<tr>
 						<td>Super Smash Bros. for Nintendo 3DS (Crossover)</td>
@@ -707,9 +746,10 @@
 						<td>Keiki Kobayashi, Junichi Nakatsuru, Hiroki Hashimoto, Hiroyuki Kawada, Eriko Sakurai, Akihiro Ishikawa, Yoshinori Hirai</td>
 						<td>Masahiro Sakurai</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Super Smash Bros.</td>
 						<td>GameRankings: N/A, Metacritic: 85/100</td>
-						<td><a href="Website About Me - Resources.md">46</a></td>
+						<td><a href="Website About Me - Resources.html">46</a></td>
 					</tr>
 					<tr>
 						<td>Hyrule Warriors</td>
@@ -723,10 +763,11 @@
 						<td>Single-Player, Multiplayer</td>
 						<td>Masato Koike, Yuki Matsumura</td>
 						<td>Masaki Furusawa</td>
+						<td>Takahiro Kawai</td>
 						<td>None</td>
 						<td>The Legend of Zelda, Dynasty Warriors</td>
 						<td>GameRankings: N/A, Metacritic: 76/100 (Wii U), 70/100 (3DS)
-						<td><a href="Website About Me - Resources.md">47</a></td>
+						<td><a href="Website About Me - Resources.html">47</a></td>
 					</tr>
 					<tr>
 						<td>Deadpool (2013 Antihero Comedy Video Game)</td>
@@ -740,10 +781,11 @@
 						<td>Single-Player</td>
 						<td>Julian Soule</td>
 						<td>Sean Miller</td>
+						<td>Joseph Shackelford</td>
 						<td>Unreal Engine 3</td>
 						<td>Marvel Universe</td>
-						<td>GameRankings: 65.76% (Xbox 360), 57.50%(PS4), 47.50% (Xbox One), Metacritic: 62/100 (Xbox 360), 60/100 (PS4), N/A (Xbox One)</td>
-						<td><a href="Website About Me - Resources.md">48</a></td>
+						<td>GameRankings: 65.76% (Xbox 360), 57.50% (PS4), 47.50% (Xbox One), Metacritic: 62/100 (Xbox 360), 60/100 (PS4), N/A (Xbox One)</td>
+						<td><a href="Website About Me - Resources.html">48</a></td>
 					</tr>
 					<tr>
 						<td>Mario Kart 8</td>
@@ -752,15 +794,16 @@
 						<td>Everyone</td>
 						<td>Kart Racing</td>
 						<td>May 30, 2014 (Wii U), April 28, 2017 (Switch)</td>
-						<td>Nintendo Entertainment Analysis & Development (EAD)</td>
+						<td>Nintendo Entertainment Analysis & Development (EAD) (Wii U), Nintendo Entertainment Planning & Design (EPD) (Switch)</td>
 						<td>Nintendo</td>
 						<td>Single-Player, Multiplayer</td>
 						<td>Atsuko Asahi, Shiho Fujii, Ryo Nagamatsu, Yasuki Iwata</td>
 						<td>Kosuke Yabuki</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Mario Kart</td>
 						<td>GameRankings: N/A, Metacritic: 88/100 (Wii U), 92/100 (Switch)</td>
-						<td><a href="Website About Me - Resources.md">49</a>, <a href="Website About Me - Resources.md">4</a></td>
+						<td><a href="Website About Me - Resources.html">49</a>, <a href="Website About Me - Resources.html">4</a></td>
 					</tr>
 					<tr>
 						<td>The Legend of Zelda: Breath of the Wild</td>
@@ -775,9 +818,10 @@
 						<td>Manaka Kataoka, Yasuaki Iwata</td>
 						<td>Hidemaro Fujibayashi</td>
 						<td>None</td>
+						<td>None</td>
 						<td>The Legend of Zelda</td>
 						<td>GameRankings: N/A, Metacritic: 97/100</td>
-						<td><a href="Website About Me - Resources.md">50</a>, <a href="Website About Me - Resources.md">36</a></td>
+						<td><a href="Website About Me - Resources.html">50</a>, <a href="Website About Me - Resources.html">36</a></td>
 					</tr>
 					<tr>
 						<td>Lego City Undercover</td>
@@ -793,8 +837,9 @@
 						<td>Matt Palmer</td>
 						<td>None</td>
 						<td>None</td>
+						<td>None</td>
 						<td>GameRankings: N/A, Metacritic: 78/100</td>
-						<td><a href="Website About Me - Resources.md">51</a>, <a href="Website About Me - Resources.md">52</a></td>
+						<td><a href="Website About Me - Resources.html">51</a>, <a href="Website About Me - Resources.html">52</a>, <a href="Website About Me - Resources.html">53</a></td>
 					</tr>
 					<tr>
 						<td>Metroid Prime: Federation Force (Co-Op Game)</td>
@@ -808,10 +853,11 @@
 						<td>Single-Player, Multiplayer</td>
 						<td>Chad York, Darren Radtke, Mike Peacock</td>
 						<td>Jason Carr</td>
+						<td>Bryce Holliday</td>
 						<td>None</td>
 						<td>Metroid</td>
 						<td>GameRankings: N/A, Metacritic: 64/100</td>
-						<td><a href="Website About Me - Resources.md">53</a></td>
+						<td><a href="Website About Me - Resources.html">54</a></td>
 					</tr>
 					<tr>
 						<td>Metroid Prime (First-Person Game)</td>
@@ -826,9 +872,10 @@
 						<td>Kenji Yamamoto, Kouichi Kyuma</td>
 						<td>Mark Pacini</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Metroid</td>
 						<td>GameRankings: N/A, Metacritic: 97/100</td>
-						<td><a href="Website About Me - Resources.md">54</a></td>
+						<td><a href="Website About Me - Resources.html">55</a></td>
 					</tr>
 					<tr>
 						<td>Metroid Prime 2: Echoes (First-Person Game)</td>
@@ -843,9 +890,10 @@
 						<td>Kenji Yamamoto</td>
 						<td>Mark Pacini</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Metroid</td>
 						<td>GameRankings: 91.97%, Metacritic: 92/100</td>
-						<td><a href="Website About Me - Resources.md">55</a></td>
+						<td><a href="Website About Me - Resources.html">56</a></td>
 					</tr>
 					<tr>
 						<td>Metroid Prime 3: Corruption (First-Person Game)</td>
@@ -860,9 +908,10 @@
 						<td>Kenji Yamamoto, Minako Hamano, Masaru Tajima</td>
 						<td>Mark Pacini</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Metroid</td>
 						<td>GameRankings: N/A, Metacritic: 90/100</td>
-						<td><a href="Website About Me - Resources.md">56</a></td>
+						<td><a href="Website About Me - Resources.html">57</a></td>
 					</tr>
 					<tr>
 						<td>Metroid: Other M</td>
@@ -877,9 +926,10 @@
 						<td>Kuniaki Haishima</td>
 						<td>Yoshio Sakamoto, Yosuke Hayashi, Takehiko Hosokawa</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Metroid</td>
 						<td>GameRankings: N/A, Metacritic: 79/100</td>
-						<td><a href="Website About Me - Resources.md">57</a></td>
+						<td><a href="Website About Me - Resources.html">58</a></td>
 					</tr>
 					<tr>
 						<td>Assassin's Creed II</td>
@@ -892,11 +942,12 @@
 						<td>Ubisoft</td>
 						<td>Single-Player</td>
 						<td>Jesper Kyd</td>
-						<td>Patrice Desilets</td>
+						<td>Patrice D&eacute;silets</td>
+						<td>Benoit Lambert, Jamal Rguigui, Vincent Pontbriand</td>
 						<td>Anvil</td>
 						<td>Assassin's Creed</td>
 						<td>GameRankings: 90.01% (Xbox 360), N/A (PS4), Metacritic: 90/100 (Xbox 360), N/A (PS4)</td>
-						<td><a href="Website About Me - Resources.md">58</a></td>
+						<td><a href="Website About Me - Resources.html">59</a></td>
 					</tr>
 					<tr>
 						<td>Assassin's Creed: Brotherhood</td>
@@ -910,10 +961,11 @@
 						<td>Single-Player, Multiplayer</td>
 						<td>Jesper Kyd</td>
 						<td>Patrick Plourde</td>
+						<td>Steven Masters</td>
 						<td>Anvil</td>
 						<td>Assassin's Creed</td>
 						<td>GameRankings: 90.55% (Xbox 360), N/A (PS4), Metacritic: 89/100 (Xbox 360), N/A (PS4)</td>
-						<td><a href="Website About Me - Resources.md">59</a></td>
+						<td><a href="Website About Me - Resources.html">60</a></td>
 					</tr>
 					<tr>
 						<td>Assassin's Creed: Revelations</td>
@@ -927,10 +979,11 @@
 						<td>Single-Player, Multiplayer</td>
 						<td>Jesper Kyd, Lorne Balfe</td>
 						<td>Alex Amancio</td>
+						<td>Daniel McCabe</td>
 						<td>Anvil</td>
 						<td>Assassin's Creed</td>
 						<td>GameRankings: 79.37% (Xbox 360), N/A (PS4), Metacritic: 80/100 (Xbox 360), N/A (PS4)</td>
-						<td><a href="Website About Me - Resources.md">60</a></td>
+						<td><a href="Website About Me - Resources.html">61</a></td>
 					</tr>
 					<tr>
 						<td>Batman: Arkham Asylum</td>
@@ -944,10 +997,11 @@
 						<td>Single-Player</td>
 						<td>Nick Arundel, Ron Fish</td>
 						<td>Sefton Hill</td>
+						<td>None</td>
 						<td>Unreal Engine 3</td>
 						<td>Batman: Arkham</td>
 						<td>GameRankings: N/A, Metacritic: 92/100 (Xbox 360), N/A (PS4 and Xbox One)</td>
-						<td><a href="Website About Me - Resources.md">61</a></td>
+						<td><a href="Website About Me - Resources.html">62</a></td>
 					</tr>
 					<tr>
 						<td>Batman: Arkham City</td>
@@ -961,10 +1015,11 @@
 						<td>Single-Player</td>
 						<td>Nick Arundel, Ron Fish</td>
 						<td>Sefton Hill</td>
+						<td>None</td>
 						<td>Unreal Engine 3</td>
 						<td>Batman: Arkham</td>
 						<td>GameRankings: N/A, Metacritic: 94/100 (Xbox 360), 85/100 (Wii U), N/A (Xbox One and PS4)</td>
-						<td><a href="Website About Me - Resources.md">62</a></td>
+						<td><a href="Website About Me - Resources.html">63</a></td>
 					</tr>
 					<tr>
 						<td>Sonic Lost World</td>
@@ -979,9 +1034,10 @@
 						<td>Tomoya Ohtani, Takahito Eguchi</td>
 						<td>Morio Kishimoto (Wii U), Takao Hirabayashi (3DS)</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Sonic the Hedgehog</td>
 						<td>GameRankings: N/A, Metacritic: 63/100 (Wii U), 59/100 (3DS)</td>
-						<td><a href="Website About Me - Resources.md">63</a></td>
+						<td><a href="Website About Me - Resources.html">64</a></td>
 					</tr>
 					<tr>
 						<td>Super Smash Bros. For Wii U (Crossover)</td>
@@ -996,9 +1052,10 @@
 						<td>Keiki Kobayashi, Junichi Nakatsuru, Hiroki Hashimoto, Hiroyuki Kawada, Eriko Sakurai, Akihiro Ishikawa, Yoshinori Hirai</td>
 						<td>Masahiro Sakurai</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Super Smash Bros.</td>
 						<td>GameRankings: N/A, Metacritic: 92/100</td>
-						<td><a href="Website About Me - Resources.md">43</a></td>
+						<td><a href="Website About Me - Resources.html">43</a></td>
 					</tr>
 					<tr>
 						<td>Super Smash Bros. (Crossover Video Game)</td>
@@ -1013,9 +1070,10 @@
 						<td>Hirokazu Ando</td>
 						<td>Masahiro Sakurai</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Super Smash Bros.</td>
 						<td>GameRankings: 78.81%, Metacritic: 79/100</td>
-						<td><a href="Website About Me - Resources.md">64</a></td>
+						<td><a href="Website About Me - Resources.html">65</a></td>
 					</tr>
 					<tr>
 						<td>Sonic Generations</td>
@@ -1030,9 +1088,10 @@
 						<td>Jun Senoue</td>
 						<td>Hiroshi Miyamoto, Tetsu Katano (3DS)</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Sonic the Hedgehog</td>
 						<td>GameRankings: N/A, Metacritic: 77/100 (Xbox 360), 66/100 (3DS)</td>
-						<td><a href="Website About Me - Resources.md">65</a></td>
+						<td><a href="Website About Me - Resources.html">66</a></td>
 					</tr>
 					<tr>
 						<td>Super Smash Bros. Melee (Crossover)</td>
@@ -1046,10 +1105,11 @@
 						<td>Single-Player, Multiplayer</td>
 						<td>Hirokazu Ando, Shogo Sakai, Tadashi Ikegami</td>
 						<td>Masahiro Sakurai</td>
+						<td>Masahiro Sakurai</td>
 						<td>None</td>
 						<td>Super Smash Bros.</td>
 						<td>GameRankings: 90.52%, Metacritic: 92/100</td>
-						<td><a href="Website About Me - Resources.md">66</a></td>
+						<td><a href="Website About Me - Resources.html">67</a></td>
 					</tr>
 					<tr>
 						<td>Super Smash Bros. Brawl (Crossover)</td>
@@ -1064,9 +1124,10 @@
 						<td>Takahiro Nishi, Shogo Sakai, Masaaki Iwasaki, Yutaka Iraha, Keigo Ozaki, Kentaro Ishizaka</td>
 						<td>Masahiro Sakurai</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Super Smash Bros.</td>
 						<td>GameRankings: 92.84%, Metacritic: 93/100</td>
-						<td><a href="Website About Me - Resources.md">67</a></td>
+						<td><a href="Website About Me - Resources.html">68</a></td>
 					</tr>
 					<tr>
 						<td>Call of Duty: Black Ops</td>
@@ -1080,10 +1141,11 @@
 						<td>Single-Player, Multiplayer</td>
 						<td>Sean Murray</td>
 						<td>Dave Anthony</td>
+						<td>Corky Lehmukuhl, David Vonderhaar, Joe Chiang</td>
 						<td>IW Engine</td>
 						<td>Call of Duty</td>
 						<td>GameRankings: 87.56%, Metacritic: 87/100</td> 
-						<td><a href="Website About Me - Resources.md">68</a></td>
+						<td><a href="Website About Me - Resources.html">69</a></td>
 					</tr>
 					<tr>
 						<td>Call of Duty: Black Ops II</td>
@@ -1097,10 +1159,11 @@
 						<td>Single-Player, Multiplayer</td>
 						<td>Jack Wall, Trent Reznor (Main Theme)</td>
 						<td>Dave Anthony</td>
+						<td>None</td>
 						<td>IW Engine</td>
 						<td>Call of Duty</td>
 						<td>GameRankings: 86.07% (Wii U), 85.53% (Xbox 360), Metacritic: 83/100 (Xbox 360), 81/100 (Wii U)</td>
-						<td><a href="Website About Me - Resources.md">69</a></td>
+						<td><a href="Website About Me - Resources.html">70</a></td>
 					</tr>
 					<tr>
 						<td>Call of Duty: Modern Warfare 2</td>
@@ -1114,10 +1177,11 @@
 						<td>Single-Player, Multiplayer</td>
 						<td>Lorne Balfe, Hans Zimmer (Main Theme)</td>
 						<td>Jason West</td>
+						<td>Todd Alderman, Steve Fukuda, Mohammad Alavi</td>
 						<td>IW Engine</td>
 						<td>Call of Duty</td>
 						<td>GameRankings: 93.57%, Metacritic: 94/100</td>
-						<td><a href="Website About Me - Resources.md">70</a></td>
+						<td><a href="Website About Me - Resources.html">71</a></td>
 					</tr>
 					<tr>
 						<td>Call of Duty: Modern Warfare 3</td>
@@ -1131,10 +1195,11 @@
 						<td>Single-Player, Multiplayer</td>
 						<td>Brian Tyler</td>
 						<td>Steve Pearce (Creative), Steve Ackrich (Production)</td>
+						<td>Calvin Smith, Michael Condrey, Jon Porter</td>
 						<td>IW Engine</td>
 						<td>Call of Duty</td>
 						<td>GameRankings: 88.49%, Metacritic: 88/100</td>
-						<td><a href="Website About Me - Resources.md">71</a></td>
+						<td><a href="Website About Me - Resources.html">72</a></td>
 					</tr>
 					<tr>
 						<td>Street Fighter IV</td>
@@ -1148,10 +1213,11 @@
 						<td>Single-Player, Multiplayer</td>
 						<td>Hideyuki Fukasawa</td>
 						<td>Takashi Tsukamoto</td>
+						<td>Hirotoshi Shiozaki</td>
 						<td>None</td>
 						<td>Street Fighter</td>
 						<td>GameRankings: N/A, Metacritic: 93/100</td>
-						<td><a href="Website About Me - Resources.md">72</a></td>
+						<td><a href="Website About Me - Resources.html">73</a></td>
 					</tr>
 					<tr>
 						<td>Call of Duty: WWII</td>
@@ -1164,11 +1230,12 @@
 						<td>Activision</td>
 						<td>Single-Player, Multiplayer</td>
 						<td>Wilbert Roget II</td>
-						<td>Bret Robbins, Dennis Adams</td>
+						<td>Glen Schofield, Michael Condrey</td>
+						<td>None</td>
 						<td>None</td>
 						<td>Call of Duty</td>
 						<td>GameRankings: N/A, Metacritic: 81/100</td>
-						<td><a href="Website About Me - Resources.md">73</a></td>
+						<td><a href="Website About Me - Resources.html">74</a></td>
 					</tr>
 					<tr>
 						<td>Call of Duty: World at War</td>
@@ -1181,11 +1248,12 @@
 						<td>Activision</td>
 						<td>Single-Player, Multiplayer</td>
 						<td>Sean Murray</td>
-						<td>Cear Stastny</td>
+						<td>Cesar Stastny</td>
+						<td>Jeremy Luyities, Jesse Synder</td>
 						<td>IW Engine</td>
 						<td>Call of Duty</td>
 						<td>GameRankings: 85.57%, Metacritic: 84/100</td>
-						<td><a href="Website About Me - Resources.md">74</a></td>
+						<td><a href="Website About Me - Resources.html">75</a></td>
 					</tr>
 					<tr>
 						<td>Call of Duty 2</td>
@@ -1199,10 +1267,11 @@
 						<td>Single-Player, Multiplayer</td>
 						<td>Graeme Revell</td>
 						<td>Jason West</td>
+						<td>Mohammad Alavi, Mackey McCandlish, Zied Rieke</td>
 						<td>IW Engine v2.0</td>
 						<td>Call of Duty</td>
 						<td>GameRankings: 89.78%, Metacritic: 89/100</td>
-						<td><a href="Website About Me - Resources.md">75</a></td>
+						<td><a href="Website About Me - Resources.html">76</a></td>
 					</tr>
 					<tr>
 						<td>Call of Duty 3</td>
@@ -1216,10 +1285,11 @@
 						<td>Single-Player, Multiplayer</td>
 						<td>Joel Goldsmith</td>
 						<td>Richard Farrelly</td>
+						<td>None</td>
 						<td>Treyarch NGL</td>
 						<td>Call of Duty</td>
 						<td>GameRankings: 82.36%, Metacritic: 82/100</td>
-						<td><a href="Website About Me - Resources.md">76</a></td>
+						<td><a href="Website About Me - Resources.html">77</a></td>
 					</tr>
 					<tr>
 						<td>The Amazing Spider-Man (2012 Video Game)</td>
@@ -1234,9 +1304,10 @@
 						<td>Gerard Marino, Inon Zur</td>
 						<td>Gerard Lehiany</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Spider-Man</td>
 						<td>GameRankings: 70.87% (Xbox 360), 68.43% (Wii U), 56.67 (3DS), Metacritic: 69/100 (Xbox 360), 66/100 (Wii U), 55/100 (3DS)</td>
-						<td><a href="Website About Me - Resources.md">77</a></td>
+						<td><a href="Website About Me - Resources.html">78</a></td>
 					</tr>
 					<tr>
 						<td>The Amazing Spider-Man 2 (2014 Video Game)</td>
@@ -1251,9 +1322,10 @@
 						<td>Samuel Laflamme</td>
 						<td>Thomas Wilson</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Spider-Man</td>
 						<td>GameRankings: 54.02% (PS4), 55.60% (Xbox 360), 55.20% (Xbox One), N/A (3DS and Wii U), Metacritic: 50/100 (PS4), 51/100 (Xbox One), N/A (3DS, Xbox 360, Wii U)</td>
-						<td><a href="Website About Me - Resources.md">78</a></td>
+						<td><a href="Website About Me - Resources.html">79</a></td>
 					</tr>
 					<tr>
 						<td>Mortal Kombat X</td>
@@ -1267,10 +1339,11 @@
 						<td>Single-Player, Multiplayer</td>
 						<td>Tilman Sillescu, Dynamedion, Richard Carle, Dan Forden</td>
 						<td>Ed Boon</td>
+						<td>John Edwards, Paulo Garcia</td>
 						<td>Unreal Engine 3</td>
 						<td>Mortal Kombat</td>
 						<td>GameRankings: N/A, Metacritic: 86/100 (Xbox One), 83/100 (PS4)</td>
-						<td><a href="Website About Me - Resources.md">79</a></td>
+						<td><a href="Website About Me - Resources.html">80</a></td>
 					</tr>
 					<tr>
 						<td>Mortal Kombat XL</td>
@@ -1284,10 +1357,11 @@
 						<td>Single-Player, Multiplayer</td>
 						<td>Tilman Sillescu, Dynamedion, Richard Carle, Dan Forden</td>
 						<td>Ed Boon</td>
+						<td>John Edwards, Paulo Garcia</td>
 						<td>Unreal Engine 3</td>
 						<td>Mortal Kombat</td>
 						<td>GameRankings: N/A, Metacritic: 86/100 (Xbox One), 83/100 (PS4)</td>
-						<td><a href="Website About Me - Resources.md">79</a></td>
+						<td><a href="Website About Me - Resources.html">80</a></td>
 					</tr>
 					<tr>
 						<td>Sonic Colors</td>
@@ -1301,10 +1375,11 @@
 						<td>Single-Player, Multiplayer</td>
 						<td>Tomoya Ohtani, Kenichi Tokoi, Fumie Kumatani, Hideaki Kobayashi, Mariko Nanba, Naofumi Hataya</td>
 						<td>Morio Kishimoto (Wii), Takao Hirabayashi (DS)</td>
+						<td>Morio Kishimoto (Wii), Yuka Hirabayashi (DS)</td>
 						<td>None</td>
 						<td>Sonic the Hedgehog</td>
 						<td>GameRankings: N/A, Metacritic: 79/100 (DS), 78/100 (Wii)</td>
-						<td><a href="Website About Me - Resources.md">80</a></td>
+						<td><a href="Website About Me - Resources.html">81</a></td>
 					</tr>
 					<tr>
 						<td>Super Mario Sunshine</td>
@@ -1319,9 +1394,10 @@
 						<td>Koji Kondo, Shinobu Tanaka</td>
 						<td>Yoshiaki Koizumi, Kenta Usui</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Super Mario</td>
 						<td>GameRankings: 92%, Metacritic: 92/100</td>
-						<td><a href="Website About Me - Resources.md">81</a>, <a href="Website About Me - Resources.md">4</a></td>
+						<td><a href="Website About Me - Resources.html">82</a>, <a href="Website About Me - Resources.html">4</a></td>
 					</tr>
 					<tr>
 						<td>Super Mario 64</td>
@@ -1336,9 +1412,10 @@
 						<td>Koji Kondo</td>
 						<td>Shigeru Miyamoto, Yoshiaki Koizumi, Takashi Tezuka</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Super Mario</td>
 						<Td>GameRankings: 96.41%, Metacritic: 94/100</td>
-						<td><a href="Website About Me - Resources.md">82</a>, <a href="Website About Me - Resources.md">83</a>, <a href="Website About Me - Resources.md">4</a></td>
+						<td><a href="Website About Me - Resources.html">83</a>, <a href="Website About Me - Resources.html">84</a>, <a href="Website About Me - Resources.html">4</a></td>
 					</tr>
 					<tr>
 						<td>Super Mario 64 DS</td>
@@ -1353,9 +1430,10 @@
 						<td>Koji Kondo</td>
 						<td>Shinichi Ikematsu</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Super Mario</td>
 						<td>GameRankings: 86%, Metacritic: 85/100</td>
-						<td><a href="Website About Me - Resources.md">84</a>, <a href="Website About Me - Resources.md">4</a></td>
+						<td><a href="Website About Me - Resources.html">85</a>, <a href="Website About Me - Resources.html">4</a></td>
 					</tr>
 					<tr>
 						<td>Super Mario World</td>
@@ -1370,9 +1448,10 @@
 						<td>Koji Kondo</td>
 						<td>Takashi Tezuka</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Super Mario</td>
 						<td>GameRankings: 94%, Metacritic: N/A</td>
-						<td><a href="Website About Me - Resources.md">85</a>, <a href="Website About Me - Resources.md">83</a>, <a href="Website About Me - Resources.md">4</a></td>
+						<td><a href="Website About Me - Resources.html">86</a>, <a href="Website About Me - Resources.html">83</a>, <a href="Website About Me - Resources.html">4</a></td>
 					</tr>
 					<tr>
 						<td>Ultimate Spider-Man (Video Game)</td>
@@ -1386,10 +1465,11 @@
 						<td>Single-Player</td>
 						<td>Kevin Manthei</td>
 						<td>Brian Michael Bendis, Christopher A. Busse</td>
+						<td>Brian Reed</td>
 						<td>None</td>
 						<td>Spider-Man</td>
 						<td>GameRankings: 75.41%, Metacritic: 76/100</td>
-						<td><a href="Website About Me - Resources.md">86</a></td>
+						<td><a href="Website About Me - Resources.html">87</a></td>
 					</tr>
 					<tr>
 						<td>Spider-Man: Web of Shadows</td>
@@ -1404,9 +1484,10 @@
 						<td>Jamie Christopherson</td>
 						<td>Bradley Meyer</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Spider-Man</td>
 						<td>GameRankings: 68.37%, Metacritic: 68/100</td>
-						<td><a href="Website About Me - Resources.md">87</a>, <a href="Website About Me - Resources.md">88</a></td>
+						<td><a href="Website About Me - Resources.html">88</a>, <a href="Website About Me - Resources.html">89</a></td>
 					</tr>
 					<tr>
 						<td>Call of Duty: Modern Warfare Remastered</td>
@@ -1421,9 +1502,10 @@
 						<td>Stephan Barton</td>
 						<td>David Pellas</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Call of Duty</td>
 						<td>GameRankings: N/A, Metacritic: 89/100 (Xbox One), 83/100 (PS4)</td>
-						<td><a href="Website About Me - Resources.md">89</a></td>
+						<td><a href="Website About Me - Resources.html">90</a></td>
 					</tr>
 					<tr>
 						<td>Crash Bandicoot: Warped</td>
@@ -1437,10 +1519,11 @@
 						<td>Single-Player</td>
 						<td>Josh Mancell</td>
 						<td>Jason Rubin</td>
+						<td>Evan Wells</td>
 						<td>None</td>
 						<td>Crash Bandicoot</td>
 						<td>GameRankings: 89.07%, Metacritic: 91/100</td>
-						<td><a href="Website About Me - Resources.md">90</a></td>
+						<td><a href="Website About Me - Resources.html">91</a></td>
 					</tr>
 					<tr>
 						<td>Halo 5: Guardians</td>
@@ -1454,10 +1537,11 @@
 						<td>Single-Player, Multiplayer</td>
 						<td>Kazuma Jinnouchi</td>
 						<td>Tim Longo</td>
+						<td>Chris Haluke</td>
 						<td>None</td>
 						<td>Halo</td>
 						<td>GameRankings: N/A, Metacritic: 84/100</td>
-						<td><a href="Website About Me - Resources.md">91</a></td>
+						<td><a href="Website About Me - Resources.html">92</a></td>
 					</tr>
 					<tr>
 						<td>Sonic Adventure 2 Battle</td>
@@ -1472,9 +1556,10 @@
 						<td>Jun Senoue, Kenichi Tokoi, Fumie Kumatani, Tomoya Ohtani</td>
 						<td>Takashi Iizuka</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Sonic the Hedgehog</td>
 						<td>GameRankings: N/A, Metacritic: N/A</td>
-						<td><a href="Website About Me - Resources.md">92</a></td>
+						<td><a href="Website About Me - Resources.html">93</a></td>
 					</tr>
 					<tr>
 						<td>Shadow the Hedgehog (Video Game)</td>
@@ -1488,10 +1573,11 @@
 						<td>Single-Player, Multiplayer, Co-Op</td>
 						<td>Jun Senoue, Yutaka Minobe, Tomoya Ohtani, Mariko Nanba</td>
 						<td>Takashi Iizuka</td>
+						<td>Takashi Iizuka</td>
 						<td>RenderWare</td>
 						<td>Sonic the Hedgehog</td>
 						<td>GameRankings: 53.10%, Metacritic: 51/100</td>
-						<td><a href="Website About Me - Resources.md">93</a></td>
+						<td><a href="Website About Me - Resources.html">94</a></td>
 					</tr>
 					<tr>
 						<td>Sonic Unleashed</td>
@@ -1506,9 +1592,10 @@
 						<td>Tomoya Ohtani, Fumie Kumatani, Kenichi Tokoi, Hideaki Kobayashi, Takahito Eguchi</td>
 						<td>Yoshihisa Nishiyama</td>
 						<td>None</td>
+						<td>Hedgehog Engine</td>
 						<td>Sonic the Hedgehog</td>
 						<td>GameRankings: N/A, Metacritic: 66/100 (Wii), 60/100 (Xbox 360)</td>
-						<td><a href="Website About Me - Resources.md">94</a></td>
+						<td><a href="Website About Me - Resources.html">95</a></td>
 					</tr>
 					<tr>
 						<td>Sonic the Hedgehog (2006 Video Game)</td>
@@ -1523,9 +1610,10 @@
 						<td>Hideaki Kobayashi, Tomoya Ohtani, Mariko Nanba, Taihei Sato, Takahito Eguchi</td>
 						<td>Shun Nakamura</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Sonic the Hedgehog</td>
 						<td>GameRankings: N/A, Metacritic: 46/100</td>
-						<td><a href="Website About Me - Resources.md">95</a></td>
+						<td><a href="Website About Me - Resources.html">96</a></td>
 					</tr>
 					<tr>
 						<td>Sonic Heroes</td>
@@ -1539,10 +1627,11 @@
 						<td>Single-Player, Multiplayer</td>
 						<td>Jun Senoue</td>
 						<td>Takashi Iizuka</td>
+						<td>None</td>
 						<td>RenderWare</td>
 						<td>Sonic the Hedgehog</td>
 						<Td>GameRankings: 74.27% (GameCube), 70.58% (PS2), Metacritic: 72/100 (GameCube), 64/100 (PS2)</td>
-						<td><a href="Website About Me - Resources.md">96</a></td>
+						<td><a href="Website About Me - Resources.html">97</a></td>
 					</tr>
 					<tr>
 						<td>Sonic Adventure DX: Director's Cut</td>
@@ -1557,9 +1646,10 @@
 						<td>Jun Senoue, Fumie Kumatani, Kenichi Tokoi, Masaru Setsumaru</td>
 						<td>Takashi Iizuka</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Sonic the Hedgehog</td>
 						<td>GameRankings: N/A, Metacritic: N/A</td>
-						<td><a href="Website About Me - Resources.md">97</a></td>
+						<td><a href="Website About Me - Resources.html">98</a></td>
 					</tr>
 					<tr>
 						<td>Super Mario Galaxy</td>
@@ -1573,10 +1663,11 @@
 						<td>Single-Player, Multiplayer</td>
 						<td>Mahito Yokota, Koji Kondo</td>
 						<td>Yoshiaki Koizumi</td>
+						<td>Yoshiaki Koizumi, Shigeru Miyamoto</td>
 						<td>None</td>
 						<td>Super Mario</td>
 						<td>GameRankings: 97.64%, Metacritic: 97/100</td>
-						<td><a href="Website About Me - Resources.md">98</a>, <a href="Website About Me - Resources.md">4</a></td>
+						<td><a href="Website About Me - Resources.html">99</a>, <a href="Website About Me - Resources.html">4</a></td>
 					</tr>
 					<tr>
 						<td>Super Mario Galaxy 2</td>
@@ -1590,10 +1681,11 @@
 						<td>Single-Player, Multiplayer</td>
 						<td>Mahito Yokota, Ryo Nagamatsu, Koji Kondo</td>
 						<td>Koichi Hayashida</td>
+						<td>Kenta Motokura</td>
 						<td>None</td>
 						<td>Super Mario</td>
 						<td>GameRankings: 97.35%, Metacritic: 97/100</td>
-						<td><a href="Website About Me - Resources.md">99</a>, <a href="Website About Me - Resources.md">4</a></td>
+						<td><a href="Website About Me - Resources.html">100</a>, <a href="Website About Me - Resources.html">4</a></td>
 					</tr>
 					<tr>
 						<td>Crash Bandicoot: The Wrath of Cortex</td>
@@ -1607,10 +1699,11 @@
 						<td>Single-Player</td>
 						<td>Andy Blythe, Marten Joustra</td>
 						<td>Jon Burton</td>
+						<td>Arthur Parsons, Jon Burton, James Cunliffe</td>
 						<td>None</td>
 						<td>Crash Bandicoot</td>
 						<td>GameRankings: 70.12% (PS2), 63.28% (GameCube), Metacritic: 66/100 (PS2), 62/100 (GameCube)</td>
-						<td><a href="Website About Me - Resources.md">100</a></td>
+						<td><a href="Website About Me - Resources.html">101</a></td>
 					</tr>
 					<tr>
 						<td>Assassin's Creed III</td>
@@ -1624,10 +1717,11 @@
 						<td>Single-Player, Multiplayer</td>
 						<td>Lorne Balfe</td>
 						<td>Alex Hutchinson</td>
+						<td>Steven Masters</td>
 						<td>AnvilNext</td>
 						<td>Assassin's Creed</td>
 						<td>GameRankings: 84.92%, Metacritic: 84/100</td>
-						<td><a href="Website About Me - Resources.md">101</a></td>
+						<td><a href="Website About Me - Resources.html">102</a></td>
 					</tr>
 					<tr>
 						<td>Pokk&eacute;n Tournament</td>
@@ -1641,10 +1735,11 @@
 						<td>Single-Player, Multiplayer</td>
 						<td>Hiroki Hashimoto, Hiroyuki Kawada, Rio Hanamoto, Taku Inoue, Eriko Sakurai, Yoshinori Sato, Mitsuhiro Kitadani, Yu Sugimoto, Shota Kageyama</td>
 						<td>Haruki Suzaki</td>
+						<td>Yasuhito Kobayashi</td>
 						<td>None</td>
 						<td>Pok&eacute;mon, Tekken</td>
 						<td>GameRankings: N/A, Metacritic: 76/100</td>
-						<td><a href="Website About Me - Resources.md">102</a></td>
+						<td><a href="Website About Me - Resources.html">103</a></td>
 					</tr>
 					<tr>
 						<td>Pikmin 3</td>
@@ -1658,10 +1753,11 @@
 						<td>Single-Player, Multiplayer</td>
 						<td>Asuka Hayazaki, Atsuko Asahi, Hajime Wakai</td>
 						<td>Shigefumi Hino, Yuji Kando</td>
+						<td>Keisuke Nishimori, Atsushi Miyagi, Takafumi Kiuchi, Takuro Shimizu</td>
 						<td>None</td>
 						<td>Pikmin</td>
 						<td>GameRankings: 87%, Metacritic: 87/100</td>
-						<td><a href="Website About Me - Resources.md">103</a>, <a href="Website About Me - Resources.md">4</a></td>
+						<td><a href="Website About Me - Resources.html">104</a>, <a href="Website About Me - Resources.html">4</a></td>
 					</tr>
 					<tr>
 						<td>Pikmin</td>
@@ -1676,9 +1772,10 @@
 						<td>Hajime Wakai</td>
 						<td>Shigefumi Hino, Masamichi Abe</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Pikmin</td>
 						<td>GameRankings: 86.71% (GameCube), 79.31% (Wii), Metacritic: 89/100 (GameCube), 77/100 (Wii)</td>
-						<td><a href="Website About Me - Resources.md">104</a>, <a href="Website About Me - Resources.md">4</a></td>
+						<td><a href="Website About Me - Resources.html">105</a>, <a href="Website About Me - Resources.html">4</a></td>
 					</tr>
 					<tr>
 						<td>Metroid Prime: Trilogy (First-Person Game)</td>
@@ -1693,9 +1790,10 @@
 						<td>Kenji Yamamoto</td>
 						<td>Mark Pacini</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Metroid</td>
 						<td>GameRankings: 92.35%, Metacritic: 91/100</td>
-						<td><a href="Website About Me - Resources.md">105</a></td>
+						<td><a href="Website About Me - Resources.html">106</a></td>
 					</tr>
 					<tr>
 						<td>Donkey Kong Country Returns</td>
@@ -1709,10 +1807,11 @@
 						<td>Single-Player, Multiplayer</td>
 						<td>Minako Hamano, Masaru Tajima, Shinji Ushiroda, Daisuke Matsuoka, Kenji Yamamoto</td>
 						<td>Bryan Walker</td>
+						<td>Kynan Pearson, Mike Wikan, Tom Ivey</td>
 						<td>None</td>
 						<td>Donkey Kong Country, Donkey Kong</td>
 						<td>GameRankings: 87.79%, Metacritic: 87/100</td>
-						<td><a href="Website About Me - Resources.md">106</a></td>
+						<td><a href="Website About Me - Resources.html">107</a></td>
 					</tr>
 					<tr>
 						<td>New Super Mario Bros. U</td>
@@ -1726,10 +1825,11 @@
 						<td>Single-Player, Multiplayer</td>
 						<td>Shiho Fujii, Mahito Yokota</td>
 						<td>Masataka Takemota</td>
+						<td>Shigeyuki Asuke, Daiki Iwamoto, Ryutaro Kanno</td>
 						<td>None</td>
 						<td>Super Mario</td>
 						<td>GameRankings: 84.48%, Metacritic: 84/100</td>
-						<td><a href="Website About Me - Resources.md">107</a>, <a href="Website About Me - Resources.md">4</a></td>
+						<td><a href="Website About Me - Resources.html">108</a>, <a href="Website About Me - Resources.html">4</a></td>
 					</tr>
 					<tr>
 						<td>Super Mario 3D World</td>
@@ -1744,9 +1844,10 @@
 						<td>Mahito Yokota, Toru Minegishi, Koji Kondo, Yasuaki Iwata</td>
 						<td>Koichi Hayashida, Kenta Motokura</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Super Mario</td>
 						<td>GameRankings: 93%, Metacritic: 93/100</td>
-						<td><a href="Website About Me - Resources.md">108</a>, <a href="Website About Me - Resources.md">4</a></td>
+						<td><a href="Website About Me - Resources.html">109</a>, <a href="Website About Me - Resources.html">4</a></td>
 					</tr>
 					<tr>
 						<td>New Super Mario Bros. Wii</td>
@@ -1761,9 +1862,10 @@
 						<td>Shiho Fujii, Ryo Nagamatsu, Kenta Nagata</td>
 						<td>Shigeyuki Asuke</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Super Mario</td>
 						<td>GameRankings: 88.18%, Metacritic: 87/100</td>
-						<td><a href="Website About Me - Resources.md">109</a>, <a href="Website About Me - Resources.md">4</a></td>
+						<td><a href="Website About Me - Resources.html">110</a>, <a href="Website About Me - Resources.html">4</a></td>
 					</tr>
 					<tr>
 						<td>Assassin's Creed Syndicate</td>
@@ -1777,10 +1879,11 @@
 						<td>Single-Player</td>
 						<td>Austin Wintory</td>
 						<td>Marc-Alexis Cote, Scott Philips, Wesley Pincombe</td>
+						<td>Fr&eacute;d&eacute;ric St-Laurent B.</td>
 						<td>AnvilNext 2.0</td>
 						<td>Assassin's Creed</td>
 						<td>GameRankings: N/A, Metacritic: 78/100 (Xbox One)</td>
-						<td><a href="Website About Me - Resources.md">110</a></td>
+						<td><a href="Website About Me - Resources.html">111</a></td>
 					</tr>
 					<tr>
 						<td>Assassin's Creed IV: Black Flag</td>
@@ -1794,10 +1897,11 @@
 						<td>Single-Player, Multiplayer</td>
 						<td>Brian Tyler</td>
 						<td>Jean Guesdon, Ashraf Ismail, Damien Keiken</td>
+						<td>Eric Baptizat, Jean-Sebastien Decant</td>
 						<td>AnvilNext</td>
 						<td>Assassin's Creed</td>
 						<td>GameRankings: N/A, Metacritic: 86/100 (Xbox 360), N/A (Xbox One)</td>
-						<td><a href="Website About Me - Resources.md">111</a></td>
+						<td><a href="Website About Me - Resources.html">112</a></td>
 					</tr>
 					<tr>
 						<td>Sonic Advance</td>
@@ -1812,9 +1916,10 @@
 						<td>Tatsuyuki Maeda, Yutaka Minobe</td>
 						<td>Akinori Nishiyama</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Sonic the Hedgehog</td>
 						<td>GameRankings: N/A, Metacritic: 87/100</td>
-						<td><a href="Website About Me - Resources.md">112</a></td>
+						<td><a href="Website About Me - Resources.html">113</a></td>
 					</tr>
 					<tr>
 						<td>Sonic Advance 2</td>
@@ -1829,9 +1934,10 @@
 						<td>Tatsuyuki Maeda, Yutaka Minobe, Teruhiko Nakagawa</td>
 						<td>Akinori Nishiyama</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Sonic the Hedgehog</td>
 						<td>GameRankings: N/A, Metacritic: 83/100</td>
-						<td><a href="Website About Me - Resources.md">113</a></td>
+						<td><a href="Website About Me - Resources.html">114</a></td>
 					</tr>
 					<tr>
 						<td>Sonic Advance 3</td>
@@ -1846,9 +1952,10 @@
 						<td>Hideaki Kobayashi, Kenichi Tokoi</td>
 						<td>Akinori Nishiyama</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Sonic the Hedgehog</td>
 						<td>GameRankings: 81.37%, Metacritic: 79/100</td>
-						<td><a href="Website About Me - Resources.md">114</a></td>
+						<td><a href="Website About Me - Resources.html">115</a></td>
 					</tr>
 					<tr>
 						<td>Sonic and the Secret Rings</td>
@@ -1862,10 +1969,11 @@
 						<td>Single-Player, Multiplayer</td>
 						<td>Fumie Kumatani, Kenichi Tokoi, Seirou Okamoto, Le Club Bachraf</td>
 						<td>Yojiro Ogawa</td>
+						<td>Morio Kishimoto</td>
 						<td>None</td>
 						<td>Sonic the Hedgehog</td>
 						<td>GameRankings: N/A, Metacritic: 69/100</td>
-						<td><a href="Website About Me - Resources.md">115</a></td>
+						<td><a href="Website About Me - Resources.html">116</a></td>
 					</tr>
 					<tr>
 						<td>Sonic and the Black Knight</td>
@@ -1879,10 +1987,11 @@
 						<td>Single-Player, Multiplayer</td>
 						<td>Jun Senoue, Yutaka Minobe, Richard Jacques, Howard Drossin, Tommy Tallarico</td>
 						<td>Tetsu Katano</td>
+						<td>Morio Kishimoto</td>
 						<td>PhysX</td>
 						<td>Sonic the Hedgehog</td>
 						<td>GameRankings: 55.19%, Metacritic: 54/100</td>
-						<td><a href="Website About Me - Resources.md">116</a></td>
+						<td><a href="Website About Me - Resources.html">117</a></td>
 					</tr>
 					<tr>
 						<td>Super Mario All-Stars</td>
@@ -1897,9 +2006,10 @@
 						<td>Soyo Oka</td>
 						<td>Takashi Tezuka</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Super Mario</td>
 						<td>GameRankings: 90.12%, Metacritic: N/A</td>
-						<td><a href="Website About Me - Resources.md">117</a>, <a href="Website About Me - Resources.md">83</a>, <a href="Website About Me - Resources.md">4</a></td>
+						<td><a href="Website About Me - Resources.html">118</a>, <a href="Website About Me - Resources.html">84</a>, <a href="Website About Me - Resources.html">4</a></td>
 					</tr>
 					<tr>
 						<td>Mario Kart 64</td>
@@ -1914,9 +2024,10 @@
 						<td>Tadashi Sugiyama</td>
 						<td>Hideki Konno</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Mario Kart</td>
 						<td>GameRankings: N/A, Metacritic: 83/100</td>
-						<td><a href="Website About Me - Resources.md">118</a>, <a href="Website About Me - Resources.md">83</a>, <a href="Website About Me - Resources.md">4</a></td>
+						<td><a href="Website About Me - Resources.html">119</a>, <a href="Website About Me - Resources.html">84</a>, <a href="Website About Me - Resources.html">4</a></td>
 					</tr>
 					<tr>
 						<td>Mario Kart: Double Dash!!</td>
@@ -1931,9 +2042,10 @@
 						<td>Shinobu Tanaka, Kenta Nagata</td>
 						<td>Yasuuki Oyagi, Futoshi Shirai, Daiji Imai</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Mario Kart</td>
 						<td>GameRankings: N/A, Metacritic: 87/100</td>
-						<td><a href="Website About Me - Resources.md">119</a>, <a href="Website About Me - Resources.md">4</a></td>
+						<td><a href="Website About Me - Resources.html">120</a>, <a href="Website About Me - Resources.html">4</a></td>
 					</tr>
 					<tr>
 						<td>Mario Kart: Super Circuit</td>
@@ -1948,9 +2060,10 @@
 						<td>Kenichi Nishimaki, Masanobu Matsunaga, Minako Hamano</td>
 						<td>Takeshi Ando, Yukio Morimoto</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Mario Kart</td>
 						<td>GameRankings: 91.54%, Metacritic: 93/100</td>
-						<td><a href="Website About Me - Resources.md">120</a></td>
+						<td><a href="Website About Me - Resources.html">121</a></td>
 					</tr>
 					<tr>
 						<td>Mario Kart 7</td>
@@ -1965,9 +2078,10 @@
 						<td>Kenta Nagata, Satomi Terui</td>
 						<td>Kosuke Yabuki</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Mario Kart</td>
 						<td>GameRankings: 85.17%, Metacritic: 85/100</td>
-						<td><a href="Website About Me - Resources.md">121</a>, <a href="Website About Me - Resources.md">4</a></td>
+						<td><a href="Website About Me - Resources.html">122</a>, <a href="Website About Me - Resources.html">4</a></td>
 					</tr>
 					<tr>
 						<td>Mario Tennis</td>
@@ -1981,10 +2095,11 @@
 						<td>Single-Player, Multiplayer</td>
 						<td>Motoi Sakuraba</td>
 						<td>Haruki Kodera</td>
+						<td>Hiroyuki Takahashi, Shugo Takahashi</td>
 						<td>None</td>
 						<td>Mario Tennis</td>
 						<td>GameRankings: 87%, Metacritic: 91/100</td>
-						<td><a href="Website About Me - Resources.md">122</a></td>
+						<td><a href="Website About Me - Resources.html">123</a></td>
 					</tr>
 					<tr>
 						<td>Mario Power Tennis</td>
@@ -1998,10 +2113,11 @@
 						<td>Single-Player, Multiplayer</td>
 						<td>Motoi Sakuraba</td>
 						<td>Haruki Kodera</td>
+						<td>Hiroyuki Takahashi, Shugo Takahashi</td>
 						<td>None</td>
 						<td>Mario Tennis</td>
 						<td>GameRankings: 81.03%, Metacritic: 80/100</td>
-						<td><a href="Website About Me - Resources.md">123</a></td>
+						<td><a href="Website About Me - Resources.html">124</a></td>
 					</tr>
 					<tr>
 						<td>Pikmin 2</td>
@@ -2016,9 +2132,10 @@
 						<td>Hajime Wakai</td>
 						<td>Shigefumi Hino, Masamichi Abe</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Pikmin</td>
 						<td>GameRankings: 89.44%, Metacritic: 90/100</td>
-						<td><a href="Website About Me - Resources.md">124</a>, <a href="Website About Me - Resources.md">4</a></td>
+						<td><a href="Website About Me - Resources.html">125</a>, <a href="Website About Me - Resources.html">4</a></td>
 					</tr>
 					<tr>
 						<td>Sunset Overdrive (Open World)</td>
@@ -2032,10 +2149,11 @@
 						<td>Single-Player, Multiplayer</td>
 						<td>Boris Salchow</td>
 						<td>Marcus Smith, Drew Murray</td>
+						<td>Cameron Christian</td>
 						<td>None</td>
 						<td>None</td>
 						<td>GameRankings: 83%, Metacritic: 81/100</td>
-						<td><a href="Website About Me - Resources.md">125</a></td>
+						<td><a href="Website About Me - Resources.html">126</a></td>
 					</tr>
 					<tr>
 						<td>Spyro the Dragon (Video Game)</td>
@@ -2050,9 +2168,10 @@
 						<td>Stewart Copeland</td>
 						<td>None</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Spyro</td>
 						<td>GameRankings: 85%, Metacritic: N/A</td>
-						<td><a href="Website About Me - Resources.md">126</a></td>
+						<td><a href="Website About Me - Resources.html">127</a></td>
 					</tr>
 					<tr>
 						<td>Spyro 2: Ripto's Rage!</td>
@@ -2067,9 +2186,10 @@
 						<td>Stewart Copeland</td>
 						<td>None</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Spyro</td>
 						<td>GameRankings: 87%, Metacritic: N/A</td>
-						<td><a href="Website About Me - Resources.md">127</a></td>
+						<td><a href="Website About Me - Resources.html">128</a></td>
 					</tr>
 					<tr>
 						<td>Spyro: Year of the Dragon</td>
@@ -2084,9 +2204,10 @@
 						<td>Stewart Copeland, Ryan Beveridge</td>
 						<td>Connie Booth</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Spyro</td>
 						<td>GameRankings: 91%, Metacritic: 91/100</td>
-						<td><a href="Website About Me - Resources.md">128</a></td>
+						<td><a href="Website About Me - Resources.html">129</a></td>
 					</tr>
 					<tr>
 						<td>Spyro: Enter the Dragonfly</td>
@@ -2101,9 +2222,10 @@
 						<td>Stewart Copeland, Kenneth Burgomaster, Peter Neff</td>
 						<td>None</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Spyro</td>
 						<td>GameRankings: 48%, Metacritic: 48/100</td>
-						<td><a href="Website About Me - Resources.md">129</a></td>
+						<td><a href="Website About Me - Resources.html">130</a></td>
 					</tr>
 					<tr>
 						<td>Spyro: A Hero's Tail</td>
@@ -2118,9 +2240,10 @@
 						<td>Steve Duckworth, Paul Lawler</td>
 						<td>Jon Williams</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Spyro</td>
 						<td>GameRankings: 63.29%, Metacritic: 62/100</td>
-						<td><a href="Website About Me - Resources.md">130</a></td>
+						<td><a href="Website About Me - Resources.html">131</a></td>
 					</tr>
 					<tr>
 						<td>Star Fox: Assault</td>
@@ -2135,9 +2258,10 @@
 						<td>Yoshie Arakawa, Yoshinori Kawamoto</td>
 						<td>Toshiyuki Nakanishi, Hideki Okazaki, Yutaka Yoshida</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Star Fox</td>
 						<td>GameRankings: 71%, Metacritic: 67/100</td>
-						<td><a href="Website About Me - Resources.md">131</a></td>
+						<td><a href="Website About Me - Resources.html">132</a></td>
 					</tr>
 					<tr>
 						<td>Star Fox Adventures</td>
@@ -2151,10 +2275,11 @@
 						<td>Single-Player</td>
 						<td>David Wise, Ben Cullum</td>
 						<td>Lee Schuneman</td>
+						<td>Steven Brand, Shaun Read</td>
 						<td>None</td>
 						<td>Star Fox</td>
 						<td>GameRankings: N/A, Metacritic: 82/100</td>
-						<td><a href="Website About Me - Resources.md">132</a></td>
+						<td><a href="Website About Me - Resources.html">133</a></td>
 					</tr>
 					<tr>
 						<td>Marvel vs. Capcom 3: Fate of Two Worlds (Crossover)</td>
@@ -2168,10 +2293,11 @@
 						<td>Single-Player, Multiplayer</td>
 						<td>Hideyuki Fukasawa</td>
 						<td>Go Usuma</td>
+						<td>None</td>
 						<td>MT Framework</td>
 						<td>Marvel vs. Capcom</td>
 						<td>GameRankings: 86%, Metacritic: 85/100</td>
-						<td><a href="Website About Me - Resources.md">133</a></td>
+						<td><a href="Website About Me - Resources.html">134</a></td>
 					</tr>
 					<tr>
 						<td>Yo-kai Watch (Video Game)</td>
@@ -2185,10 +2311,11 @@
 						<td>Single-Player, Multiplayer</td>
 						<td>Kenichiro Saigo</td>
 						<td>Ken Motomura</td>
+						<td>Akihiro Hino</td>
 						<td>None</td>
 						<td>Yo-kai Watch</td>
 						<td>GameRankings: N/A, Metacritic: 76/100</td>
-						<td><a href="Website About Me - Resources.md">134</a></td>
+						<td><a href="Website About Me - Resources.html">135</a></td>
 					</tr>
 					<tr>
 						<td>DmC: Devil May Cry</td>
@@ -2202,10 +2329,11 @@
 						<td>Single-Player</td>
 						<td>Noisia, Combichrist, Jason Graves (Vergil's Downfall)</td>
 						<td>Tameem Antoniades</td>
+						<td>None</td>
 						<td>Unreal Engine 3</td>
 						<td>Devil May Cry</td>
 						<td>GameRankings: N/A, Metacritic: 86/100 (Xbox 360), N/A (Xbox One)</td>
-						<td><a href="Website About Me - Resources.md">135</a></td>
+						<td><a href="Website About Me - Resources.html">136</a></td>
 					</tr>
 					<tr>
 						<td>Mario Tennis: Ultra Smash</td>
@@ -2219,10 +2347,11 @@
 						<td>Single-Player, Multiplayer</td>
 						<td>Motoi Sakaguchi</td>
 						<td>Shugo Takahashi</td>
+						<td>Hiroyuki Takahashi, Shugo Takahashi</td>
 						<td>None</td>
 						<td>Mario Tennis</td>
 						<td>GameRankings: N/A, Metacritic: 58/100</td>
-						<td><a href="Website About Me - Resources.md">136</a></td>
+						<td><a href="Website About Me - Resources.html">137</a></td>
 					</tr>
 					<tr>
 						<td>Super Mario Strikers</td>
@@ -2236,10 +2365,11 @@
 						<td>Single-Player, Multiplayer</td>
 						<td>Graig Robertson, Kyle Nordman</td>
 						<td>Mike Inglehart</td>
+						<td>Brandon Gill</td>
 						<td>None</td>
 						<td>Mario Strikers</td>
 						<td>GameRankings: 76%, Metacritic: 76/100</td>
-						<td><a href="Website About Me - Resources.md">137</a></td>
+						<td><a href="Website About Me - Resources.html">138</a></td>
 					</tr>
 					<tr>
 						<td>Mario Strikers Charged</td>
@@ -2253,10 +2383,11 @@
 						<td>Single-Player, Multiplayer, Online</td>
 						<td>Mike Peacock, Darren Radtke, Chad York, Scott McFadyen, Davor Vulama</td>
 						<td>Mike Inglehart</td>
+						<td>Matt McTavish</td>
 						<td>None</td>
 						<td>Mario Strikers</td>
 						<td>GameRankings: 79%, Metacritic: 79/100</td>
-						<td><a href="Website About Me - Resources.md">138</a></td>
+						<td><a href="Website About Me - Resources.html">139</a></td>
 					</tr>
 					<tr>
 						<td>Mario Superstar Baseball</td>
@@ -2271,9 +2402,10 @@
 						<td>Steven Dwyer, Yuko Umebayashi, Souhei Komori, Shogo Shibata, Masakazu Fujii, Tsutomu Shimamura, Madoka Nakashima, Yuki Hakaridani, Daisuke Matsumoto, Tatsuhiro Mizoguchi, Takuro Suzuki</td>
 						<td>Hideki Tomida</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Mario Sports</td>
 						<td>GameRankings: 76.70%, Metacritic: 76/100</td>
-						<td><a href="Website About Me - Resources.md">139</a>, <a href="Website About Me - Resources.md">140</a></td>
+						<td><a href="Website About Me - Resources.html">140</a>, <a href="Website About Me - Resources.html">141</a></td>
 					</tr>
 					<tr>
 						<td>Mario Super Sluggers</td>
@@ -2288,9 +2420,10 @@
 						<td>Ayako Yamaguchi, Masashi Sugiyama, Nobuhiro Ohuchi, Kazuyuki Fujita</td>
 						<td>Hideki Tomida</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Mario Sports</td>
 						<td>GameRankings: 69.72%, Metacritic: 69/100</td>
-						<td><a href="Website About Me - Resources.md">141</a>, <a href="Website About Me - Resources.md">142</a></td>
+						<td><a href="Website About Me - Resources.html">142</a>, <a href="Website About Me - Resources.html">143</a></td>
 					</tr>
 					<tr>
 						<td>Mario Sports Mix</td>
@@ -2305,9 +2438,10 @@
 						<td>Masayoshi Soken, Kumi Tanioka</td>
 						<td>Shin Azuma</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Mario</td>
 						<td>GameRankings: 66%, Metacritic: 64/100</td>
-						<td><a href="Website About Me - Resources.md">143</a></td>
+						<td><a href="Website About Me - Resources.html">144</a></td>
 					</tr>
 					<tr>
 						<td>Kirby Air Ride</td>
@@ -2322,9 +2456,10 @@
 						<td>Shogo Sakai, Jun Ishikawa, Hirokazu Ando, Tadashi Ikegami</td>
 						<td>Masahiro Sakurai</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Kirby</td>
 						<td>GameRankings: N/A, Metacritic: 61/100</td>
-						<td><a href="Website About Me - Resources.md">144</a></td>
+						<td><a href="Website About Me - Resources.html">145</a></td>
 					</tr>
 					<tr>
 						<td>Kirby 64: The Crystal Shards</td>
@@ -2339,9 +2474,10 @@
 						<td>Jun Ishikawa, Hirokazu Ando</td>
 						<td>Shinichi Shimomura</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Kirby</td>
 						<td>GameRankings: N/A, Metacritic: 77/100</td>
-						<td><a href="Website About Me - Resources.md">145</a></td>
+						<td><a href="Website About Me - Resources.html">146</a></td>
 					</tr>
 					<tr>
 						<td>Kirby's Epic Yarn</td>
@@ -2355,10 +2491,11 @@
 						<td>Single-Player, Multiplayer</td>
 						<td>Tomoya Tomita</td>
 						<td>Kentaro Sei</td>
+						<td>Madoka Yamauchi</td>
 						<td>None</td>
 						<td>Kirby</td>
 						<td>GameRankings: 88.48%, Metacritic: 86/100</td>
-						<td><a href="Website About Me - Resources.md">146</a></td>
+						<td><a href="Website About Me - Resources.html">147</a></td>
 					</tr>
 					<tr>
 						<td>Kirby's Return to Dream Land</td>
@@ -2373,9 +2510,10 @@
 						<td>Hirokazu Ando, Jun Ishikawa</td>
 						<td>Shinya Kumazaki</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Kirby</td>
 						<td>GameRankings: 80.50%, Metacritic: 77/100</td>
-						<td><a href="Website About Me - Resources.md">147</a></td>
+						<td><a href="Website About Me - Resources.html">148</a></td>
 					</tr>
 					<tr>
 						<td>Sonic Forces</td>
@@ -2389,10 +2527,11 @@
 						<td>Single-Player</td>
 						<td>Tomoya Ohtani, Naofumi Hataya, Kenichi Tokoi, Takahito Eguchi</td>
 						<td>Morio Kishimoto</td>
-						<td>None</td>
+						<td>Morio Kishimoto, Takayuki Okada, Junpei Ootsu</td>
+						<td>Hedgehog Engine</td>
 						<td>Sonic the Hedgehog</td>
 						<td>GameRankings: N/A, Metacritic: 57/100 (Switch), 64/100 (Xbox One)</td>
-						<td><a href="Website About Me - Resources.md">148</a></td>
+						<td><a href="Website About Me - Resources.html">149</a></td>
 					</tr>
 					<tr>
 						<td>Super Mario Odyssey</td>
@@ -2406,10 +2545,11 @@
 						<td>Single-Player, Multiplayer</td>
 						<td>Naoto Kubo, Shiho Fujii, Koji Kondo</td>
 						<td>Kenta Motokura</td>
+						<td>Futoshi Shirai, Shinya Hiratake</td>
 						<td>None</td>
 						<td>Super Mario</td>
 						<td>GameRankings: N/A, Metacritic: 97/100</td>
-						<td><a href="Website About Me - Resources.md">149</a>, <a href="Website About Me - Resources.md">36</a></td>
+						<td><a href="Website About Me - Resources.html">150</a>, <a href="Website About Me - Resources.html">36</a></td>
 					</tr>
 					<tr>
 						<td>Wolfenstein II: The New Colossus</td>
@@ -2423,10 +2563,11 @@
 						<td>Single-Player</td>
 						<td>Mick Gordon, Martin Stig Andersen</td>
 						<td>Jens Matthies</td>
+						<td>Fredrik Ljungdahl</td>
 						<td>id Tech 6</td>
 						<td>Wolfenstein</td>
 						<td>GameRankings: N/A, Metacritic: 88/100</td>
-						<td><a href="Website About Me - Resources.md">150</a></td>
+						<td><a href="Website About Me - Resources.html">151</a></td>
 					</tr>
 					<tr>
 						<td>Metroid: Samus Returns</td>
@@ -2440,10 +2581,11 @@
 						<td>Single-Player</td>
 						<td>Daisuke Matsuoka</td>
 						<td>Jose Luis M&aacute;quez, Takehiko Hosokawa</td>
+						<td>Jacobo Luengo, Aleix Garrido Oberink</td>
 						<td>None</td>
 						<td>Metroid</td>
 						<td>GameRankings: N/A, Metacritic: 86/100</td>
-						<td><a href="Website About Me - Resources.md">151</a>, <a href="Website About Me - Resources.md">36</a></td>
+						<td><a href="Website About Me - Resources.html">152</a>, <a href="Website About Me - Resources.html">36</a></td>
 					</tr>
 					<tr>
 						<td>Assassin's Creed Origins</td>
@@ -2451,16 +2593,17 @@
 						<td>M</td>
 						<td>Mature</td>
 						<td>Action-Adventure, Stealth</td>
-						<td>October 27,2017</td>
+						<td>October 27, 2017</td>
 						<td>Ubisoft Montreal, Ubisoft Sofia, Ubisoft Singapore, Ubisoft Chengdu, Ubisoft Shanghai, Ubisoft Bucharest, Ubisoft Kiev, and Ubisoft Philippines</td>
 						<td>Ubisoft</td>
 						<td>Single-Player</td>
 						<td>Sarah Schachner</td>
 						<td>Jean Guesdon, Ashraf Ismail</td>
+						<td>Eric Baptizat</td>
 						<td>AnvilNext 2.0</td>
 						<td>Assassin's Creed</td>
 						<td>GameRankings: N/A, Metacritic: 81/100</td>
-						<td><a href="Website About Me - Resources.md">152</a></td>
+						<td><a href="Website About Me - Resources.html">153</a></td>
 					</tr>
 					<tr>
 						<td>Luigi's Mansion</td>
@@ -2475,9 +2618,10 @@
 						<td>Kazumi Totaka, Shinobu Tanaka</td>
 						<td>Hideki Konno</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Luigi</td>
 						<td>GameRankings: 79.18%, Metacritic: 78/100</td>
-						<td><a href="Website About Me - Resources.md">153</a>, <a href="Website About Me - Resources.md">4</a></td>
+						<td><a href="Website About Me - Resources.html">154</a></td>
 					</tr>
 					<tr>
 						<td>Luigi's Mansion: Dark Moon</td>
@@ -2492,9 +2636,10 @@
 						<td>Chad York, Darren Radtke, Mike Peacock</td>
 						<td>Bryce Holliday</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Luigi</td>
 						<td>GameRankings: 85.86%, Metacritic: 86/100</td>
-						<td><a href="Website About Me - Resources.md">154</a></td>
+						<td><a href="Website About Me - Resources.html">155</a></td>
 					</tr>
 					<tr>
 						<td>Mortal Kombat vs. DC Universe (Crossover)</td>
@@ -2508,10 +2653,11 @@
 						<td>Single-Player, Multiplayer</td>
 						<td>Cris Velasco, Sascha Dikiciyan, Todd Haberman, Soundelux DMG, Tilman Sillescu, Dynamedion, Alexander Pfeffer, Markus Schmidt, Pierre Langer</td>
 						<td>Dominic Cianciolo</td>
+						<td>Paulo Garcia, John Edwards</td>
 						<td>Unreal Engine 3</td>
 						<td>Mortal Kombat</td>
 						<td>GameRankings: 74.55%, Metacritic: 72/100</td>
-						<td><a href="Website About Me - Resources.md">155</a>, <a href="Website About Me - Resources.md">156</a></td>
+						<td><a href="Website About Me - Resources.html">156</a>, <a href="Website About Me - Resources.html">157</a></td>
 					</tr>
 					<tr>
 						<td>Batman: Arkham Origins</td>
@@ -2525,10 +2671,47 @@
 						<td>Single-Player, Multiplayer</td>
 						<td>Christopher Drake</td>
 						<td>Eric Holmes, Benoit Richer</td>
+						<td>Pierre-Luc Foisy</td>
 						<td>Unreal Engine 3</td>
 						<td>Batman: Arkham</td>
 						<td>GameRankings: N/A, Metacritic: 74/100 (Xbox 360), 68/100 (Wii U)</td>
-						<td><a href="Website About - Me - Resources.md">157</a></td>
+						<td><a href="Website About Me - Resources.html">158</a></td>
+					</tr>
+					<tr>
+						<td>Mirror's Edge Catalyst</td>
+						<td>PlayStation 4 (PS4)</td>
+						<td>T</td>
+						<td>Teen</td>
+						<td>Action-Adventure, Platform</td>
+						<td>June 7, 2016</td>
+						<td>EA DICE</td>
+						<td>Electronic Arts (EA)</td>
+						<td>Single-Player, Multiplayer</td>
+						<td>Solar Fields</td>
+						<td>Per Juhl&eacute;n</td>
+						<td>Erik Odeldahl</td>
+						<td>Frostbite 3</td>
+						<td>Mirror's Edge</td>
+						<td>GameRankings: N/A, Metacritic: 72/100</td>
+						<td><a href="Website About Me - Resources.html">159</a></td>
+					</tr>
+					<tr>
+						<td>Assassin's Creed Unity</td>
+						<td>Xbox One, PlayStation 4 (PS4)</td>
+						<td>M</td>
+						<td>Mature</td>
+						<td>Action-Adventure, Stealth</td>
+						<td>November 11, 2014</td>
+						<td>Ubisoft Montreal, Ubisoft Toronto, Ubisoft Singapore, Ubisoft Quebec, Ubisoft Annecy, Ubisoft Shanghai, Ubisoft Chengdu, Ubisoft Kiev, Ubisoft Montipellier, Ubisoft Bucharest</td>
+						<td>Ubisoft</td>
+						<td>Single-Player, Multiplayer</td>
+						<td>Chris Tilton, Sarah Schachner, Ryan Amon</td>
+						<td>Alex Amancio</td>
+						<td>None</td>
+						<td>AnvilNext 2.0</td>
+						<td>Assassin's Creed</td>
+						<td>GameRankings: N/A, Metacritic: 72/100 (Xbox One), 70/100 (PS4)</td>
+						<td><a href="Website About Me - Resources.html">160</a></td>
 					</tr>
 				</table>
 			</div>
