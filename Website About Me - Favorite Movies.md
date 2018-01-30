@@ -1591,6 +1591,86 @@
 						<td>Rotten Tomatoes: 5.5/10 (49%)</td>
 						<td><a href="Website About Me - References.md">77</a></td>
 					</tr>
+					<tr>
+						<td>The Social Network</td>
+						<td>PG-13</td>
+						<td>Biography, Drama</td>
+						<td>October 1, 2010</td>
+						<td>David Fincher</td>
+						<td>Relativity Media, Scott Rudin Productions, Michael De Luca Productions, Trigger Street Productions</td>
+						<td>Columbia Pictures</td>
+						<td>Trent Reznor, Atticus Ross</td>
+						<td>$40 Million</td>
+						<td>$224.9 MIllion</td>
+						<td>United States</td>
+						<td>English</td>
+						<td>120 Minutes</td>
+						<td>DVD, Blu-Ray</td>
+						<td>Jeff Cronenweth</td>
+						<td>Angus Wall, Kirk Baxter</td>
+						<td>Rotten Tomatoes: 9/10 (96%)</td>
+						<td><a href="Website About Me - Resources.html">78</a></td>
+					</tr>
+					<tr>
+						<td>Star Wars: Episode I - The Phatom Menace (Epic film)</td>
+						<td>PG</td>
+						<td>Space Opera</td>
+						<td>May 19, 1999</td>
+						<td>George Lucas</td>
+						<td>Lucasfilm Ltd.</td>
+						<td>20th Century Fox, Walt Disney Studios</td>
+						<td>John Williams</td>
+						<td>$115 Million</td>
+						<td>$1.027 Billion</td>
+						<td>United States</td>
+						<td>English</td>
+						<td>133 Minutes</td>
+						<td>VHS, DVD, Blu-Ray</td>
+						<td>David Tattersall</td>
+						<td>Paul Martin Smith, Ben Burtt</td>
+						<td>Rotten Tomatoes: 6/10 (55%)</td>
+						<td><a href="Website About Me - Resources.html">79</a></td>
+					</tr>
+					<tr>
+						<td>Star Wars: Episode II - Attack of the Clones (Epic film)</td>
+						<td>PG</td>
+						<td>Space Opera</td>
+						<td>May 16, 2002</td>
+						<td>George Lucas</td>
+						<td>Lucasfilm Ltd.</td>
+						<td>20th Century Fox, Walt Disney Studios</td>
+						<td>John Williams</td>
+						<td>$115 Million</td>
+						<td>$649.4 Million</td>
+						<td>United States</td>
+						<td>English</td>
+						<td>142 Minutes</td>
+						<td>DVD, VHS, Blu-Ray</td>
+						<td>David Tattersall</td>
+						<td>Ben Burtt</td>
+						<td>Rotten Tomatoes: 6.7/10 (65%)</td>
+						<td><a href="Website About Me - Resources.html">80</a></td>
+					</tr>
+					<tr>
+						<td>Star Wars: Episode III - Revenge of the Sith (Epic film)</td>
+						<td>PG-13</td>
+						<td>Space Opera</td>
+						<td>May 19, 2005</td>
+						<td>George Lucas</td>
+						<td>Lucasfilm Ltd.</td>
+						<td>20th Century Fox, Walt Disney Studios</td>
+						<td>John Williams</td>
+						<td>$113 Million</td>
+						<td>$848.8 Million</td>
+						<td>United States</td>
+						<td>English</td>
+						<td>140 Minutes</td>
+						<td>DVD, VHS, Blu-Ray</td>
+						<td>David Tattersall</td>
+						<td>Roger Barton, Ben Burtt</td>
+						<td>Rotten Tomatoes: 7.3/10 (79%)</td>
+						<td><a href="Website About Me - Resources.html">81</a></td>
+					</tr>
 				</table>
 			</div>
 		</div>
