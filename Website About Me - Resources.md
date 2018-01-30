@@ -357,6 +357,7 @@
 					<li><a href="https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Breath_of_the_Wild">The Legend of Zelda: Breath of the Wild - Wikipedia</a>, December 30, 2017</li>
 					<li><a href="https://en.wikipedia.org/wiki/Lego_City_Undercover">Lego City Undercover - Wikipedia</a>, December 22, 2017</li>
 					<li><a href="https://www.youtube.com/watch?v=EiewHQUsmMM">Falling to Earth - Lego City Undercover - YouTube</a>, May 3, 2013</li>
+					<li><a href="http://www.imdb.com/title/tt2071508/">Lego City Undercover (Video Game 2013) - IMDb</a>, January 25, 2018</li>
 					<li><a href="https://en.wikipedia.org/wiki/Metroid_Prime:_Federation_Force">Metroid Prime: Federation Force - Wikipedia</a>, December 14, 2017</li>
 					<li><a href="https://en.wikipedia.org/wiki/Metroid_Prime">Metroid Prime - Wikipedia</a>, December 29, 2017</li>
 					<li><a href="https://en.wikipedia.org/wiki/Metroid_Prime_2:_Echoes">Metroid Prime 2: Echoes - Wikipedia</a>, November 12, 2017</li>
@@ -457,6 +458,13 @@
 					<li><a href="https://en.wikipedia.org/wiki/Wolfenstein_II:_The_New_Colossus">Wolfenstein II: The New Colossus - Wikipedia</a>, January 3, 2018</li>
 					<li><a href="https://en.wikipedia.org/wiki/Metroid:_Samus_Returns">Metroid: Samus Returns - Wikipedia</a>, December 27, 2017</li>
 					<li><a href="https://en.wikipedia.org/wiki/Assassin%27s_Creed_Origins">Assassin's Creed Origins</a>, January 8, 2018</li>
+					<li><a href="https://en.wikipedia.org/wiki/Luigi%27s_Mansion">Luigi's Mansion - Wikipedia</a>, January 15, 2018</li>
+					<li><a href="https://en.wikipedia.org/wiki/Luigi%27s_Mansion:_Dark_Moon">Luigi's Mansion: Dark Moon - Wikipedia</a>, January 7, 2018</li>
+					<li><a href="https://en.wikipedia.org/wiki/Mortal_Kombat_vs._DC_Universe">Mortal Kombat vs. DC Universe - Wikipedia</a>, January 10, 2018</li>
+					<li><a href="http://www.imdb.com/title/tt1107835/fullcredits">Mortal Kombat vs. DC Universe (Video Game 2008) - Full Cast & Crew - IMDb</a>, January 10, 2018</li>
+					<li><a href="https://en.wikipedia.org/wiki/Batman:_Arkham_Origins">Batman: Arkham Origins</a>, January 16, 2018</li>
+					<li><a href="https://en.wikipedia.org/wiki/Mirror%27s_Edge_Catalyst">Mirror's Edge Catalyst - Wikipedia</a>, January 24, 2018</li>
+					<li><a href="https://en.wikipedia.org/wiki/Assassin%27s_Creed_Unity">Assassin's Creed Unity - Wikipedia</a>, January 28, 2018</li>
 				</ol>
 			<h2>Operating Systems</h2>
 				<ol>
