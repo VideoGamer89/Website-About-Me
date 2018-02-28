@@ -28,10 +28,13 @@
 	</head><!-- end head -->
 	<!-- the body section -->
 	<body>
+		<!-- the page section -->
 		<div id = "page">
+			<!-- the header section -->
 			<div id = "header">
 				<h1>Favorite Stores</h1>
 			</div><!-- end header -->
+			<!-- the nav section -->
 			<div id = "nav">
 				<ul>
 					<li><a href="Website About Me - Main.php"><?php echo $navigation_1; ?></a></li>
