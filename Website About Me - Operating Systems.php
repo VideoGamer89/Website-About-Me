@@ -1,32 +1,37 @@
 <?php
-  // get the data from the request
+	// get the data from the operating systems
 	$operating_system_1 = $_GET['Microsoft Windows 7'];
 	$operating_system_2 = $_GET['Microsoft Windows 8'];
 	$operating_system_3 = $_GET['Microsoft Windows 8.1'];
 	$operating_system_4 = $_GET['Microsoft Windows 10'];
 	$operating_system_5 = $_GET['Android'];
+	// get the data from the operating system developers
 	$operating_system_developer_1 = $_GET['Microsoft'];
 	$operating_system_developer_2 = $_GET['Google'];
 	$operating_system_developer_3 = $_GET['Open Handset'];
 	$operating_system_developer_4 = $_GET['Open Handset Alliance'];
+	// get the data from the operating system types
 	$operating_system_kernel_type_1 = $_GET['Hybrid'];
 	$operating_system_kernel_type_2 = $_GET['Windows NT'];
 	$operating_system_kernel_type_3 = $_GET['Monolithic'];
+	// get the data from the operating system source model
 	$operating_system_source_model_1 = $_GET['Closed source'];
 	$operating_system_source_model_2 = $_GET['Shared source'];
 	$operating_system_source_model_3 = $_GET['None'];
 	$operating_system_source_model_4 = $_GET['Windows Driver Framework'];
 	$operating_system_source_model_5 = $_GET['Open source'];
+	// get the data from the update method
 	$operating_system_update_method_1 = $_GET['Windows Update'];
 	$operating_system_update_method_2 = $_GET['Windows Store'];
 	$operating_system_update_method_3 = $_GET['Windows Server Update Services'];
 	$operating_system_update_method_4 = $_GET['None'];
 ?>
-<?php include 'Website About Me - Operating Systems - header.php'; ?>
-  <div class = "content">
-    <p>Here are the operating systems that I have used.</p>
-    <div>
-      <table>
+<?php include '../view/header/Website About Me - Operating Systems - header.php'; ?>
+	<!-- the content section -->
+	<div class = "content">
+	<p>Here are the operating systems that I have used.</p>
+		<div id = "myOperatingSystemsDivElement">
+			<table>
 				<tr>
 					<th>Name</th>
 					<th>Developer(s)</th>
@@ -82,6 +87,6 @@
 					<td><?php echo $operating_system_update_method_4; ?></td>
 				</tr>
 			</table>
-    </div>
-  </div>
- <?php include 'Website About Me - footer.php'; ?>
+		</div><!-- end myOperatingSystemsDivElement -->
+	</div><!-- end content -->
+<?php include '../view/Website About Me - footer.php'; ?>
