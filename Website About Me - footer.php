@@ -1,8 +1,9 @@
+      <!-- the footer section -->
       <div id = "footer">
         <p>
          &copy; Jeff Vogel 2018
         </p>
-     </div>
-    </div>
-  </body>
+     </div><!-- end footer -->
+    </div><!-- end page -->
+  </body><!-- end body -->
 </html>
