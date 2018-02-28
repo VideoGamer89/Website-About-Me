@@ -1,5 +1,5 @@
 <?php
-  // get the data from the request
+	// get the data from the request
 	$image_alternative_text_1 = $_GET['Teenage Mutant Ninja Turtles: Mutants in Manhattan'];
 	$image_alternative_text_2 = $_GET['Call of Duty: Black Ops III'];
 	$image_alternative_text_3 = $_GET['Killer Instinct'];
@@ -145,10 +145,11 @@
 	$image_alternative_text_143 = $_GET['Bowling'];
 	$image_alternative_text_144 = $_GET['Wisconsin Dells'];
 ?>
-<?php include 'Website About Me - Image Gallery - header.php'; ?>
-  <div class = "content">
-    <h2>Video Games</h2>
-      <img src = "https://media.playstation.com/is/image/SCEA/teenage-mutant-ninja-turtles-mutants-in-manhattan-listing-thumb-01-ps4-us-14jan16?$Icon$" alt="<?php echo $image_alternative_text_1; ?>" height="200" width = "200"/>
+<?php include '../view/header/Website About Me - Image Gallery - header.php'; ?>
+	<!-- the content section -->
+	<div class = "content">
+		<h2>Video Games</h2>
+			<img src = "https://media.playstation.com/is/image/SCEA/teenage-mutant-ninja-turtles-mutants-in-manhattan-listing-thumb-01-ps4-us-14jan16?$Icon$" alt="<?php echo $image_alternative_text_1; ?>" height="200" width = "200"/>
 			<img src = "https://images2.alphacoders.com/597/597965.jpg" alt="<?php echo $image_alternative_text_2; ?>" height = "200" width = "200"/>
 			<img src = "http://www.killerinstinctcentral.com/wp-content/uploads/2016/03/KI_Season3_Logo_Wide.jpg" alt="<?php echo $image_alternative_text_3; ?>" height = "200" width = "200"/>
 			<img src = "https://upload.wikimedia.org/wikipedia/en/3/36/Injustice_2_Cover.jpg" alt = "<?php echo $image_alternative_text_4; ?>" height = "200" width="200"/>
@@ -180,8 +181,8 @@
 			<img src = "https://upload.wikimedia.org/wikipedia/en/3/36/Prototype_2.png" alt = "<?php echo $image_alternative_text_30; ?>" height = "200" width = "200" />
 			<img src = "https://upload.wikimedia.org/wikipedia/en/9/9c/Star_Fox_Zero_NA.png" alt = "<?php echo $image_alternative_text_31; ?>" height = "200" width = "200" />
 			<img src = "https://i5.walmartimages.com/asr/f11cb557-34a9-479e-ad3a-b8268d578d31_1.3153c9de02b076404d6f3b17a99b0f09.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF" alt = "<?php echo $image_alternative_text_32; ?>" height = "200" width = "200" />
-    <h2>Bands and Artists</h2>
-      <img src = "https://i.scdn.co/image/fcba5d0c544e453b4f719848bdaa7ec8377f6205" alt = "<?php echo $image_alternative_text_33; ?>" height = "200" width = "200" />
+		<h2>Bands And Artists</h2>
+			<img src = "https://i.scdn.co/image/fcba5d0c544e453b4f719848bdaa7ec8377f6205" alt = "<?php echo $image_alternative_text_33; ?>" height = "200" width = "200" />
 			<img src = "https://substreammagazine.com/wp-content/uploads/Demon-Hunter.jpg" alt = "<?php echo $image_alternative_text_34; ?>" height = "200" width = "200" />
 			<img src = "http://www.newreleasetoday.com/thum_creater/phpThumb.php?src=../images/artist_images/img_54.jpg&w=300&h=360&zc=1" alt = "<?php echo $image_alternative_text_35; ?>" height = "200" width = "200" />
 			<img src = "http://cdn.reachrecords.com/wp-content/uploads/2015/05/tripbanner-1280x552.jpg" alt = "<?php echo $image_alternative_text_36; ?>" height = "200" width = "200" />
@@ -204,8 +205,8 @@
 			<img src = "http://www.jesusfreakhideout.com/artists/full/fightinginstinct.jpg" alt = "<?php echo $image_alternative_text_53; ?>" height = "200" width = "200" />
 			<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Newsboys_2009.jpg/1200px-Newsboys_2009.jpg" alt = "<?php echo $image_alternative_text_54; ?>" height = "200" width = "200" />
 			<img src = "http://www.facedownrecords.com/images/primary_woa.jpg" alt = "<?php echo $image_alternative_text_55; ?>" height = "200" width = "200" />
-    <h2>TV Shows</h2>
-      <img src = "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Voltron_-_Legendary_Defender_logo.svg/1200px-Voltron_-_Legendary_Defender_logo.svg.png" alt = "<?php echo $image_alternative_text_56; ?>" height = "200" width = "200" />
+		<h2>TV Shows</h2>
+			<img src = "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Voltron_-_Legendary_Defender_logo.svg/1200px-Voltron_-_Legendary_Defender_logo.svg.png" alt = "<?php echo $image_alternative_text_56; ?>" height = "200" width = "200" />
 			<img src = "https://orig00.deviantart.net/b863/f/2014/203/6/0/why_i_think_ultimate_spiderman_is_a_mediocre_show_by_hammerheadm_4-d7ruta1.jpg" alt = "<?php echo $image_alternative_text_57; ?>" height = "200" width = "200" />
 			<img src = "https://vignette4.wikia.nocookie.net/tmnt2012series/images/d/de/Teenage-mutant-ninja-turtles-2012.jpg/revision/latest?cb=20140614153223" alt = "<?php echo $image_alternative_text_58; ?>" height = "200" width = "200" />
 			<img src = "https://i.ytimg.com/vi/4lk_rIXlrxg/maxresdefault.jpg" alt = "<?php echo $image_alternative_text_59; ?>" height = "200" width = "200" />
@@ -224,8 +225,8 @@
 			<img src = "http://vignette4.wikia.nocookie.net/powerrangers/images/f/fd/Ninjasteellogo.png/revision/latest?cb=20160527174539" alt = "<?php echo $image_alternative_text_72; ?>" height = "200" width = "200" />
 			<img src = "https://ibhuluimcom-a.akamaihd.net/ib.huluim.com/show/27694?region=US&size=952x536" alt = "<?php echo $image_alternative_text_73; ?>" height = "200" width = "200" />
 			<img src = "https://upload.wikimedia.org/wikipedia/en/6/6e/Last_Man_Standing_intertitle.jpg" alt = "<?php echo $image_alternative_text_74; ?>" height = "200" width = "200" />
-    <h2>Foods</h2>
-      <img src = "https://s3-us-west-2.amazonaws.com/craftcms-pizzaranch/general-uploads/Open-Graph-Images/General-SEO-1200x1200/PR-menu-pizza-Pepperoni-1200x1200.png" alt = "<?php echo $image_alternative_text_75; ?>" height = "200" width = "200" />
+		<h2>Foods</h2>
+			<img src = "https://s3-us-west-2.amazonaws.com/craftcms-pizzaranch/general-uploads/Open-Graph-Images/General-SEO-1200x1200/PR-menu-pizza-Pepperoni-1200x1200.png" alt = "<?php echo $image_alternative_text_75; ?>" height = "200" width = "200" />
 			<img src = "http://food.fnr.sndimg.com/content/dam/images/food/fullset/2011/6/3/1/FNM_070111-Fried-Chicken-026_s4x3.jpg.rend.hgtvcom.616.462.suffix/1382539796174.jpeg" alt = "<?php echo $image_alternative_text_76; ?>" height = "200" width = "200" />
 			<img src = "http://media.foodnetwork.ca/recipetracker/dmm/S/O/Southwestern_Chicken_Quesadillas_001.jpg" alt = "<?php echo $image_alternative_text_77; ?>" height = "200" width = "200" />
 			<img src = "http://www.subway.com/ns/images/menu/USA/ENG/W2B_Subway.com_Silos_ProductMenu_234x140_RoastedChicken_PT.jpg" alt = "<?php echo $image_alternative_text_78; ?>" height = "200" width = "200" />
@@ -236,16 +237,16 @@
 			<img src = "http://www.simplyrecipes.com/wp-content/uploads/2014/10/applesauce-horiz-a2-2000.jpg" alt = "<?php echo $image_alternative_text_83; ?>" height = "200" width = "200" />
 			<img src = "https://www.organicfacts.net/wp-content/uploads/2013/05/Banana3-1020x765.jpg" alt = "<?php echo $image_alternative_text_84; ?>" height = "200" width = "200" />
 			<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Potato-Chips.jpg/1200px-Potato-Chips.jpg" alt = "<?php echo $image_alternative_text_85; ?>" height = "200" width = "200" />
-    <h2>Stores</h2>
-      <img src = "https://cdn.corporate.walmart.com/resource/assets-bsp3/images/corp/walmart-logo.64968e7648c4bbc87f823a1eff1d6bc7.png" alt = "<?php echo $image_alternative_text_86; ?>" height = "200" width = "200" />
+		<h2>Stores</h2>
+			<img src = "https://cdn.corporate.walmart.com/resource/assets-bsp3/images/corp/walmart-logo.64968e7648c4bbc87f823a1eff1d6bc7.png" alt = "<?php echo $image_alternative_text_86; ?>" height = "200" width = "200" />
 			<img src = "https://www.gamestop.com/gs/merchincludes/homepage/img/fb_like.jpg" alt = "<?php echo $image_alternative_text_87; ?>" height = "200" width = "200" />
 			<img src = "https://pbs.twimg.com/profile_images/661555137924612096/o8AqVwHg.png" alt = "<?php echo $image_alternative_text_88; ?>" height = "200" width = "200" />
 			<img src = "https://pbs.twimg.com/profile_images/899638570339540994/PYSUKFuD_400x400.jpg" alt = "<?php echo $image_alternative_text_89; ?>" height = "200" width = "200" />
 			<img src = "http://is4.mzstatic.com/image/thumb/Purple128/v4/96/33/aa/9633aa9d-7de2-8838-4dfc-0791aba9d729/source/1200x630bb.jpg" alt = "<?php echo $image_alternative_text_90; ?>" height = "200" width = "200" />
 			<img src = "https://upload.wikimedia.org/wikipedia/en/3/3c/ShopkoNEWLogo2008.png" alt = "<?php echo $image_alternative_text_91; ?>" height = "200" width = "200" />
 			<img src = "https://www.cub.com/content/dam/svubanners/cub/en/default_cub.png" alt = "<?php echo $image_alternative_text_92; ?>" height = "200" width = "200" />
-    <h2>Restaurants</h2>
-      <img src = "https://upload.wikimedia.org/wikipedia/en/c/c0/Pizza_Ranch_logo.png" alt = "<?php echo $image_alternative_text_93; ?>" height = "200" width = "200" />
+		<h2>Restaurants</h2>
+			<img src = "https://upload.wikimedia.org/wikipedia/en/c/c0/Pizza_Ranch_logo.png" alt = "<?php echo $image_alternative_text_93; ?>" height = "200" width = "200" />
 			<img src = "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Wendy%27s_logo_2012.svg/1229px-Wendy%27s_logo_2012.svg.png" alt = "<?php echo $image_alternative_text_94; ?>" height = "200" width = "200" />
 			<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Mcdonalds-90s-logo.svg/220px-Mcdonalds-90s-logo.svg.png" alt = "<?php echo $image_alternative_text_95; ?>" height = "200" width = "200" />
 			<img src = "https://upload.wikimedia.org/wikipedia/en/8/8d/GoldenCorral_logo.png" alt = "<?php echo $image_alternative_text_96; ?>" height = "200" width = "200" />
@@ -257,8 +258,8 @@
 			<img src = "https://upload.wikimedia.org/wikipedia/en/thumb/3/37/Denny%27s_logo.svg/1280px-Denny%27s_logo.svg.png" alt = "<?php echo $image_alternative_text_102; ?>" height = "200" width = "200" />
 			<img src = "http://www.oldcountrybuffet.com/wp-content/uploads/2016/04/Old_Country_Buffet_Logo-white.png" alt = "<?php echo $image_alternative_text_103; ?>" height = "200" width = "200" />
 			<img src = "http://store.starbucks.com/on/demandware.static/-/Sites-Starbucks-Library/default/images/widgets/navigation/brand.svg" alt = "<?php echo $image_alternative_text_104; ?>" height = "200" width = "200" />
-    <h2>Movies</h2>
-      <img src = "http://redcarpetrefs.com/wp-content/uploads/2016/04/Spider-Man-Homecoming-Movie-2017-Logo.jpeg?9524a9" alt = "<?php echo $image_alternative_text_105; ?>" height = "200" width = "200" />
+		<h2>Movies</h2>
+			<img src = "http://redcarpetrefs.com/wp-content/uploads/2016/04/Spider-Man-Homecoming-Movie-2017-Logo.jpeg?9524a9" alt = "<?php echo $image_alternative_text_105; ?>" height = "200" width = "200" />
 			<img src = "https://vignette.wikia.nocookie.net/marveldatabase/images/0/00/Deadpool_%28film%29_poster_009.jpg/revision/latest/scale-to-width-down/343?cb=20160115014652" alt = "<?php echo $image_alternative_text_106; ?>" height = "200" width = "200" />
 			<img src = "https://upload.wikimedia.org/wikipedia/en/0/02/The_Amazing_Spider-Man_theatrical_poster.jpeg" alt = "<?php echo $image_alternative_text_107; ?>" height = "200" width = "200" />
 			<img src = "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Ratchet_and_Clank_2015.png/220px-Ratchet_and_Clank_2015.png" alt = "<?php echo $image_alternative_text_108; ?>" height = "200" width = "200" />
@@ -287,18 +288,18 @@
 			<img src = "https://upload.wikimedia.org/wikipedia/en/1/1b/Avengers_Age_of_Ultron.jpg" alt = "<?php echo $image_alternative_text_131; ?>" height = "200" width = "200" />
 			<img src = "https://upload.wikimedia.org/wikipedia/en/5/53/Captain_America_Civil_War_poster.jpg" alt = "<?php echo $image_alternative_text_132; ?>" height = "200" width = "200" />
 			<img src = "https://upload.wikimedia.org/wikipedia/en/e/e8/Captain_America_The_Winter_Soldier.jpg" alt = "<?php echo $image_alternative_text_133; ?>" height = "200" width = "200" />
-    <h2>Operating Systems</h2>
-      <img src = "https://redmondmag.com/articles/list/~/media/ECG/redmondmag/Images/introimages2014/140812REDMackieWin7.jpg" alt = "<?php echo $image_alternative_text_134; ?>" height = "200" width = "200" />
+		<h2>Operating Systems</h2>
+			<img src = "https://redmondmag.com/articles/list/~/media/ECG/redmondmag/Images/introimages2014/140812REDMackieWin7.jpg" alt = "<?php echo $image_alternative_text_134; ?>" height = "200" width = "200" />
 			<img src = "https://fthmb.tqn.com/fTMSFnAirew6BADFyAz7IjCTEO8=/768x0/filters:no_upscale()/windows-8-57c731a73df78c71b60e50a1.jpg" alt = "<?php echo $image_alternative_text_135; ?>" height = "200" width = "200" />
 			<img src = "https://softlay.net/wp-content/uploads/2015/04/Free-Windows-8.1-ISO-DVD-64-bit-Official.jpg" alt = "<?php echo $image_alternative_text_136; ?>" height = "200" width = "200" />
 			<img src = "http://cdn.wccftech.com/wp-content/uploads/2015/07/Windows-10-logo.jpg" alt = "<?php echo $image_alternative_text_137; ?>" height = "200" width = "200" />
 			<img src = "https://www.android.com/static/2016/img/share/andy-lg.png" alt = "<?php echo $image_alternative_text_138; ?>" height = "200" width = "200" />
-    <h2>Hobbies</h2>
-      <img src = "http://static3.businessinsider.com/image/560ebbe8dd0895325c8b4597-1920/mario1.jpg" alt = "<?php echo $image_alternative_text_139; ?>" height = "200" width = "200" />
+		<h2>Hobbies</h2>
+			<img src = "http://static3.businessinsider.com/image/560ebbe8dd0895325c8b4597-1920/mario1.jpg" alt = "<?php echo $image_alternative_text_139; ?>" height = "200" width = "200" />
 			<img src = "http://assets.nydailynews.com/polopoly_fs/1.1162284.1347998081!/img/httpImage/image.jpg_gen/derivatives/article_750/watch18tvf-1-web.jpg" alt = <?php echo $image_alternative_text_140; ?>"TV" height = "200" width = "200" />
 			<img src = "https://frontiersinblog.files.wordpress.com/2017/05/frontiers-in-psychology-group-music-depression.jpg?w=940" alt = "<?php echo $image_alternative_text_141; ?>" height = "200" width = "200" />
 			<img src = "http://thealmostdone.com/wp-content/uploads/2017/04/watching-movies.jpg" alt = "<?php echo $image_alternative_text_142; ?>" height = "200" width = "200" />
 			<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bowlerbowling.JPG/275px-Bowlerbowling.JPG" alt = "<?php echo $image_alternative_text_143; ?>" height = "200" width = "200" />
 			<img src = "http://www.wisdells.com/media/images/Landing-Page-Images/downtownwisdells.jpg" alt = "<?php echo $image_alternative_text_144; ?>" height = "200" width = "200" />
-  </div>
-<?php include 'Website About Me - footer.php'; ?>
+	</div><!-- end content -->
+<?php include '../view/Website About Me - footer.php'; ?>
