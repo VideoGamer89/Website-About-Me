@@ -395,11 +395,12 @@
 						<td>Handheld Game Console</td>
 						<td>October 6, 1990 (Japan), April 1, 1991 (North America and Europe), January 1, 1992 (Europe)</td>
 						<td>April 30, 1997 (Sega), April 30, 2001 (Majesco Entertainment)</td>
-						<td>Fourth</td>
+						<td>Land of Illusion Starring Mickey Mouse (20 Million)</td>
 						<td>10.62 Million</td>
 						<td>$149.99</td>
 						<td>None</td>
 						<td>Genesis Nomad</td>
+						<td>Fourth</td>
 						<td>None</td>
 						<td>None</td>
 						<td>8kB RAM, 16RkB VRAM</td>
