@@ -46,8 +46,10 @@
 						<th>Generation</th>
 						<th>Controller Input(s)</th>
 						<th>Media</th>
-						<th>Storage</td>
-						<th>Operating System</td>
+						<th>Storage</th>
+						<th>Operating System</th>
+						<th>CPU (Central Processing Unit)(s)</th>
+						<th>Graphics</th>
 						<th>Resource Number</th>
 					</tr>
 					<tr>
@@ -67,6 +69,8 @@
 						<td>Game Card, Digital Distribution (Nintendo eShop)</td>
 						<td>32 GB Internal Flash Memory</td>
 						<td>Nintendo Switch System Software</td>
+						<td>Octa-Core (4xARM Cortex-A57 & 4xARM Cortex-A53) @ 1.020 GHz</td>
+						<td>Nvidia GM20B Maxwell-based GPU @ 307.2 - 384 MHz while undocked, 307.2 - 768 MHz while docked</td>
 						<td><a href="Website About Me - Resources.html">1</a>, <a href="Website About Me - Resources.md">2</a></td>
 					</tr>
 					<tr>
@@ -86,6 +90,8 @@
 						<td>Wii U Optical Disc, Wii Optical Disc, Digital Distribution (Nintendo eShop)</td>
 						<td>8 or 32 GB Internal Flash Memory, SD/SDHC Card, USB Storage Device</td>
 						<td>Wii U System Software</td>
+						<td>1.24 GHz Tri-Core IBM PowerPC "Espresso"</td>
+						<td>550 MHz AMD Radeon "Latte"</td>
 						<td><a href="Website About Me - Resources.md">3</a></td>
 					</tr>
 					<tr>
@@ -105,6 +111,8 @@
 						<td>Nintendo 3DS Game Card, Nintendo DS Game Card, Digital Distribution (Nintendo eShop), SD/SDHC card</td>
 						<td>1 GB Internal Flash Memory</td>
 						<td>Nintendo 3DS System Software</td>
+						<td>268MHz Dual-Core ARM11 MPCore, Single-Core ARM9</td>
+						<td>DMP PICA200 GPU</td>
 						<td><a href="Website About Me - Resources.md">4</a></td>
 					</tr>
 					<tr>
@@ -123,6 +131,8 @@
 						<td>None</td>
 						<td>Nintendo Game Card, ROM cartridge</td>
 						<td>Cartridge save 256 KB flash memory</td>
+						<td>None</td>
+						<td>Two ARM Architecture Processors</td>
 						<td>None</td>
 						<td><a href="Website About Me - Resources.md">5</a>, <a href="Website About Me - Resources.md">6</a>, <a href="Website About Me - Resources.md">7</a></td>
 					</tr>
@@ -143,6 +153,8 @@
 						<td>UHD Blu-Ray (S and X Models), Blu-Ray, DVD, CD (All Models)</td>
 						<td>500 GB, 1 or 2 TB Internal Hard Drive, USB 3.0 Storage Device 256 GB or Greater</td>
 						<td>Xbox One System Software</td>
+						<td>Custom 1.75 GHz AMD 8-Core APU (2 Quad-Core Jaguar Modules) (Orginal and S Model), Custom 2.3 GHz AMD 8-Core APU (2 Quad-Core Evolved Jaguar Modules) (X Model)</td>
+						<td>Xbox One: 853 MHz, Xbox One S: 914 MHz, Xbox One X: 1.172 GHz AMD Radeon GCN Architecture (Built Into APU)</td>
 						<td><a href="Website About Me - Resources.md">8</a>, <a href="Website About Me - Resources.md">9</a></td>
 					</tr>
 					<tr>
@@ -162,6 +174,8 @@
 						<td>DVD, CD, Digital Distribution, HD DVD (discontinued)</td>
 						<td>20, 60, 120, or 250 GB (Older Models) or 250 or 320 GB Detachable Hard Drives (Xbox 360 S Models), 64, 256, or 512 GB Removable Memory Cards (Original Design Only), 256 or 512 MB for Arcade Consoles (Later Models), 4 GB for Budget Level "Xbox 360 S" Consoles, 1 or 32 GB USB Storage Device (requires System Software Update), 2 GB Cloud Storage (requires Xbox LIVE Gold Membership)</td>
 						<td>Xbox 360 System Software</td>
+						<td>3.2 GHz PowerPC Tri-Core Xenon</td>
+						<td>500 MHz ATI Xenos</td>
 						<td><a href="Website About Me - Resources.md">10</a></td>
 					</tr>
 					<tr>
@@ -181,6 +195,8 @@
 						<td>Blu-Ray Disc, DVD</td>
 						<td>500 GB, or 1 TB Hard Drive</td>
 						<td>PlayStation 4 System Software</td>
+						td>Semi-Custom 8-Core AMD x86-64 Jaguar 1.6 GHz CPU (Integrated Into APU), Secondary Low Power Processor (For Background Tasks)</td>
+						<td>Semi-Custom AMD GCN Radeon</td>
 						<td><a href="Website About Me - Resources.md">11</a>, <a href="Website About Me - Resources.md">12</a></td>
 					</tr>
 					<tr>
@@ -200,6 +216,8 @@
 						<td>Nintendo GameCube Game Disc, Game Pak (Game Boy Player required)</td>
 						<td>None, 16 GB Nintendo GameCube Memory Card</td>
 						<td>Dolphin OS</td>
+						<td>IBM PowerPC Gekko @ 486 MHz</td>
+						<td>ATI Flipper @ 162 MHz</td>
 						<td><a href="Website About Me - Resources.md">13</a>, <a href="Website About Me - Resources.md">6</a></td>
 					</tr>
 					<tr>
@@ -219,6 +237,8 @@
 						<td>Wii Optical Disc, GameCube Controller, Digital Distribution (Wii Shop Channel)</td>
 						<td>512 MB Internal Flash Memory</td>
 						<td>Wii System Software</td>
+						<td>729 MHz IBM PowerPC "Broadway"</td>
+						<td>243 MHz ATI "Hollywood"</td>
 						<td><a href="Website About Me - Resources.md">14</a></td>
 					</tr>
 					<tr>
@@ -238,6 +258,8 @@
 						<td>Nintendo 64 Game Pak, Magnetic Disc (64DD)</td>
 						<td>64 MB Game Pak</td>
 						<td>None</td>
+						<td>64-Bit NEC VR4300 @ 93.75 MHz</td>
+						<td>SGI RCP @ 62.5 MHz</td>
 						<td><a href="Website About Me - Resources.md">15</a>, <a href="Website About Me - Resources.md">6</a></td>
 					</tr>
 					<tr>
@@ -256,6 +278,8 @@
 						<td>SNES Controller</td>
 						<td>ROM Cartridge</td>
 						<td>None</td>
+						<td>None</td>
+						<td>Ricoh 5A22 @ 3.58 MHz</td>
 						<td>None</td>
 						<td><a href="Website About Me - Resources.md">16</a>, <a href="Website About Me - Resources.md">6</a></td>
 					</tr>
@@ -276,6 +300,8 @@
 						<td>ROM cartridge</td>
 						<td>None</td>
 						<td>None</td>
+						<td>ARM7tdMI @ 16.78 MHz, Zilog Z80 @ 8 or 4 MHz</td>
+						<td>None</td>
 						<td><a href="Website About Me - Resources.md">17</a>, <a href="Website About Me - Resources.md">6</a></td>
 					</tr>
 					<tr>
@@ -294,6 +320,8 @@
 						<td>PlayStation Controller, Dual Analog Controller, DualShock</td>
 						<td>CD-ROM</td>
 						<td>Memory Card</td>
+						<td>None</td>
+						<td>R3000 @ 33.8688 MHz</td>
 						<td>None</td>
 						<td><a href="Website About Me - Resources.md">18</a>, <a href="Website About Me - Resources.md">6</a></td>
 					</tr>
@@ -314,6 +342,8 @@
 						<td>DVD, CD</td>
 						<td>40 GB Hard Drive, 8 MB PlayStation 2 Memory Card, 128 KB PlayStation Memory Card</td>
 						<td>None</td>
+						<td>"Emotion Engine" @ 300 MHz</td>
+						<td>150 MHz "Graphics Synthesizer"</td>
 						<td><a href="Website About Me - Resources.md">19</a>, <a href="Website About Me - Resources.md">6</a></td>
 					</tr>
 					<tr>
@@ -333,7 +363,50 @@
 						<td>ROM cartridge</td>
 						<td>None</td>
 						<td>None</td>
+						<td>Motorola 68000 @ 7.6 MHz, Zilog Z80 @ 3.58 MHz</td>
+						<td>None</td>
 						<td><a href="Website About Me - Resources.md">20</a>, <a href="Website About Me - Resources.md">6</a>
+					</tr>
+			<tr>
+						<td>Super NES Classic Edition</td>
+						<td>Nintendo</td>
+						<td>Nintendo</td>
+						<td>Dedicated Console</td>
+						<td>September 29, 2017 (North America and Europe), September 30, 2017 (Australia), October 5, 2017 (Japan)</td>
+						<td>TBD</td>
+						<td>None</td>
+						<td>4 Million</td>
+						<td>$79.99</td>
+						<td>NES Classic Edition</td>
+						<td>TBD</td>
+						<td>None</td>
+						<td>Super NES Classic Edition Controller, Classic Controller</td>
+						<td>Internal Flash Memory</td>
+						<td>512 MB NAND Flash Memory</td>
+						<td>Linux</td>
+						<td>4 x ARM Cortex-A7</td>
+						<td>Mali-400 MP</td>
+						<td><a href="Website About Me - Works Cited.md">22</a></td>
+					</tr>
+			<tr>
+						<td>Game Gear</td>
+						<td>Sega</td>
+						<td>Sega</td>
+						<td>Handheld Game Console</td>
+						<td>October 6, 1990 (Japan), April 1, 1991 (North America and Europe), January 1, 1992 (Europe)</td>
+						<td>April 30, 1997 (Sega), April 30, 2001 (Majesco Entertainment)</td>
+						<td>Fourth</td>
+						<td>10.62 Million</td>
+						<td>$149.99</td>
+						<td>None</td>
+						<td>Genesis Nomad</td>
+						<td>None</td>
+						<td>None</td>
+						<td>8kB RAM, 16RkB VRAM</td>
+						<td>None</td>
+						<td>Zilog Z80 @ 3.5 MHz</td>
+						<td>160 x 144 Pixel Resolution, 4096-Color Palette, 32 Colors On-Screen</td>
+						<td><a href="Website About Me - Works Cited.md">23</a></td>
 					</tr>
 				</table>
 			</div>
