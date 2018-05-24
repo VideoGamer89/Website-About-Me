@@ -24,7 +24,7 @@
         <li><a href="Website About Me - Computer Programming Skills.md">Computer Programming Skills</a></li>
         <li><a href="Website About Me - Operating Systems.md">Operating Systems</a></li>
         <li><a href="Website About Me - Software.md">Software</a></li>
-	      <li><a href="Website About Me - References.md">References</a></li>
+	      <li><a href="Website About Me - Works Cited.md">Works Cited</a></li>
        </ul>
     </div>
     <div class="content">
@@ -43,7 +43,7 @@
 						<th>Number of Location(s)</th>
 						<th>Number of Employees</th>
 						<th>Founder(s)</th>
-						<th>Reference Number(s)</th>
+						<th>Resource Number(s)</th>
 					</tr>
 					<tr>
 						<td><a href="https://www.wendys.com/">Wendy's</a></td>
@@ -56,7 +56,8 @@
 						<td>6,500+</td>
 						<td>100+</td>
 						<td>Dave Thomas</td>
-						<td><a href="Website About Me - References.md">1</a></td>
+						<td>Worldwide</td>
+						<td><a href="Website About Me - Works Cited.mdtml">1</a></td>
 					</tr>
 					<tr>
 						<td><a href="https://www.mcdonalds.com/">McDonald's</a></td>
@@ -69,7 +70,8 @@
 						<td>36,900</td>
 						<td>375,000</td>
 						<td>Richard McDonald, Maurice McDonald, Ray Kroc</td>
-						<td><a href="Website About Me - References.md">2</a></td>
+						<td>Worldwide</td>
+						<td><a href="Website About Me - Works Cited.mdtml">2</a></td>
 					</tr>
 					<tr>
 						<td><a href="http://www.goldencorral.com/">Golden Corral</a></td>
@@ -82,7 +84,8 @@
 						<td>200</td>
 						<td>9000</td>
 						<td>James Maynard, William F. Carl</td>
-						<td><a href="Website About Me - References.md">3</a></td>
+						<td>United States</td>
+						<td><a href="Website About Me - Works Cited.mdtml">3</a></td>
 					</tr>
 					<tr>
 						<td><a href="https://www.pizzahut.com/">Pizza Hut</a></td>
@@ -92,10 +95,11 @@
 						<td>Plano, Texas</td>
 						<td>Fast Food, Buffet</td>
 						<td>Italian-American Cuisine, Pizza, Pasta, Buffalo Wings</td>
-						<td>13,728</td>
+						<td>16,796</td>
 						<td>100+</td>
 						<td>Dan Carney, Frank Carney</td>
-						<td><a href="Website About Me - References.md">4</a></td>
+						<td>Worldwide</td>
+						<td><a href="Website About Me - Works Cited.mdtml">4</a></td>
 					</tr>
 					<tr>
 						<td><a href="http://www.perkinsrestaurants.com/">Perkins Restaurant and Bakery</a></td>
@@ -108,7 +112,8 @@
 						<td>390</td>
 						<td>25,000</td>
 						<td>Matt Perkins, Ivan Perkins</td>
-						<td><a href="Website About Me - References.md">5</a>, <a href="Website About Me - References.md">6</a></td>
+						<td>United States, Canada</td>
+						<td><a href="Website About Me - Works Cited.mdtml">5</a>, <a href="Website About Me - Works Cited.mdtml">6</a></td>
 					</tr>
 					<tr>
 						<td><a href="https://pizzaranch.com/">Pizza Ranch</a></td>
@@ -121,12 +126,13 @@
 						<td>204</td>
 						<td>100+</td>
 						<td>Adrie Groeneweg, Lawrence Vander Esch</td>
-						<td><a href="Website About Me - References.md">7</a>, <a href="Website About Me - References.md">8</a></td>
+						<td>United States</td>
+						<td><a href="Website About Me - Works Cited.mdtml">7</a>, <a href="Website About Me - Works Cited.html">8</a></td>
 					</tr>
 					<tr>
 						<td><a href="https://www.whitecastle.com/">White Castle</a></td>
 						<td>Private</td>
-						<td>Fast Food Restaurant</td>
+						<td>Fast Food, Restaurant Chain</td>
 						<td>1921</td>
 						<td>Columbus, Ohio</td>
 						<td>Fast Food</td>
@@ -134,7 +140,8 @@
 						<td>420</td>
 						<td>100+</td>
 						<td>Billy Ingram, Walter Anderson</td>
-						<td><a href="Website About Me - References.md">9</a></td>
+						<td>Midwestern United States, Mid-Atlantic United States</td>
+						<td><a href="Website About Me - Works Cited.mdtml">9</a></td>
 					</tr>
 					<tr>
 						<td><a href="https://www.kfc.com/">KFC (Kentucky Fried Chicken)</a></td>
@@ -144,10 +151,11 @@
 						<td>Louisville, Kentucky</td>
 						<td>Fast Food, Buffet</td>
 						<td>Fried Chicken, Chicken Sandwiches, Wraps, French Fries, Soft Drinks, Salads, Desserts, Breakfast</td>
-						<td>19,952</td>
+						<td>20,952</td>
 						<td>100+</td>
 						<td>Harland Sanders</td>
-						<td><a href="Website About Me - References.md">10</a></td>
+						<td>Worldwide</td>
+						<td><a href="Website About Me - Works Cited.mdtml">10</a></td>
 					</tr>
 					<tr>
 						<td><a href="http://www.subway.com/en-us">Subway</a></td>
@@ -156,11 +164,12 @@
 						<td>1965</td>
 						<td>Milford, Connecticut</td>
 						<td>Fast Food</td>
-						<td>Submarine Sandwiches, Pizzas (Located at Walmart), Salads</td>
+						<td>Submarine Sandwiches, Pizzas (Subway's Located at Walmart), Salads</td>
 						<td>44,834</td>
 						<td>100+</td>
 						<td>Fred DeLuca, Peter Buck</td>
-						<td><a href="Website About Me - References.md">11</a></td>
+						<td>Worldwide</td>
+						<td><a href="Website About Me - Works Cited.mdtml">11</a></td>
 					</tr>
 					<tr>
 						<td><a href="https://www.dennys.com/">Denny's</a></td>
@@ -173,7 +182,8 @@
 						<td>1,700</td>
 						<td>100+</td>
 						<td>Harold Butler, Richard Jezak</td>
-						<td><a href="Website About Me - References.md">12</a></td>
+						<td>Worldwide</td>
+						<td><a href="Website About Me - Works Cited.mdtml">12</a></td>
 					</tr>
 					<tr>
 						<td><a href="http://www.oldcountrybuffet.com/">Old Country Buffet</a></td>
@@ -186,7 +196,8 @@
 						<td>113</td>
 						<td>100+</td>
 						<td>Roe Halten, C. Dennis Scott, Dermot Rowland, Doron Jensen</td>
-						<td><a href="Website About Me - References.md">13</a></td>
+						<td>North America</td>
+						<td><a href="Website About Me - Works Cited.mdtml">13</a></td>
 					</tr>
 					<tr>
 						<td><a href="http://www.starbucks.com/">Starbucks</a></td>
@@ -199,10 +210,11 @@
 						<td>26,696</td>
 						<td>238,000</td>
 						<td>Jerry Baldwin, Zev Siegl, Gordon Bowker</td>
-						<td><a href="Website About Me - References.md">14</a></td>
+						<td>Worldwide</td>
+						<td><a href="Website About Me - Works Cited.mdtml">14</a></td>
 					</tr>
 					<tr>
-						<td><a href="https://www.dairyqueen.com/us-en/?localechange=1&">Dairy Queen (DQ)</a></td>
+						<td><a href="https://www.dairyqueen.com/us-en/">Dairy Queen (DQ)</a></td>
 						<td>Subsidiary</td>
 						<td>Restaurant</td>
 						<td>1940</td>
@@ -212,7 +224,8 @@
 						<td>6,400</td>
 						<td>100+</td>
 						<td>John Fremont McCullough</td>
-						<td><a href="Website About Me - References.md">15</a></td>
+						<td>Global</td>
+						<td><a href="Website About Me - Works Cited.mdtml">15</a></td>
 					</tr>
 					<tr>
 						<td><a href="https://www.tacobell.com/">Taco Bell</a></td>
@@ -221,11 +234,12 @@
 						<td>1962</td>
 						<td>Irvine, California</td>
 						<td>Fast Food</td>
-						<td>Tacos, Burritos, Other Tex-Mex Cuisine-Related Fast Food</td>
+						<td>Tacos, Burritos, Tex-Mex Cuisine</td>
 						<td>7,000</td>
 						<td>175,000+</td>
 						<td>Glen Bell</td>
-						<td><a href="Website About Me - References.html">16</a></td>
+						<td>Worldwide</td>
+						<td><a href="Website About Me - Works Cited.mdtml">16</a></td>
 					</tr>
 					<tr>
 						<td><a href="https://www.sonicdrivein.com/">Sonic</a></td>
@@ -238,7 +252,8 @@
 						<td>3,557</td>
 						<td>9,200</td>
 						<td>Troy Smith</td>
-						<td><a href="Website About Me - References.md">17</a></td>
+						<td>North America</td>
+						<td><a href="Website About Me - Works Cited.mdtml">17</a></td>
 					</tr>
 					<tr>
 						<td><a href="https://arbys.com/">Arby's</a></td>
@@ -251,7 +266,8 @@
 						<td>3,342</td>
 						<td>74,000</td>
 						<td>Forrest Raffel, Leroy Raffel</td>
-						<td><a href="Website About Me - References.md">18</a></td>
+						<td>United States, Canada, Turkey, United Arab Emirates, Qatar, Kuwait</td>
+						<td><a href="Website About Me - Works Cited.mdtml">18</a></td>
 					</tr>
 					<tr>
 						<td><a href="https://www.culvers.com/">Culver's</a></td>
@@ -261,28 +277,30 @@
 						<td>Prairie du Sac, Wisconsin</td>
 						<td>Fast Food</td>
 						<td>Frozen Custard, Butterburgers, Chicken</td>
-						<td>640</td>
+						<td>655</td>
 						<td>100+</td>
 						<td>Craig Culver, Lea Culver</td>
-						<td><a href="Website About Me - References.md">19</a></td>
+						<td>Midwestern United States</td>
+						<td><a href="Website About Me - Works Cited.mdtml">19</a></td>
 					</tr>
 					<tr>
 						<td><a href="https://awrestaurants.com/">A & W</a></td>
 						<td>Private</td>
 						<td>Fast Food</td>
-						<td>1923</td>
+						<td>1919</td>
 						<td>Lexington, Kentucky</td>
 						<td>Fast Food</td>
 						<td>Hot Dogs, Root Beer, Cheese Curds, Hamburgers, Chicken</td>
 						<td>1,200+</td>
 						<td>100+</td>
 						<td>Roy W. Allen, Frank Wright</td>
-						<td><a href="Website About Me - References.md">20</a></td>
+						<td>Worldwide</td>
+						<td><a href="Website About Me - Works Cited.mdtml">20</a></td>
 					</tr>
 					<tr>
 						<td><a href="http://www.bk.com/">Burger King</a></td>
 						<td>Subsidiary</td>
-						<td>Restaurants</td>
+						<td>Restaurant</td>
 						<td>1954</td>
 						<td>Miami-Dade County, Florida</td>
 						<td>Fast Food</td>
@@ -290,33 +308,36 @@
 						<td>15,000+</td>
 						<td>34,248</td>
 						<td>Keith J. Kramer, Matthew Burns, David Edgerton, James McLamore</td>
-						<td><a href="Website About Me - References.md">21</a></td>
+						<td>Worldwide</td>
+						<td><a href="Website About Me - Works Cited.mdtml">21</a></td>
 					</tr>
 					<tr>
 						<td><a href="http://www.olivegarden.com/home">Olive Garden</a></td>
 						<td>Wholly Owned Subsidiary</td>
-						<td>Restaurants</td>
+						<td>Restaurant</td>
 						<td>1982</td>
 						<td>Orlando, Florida</td>
 						<td>Casual Dining</td>
 						<td>Italian Cuisine (Pasta, Salads, Chicken, Seafood, Breadsticks)</td>
-						<td>844</td>
+						<td>891</td>
 						<td>100+</td>
 						<td>Bill Darden</td>
-						<td><a href="Website About Me - References.md">22</a></td>
+						<td>Worldwide</td>
+						<td><a href="Website About Me - Works Cited.mdtml">22</a></td>
 					</tr>
 					<tr>
 						<td><a href="https://www.outback.com/">Outback Steakhouse</a></td>
 						<td>Wholly Owned Subsidiary</td>
-						<td>Restaurants</td>
+						<td>Restaurant</td>
 						<td>1988</td>
 						<td>Tampa, Florida</td>
 						<td>Casual Dining</td>
 						<td>American Cuisine</td>
-						<td>978</td>
+						<td>1,002</td>
 						<td>100+</td>
 						<td>Bob Basham, Trudy Cooper, Chris T. Sullivan, Tim Cannon</td>
-						<td><a href="Website About Me - References.md">23</a></td>
+						<td>North America, Australia, Caribbean, Southeast Asia, Brazil, China, Chile, Costa Rica, Guam, Hong Kong, Japan, South Korea, Taiwan, Phillippines, Venezuela</td>
+						<td><a href="Website About Me - Works Cited.mdtml">23</a></td>
 					</tr>
 					<tr>
 						<td><a href="https://www.pon-bon.com/">Ponderosa</a></td>
@@ -329,7 +350,36 @@
 						<td>88</td>
 						<td>100+</td>
 						<td>Dan Lasater, Norm Wiese, Charles Kelptz</td>
-						<td><a href="Website About Me - References.md">24</a></td>
+						<td>United States</td>
+						<td><a href="Website About Me - Works Cited.mdtml">24</a></td>
+					</tr>
+					<tr>
+						<td><a href="https://www.chick-fil-a.com/">Chick-fil-A</a></td>
+						<td>Private</td>
+						<td>Restaurants</td>
+						<td>1967</td>
+						<td>Atlanta, Georgia</td>
+						<td>Fast Food</td>
+						<td>Sandwiches, Chicken Dishes</td>
+						<td>Over 2,200</td>
+						<td>100+</td>
+						<td>S. Truett Cathy</td>
+						<td>United States, Canada</td>
+						<td><a href="Website About Me - Works Cited.mdtml">25</a></td>
+					</tr>
+					<tr>
+						<td><a href="https://sbarro.com/">Sbarro</a></td>
+						<td>Private</td>
+						<td>Food</td>
+						<td>1956</td>
+						<td>Columbus, Ohio</td>
+						<td>Fast Food</td>
+						<td>Italian-American Cuisine, Pizza, Pasta, Salads</td>
+						<td>Over 800</td>
+						<td>100+</td>
+						<td>Gennaro Sbarro, Carmela Sbarro</td>
+						<td>United States</td>
+						<td><a href="Website About Me - Works Cited.mdd">26</a></td>
 					</tr>
 				</table>
       </div>
