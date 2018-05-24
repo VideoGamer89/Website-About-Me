@@ -133,17 +133,18 @@
 					<li><a href="https://en.wikipedia.org/wiki/Potato_chip">Potato chip - Wikipedia</a>, January 1, 2018</li>
 					<li><a href="https://en.wikipedia.org/wiki/Blooming_onion">Blooming onion - Wikipedia</a>, November 14, 2017</li>
 					<li><a href="https://en.wikipedia.org/wiki/Gnocchi">Gnocchi - Wikipedia</a>, December 26, 2017</li>
-					<li><a href="https://en.wikipedia.org/wiki/Rice-A-Roni">Rice-A-Ront - Wikipedia</a>, August 13, 2017</li>
+					<li><a href="https://en.wikipedia.org/wiki/Rice-A-Roni">Rice-A-Roni - Wikipedia</a>, August 13, 2017</li>
 				</ol>
 			<h2>Favorite Gaming Consoles</h2>
 				<ol>
 					<li><a href="https://en.wikipedia.org/wiki/Nintendo_Switch">Nintendo Switch - Wikipedia</a>, January 6, 2018</li>
-					<li><a href="https://en.wikipedia.org/wiki/Nintendo_Platform_Technology_Development">Nintendo Platform Technology Development</a>, December 6, 2017</a></li>
+					<li><a href="https://en.wikipedia.org/wiki/Nintendo_Platform_Technology_Development">Nintendo Platform Technology Development</a>, December 6, 2017</li>
 					<li><a href="https://en.wikipedia.org/wiki/Wii_U">Wii U - Wikipedia</a>, January 2, 2018</li>
 					<li><a href="https://en.wikipedia.org/wiki/Nintendo_3DS">Nintendo 3DS - Wikipedia</a>, December 21, 2017</li>
 					<li><a href="https://en.wikipedia.org/wiki/Nintendo_DS">Nintendo DS - Wikipedia</a>, December 14, 2017</li>
 					<li><a href="http://vgsales.wikia.com/wiki/Launch_price">Launch Price | Video Game Wiki | FANDOM powered by Wikia</a>, December 12, 2017</li>
 					<li><a href="https://www.cnet.com/news/nintendo-dsi-and-dsi-xl-drop-to-99-and-129/">Nintendo DSi and DSi XL drop to $99 and $129 - CNET</a>, May 10, 2012</li>
+					<li><a href="https://en.wikipedia.org/wiki/Nintendo_DSi">Nintendo DSi - Wikipedia</a>, April 14, 2018</li>
 					<li><a href="https://en.wikipedia.org/wiki/Xbox_One">Xbox One - Wikipedia</a>, December 28, 2017</li>
 					<li><a href="https://en.wikipedia.org/wiki/List_of_best-selling_Xbox_One_video_games">List of best-selling Xbox One video games</a>, December 18, 2017</li>
 					<li><a href="https://en.wikipedia.org/wiki/Xbox_360">Xbox 360 - Wikipedia</a>, December 3, 2017</li>
@@ -157,6 +158,9 @@
 					<li><a href="https://en.wikipedia.org/wiki/PlayStation_(console)">PlayStation (console) - Wikipedia</a>, December 31, 2017</li>
 					<li><a href="https://en.wikipedia.org/wiki/PlayStation_2">PlayStation 2 - Wikipedia</a>, January 1, 2018</li>
 					<li><a href="https://en.wikipedia.org/wiki/Sega_Genesis">Sega Genesis - Wikipedia</a>, December 15, 2017</li>
+					<li><a href="https://en.wikipedia.org/wiki/Super_NES_Classic_Edition">Super NES - Classic Edition - Wikipedia</a>, April 10, 2018</li>
+					<li><a href="https://en.wikipedia.org/wiki/Game_Gear">Game Gear - Wikipedia</a>, May 9, 2018</li>
+					<li><a href="https://www.gamesradar.com/best-game-gear-games-all-time/6/">Best Sega Game Gear Games of All Time | GamesRadar+</a>, May 6, 2014</li>
 				</ol>
 			<h2>Favorite Movies</h2>
 				<ol>
@@ -204,6 +208,7 @@
 					<li><a href="https://en.wikipedia.org/wiki/Going_in_Style_(2017_film)">Going in Style (2017 film) - Wikipedia</a>, December 28, 2017</li>
 					<li><a href="https://en.wikipedia.org/wiki/The_Blind_Side_(film)">The Blind Side (film) - Wikipedia</a>, December 27, 2017</li>
 					<li><a href="https://en.wikipedia.org/wiki/90_Minutes_in_Heaven_(film)">90 Minutes in Heaven (film) - Wikipedia</a>, November 5, 2017</li>
+					<li><a href="http://www.imdb.com/title/tt4337690/fullcredits?ref_=tt_cl_sm#cast">90 Minutes in Heaven (2015) - Full Cast & Crew - IMDb</a>, April 12, 2018</li>
 					<li><a href="https://en.wikipedia.org/wiki/Justice_League_(film)">Justice League (film) - Wikipedia</a>, January 2, 2018</li>
 					<li><a href="https://en.wikipedia.org/wiki/War_Room_(film)">War Room (film) - Wikipedia</a>, December 15, 2017</li>
 					<li><a href="https://en.wikipedia.org/wiki/Left_Behind_(2014_film)">Left Behind (2014 film) - Wikipedia</a>, December 29, 2017</li>
@@ -237,10 +242,24 @@
 					<li><a href="https://en.wikipedia.org/wiki/Remember_the_Titans">Remember the Titans - Wikipedia</a>, December 21, 2017</li>
 					<li><a href="https://en.wikipedia.org/wiki/Star_Wars:_The_Last_Jedi">Star Wars: The Last Jedi - Wikipedia</a>, January 2, 2018</li>
 					<li><a href="https://en.wikipedia.org/wiki/Valerian_and_the_City_of_a_Thousand_Planets">Valerian and the City of a Thousand Planets - Wikipedia</a>, December 28, 2017</li>
-	<li><a href="https://en.wikipedia.org/wiki/The_Social_Network">The Social Network - Wikipedia</a>, January 1, 2018</li>
+					<li><a href="https://en.wikipedia.org/wiki/The_Social_Network">The Social Network - Wikipedia</a>, January 1, 2018</li>
 					<li><a href="https://en.wikipedia.org/wiki/Star_Wars:_Episode_I_%E2%80%93_The_Phantom_Menace">Star Wars: Episode I - The Phantom Menace - Wikipedia</a>, January 15, 2018</li>
 					<li><a href="https://en.wikipedia.org/wiki/Star_Wars:_Episode_II_%E2%80%93_Attack_of_the_Clones">Star Wars: Episode II - Attack of the Clones - Wikipedia</a>, January 12, 2018</li>
 					<li><a href="https://en.wikipedia.org/wiki/Star_Wars:_Episode_III_%E2%80%93_Revenge_of_the_Sith">Star Wars: Episode III - Revenge of the Sith - Wikipedia</a>, January 14, 2018</li>
+					<li><a href="https://en.wikipedia.org/wiki/The_Empire_Strikes_Back">The Empire Strikes Back - Wikipedia</a>, February 24, 2018</li>
+					<li><a href="https://en.wikipedia.org/wiki/X-Men:_Days_of_Future_Past">X-Men: Days of Future Past - Wikipedia</a>, February 22, 2018</li>
+					<li><a href="https://en.wikipedia.org/wiki/Logan_Lucky">Logan Lucky - Wikipedia</a>, February 25, 2018</li>
+					<li><a href="https://en.wikipedia.org/wiki/Black_Panther_(film)">Black Panther (film) - Wikipedia</a>, February 27, 2018</li>
+					<li><a href="https://en.wikipedia.org/wiki/The_Dark_Knight_(film)">The Dark Knight (film) - Wikipedia</a>, February 26, 2018</li>
+					<li><a href="https://en.wikipedia.org/wiki/Batman_Begins">Batman Begins - Wikipedia</a>, March 6, 2018</li>
+					<li><a href="https://en.wikipedia.org/wiki/Elf_(film)">Elf (film) - Wikipedia</a>, April 5, 2018</li>
+					<li><a href="https://en.wikipedia.org/wiki/The_Jungle_Book_(2016_film)">The Jungle Book (2016 film) - Wikipedia</a>, April 10, 2018</li>
+					<li><a href="https://en.wikipedia.org/wiki/King_Kong_(2005_film)">King Kong (2005 film) - Wikipedia</a>, March 27, 2018</li>
+					<li><a href="https://en.wikipedia.org/wiki/Moana_(2016_film)">Moana (2016 film) - Wikipedia</a>, April 10, 2018</li>
+					<li><a href="https://en.wikipedia.org/wiki/Big_Fish">Big Fish - Wikipedia</a>, January 21, 2018</li>
+					<li><a href="https://en.wikipedia.org/wiki/Avengers:_Infinity_War">Avengers: Infinity War - Wikipedia</a>, May 22, 2018</li>
+					<li><a href="https://en.wikipedia.org/wiki/Rampage_(2018_film)">Rampage (2018 Film) - Wikipedia</a>, May 22, 2018</li>
+					<li><a href="https://en.wikipedia.org/wiki/Deadpool_2">Deadpool 2 - Wikipedia</a>, May 22, 2018</li>
 				</ol>
 			<h2>Favorite Restaurants</h2>
 				<ol>
@@ -268,6 +287,8 @@
 					<li><a href="https://en.wikipedia.org/wiki/Olive_Garden">Olive Garden - Wikipedia</a>, November 17, 2017</li>
 					<li><a href="https://en.wikipedia.org/wiki/Outback_Steakhouse">Outback Steakhouse - Wikipedia</a>, December 24, 2017</li>
 					<li><a href="https://en.wikipedia.org/wiki/Ponderosa_Steakhouse_and_Bonanza_Steakhouse">Ponderosa Steakhouse and Bonanza Steakhouse - Wikipedia</a>, November 7, 2017</li>
+					<li><a href="https://en.wikipedia.org/wiki/Chick-fil-A">Chick-fil-A - Wikipedia</a>, April 10, 2018</li>
+					<li><a href="https://en.wikipedia.org/wiki/Sbarro">Sbarro - Wikipedia</a>, May 9, 2018</li>
 				</ol>
 			<h2>Favorite Stores</h2>
 				<ol>
@@ -281,7 +302,7 @@
 					<li><a href="https://en.wikipedia.org/wiki/Dollar_General">Dollar General - Wikipedia</a>, December 23, 2017</li>
 					<li><a href="https://en.wikipedia.org/wiki/OfficeMax">OfficeMax - Wikipedia</a>, September 25, 2017</li>
 					<li><a href="https://en.wikipedia.org/wiki/Barnes_%26_Noble">Barnes & Noble - Wikipedia</a>, December 24, 2017</li>
-					<li><a href="https://en.wikipedia.org/wiki/Half_Price_Books">Half Price Books - Wikpedia</a>, July 25, 2017</li>
+					<li><a href="https://en.wikipedia.org/wiki/Half_Price_Books">Half Price Books - Wikipedia</a>, July 25, 2017</li>
 				</ol>
 			<h2>Favorite TV Shows</h2>
 				<ol>
@@ -307,7 +328,8 @@
 					<li><a href="https://en.wikipedia.org/wiki/Skylanders_Academy">Skylanders Academy - Wikipedia</a>, January 2, 2018</li>
 					<li><a href="https://en.wikipedia.org/wiki/Baby_Daddy">Baby Daddy - Wikipedia</a>, December 9, 2017</li>
 					<li><a href="https://en.wikipedia.org/wiki/Milo_Murphy%27s_Law">Milo Murphy's Law - Wikipedia</a>, January 2, 2018</li>
-	<li><a href="https://en.wikipedia.org/wiki/Adventure_Time">Adventure Time - Wikipedia</a>, January 27, 2018</li>
+					<li><a href="https://en.wikipedia.org/wiki/Adventure_Time">Adventure Time - Wikipedia</a>, January 27, 2018</li>
+					<li><a href="https://en.wikipedia.org/wiki/The_Boss_Baby:_Back_in_Business">The Boss Baby: Back in Business - Wikipedia</a>, May 7, 2018</li>
 				</ol>
 			<h2>Favorite Video Games</h2>
 				<ol>
@@ -324,6 +346,7 @@
 					<li><a href="https://en.wikipedia.org/wiki/Injustice:_Gods_Among_Us">Injustice: Gods Among Us - Wikipedia</a>, January 2, 2018</li>
 					<li><a href="https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles:_Mutants_in_Manhattan">Teenage Mutant Ninja Turtles: Mutants in Manhattan - Wikipedia</a>, September 15, 2017</li>
 					<li><a href="https://en.wikipedia.org/wiki/Call_of_Duty:_Ghosts">Call of Duty: Ghosts - Wikipedia</a>, December 20, 2017</li>
+					<li><a href="http://www.imdb.com/title/tt2951478/">Call of Duty: Ghosts (Video Game 2013) - IMDb</a>, February 2, 2018</li>
 					<li><a href="https://en.wikipedia.org/wiki/Call_of_Duty:_Advanced_Warfare">Call of Duty: Advanced Warfare - Wikipedia</a>, October 9, 2017</li>
 					<li><a href="https://en.wikipedia.org/wiki/Call_of_Duty_4:_Modern_Warfare">Call of Duty 4: Modern Warfare - Wikipedia</a>, January 1, 2018</li>
 					<li><a href="https://en.wikipedia.org/wiki/Bayonetta_2">Bayonetta 2 - Wikipedia</a>, January 2, 2018</li>
@@ -471,6 +494,13 @@
 					<li><a href="https://en.wikipedia.org/wiki/Batman:_Arkham_Origins">Batman: Arkham Origins</a>, January 16, 2018</li>
 					<li><a href="https://en.wikipedia.org/wiki/Mirror%27s_Edge_Catalyst">Mirror's Edge Catalyst - Wikipedia</a>, January 24, 2018</li>
 					<li><a href="https://en.wikipedia.org/wiki/Assassin%27s_Creed_Unity">Assassin's Creed Unity - Wikipedia</a>, January 28, 2018</li>
+					<li><a href="https://en.wikipedia.org/wiki/Yoshi%27s_Woolly_World">Yoshi's Woolly World - Wikipedia</a>, March 4, 2018</li>
+					<li><a href="https://en.wikipedia.org/wiki/Donkey_Kong_Country:_Tropical_Freeze">Donkey Kong Country: Tropical Freeze</a>, March 4, 2018</li>
+					<li><a href="https://en.wikipedia.org/wiki/Devil_May_Cry_(video_game)">Devil May Cry (video game) - Wikipedia</a>, December 9, 2017</li>
+					<li><a href="https://en.wikipedia.org/wiki/Devil_May_Cry_2">Devil May Cry 2 - Wikipedia</a>, December 9, 2017</li>
+					<li><a href="https://en.wikipedia.org/wiki/Devil_May_Cry_3:_Dante%27s_Awakening">Devil May Cry 3: Dante's Awakening - Wikipedia</a>, December 31, 2017</li>
+					<li><a href="https://en.wikipedia.org/wiki/Devil_May_Cry_4">Devil May Cry 4 - Wikipedia</a>, December 31, 2017</li>
+					<li><a href="https://en.wikipedia.org/wiki/Fire_Emblem_Warriors">Fire Emblem Warriors - Wikipedia</a>, February 8, 2018</li>
 				</ol>
 			<h2>Operating Systems</h2>
 				<ol>
@@ -479,6 +509,7 @@
 					<li><a href="https://en.wikipedia.org/wiki/Windows_8.1">Windows 8.1 - Wikipedia</a>, January 2, 2018</li>
 					<li><a href="https://en.wikipedia.org/wiki/Windows_10">Windows 10 - Wikipedia</a>, January 2, 2018</li>
 					<li><a href="https://en.wikipedia.org/wiki/Android_(operating_system)">Android (operating system) - Wikipedia</a>, January 3, 2018</li>
+					<li><a href="https://en.wikipedia.org/wiki/Windows_XP">Windows XP - Wikipedia</a>, February 24, 2018</li>
 				</ol>
 			<h2>Software</h2>
 				<ol>
