@@ -24,7 +24,7 @@
 				<li><a href="Website About Me - Work Samples.md">Work Samples</a></li>
 				<li><a href="Website About Me - Computer Programming Skills.md">Computer Programming Skills</a></li>
 				<li><a href="Website About Me - Software.md">Software</a></html>
-				<li><a href="Website About Me - Resources.md">Resources</a></li>
+				<li><a href="Website About Me - Works Cited.md">Works Cited</a></li>
 			</ul>
 		</div>
 		<div class = "content">
@@ -40,6 +40,7 @@
 						<th>Source Model(s)</th>
 						<th>Kernel type</th>
 						<th>Update Method(s)</th>
+						<th>Platform(s)</th>
 						<th>Resource Number</th>
 					</tr>
 					<tr>
@@ -50,7 +51,8 @@
 						<td>Closed Source and Shared Source</td>
 						<td>Hybrid</td>
 						<td>Windows Update</td>
-						<td><a href="Website About Me - Resources.md">1</a></td>
+						<td>IA-32 and x86-64</td>
+						<td><a href="Website About Me - Works Cited.md">1</a></td>
 					</tr>
 					<tr>
 						<td>Microsoft Windows 8</td>
@@ -60,7 +62,8 @@
 						<td>Closed Source and Shared Source</td>
 						<td>Hybrid</td>
 						<td>Windows Update, Windows Store, Windows Server Update Services</td>
-						<td><a href="Website About Me - Resources.md">2</a></td>
+						<td>IA-32 and x64</td>
+						<td><a href="Website About Me - Works Cited.md">2</a></td>
 					</tr>
 					<tr>
 						<td>Microsoft Windows 8.1</td>
@@ -70,7 +73,8 @@
 						<td>None</td>
 						<td>Hybrid</td>
 						<td>Windows Update, Windows Store, Windows Server Update Services</td>
-						<td><a href="Website About Me - Resources.md">3</a></td>
+						<td>IA-32 and x64</td>
+						<td><a href="Website About Me - Work Cited.md">3</a></td>
 					</tr>
 					<tr>
 						<td>Microsoft Windows 10</td>
@@ -80,7 +84,8 @@
 						<td>Closed Source and Shared Source (Windows Driver Frameworks is now Open-Source)</td>
 						<td>Hybrid (Windows NT)</td>
 						<td>Windows Update, Windows Store, Windows Server Update Services</td>
-						<td><a href="Website About Me - Resources.md">4</a></td>
+						<td>IA-32, x86-64, and ARM64 (as of version 1709)</td>
+						<td><a href="Website About Me - Works Cited.md">4</a></td>
 					</tr>
 					<tr>
 						<td>Android</td>
@@ -90,7 +95,19 @@
 						<td>Open Source and In Most Devices With Proprietary Components</td>
 						<td>Monolithic (modified Linux kernel)</td>
 						<td>None</td>
-						<td><a href="Website About Me - Resources.md">5</a></td>
+						<td>32-bit and 64-bit ARM, x86, x86-64, MIPS and MIPS64</td>
+						<td><a href="Website About Me - Works Cited.md">5</a></td>
+					</tr>
+					<tr>
+						<td>Windows XP</td>
+						<td>Microsoft</td>
+						<td>August 24, 2001</td>
+						<td>October 25, 2001</td>
+						<td>Closed Source, Shared Source</td>
+						<td>Hybrid</td>
+						<td>Windows Update, Windows Server Update Services (WSUS), System Center Configuration Manager (SCCM)</td>
+						<td>IA-32, x86-64 and Itanium</td>
+						<td><a href="Website About Me - Works Cited.md">6</a></td>
 					</tr>
 				</table>
 			</div>
