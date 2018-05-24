@@ -29,13 +29,13 @@
 		</div>
 		<div class = "content">
 			<p>Here is a list of Work Samples that I did during my internship with Best Business Coach.</p>
-			<div id="myDivWorkSamplesElement">
+			<div id = "myDivWorkSamplesElement">
 				<ul>
-					<li><a href="http://members.bestbusinesscoach.ca/jeff-job">My Version of The Mentoring Page</a>. I added a blue background to each of the headers.</li>
-					<li><a href="http://members.bestbusinesscoach.ca/podcast-interviews">Podcast Interview Page With The Banners Containing the Business Form</a>. I implemented a survey on the top banner and side banner and inserted new testimonials.</li>
-					<li><a href="http://members.bestbusinesscoach.ca/main-member-home">Updated Main Member Home Page</a>. I made some tweaks based on sales letters from other websites.</li>
+					<li><a href="http://members.bestbusinesscoach.ca/jeff-job">My Version of The Mentoring Page</a>. I utilized Optimize Press to make some tweaks based on sales letters from other websites.</li>
+					<li><a href="http://members.bestbusinesscoach.ca/podcast-interviews">Podcast Interview Page With The Banners Containing the Business Form</a>. I utilized Optimize Press to add a survey on the top banner and side banner and inserted new testimonials.</li>
+					<li><a href="http://members.bestbusinesscoach.ca/main-member-home">Updated Main Member Home Page</a>. I utilized Optimize Press to add a blue background to each of the headers.</li>
 				</ul>
-				<p>I transcribed podcast interviews and tested the Basic Business Course, ensuring absence of errors involving webpages and / or broken links.</p>
+				<p>I utilized Transcribe to listen to each podcast interview carefully and record each word that was said and tested the Basic Business Course, ensuring absence of errors involving webpages and / or broken links.</p>
 			</div>
 		</div>
 		<div class = "footer">
