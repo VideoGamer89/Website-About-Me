@@ -24,7 +24,7 @@
 				<li><a href="Website About Me - Computer Programming Skills.md">Computer Programming Skills</a></li>
 				<li><a href="Website About Me - Operating Systems.md">Operating Systems</a></li>
 				<li><a href="Website About Me - Software.md">Software</a></li>
-				<li><a href="Website About Me - Resources.md">Resources</a></li>
+				<li><a href="Website About Me - Works Cited.md">Works Cited</a></li>
 			</ul>
 		</div>
 		<div class = "content">
@@ -56,17 +56,18 @@
 						<td>T</td>
 						<td>Teen</td>
 						<td>Fighting</td>
-						<td>November 22, 2013 (Season One), September 23, 2014 (Season Two), March 29, 2016 (Season Three)</td>
+						<td>November 22, 2013 (Worldwide), September 4, 2014 (Japan), September 23, 2014 (North America, Retail), October 9, 2014 (Australasia, Retail), October 10, 2014 (Europe, Retail), November 6, 2014 (Japan, Retail) (Season One), September 23, 2014 (Worldwide, Ultra), October 15, 2014 (North America) (Season Two), March 29, 2016 (Worldwide) (Season Three)</td>
 						<td>Double Helix Games, Iron Galaxy Studios, Rare, Microsoft Studios</td>
 						<td>Microsoft Studios</td>
 						<td>Single-Player, Multiplayer</td>
 						<td>Mick Gordon, Atlas Plug, Celldweller</td>
 						<td>Ken Lobb, Adam Isgreen, Michael Donges</td>
 						<td>David Verfaillie, Adam Heart, James Goddard</td>
+						<td>David Donatucci, David Hall</td>
 						<td>None</td>
 						<td>Killer Instinct</td>
 						<td>GameRankings: 75% (Season One), 85% (Season Two), 84% (Season Three), Metacritic: 73/100 (Season One), 85/100 (Season Two), 86/100 (Season Three)</td>
-						<td><a href="Website About Me - Resources.html">1</a></td>
+						<td><a href="Website About Me - Works Cited.md">1</a></td>
 					</tr>
 					<tr>
 						<td>Call Of Duty: Black Ops III</td>
@@ -74,17 +75,18 @@
 						<td>M</td>
 						<td>Mature</td>
 						<td>First-Person Shooter</td>
-						<td>November 6, 2015</td>
+						<td>November 6, 2015 (Worldwide)</td>
 						<td>Treyarch, Beenox, Mercenary Technology, Raven Software</td>
 						<td>Activision</td>
 						<td>Single-Player, Multiplayer</td>
 						<td>Jack Wall</td>
 						<td>Jason Blundell, Dan Bunting</td>
 						<td>Gavin Locke</td>
+						<td>Colin Whitney</td>
 						<td>IW Engine</td>
 						<td>Call of Duty</td>
 						<td>GameRankings: N/A, Metacritic: 81/100 (Xbox One), 81/100 (PS4)</td>
-						<td><a href="Website About Me - Resources.html">2</a></td>
+						<td><a href="Website About Me - Works Cited.md">2</a></td>
 					</tr>
 					<tr>
 						<td>Super Mario Maker (Side-Scrolling and Game Creation)</td>
@@ -92,17 +94,18 @@
 						<td>E</td>
 						<td>Everyone</td>
 						<td>Platform</td>
-						<td>September 11, 2015 (Wii U), December 2, 2016 (3DS)</td>
+						<td>September 10, 2015 (Japan), September 11, 2015 (North America and Europe), September 12, 2015 (Australasia, Wii U), December 1, 2016 (Japan), December 2, 2016 (North America and Europe), December 3, 2016 (Australasia, 3DS)</td>
 						<td>Nintendo EAD (Entertainment Analysis & Development)</td>
 						<td>Nintendo</td>
 						<td>Single-Player</td>
 						<td>Koji Kondo, Naoto Kubo, Asuka Hayazaki</td>
 						<td>Yosuke Oshino</td>
 						<td>Shigefumi Hino, Arisa Hosaka</td>
+						<td>Hirotake Ohtsubo, Kenta Usui, Nobuo Matsumiya, Mari Shibata</td>
 						<td>None</td>
 						<td>Super Mario</td>
 						<td>GameRankings: N/A, Metacritic: 88/100</td>
-						<td><a href="Website About Me - Resources.html">3</a>, <a href="Website About Me - Resources.html">4</a></td>
+						<td><a href="Website About Me - Works Cited.md">3</a>, <a href="Website About Me - Works Cited.md">4</a></td>
 					</tr>
 					<tr>
 						<td>Spider-Man: Shattered Dimensions</td>
@@ -110,17 +113,18 @@
 						<td>T (Xbox 360), E10+ (DS)</td>
 						<td>Teen (Xbox 360), Everyone Ages 10 and Up (DS)</td>
 						<td>Action-Adventure, Platform, Stealth, Metroidvania (DS)</td>
-						<td>September 7, 2010</td>
+						<td>September 7, 2010 (North America), September 10, 2010 (Europe), September 29, 2010 (Australasia)</td>
 						<td>Beenox (Xbox 360), Griptonite Games (DS)</td>
 						<td>Activision</td>
 						<td>Single-Player</td>
 						<td>Jim Dooley</td>
 						<td>Jose Pablo Gonzalez</td>
 						<td>None</td>
+						<td>Mikael Leger</td>
 						<td>None</td>
 						<td>Spider-Man</td>
 						<td>GameRankings: 79.16% (Xbox 360), 74.50% (DS), Metacritic: 76/100 (Xbox 360), 73/100 (DS)</td>
-						<td><a href="Website About Me - Resources.html">5</a>, <a href="Website About Me - Resources.html">6</a></td>
+						<td><a href="Website About Me - Works Cited.md">5</a>, <a href="Website About Me - Works Cited.md">6</a></td>
 					</tr>
 					<tr>
 						<td>Pok&eacute;mon Puzzle League</td>
@@ -128,17 +132,18 @@
 						<td>E</td>
 						<td>Everyone</td>
 						<td>Puzzle</td>
-						<td>September 25, 2000</td>
+						<td>September 25, 2000 (North America), March 2, 2001 (Europe)</td>
 						<td>Nintendo Software Technology</td>
 						<td>Nintendo</td>
 						<td>Single-Player, Multiplayer</td>
 						<td>John Loeffler, Manny Corallo</td>
+						<td>Yukimi Shimura</td>
+						<td>Hitoshi Yamagami, Toshitaka Muramatsu</td>
 						<td>None</td>
-						<td>Genyo Takeda</td>
 						<td>None</td>
 						<td>Pok&eacute;mon</td>
 						<td>GameRankings: 82.65%, Metacritic: 81/100</td>
-						<td><a href="Website About Me - Resources.html">7</a>, <a href="Website About Me - Resources.html">8</a></td>
+						<td><a href="Website About Me - Works Cited.md">7</a>, <a href="Website About Me - Works Cited.md">8</a></td>
 					</tr>
 					<tr>
 						<td>Dr. Mario 64</td>
@@ -146,7 +151,7 @@
 						<td>E</td>
 						<td>Everyone</td>
 						<td>Puzzle</td>
-						<td>April 8, 2001</td>
+						<td>April 8, 2001 (North America)</td>
 						<td>Nintendo Integrated Research and Development (IRD)</td>
 						<td>Nintendo</td>
 						<td>Single-Player, Multiplayer</td>
@@ -154,9 +159,10 @@
 						<td>Hitoshi Yamaguchi, Yoshiyuki Kato</td>
 						<td>Hitoshi Yamaguchi, Kazushi Maeda, Yohei Fujigawa</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Dr. Mario</td>
 						<td>GameRankings: 70.03%, Metacritic: 71/100</td>
-						<td><a href="Website About Me - Resources.html">9</a>, <a href="Website About Me - Resources.html">10</a></td>
+						<td><a href="Website About Me - Works Cited.md">9</a>, <a href="Website About Me - Works Cited.md">10</a></td>
 					</tr>
 					<tr>
 						<td>Injustice: Gods Among Us</td>
@@ -164,16 +170,17 @@
 						<td>T</td>
 						<td>Teen</td>
 						<td>Fighting</td>
-						<td>April 16, 2013 (Original), November 12, 2013 (Ultimate Edition)</td>
+						<td>April 16, 2013 (North America), April 17, 2013 (Australasia), April 19, 2013 (Europe, Original), November 12, 2013 (North America), November 29, 2013 (Europe, Ultimate Edition)</td>
 						<td>NetherRealm Studios, High Voltage Software, Armature Studio</td>
 						<td>Warner Bros. Interactive Entertainment</td>
 						<td>Single-Player, Multiplayer</td>
 						<td>Christopher Drake, Dean Grinsfelder, Cris Velasco, Sascha Dikiciyan</td>
 						<td>Ed Boon</td>
 						<td>Paulo Garcia, John Edwards</td>
+						<td>Steve Beran</td>
 						<td>Unreal Engine 3</td>
 						<td>DC Universe</td>
-						<td><a href="Website About Me - Resources.html">11</a></td>
+						<td><a href="Website About Me - Works Cited.md">11</a></td>
 					</tr>
 					<tr>
 						<td>Teenage Mutant Ninja Turtles: Mutants in Manhattan</td>
@@ -181,7 +188,7 @@
 						<td>T</td>
 						<td>Teen</td>
 						<td>Hack and Slash, Action</td>
-						<td>May 24, 2016</td>
+						<td>May 24, 2016 (North America and PAL)</td>
 						<td>PlatinumGames</td>
 						<td>Activision</td>
 						<td>Single-Player</td>
@@ -189,9 +196,10 @@
 						<td>Eiro Shirahama</td>
 						<td>Eiro Shirahama</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Teenage Mutant Ninja Turtles</td>
 						<td>GameRankings: N/A, Metacritic: 55/100</td>
-						<td><a href="Website About Me - Resources.html">12</a></td>
+						<td><a href="Website About Me - Works Cited.md">12</a></td>
 					</tr>
 					<tr>
 						<td>Call of Duty: Ghosts</td>
@@ -199,17 +207,18 @@
 						<td>M</td>
 						<td>Mature</td>
 						<td>First-Person Shooter</td>
-						<td>November 5, 2013 (Xbox 360), November 15, 2013 (PlayStation 4 (PS4)), November 22, 2013 (Xbox One)</td>
+						<td>November 5, 2013 (Worldwide, Xbox 360), November 15, 2013 (North America), November 29, 2013 (Europe, PlayStation 4 (PS4)), November 22, 2013 (Worldwide, Xbox One)</td>
 						<td>Infinity Ward, Neversoft, Raven Software, Certain Affinity</td>
 						<td>Activision</td>
 						<td>Single-Player, Multiplayer</td>
 						<td>David Buckley</td>
 						<td>Sylvain Doreau</td>
 						<td>None</td>
+						<td>None</td>
 						<td>IW Engine</td>
 						<td>Call of Duty</td>
 						<td>GameRankings: 78.31% (PS4), 77.40% (Xbox One), 76.64% (Xbox 360), Metacritic: 78/100 (PS4), 78/100 (Xbox One), 73/100 (Xbox 360)</td>
-						<td><a href="Website About Me - Resources.html">13</a></td>
+						<td><a href="Website About Me - Works Cited.md">13</a>, <a href="Website About Me - Works Cited.md">14</a></td>
 					</tr>
 					<tr>
 						<td>Call of Duty: Advanced Warfare</td>
@@ -217,17 +226,18 @@
 						<td>M</td>
 						<td>Mature</td>
 						<td>First-Person Shooter</td>
-						<td>November 4, 2014</td>
+						<td>November 4, 2014 (Worldwide)</td>
 						<td>Sledgehammer Games, Raven Software, High Moon Studios</td>
 						<td>Activision</td>
 						<td>Single-Player, Multiplayer</td>
-						<td>Audiomachine</td>
+						<td>Harry Gregson-Williams, Audiomachine</td>
 						<td>Glen Schofield, Michael Condrey</td>
+						<td>None</td>
 						<td>None</td>
 						<td>None</td>
 						<td>Call of Duty</td>
 						<td>GameRankings: 83.50% (PS4), 82.88% (Xbox One), Metacritic: 83/100 (PS4), 81/100 (Xbox One)</td>
-						<td><a href="Website About Me - Resources.html">14</a></td>
+						<td><a href="Website About Me - Works Cited.md">15</a></td>
 					</tr>
 					<tr>
 						<td>Call of Duty 4: Modern Warfare</td>
@@ -235,17 +245,18 @@
 						<td>M</td>
 						<td>Mature</td>
 						<td>First-Person Shooter</td>
-						<td>November 5, 2007</td>
+						<td>November 5, 2007 (North America), November 7, 2007 (Australasia), November 9, 2007 (Europe)</td>
 						<td>Infinity Ward</td>
 						<td>Activision</td>
 						<td>Single-Player, Multiplayer</td>
 						<td>Stephan Barton</td>
 						<td>Jason West</td>
 						<td>Todd Alderman, Steve Fukuda, Mackey McCandlish</td>
+						<td>Richard Kriegler</td>
 						<td>IW 3.0</td>
 						<td>Call of Duty</td>
 						<td>GameRankings: N/A, Metacritic: 94/100</td>
-						<td><a href="Website About Me - Resources.html">15</a></td>
+						<td><a href="Website About Me - Works Cited.md">16</a></td>
 					</tr>
 					<tr>
 						<td>Bayonetta 2</td>
@@ -253,17 +264,18 @@
 						<td>M</td>
 						<td>Mature</td>
 						<td>Action, Hack and Slash</td>
-						<td>October 24, 2014</td>
+						<td>September 20, 2014 (Japan), October 24, 2014 (North America and Europe), October 25, 2014 (Australasia)</td>
 						<td>PlatinumGames</td>
 						<td>Nintendo</td>
 						<td>Single-Player, Multiplayer</td>
 						<td>Masami Ueda, Naofume Harada, Hiroshi Yamaguchi, Norihiko Hibino, Takahiro Izutani, Satoshi Igarashi, Hitomi Hurokawa, Takayasu Sodeoka, Rei Kondoh, Naoto Tanaka</td>
 						<td>Yusuke Hashimoto</td>
 						<td>Hirono Sato, Junichi Oka, Akiteru Naka</td>
+						<td>Mari Shimazaki, Yusuke Hashimoto</td>
 						<td>None</td>
 						<td>Bayonetta</td>
 						<td>GameRankings: N/A, Metacritic: 91/100</td>
-						<td><a href="Website About Me - Resources.html">16</a></td>
+						<td><a href="Website About Me - Works Cited.md">17</a></td>
 					</tr>
 					<tr>
 						<td>Guitar Hero Live</td>
@@ -271,7 +283,7 @@
 						<td>T</td>
 						<td>Teen</td>
 						<td>Rhythm</td>
-						<td>October 20, 2015</td>
+						<td>October 20, 2015 (North America and Australasia), October 23, 2015 (Europe)</td>
 						<td>FreeStyleGames</td>
 						<td>Activision</td>
 						<td>Single-Player, Multiplayer</td>
@@ -279,9 +291,10 @@
 						<td>Giorgio Testi</td>
 						<td>None</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Guitar Hero</td>
 						<td>GameRankings: 80.93%, Metacritic: 81/100</td>
-						<td><a href="Website About Me - Resources.html">17</a>, <a href="Website About Me - Resources.html">18</a></td>
+						<td><a href="Website About Me - Works Cited.md">18</a>, <a href="Website About Me - Works Cited.md">19</a></td>
 					</tr>
 					<tr>
 						<td>Street Fighter V</td>
@@ -289,17 +302,18 @@
 						<td>T</td>
 						<td>Teen</td>
 						<td>Fighting</td>
-						<td>February 16, 2016</td>
+						<td>February 16, 2016 (Worldwide)</td>
 						<td>Capcom, Dimps</td>
 						<td>Capcom</td>
 						<td>Single-Player, Multiplayer</td>
 						<td>Masahiro Aoki, Hideyuki Fukasawa, Keiki Kobayashi, Takatsugu Wakabayashi, Zac Zinger</td>
 						<td>Takayuki Nakayama</td>
 						<td>None</td>
+						<td>Toshiyuki Kamei</td>
 						<td>Unreal Engine 4</td>
 						<td>Street Fighter</td>
 						<td>GameRankings: N/A, Metacritic: 77/100</td>
-						<td><a href="Website About Me - Resources.html">19</a></td>
+						<td><a href="Website About Me - Works Cited.md">20</a></td>
 					</tr>
 					<tr>
 						<td>Call of Duty: Infinite Warfare</td>
@@ -307,17 +321,18 @@
 						<td>M</td>
 						<td>Mature</td>
 						<td>First-Person Shooter</td>
-						<td>November 4, 2016</td>
+						<td>November 4, 2016 (Worldwide)</td>
 						<td>Infinity Ward</td>
 						<td>Activision</td>
 						<td>Single-Player, Multiplayer</td>
 						<td>Sarah Schachner</td>
 						<td>Jacob Minkoff, Jordan Hirsh, Brian Bright</td>
 						<td>Joe Cecot</td>
+						<td>None</td>
 						<td>IW Engine</td>
 						<td>Call of Duty</td>
 						<td>GameRankings: N/A, Metacritic: 77/100 (PS4), 78/100 (Xbox One)</td>
-						<td><a href="Website About Me - Resources.html">20</a></td>
+						<td><a href="Website About Me - Works Cited.md">21</a></td>
 					</tr>
 					<tr>
 						<td>Watch Dogs</td>
@@ -325,17 +340,18 @@
 						<td>M</td>
 						<td>Mature</td>
 						<td>Action-Adventure</td>
-						<td>May 27, 2014</td>
+						<td>May 27, 2014 (Worldwide)</td>
 						<td>Ubisoft Montreal, Ubisoft Reflections, Ubisoft Paris, Ubisoft Quebec, Ubisoft Bucharest</td>
 						<td>Ubisoft</td>
 						<td>Single-Player, Multiplayer</td>
 						<td>Brian Reitzell</td>
 						<td>Jonathon Morin</td>
 						<td>Danny B&eacute;langer, Yvan Poeymirou</td>
+						<td>Martin H&eacute;bert, Lars Bonde</td>
 						<td>None</td>
 						<td>Watch Dogs</td>
 						<td>GameRankings: N/A, Metacritic: 78/100</td>
-						<td><a href="Website About Me - Resources.html">21</a></td>
+						<td><a href="Website About Me - Work Cited.md">22</a></td>
 					</tr>
 					<tr>
 						<td>Watch Dogs 2</td>
@@ -343,17 +359,18 @@
 						<td>M</td>
 						<td>Mature</td>
 						<td>Action-Adventure</td>
-						<td>November 15, 2016</td>
+						<td>November 15, 2016 (Worldwide)</td>
 						<td>Ubisoft Montreal, Ubisoft Toronto, Ubisoft Paris, Ubisoft Bucharest, Ubisoft Kiev, Ubisoft Reflections</td>
 						<td>Ubisoft</td>
 						<td>Single-Player, Multiplayer</td>
 						<td>Hudson Mohawke</td>
 						<td>Jonathon Morin, Patrick Plourde, Danny B&eacute;langer</td>
 						<td>Pierre-Yves Savard, Falko Poiker</td>
+						<td>Colin John Graham, Mathieu Leduc, Sidone Weber</td>
 						<td>None</td>
 						<td>Watch Dogs</td>
 						<td>GameRankings: N/A, Metacritic: 82/100</td>
-						<td><a href="Website About Me - Resources.html">22</a></td>
+						<td><a href="Website About Me - Works Cited.md">23</a></td>
 					</tr>
 					<tr>
 						<td>Assassin's Creed (video game)</td>
@@ -361,17 +378,18 @@
 						<td>M</td>
 						<td>Mature</td>
 						<td>Action-Adventure, Stealth</td>
-						<td>November 13, 2007</td>
+						<td>November 13, 2007 (North America), November 16, 2007 (Europe), November 21, 2007 (Australasia)</td>
 						<td>Ubisoft Montreal</td>
 						<td>Ubisoft</td>
 						<td>Single-Player</td>
 						<td>Jesper Kyd</td>
 						<td>Patrice D&eacute;silets</td>
 						<td>Maxime B&eacute;land</td>
+						<td>Rapha&euml;l Lacoste</td>
 						<td>Scimitar</td>
 						<td>Assassin's Creed</td>
 						<td>GameRankings: N/A, Metacritic: 81/100</td>
-						<td><a href="Website About Me - Resources.html">23</a></td>
+						<td><a href="Website About Me - Works Cited.md">24</a></td>
 					</tr>
 					<tr>
 						<td>Puyo Puyo Tetris</td>
@@ -379,17 +397,18 @@
 						<td>E10+</td>
 						<td>Everyone Ages 10 and Up</td>
 						<td>Puzzle</td>
-						<td>April 25, 2017 (PS4 and Switch)</td>
+						<td>December 4, 2014 (Japan), April 25, 2017 (North America), April 28, 2017 (Europe, PS4 and PAL, Switch)</td>
 						<td>Sonic Team</td>
 						<td>Sega</td>
 						<td>Single-Player, Multiplayer</td>
 						<td>Hideki Abe</td>
 						<td>Koji Shindo</td>
-						<td>Hiroyuki Hosoyamada</td>
+						<td>Hiroyuki Yamazura</td>
+						<td>Shoko Kambe, Akira Mikame</td>
 						<td>None</td>
 						<td>Puyo Puyo, Tetris</td>
 						<td>GameRankings: N/A, Metacritic: N/A</td>
-						<td><a href="Website About Me - Resources.html">24</a></td>
+						<td><a href="Website About Me - Works Cited.md">25</a></td>
 					</tr>
 					<tr>
 						<td>Injustice 2</td>
@@ -397,17 +416,18 @@
 						<td>Fighting</td>
 						<td>T</td>
 						<td>Teen</td>
-						<td>May 11, 2017 (Android), May 16, 2017 (PlayStation 4 (PS4), Xbox One)</td>
+						<td>May 11, 2017 (Worldwide, Android), May 16, 2017 (North America), May 17, 2017 (Australasia), May 19, 2017 (United Kingdom, PlayStation 4 (PS4), Xbox One)</td>
 						<td>NetherRealm Studios</td>
 						<td>Warner Bros. Interactive Entertainment</td>
 						<td>Single-Player, Multiplayer</td>
 						<td>Christopher Drake, Dynamedion, Richard Carle, Dan Forden</td>
 						<td>Ed Boon</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Unreal Engine 3, Unreal Engine 4 (Android)</td>
 						<td>DC Universe</td>
 						<td>GameRankings: N/A, Metacritic: 87/100 (PS4), 89/100 (Xbox One)</td>
-						<td><a href="Website About Me - Resources.html">25</a></td>
+						<td><a href="Website About Me - Works Cited.md">26</a></td>
 					</tr>
 					<tr>
 						<td>Hey! Pikmin</td>
@@ -415,17 +435,18 @@
 						<td>E10+</td>
 						<td>Everyone Ages 10 and Up</td>
 						<td>Action</td>
-						<td>July 28, 2017</td>
+						<td>July 13, 2017 (Japan), July 28, 2017 (North America and Europe), July 29, 2017 (Australasia)</td>
 						<td>Arzest</td>
 						<td>Nintendo</td>
 						<td>Single-Player</td>
-						<td>Masato Kouda, Kento Shirasu</td>
+						<td>Masato Kouda, Kento Hasegawa</td>
 						<td>Tomohide Hayashi</td>
 						<td>Kenta Usui</td>
+						<td>Masamichi Harada, Noboru Shirasu</td>
 						<td>None</td>
 						<td>Pikmin</td>
 						<td>GameRankings: N/A, Metacritic: 69/100</td>
-						<td><a href="Website About Me - Resources.html">26</a></td>
+						<td><a href="Website About Me - Works Cited.md">27</a></td>
 					</tr>
 					<tr>
 						<td>Bulletstorm</td>
@@ -433,17 +454,18 @@
 						<td>M</td>
 						<td>Mature</td>
 						<td>First-Person Shooter</td>
-						<td>February 22, 2011 (Xbox 360), April 7, 2017 (Xbox One)</td>
+						<td>February 22, 2011 (North America), February 24, 2011 (Australasia), February 25, 2011 (Europe, Xbox 360), April 7, 2017 (Worldwide, Xbox One)</td>
 						<td>People Can Fly, Epic Games</td>
 						<td>Electronic Arts (EA), Gearbox Publishing (Full Clip Edition)</td>
 						<td>Single-Player, Multiplayer</td>
 						<td>Michal Cielecki, Kryzsztof Wierzynkiewicz</td>
 						<td>Adrian Chmielarz</td>
 						<td>Cliff Bleszinski</td>
+						<td>Chris Perna, Andrezej Poznanski</td>
 						<td>Unreal Engine 3</td>
 						<td>None</td>
 						<td>GameRankings: N/A, Metacritic: 84/100 (Xbox 360), N/A (Xbox One)</td>
-						<td><a href="Website About Me - Resources.html">27</a></td>
+						<td><a href="Website About Me - Works Cited.md">28</a></td>
 					</tr>
 					<tr>
 						<td>Ultimate Marvel vs. Capcom 3 (Crossover Game)</td>
@@ -451,17 +473,18 @@
 						<td>T</td>
 						<td>Teen</td>
 						<td>Fighting</td>
-						<td>November 15, 2011 (Xbox 360), December 3, 2016 (PlayStation (PS4)), March 7, 2017 (Xbox One)</td>
+						<td>November 15, 2011 (North America), November 17, 2011 (Japan), November 18, 2011 (Europe, Xbox 360), December 3, 2016 (Worldwide, PlayStation (PS4)), March 7, 2017 (Worldwide, Xbox One)</td>
 						<td>Capcom, Eighting</td>
 						<td>Capcom</td>
 						<td>Single-Player, Multiplayer</td>
 						<td>Hideyuki Fukasawa</td>
 						<td>Hiroyoki Nara, Go Usuma</td>
 						<td>None</td>
+						<td>Takuro Fuse</td>
 						<td>MT Framework</td>
 						<td>Marvel vs. Capcom</td>
 						<td>GameRankings: 81% (Xbox 360), 79% (PS4), N/A (Xbox One), Metacritic: 79/100 (Xbox 360), 77/100 (PS4), N/A (Xbox One)</td>
-						<td><a href="Website About Me - Resources.html">28</a></td>
+						<td><a href="Website About Me - Works Cited.md">29</a></td>
 					</tr>
 					<tr>
 						<td>Spider-Man: Edge of Time</td>
@@ -469,7 +492,7 @@
 						<td>T (Xbox 360 and 3DS), E10+ (DS)</td>
 						<td>Teen (Xbox 360 and 3DS), Everyone Ages 10 and Up (DS)</td>
 						<td>Action-Adventure, Platform</td>
-						<td>October 4, 2011</td>
+						<td>October 4, 2011 (North America), October 14, 2011 (Europe)</td>
 						<td>Beenox (Xbox 360 and 3DS), Other Ocean Interactive (DS)</td>
 						<td>Activision</td>
 						<td>Single-Player</td>
@@ -477,9 +500,10 @@
 						<td>Gerard Lehiany</td>
 						<td>None</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Spider-Man</td>
 						<td>GameRankings: N/A, Metacritic: N/A</td>
-						<td><a href="Website About Me - Resources.html">29</a></td>
+						<td><a href="Website About Me - Works Cited.md">30</a></td>
 					</tr>
 					<tr>
 						<td>Ultra Street Fighter II: The Final Challengers</td>
@@ -487,17 +511,18 @@
 						<td>T</td>
 						<td>Teen</td>
 						<td>Fighting</td>
-						<td>May 26, 2017</td>
+						<td>May 26, 2017 (Worldwide)</td>
 						<td>Capcom</td>
 						<td>Capcom</td>
 						<td>Single-Player, Multiplayer</td>
 						<td>Satoshi Hori, Marika Suzuki, Reo Uratani</td>
 						<td>Toshiyuki Yamamoto</td>
 						<td>None</td>
+						<td>Miwako Iwasa, Miki Kitayama, Yasuto Takahashi</td>
 						<td>MT Framework</td>
 						<td>Street Fighter</td>
 						<td>GameRankings: N/A, Metacritic: 66/100</td>
-						<td><a href="Website About Me - Resources.html">30</a>, <a href="Website About Me - Resources.html">31</a></td>
+						<td><a href="Website About Me - Works Cited.md">31</a>, <a href="Website About Me - Works Cited.md">32</a></td>
 					</tr>
 					<tr>
 						<td>Batman: Arkham Knight</td>
@@ -505,17 +530,18 @@
 						<td>M</td>
 						<td>Mature</td>
 						<td>Action-Adventure</td>
-						<td>June 23, 2015</td>
+						<td>June 23, 2015 (Worldwide)</td>
 						<td>Rocksteady Studios</td>
 						<td>Warner Bros. Interactive Entertainment</td>
 						<td>Single-Player</td>
 						<td>Nick Arundel, David Buckley</td>
 						<td>Sefton Hill</td>
 						<td>Ian Ball</td>
+						<td>David Hego</td>
 						<td>Unreal Engine 3</td>
 						<td>Batman: Arkham</td>
 						<td>GameRankings: N/A, Metacritic: 87/100 (PS4), 85/100 (Xbox One)</td>
-						<td><a href="Website About Me - Resources.html">32</a></td>
+						<td><a href="Website About Me - Works Cited.md">33</a></td>
 					</tr>
 					<tr>
 						<td>Marvel vs. Capcom: Infinite (Crossover Game)</td>
@@ -523,17 +549,18 @@
 						<td>T</td>
 						<td>Teen</td>
 						<td>Fighting</td>
-						<td>September 19, 2017</td>
+						<td>September 19, 2017 (North America and Europe), September 21, 2017 (Japan)</td>
 						<td>Capcom</td>
 						<td>Capcom</td>
 						<td>Single-Player, Multiplayer</td>
 						<td>Eishi Segawa</td>
 						<td>Norio Hirose</td>
 						<td>Tsuyoshi Nagayama</td>
+						<td>None</td>
 						<td>Unreal Engine 4</td>
 						<td>Marvel vs. Capcom</td>
 						<td>GameRankings: N/A, Metacritic: 77/100</td>
-						<td><a href="Website About Me - Resources.html">33</a></td>
+						<td><a href="Website About Me - Works Cited.md">34</a></td>
 					</tr>
 					<tr>
 						<td>Sonic Mania (Side-Scrolling Game)</td>
@@ -541,17 +568,18 @@
 						<td>E</td>
 						<td>Everyone</td>
 						<td>Platform</td>
-						<td>August 15, 2017</td>
+						<td>August 15, 2017 (Worldwide), August 16, 2017 (Japan)</td>
 						<td>PagodaWest Games, Headcannon</td>
 						<td>Sega</td>
 						<td>Single-Player, Multiplayer</td>
 						<td>Tee Lopes</td>
 						<td>Christian Whitehead</td>
 						<td>Jared Kasl</td>
+						<td>Tom Fry</td>
 						<td>Retro Engine</td>
 						<td>Sonic the Hedgehog</td>
 						<td>GameRankings: N/A, Metacritic: 83/100</td>
-						<td><a href="Website About Me - Resources.html">34</a></td>
+						<td><a href="Website About Me - Works Cited.md">35</a></td>
 					</tr>
 					<tr>
 						<td>Splatoon 2</td>
@@ -559,7 +587,7 @@
 						<td>E10+</td>
 						<td>Everyone Ages 10 and Up</td>
 						<td>Third-Person Shooter</td>
-						<td>July 21, 2017</td>
+						<td>July 21, 2017 (Worldwide)</td>
 						<td>Nintendo Entertainment Planning & Development (EPD)</td>
 						<td>Nintendo</td>
 						<td>Single-Player, Multiplayer</td>
@@ -567,9 +595,10 @@
 						<td>Yusuke Amano, Seita Inoue, Shintaro Sato</td>
 						<td>None</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Splatoon</td>
 						<td>GameRankings: N/A, Metacritic: 83/100</td>
-						<td><a href="Website About Me - Resources.html">35</a>, <a href="Website About Me - Resources.html">36</a></td>
+						<td><a href="Website About Me - Works Cited.md">36</a>, <a href="Website About Me - Works Cited.md">37</a></td>
 					</tr>
 					<tr>
 						<td>Arms (video game)</td>
@@ -577,17 +606,18 @@
 						<td>E10+</td>
 						<td>Everyone Ages 10 and Up</td>
 						<td>Fighting</td>
-						<td>June 16, 2017</td>
+						<td>June 16, 2017 (Worldwide)</td>
 						<td>Nintendo Entertainment Planning & Development (EPD)</td>
 						<td>Nintendo</td>
 						<td>Single-Player, Multiplayer</td>
 						<td>Atsuko Asahi, Yasuaki Iwata</td>
 						<td>Kenta Sato, Masaaki Ishikawa, Shintaro Jikumaru</td>
 						<td>None</td>
+						<td>Masaaki Ishikawa</td>
 						<td>None</td>
 						<td>None</td>
 						<td>GameRankings: N/A, Metacritic: 77/100</td>
-						<td><a href="Website About Me - Resources.html">37</a>, <a href="Website About Me - Resources.html">36</a></td>
+						<td><a href="Website About Me - Works Cited.md">38</a>, <a href="Website About Me - Works Cited.md">37</a></td>
 					</tr>
 					<tr>
 						<td>Prototype (Open World Video Game)</td>
@@ -595,17 +625,18 @@
 						<td>M</td>
 						<td>Mature</td>
 						<td>Action-Adventure</td>
-						<td>June 9, 2009 (Xbox 360), July 14 2015 (PlayStation 4 (PS4) and Xbox One)</td>
+						<td>June 9, 2009 (North America), June 10, 2009 (Australasia), June 12, 2009 (Europe, Xbox 360), July 14 2015 (Worldwide, PlayStation 4 (PS4) and Xbox One)</td>
 						<td>Radical Entertainment</td>
 						<td>Activision</td>
 						<td>Single-Player</td>
 						<td>Cris Velasco, Sascha Dikiciyan</td>
 						<td>Lindsey Williamson-Christy</td>
 						<td>Eric Holmes</td>
+						<td>Martin Bae, Maurice Kimball, Chris Hassell</td>
 						<td>Titanium</td>
 						<td>Prototype</td>
 						<td>GameRankings: 80% (Xbox 360), N/A (Xbox One and PS4), Metacritic: 78/100 (Xbox 360), N/A (Xbox One and PS4)</td>
-						<td><a href="Website About Me - Resources.html">38</a></td>
+						<td><a href="Website About Me - Works Cited.md">39</a></td>
 					</tr>
 					<tr>
 						<td>Prototype 2 (Open World)</td>
@@ -613,17 +644,18 @@
 						<td>M</td>
 						<td>Mature</td>
 						<td>Action-Adventure</td>
-						<td>April 24, 2012 (Xbox 360), July 14 2015 (PlayStation 4 (PS4) and Xbox One)</td>
+						<td>April 24, 2012 (Worldwide, Xbox 360), July 14 2015 (Worldwide, PlayStation 4 (PS4) and Xbox One)</td>
 						<td>Radical Entertainment</td>
 						<td>Activision</td>
 						<td>Single-Player</td>
 						<td>Scott R. Morgan</td>
 						<td>Tom Legal</td>
 						<td>Matthew Armstrong</td>
+						<td>Christopher Sj&ouml;holm</td>
 						<td>None</td>
 						<td>Prototype</td>
 						<td>GameRankings: 75% (Xbox 360), N/A (Xbox One and PS4), Metacritic: 74/100 (Xbox 360), N/A (Xbox One and PS4)</td>
-						<td><a href="Website About Me - Resources.html">39</a></td>
+						<td><a href="Website About Me - Works Cited.md">40</a></td>
 					</tr>
 					<tr>
 						<td>Star Fox Zero (3D Game)</td>
@@ -631,7 +663,7 @@
 						<td>E10+</td>
 						<td>Everyone Ages 10 and Up</td>
 						<td>Scrolling Shooter</td>
-						<td>April 21, 2016</td>
+						<td>April 21, 2016 (Japan), April 22, 2016 (North America and Europe), April 23, 2016 (Australasia)</td>
 						<td>Nintendo Entertainment Planning & Development (EPD), PlatinumGames</td>
 						<td>Nintendo</td>
 						<td>Single-Player, Multiplayer</td>
@@ -639,9 +671,10 @@
 						<td>Yugo Hayashi, Yusuke Hashimoto</td>
 						<td>Hirono Sato, Akiteru Naka, Ryoya Sakabe, Kazuhide Kawamura</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Star Fox</td>
 						<td>GameRankings: N/A, Metacritic: 69/100</td>
-						<td><a href="Website About Me - Resources.html">40</a>, <a href="Website About Me - Resources.html">36</a></td>
+						<td><a href="Website About Me - Works Cited.md">41</a>, <a href="Website About Me - Works Cited.md">37</a></td>
 					</tr>
 					<tr>
 						<td>Splatoon</td>
@@ -649,17 +682,18 @@
 						<td>E10+</td>
 						<td>Everyone Ages 10 and Up</td>
 						<td>Third-Person Shooter</td>
-						<td>May 29, 2015</td>
+						<td>May 28, 2015 (Japan), May 29, 2015 (North America and Europe), May 30, 2015 (Australasia)</td>
 						<td>Nintendo Entertainment Analysis & Development (EAD)</td>
 						<td>Nintendo</td>
 						<td>Single-Player, Multiplayer</td>
 						<td>Toru Minegishi, Shiho Fujii</td>
 						<td>Yusuke Amano, Tsubasa Sakaguchi</td>
 						<td>None</td>
+						<td>Seita Inoue</td>
 						<td>None</td>
 						<td>Splatoon</td>
 						<td>GameRankings: N/A, Metacritic: 81/100</td>
-						<td><a href="Website About Me - Resources.html">41</a>, <a href="Website About Me - Resources.html">4</a></td>
+						<td><a href="Website About Me - Works Cited.md">42</a>, <a href="Website About Me - Works Cited.md">4</a></td>
 					</tr>
 					<tr>
 						<td>Gears of War 4</td>
@@ -667,17 +701,18 @@
 						<td>M</td>
 						<td>Mature</td>
 						<td>Third-Person Shooter</td>
-						<td>October 11, 2016</td>
+						<td>October 11, 2016 (Worldwide)</td>
 						<td>The Coalition</td>
 						<td>Microsoft Studios</td>
 						<td>Single-Player, Multiplayer</td>
 						<td>Ramin Djawadi</td>
 						<td>Chuck Osieja</td>
 						<td>Matt Searcy</td>
+						<td>Kirk Gibbons</td>
 						<td>Unreal Engine 4</td>
 						<td>Gears of War</td>
 						<td>GameRankings: N/A, Metacritic: 84/100</td>
-						<td><a href="Website About Me - Resources.html">42</a></td>
+						<td><a href="Website About Me - Works Cited.md">43</a></td>
 					</tr>
 					<tr>
 						<td>Crash Bandicoot N. Sane Trilogy</td>
@@ -685,17 +720,18 @@
 						<td>E10+</td>
 						<td>Everyone Ages 10 and Up</td>
 						<td>Platform</td>
-						<td>June 30, 2017</td>
+						<td>June 30, 2017 (Worldwide)</td>
 						<td>Vicarious Visions, Naughty Dog (Original)</td>
 						<td>Activision, Sony Computer Entertainment (Original)</td>
 						<td>Single-Player</td>
 						<td>Josh Mancell, Mark Mothersbaugh (Original)</td>
 						<td>Dan Tanguay</td>
 						<td>Dan Tanguay</td>
+						<td>Dustin King</td>
 						<td>None</td>
 						<td>Crash Bandicoot</td>
 						<td>GameRankings: N/A, Metacritic: 80/100</td>
-						<td><a href="Website About Me - Resources.html">43</a></td>
+						<td><a href="Website About Me - Works Cited.md">44</a></td>
 					</tr>
 					<tr>
 						<td>Puzzle & Dragons Z + Puzzle & Dragons: Super Mario Bros. Edition</td>
@@ -703,7 +739,7 @@
 						<td>E</td>
 						<td>Everyone</td>
 						<td>Role-Playing, Puzzle</td>
-						<td>May 22, 2015</td>
+						<td>May 8, 2015 (Europe), May 9, 2015 (Australasia), May 22, 2015 (North America)</td>
 						<td>GungHo Online Entertainment</td>
 						<td>Nintendo</td>
 						<td>Single-Player</td>
@@ -711,9 +747,10 @@
 						<td>Takayuki Takahara, Naoki Fukuda (Puzzle & Dragons Z), Yoshimasa Yamada (Puzzle & Dragons: Super Mario Bros. Edition)</td>
 						<td>None</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Puzzle & Dragons</td>
 						<td>GameRankings: N/A, Metacritic: 73%</td>
-						<td><a href="Website About Me - Resources.html">44</a></td>
+						<td><a href="Website About Me - Works Cited.md">45</a></td>
 					</tr>
 					<tr>
 						<td>Kid Icarus: Uprising</td>
@@ -721,17 +758,18 @@
 						<td>E10+</td>
 						<td>Everyone Ages 10 and Up</td>
 						<td>Third-Person Shooter, Cabal Shooter, Action</td>
-						<td>March 23, 2012</td>
+						<td>March 22, 2012 (Japan), March 23, 2012 (North America and Europe), March 29, 2012 (Australasia)</td>
 						<td>Project Sora</td>
 						<td>Nintendo</td>
 						<td>Single-Player, Multiplayer</td>
-						<td>Motoi Sakuraba, Yuzo Takada, Masafumi Iwadare, Takahiro Nishi, Yasunori Mitsuda</td>
+						<td>Motoi Sakuraba, Yuzo Koshiro, Masafumi Takada, Noriyuki Iwadare, Takahiro Nishi, Yasunori Mitsuda</td>
 						<td>Masahiro Sakurai</td>
 						<td>None</td>
+						<td>Toshio Niroguchi, Akifumi Yamamoto, Masaki Hirooka</td>
 						<td>None</td>
 						<td>Kid Icarus</td>
 						<td>GameRankings: N/A, Metacritic: 83/100</td>
-						<td><a href="Website About Me - Resources.html">45</a></td>
+						<td><a href="Website About Me - Works Cited.md">46</a></td>
 					</tr>
 					<tr>
 						<td>Super Smash Bros. for Nintendo 3DS (Crossover)</td>
@@ -739,7 +777,7 @@
 						<td>E10+</td>
 						<td>Everyone Ages 10 and Up</td>
 						<td>Fighting</td>
-						<td>October 3, 2014</td>
+						<td>September 13, 2014 (Japan), October 3, 2014 (North America and Europe), October 4, 2014 (Australasia)</td>
 						<td>Bandai Namco Games, Sora Ltd., tri-Crescendo</td>
 						<td>Nintendo</td>
 						<td>Single-Player, Multiplayer</td>
@@ -747,9 +785,10 @@
 						<td>Masahiro Sakurai</td>
 						<td>None</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Super Smash Bros.</td>
 						<td>GameRankings: N/A, Metacritic: 85/100</td>
-						<td><a href="Website About Me - Resources.html">46</a></td>
+						<td><a href="Website About Me - Works Cited.md">47</a></td>
 					</tr>
 					<tr>
 						<td>Hyrule Warriors</td>
@@ -757,17 +796,18 @@
 						<td>T</td>
 						<td>Teen</td>
 						<td>Action, Hack and Slash</td>
-						<td>September 26, 2014 (Wii U), March 25, 2016 (3DS)</td>
+						<td>August 14, 2014 (Japan), September 19, 2014 (Europe), September 20, 2014 (Australasia), September 26, 2014 (North America, Wii U), January 21, 2016 (Japan), March 24, 2016 (Europe and Australasia), March 25, 2016 (North America, 3DS)</td>
 						<td>Omega Force, Team Ninja</td>
 						<td>Nintendo</td>
 						<td>Single-Player, Multiplayer</td>
 						<td>Masato Koike, Yuki Matsumura</td>
 						<td>Masaki Furusawa</td>
 						<td>Takahiro Kawai</td>
+						<td>Mariko Hirokane</td>
 						<td>None</td>
 						<td>The Legend of Zelda, Dynasty Warriors</td>
 						<td>GameRankings: N/A, Metacritic: 76/100 (Wii U), 70/100 (3DS)
-						<td><a href="Website About Me - Resources.html">47</a></td>
+						<td><a href="Website About Me - Works Cited.md">48</a></td>
 					</tr>
 					<tr>
 						<td>Deadpool (2013 Antihero Comedy Video Game)</td>
@@ -775,17 +815,18 @@
 						<td>M</td>
 						<td>Mature</td>
 						<td>Action, Beat'em Up, Hack and Slash</td>
-						<td>June 25, 2013 (Xbox 360), November 18, 2015 (PlayStation 4 (PS4) and Xbox One)</td>
+						<td>June 25, 2013 (North America), June 26, 2013 (Australasia), (Europe, Xbox 360), November 18, 2015 (North America), November 20, 2015 (Europe, PlayStation 4 (PS4) and Xbox One)</td>
 						<td>High Moon Studios</td>
 						<td>Activision</td>
 						<td>Single-Player</td>
 						<td>Julian Soule</td>
 						<td>Sean Miller</td>
 						<td>Joseph Shackelford</td>
+						<td>Damon Wilson-Hart</td>
 						<td>Unreal Engine 3</td>
 						<td>Marvel Universe</td>
 						<td>GameRankings: 65.76% (Xbox 360), 57.50% (PS4), 47.50% (Xbox One), Metacritic: 62/100 (Xbox 360), 60/100 (PS4), N/A (Xbox One)</td>
-						<td><a href="Website About Me - Resources.html">48</a></td>
+						<td><a href="Website About Me - Works Cited.md">49</a></td>
 					</tr>
 					<tr>
 						<td>Mario Kart 8</td>
@@ -793,17 +834,18 @@
 						<td>E</td>
 						<td>Everyone</td>
 						<td>Kart Racing</td>
-						<td>May 30, 2014 (Wii U), April 28, 2017 (Switch)</td>
+						<td>May 29, 2014 (Japan), May 30, 2014 (North America and Europe), May 31, 2014 (Australasia, Wii U), April 28, 2017 (Worldwide, Switch)</td>
 						<td>Nintendo Entertainment Analysis & Development (EAD) (Wii U), Nintendo Entertainment Planning & Design (EPD) (Switch)</td>
 						<td>Nintendo</td>
 						<td>Single-Player, Multiplayer</td>
-						<td>Atsuko Asahi, Shiho Fujii, Ryo Nagamatsu, Yasuki Iwata</td>
+						<td>Atsuko Asahi, Shiho Fujii, Ryo Nagamatsu, Yasuaki Iwata</td>
 						<td>Kosuke Yabuki</td>
 						<td>None</td>
+						<td>Masaaki Ishikawa</td>
 						<td>None</td>
 						<td>Mario Kart</td>
 						<td>GameRankings: N/A, Metacritic: 88/100 (Wii U), 92/100 (Switch)</td>
-						<td><a href="Website About Me - Resources.html">49</a>, <a href="Website About Me - Resources.html">4</a></td>
+						<td><a href="Website About Me - Works Cited.md">50</a>, <a href="Website About Me - Works Cited.md">4</a></td>
 					</tr>
 					<tr>
 						<td>The Legend of Zelda: Breath of the Wild</td>
@@ -811,17 +853,18 @@
 						<td>E10+</td>
 						<td>Everyone Ages 10 and Up</td>
 						<td>Action-Adventure</td>
-						<td>March 3, 2017</td>
+						<td>March 3, 2017 (Worldwide)</td>
 						<td>Nintendo Entertainment Planning & Development (EPD)</td>
 						<td>Nintendo</td>
 						<td>Single-Player</td>
 						<td>Manaka Kataoka, Yasuaki Iwata</td>
 						<td>Hidemaro Fujibayashi</td>
 						<td>None</td>
+						<td>Satoru Takizawa</td>
 						<td>None</td>
 						<td>The Legend of Zelda</td>
 						<td>GameRankings: N/A, Metacritic: 97/100</td>
-						<td><a href="Website About Me - Resources.html">50</a>, <a href="Website About Me - Resources.html">36</a></td>
+						<td><a href="Website About Me - Works Cited.md">51</a>, <a href="Website About Me - Works Cited.md">37</a></td>
 					</tr>
 					<tr>
 						<td>Lego City Undercover</td>
@@ -829,17 +872,18 @@
 						<td>E10+</td>
 						<td>Everyone Ages 10 and Up</td>
 						<td>Action-Adventure</td>
-						<td>April 4, 2017</td>
+						<td>April 4, 2017 (North America), April 7, 2017 (Europe), April 12 2017 (Australasia)</td>
 						<td>TT Fusion</td>
 						<td>Warner Bros. Interactive Entertainment</td>
 						<td>Single-Player</td>
 						<td>Simon Withenshaw, Suddi Raval</td>
 						<td>Matt Palmer</td>
-						<td>None</td>
+						<td>Lee Barber</td>
+						<td>Ben Moseley</td>
 						<td>None</td>
 						<td>None</td>
 						<td>GameRankings: N/A, Metacritic: 78/100</td>
-						<td><a href="Website About Me - Resources.html">51</a>, <a href="Website About Me - Resources.html">52</a>, <a href="Website About Me - Resources.html">53</a></td>
+						<td><a href="Website About Me - Works Cited.md">52</a>, <a href="Website About Me - Works Cited.md">53</a>, <a href="Website About Me - Works Cited.md">54</a></td>
 					</tr>
 					<tr>
 						<td>Metroid Prime: Federation Force (Co-Op Game)</td>
@@ -847,17 +891,18 @@
 						<td>T</td>
 						<td>Teen</td>
 						<td>First-Person Shooter</td>
-						<td>August 19, 2016</td>
+						<td>August 19, 2016 (North America), August 25, 2016 (Japan), September 2, 2016 (Europe), September 3, 2016 (Australasia)</td>
 						<td>Next Level Games</td>
 						<td>Nintendo</td>
 						<td>Single-Player, Multiplayer</td>
 						<td>Chad York, Darren Radtke, Mike Peacock</td>
 						<td>Jason Carr</td>
 						<td>Bryce Holliday</td>
+						<td>Anthony Iammarino</td>
 						<td>None</td>
 						<td>Metroid</td>
 						<td>GameRankings: N/A, Metacritic: 64/100</td>
-						<td><a href="Website About Me - Resources.html">54</a></td>
+						<td><a href="Website About Me - Works Cited.md">55</a></td>
 					</tr>
 					<tr>
 						<td>Metroid Prime (First-Person Game)</td>
@@ -865,17 +910,18 @@
 						<td>T</td>
 						<td>Teen</td>
 						<td>Action-Adventure</td>
-						<td>November 17, 2002 (GameCube), August 24, 2009 (Wii)</td>
+						<td>November 17, 2002 (North America), February 28, 2003 (Japan), March 21, 2003 (Europe), April 3, 2003 (Australasia, GameCube), February 19, 2009 (Japan), August 24, 2009 (North America), September 4, 2009 (Europe), October 15, 2009 (Australasia, Wii)</td>
 						<td>Retro Studios, Nintendo</td>
 						<td>Nintendo</td>
 						<td>Single-Player</td>
 						<td>Kenji Yamamoto, Kouichi Kyuma</td>
 						<td>Mark Pacini</td>
 						<td>None</td>
+						<td>Todd Keller</td>
 						<td>None</td>
 						<td>Metroid</td>
 						<td>GameRankings: N/A, Metacritic: 97/100</td>
-						<td><a href="Website About Me - Resources.html">55</a></td>
+						<td><a href="Website About Me - Works Cited.md">56</a></td>
 					</tr>
 					<tr>
 						<td>Metroid Prime 2: Echoes (First-Person Game)</td>
@@ -883,17 +929,18 @@
 						<td>T</td>
 						<td>Teen</td>
 						<td>Action-Adventure</td>
-						<td>November 15, 2004 (GameCube), August 24, 2009 (Wii)</td>
+						<td>November 15, 2004 (North America), November 26, 2004 (Europe), December 2, 2004 (Australasia), May 26, 2005 (Japan, GameCube), June 11, 2009 (Japan) August 24, 2009 (North America), September 4, 2009 (Europe), October 15, 2009 (Australasia, Wii)</td>
 						<td>Retro Studios, Nintendo</td>
 						<td>Nintendo</td>
 						<td>Single-Player, Multiplayer</td>
 						<td>Kenji Yamamoto</td>
 						<td>Mark Pacini</td>
 						<td>None</td>
+						<td>Todd Keller</td>
 						<td>None</td>
 						<td>Metroid</td>
 						<td>GameRankings: 91.97%, Metacritic: 92/100</td>
-						<td><a href="Website About Me - Resources.html">56</a></td>
+						<td><a href="Website About Me - Works Cited.md">57</a></td>
 					</tr>
 					<tr>
 						<td>Metroid Prime 3: Corruption (First-Person Game)</td>
@@ -901,17 +948,18 @@
 						<td>T</td>
 						<td>Teen</td>
 						<td>Action-Adventure</td>
-						<td>August 27, 2007</td>
+						<td>August 27, 2007 (North America) October 26, 2007 (Europe), November 8, 2007 (Australasia), March 6, 2008 (Japan)</td>
 						<td>Retro Studios, Nintendo</td>
 						<td>Nintendo</td>
 						<td>Single-Player</td>
 						<td>Kenji Yamamoto, Minako Hamano, Masaru Tajima</td>
 						<td>Mark Pacini</td>
 						<td>None</td>
+						<td>Todd Keller</td>
 						<td>None</td>
 						<td>Metroid</td>
 						<td>GameRankings: N/A, Metacritic: 90/100</td>
-						<td><a href="Website About Me - Resources.html">57</a></td>
+						<td><a href="Website About Me - Works Cited.md">58</a></td>
 					</tr>
 					<tr>
 						<td>Metroid: Other M</td>
@@ -919,71 +967,75 @@
 						<td>T</td>
 						<td>Teen</td>
 						<td>Action-Adventure</td>
-						<td>August 31, 2010</td>
+						<td>August 31, 2010 (North America), September 2, 2010 (Japan and Australasia), September 3, 2010 (Europe)</td>
 						<td>Team Ninja, Nintendo</td>
 						<td>Nintendo</td>
 						<td>Single-Player</td>
 						<td>Kuniaki Haishima</td>
 						<td>Yoshio Sakamoto, Yosuke Hayashi, Takehiko Hosokawa</td>
 						<td>None</td>
+						<td>Takayasu Sakamoto, Yosuke Saito</td>
 						<td>None</td>
 						<td>Metroid</td>
 						<td>GameRankings: N/A, Metacritic: 79/100</td>
-						<td><a href="Website About Me - Resources.html">58</a></td>
+						<td><a href="Website About Me - Works Cited.md</a>59</td>
 					</tr>
 					<tr>
 						<td>Assassin's Creed II</td>
-						<td>Xbox 360 and PlayStation 4 (PS4)</td>
+						<td>Xbox 360, PlayStation 4 (PS4), and Xbox One</td>
 						<td>M</td>
 						<td>Mature</td>
 						<td>Action-Adventure</td>
-						<td>November 17, 2009 (Xbox 360), November 15, 2016 (PlayStation 4 (PS4))</td>
+						<td>November 17, 2009 (North America), November 19, 2009 (Australasia), November 20, 2009 (Europe), December 3, 2009 (Japan, Xbox 360), November 15, 2016 (Worldwide, PlayStation 4 (PS4) and Xbox One)</td>
 						<td>Ubisoft Montreal</td>
 						<td>Ubisoft</td>
 						<td>Single-Player</td>
 						<td>Jesper Kyd</td>
 						<td>Patrice D&eacute;silets</td>
-						<td>Benoit Lambert, Jamal Rguigui, Vincent Pontbriand</td>
+						<td>Benoit Lambert, Patrick Plourde, Olivier Palmieri</td>
+						<td>Mohamed Gambouz</td>
 						<td>Anvil</td>
 						<td>Assassin's Creed</td>
-						<td>GameRankings: 90.01% (Xbox 360), N/A (PS4), Metacritic: 90/100 (Xbox 360), N/A (PS4)</td>
-						<td><a href="Website About Me - Resources.html">59</a></td>
+						<td>GameRankings: 90.01% (Xbox 360), N/A (PS4 and Xbox One), Metacritic: 90/100 (Xbox 360), N/A (PS4 and Xbox One)</td>
+						<td><a href="Website About Me - Works Cited.md">60</a></td>
 					</tr>
 					<tr>
 						<td>Assassin's Creed: Brotherhood</td>
-						<td>Xbox 360 and PlayStation 4 (PS4)</td>
+						<td>Xbox 360, PlayStation 4 (PS4), and Xbox One</td>
 						<td>M</td>
 						<td>Mature</td>
 						<td>Action-Adventure, Stealth</td>
-						<td>November 16, 2010 (Xbox 360), November 15, 2016 (PlayStation 4 (PS4))</td>
+						<td>November 16, 2010 (North America), November 18, 2010 (Australasia), November 19, 2010 (Europe, Xbox 360), November 15, 2016 (Worldwide, PlayStation 4 (PS4) and Xbox One)</td>
 						<td>Ubisoft Montreal</td>
 						<td>Ubisoft</td>
 						<td>Single-Player, Multiplayer</td>
 						<td>Jesper Kyd</td>
 						<td>Patrick Plourde</td>
 						<td>Steven Masters</td>
+						<td>Mohamed Gambouz</td>
 						<td>Anvil</td>
 						<td>Assassin's Creed</td>
 						<td>GameRankings: 90.55% (Xbox 360), N/A (PS4), Metacritic: 89/100 (Xbox 360), N/A (PS4)</td>
-						<td><a href="Website About Me - Resources.html">60</a></td>
+						<td><a href="Website About Me - Works Cited.md">61</a></td>
 					</tr>
 					<tr>
 						<td>Assassin's Creed: Revelations</td>
-						<td>Xbox 360 and PlayStation 4 (PS4)</td>
+						<td>Xbox 360, PlayStation 4 (PS4), and Xbox One</td>
 						<td>M</td>
 						<td>Mature</td>
 						<td>Action-Adventure, Stealth</td>
-						<td>November 15, 2011 (Xbox 360), November 15, 2016 (PlayStation 4 (PS4))</td>
+						<td>November 15, 2011 (North America, Europe and Australasia, Xbox 360), November 15, 2016 (Worldwide, PlayStation 4 (PS4) and Xbox One)</td>
 						<td>Ubisoft Montreal, Ubisoft Annecy, Massive Entertainment, Ubisoft Quebec, Ubisoft Singapore, Ubisoft Bucharest</td>
 						<td>Ubisoft</td>
 						<td>Single-Player, Multiplayer</td>
 						<td>Jesper Kyd, Lorne Balfe</td>
 						<td>Alex Amancio</td>
 						<td>Daniel McCabe</td>
+						<td>None</td>
 						<td>Anvil</td>
 						<td>Assassin's Creed</td>
-						<td>GameRankings: 79.37% (Xbox 360), N/A (PS4), Metacritic: 80/100 (Xbox 360), N/A (PS4)</td>
-						<td><a href="Website About Me - Resources.html">61</a></td>
+						<td>GameRankings: 79.37% (Xbox 360), N/A (PS4 and Xbox One), Metacritic: 80/100 (Xbox 360), N/A (PS4 and Xbox One)</td>
+						<td><a href="Website About Me - Works Cited.md">62</a></td>
 					</tr>
 					<tr>
 						<td>Batman: Arkham Asylum</td>
@@ -991,17 +1043,18 @@
 						<td>T</td>
 						<td>Teen</td>
 						<td>Action-Adventure</td>
-						<td>August 25, 2009 (Xbox 360), October 18, 2016 (Xbox One and PS4)</td>
+						<td>August 25, 2009 (North America), August 28, 2009 (Europe), September 3, 2009 (Australasia, Xbox 360), October 18, 2016 (Worldwide, Xbox One and PS4)</td>
 						<td>Rocksteady Studios</td>
 						<td>Eidos Interactive, Warner Bros. Interactive Entertainment</td>
 						<td>Single-Player</td>
 						<td>Nick Arundel, Ron Fish</td>
 						<td>Sefton Hill</td>
 						<td>None</td>
+						<td>David Wyatt</td>
 						<td>Unreal Engine 3</td>
 						<td>Batman: Arkham</td>
 						<td>GameRankings: N/A, Metacritic: 92/100 (Xbox 360), N/A (PS4 and Xbox One)</td>
-						<td><a href="Website About Me - Resources.html">62</a></td>
+						<td><a href="Website About Me - Works Cited.md">63</a></td>
 					</tr>
 					<tr>
 						<td>Batman: Arkham City</td>
@@ -1009,17 +1062,18 @@
 						<td>T</td>
 						<td>Teen</td>
 						<td>Action-Adventure</td>
-						<td>October 18, 2011 (Xbox 360), November 18, 2012 (Wii U), and October 18, 2016 (Xbox One and PS4)</td>
+						<td>October 18, 2011 (North America), October 19, 2011 (Australasia), October 21, 2011 (Europe, Xbox 360), November 18, 2012 (North America), November 30, 2012 (PAL, Wii U), and October 18, 2016 (Worldwide, Xbox One and PS4)</td>
 						<td>Rocksteady Studios</td>
 						<td>Warner Bros. Interactive Entertainment</td>
 						<td>Single-Player</td>
 						<td>Nick Arundel, Ron Fish</td>
 						<td>Sefton Hill</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Unreal Engine 3</td>
 						<td>Batman: Arkham</td>
 						<td>GameRankings: N/A, Metacritic: 94/100 (Xbox 360), 85/100 (Wii U), N/A (Xbox One and PS4)</td>
-						<td><a href="Website About Me - Resources.html">63</a></td>
+						<td><a href="Website About Me - Works Cited.md">64</a></td>
 					</tr>
 					<tr>
 						<td>Sonic Lost World</td>
@@ -1027,17 +1081,18 @@
 						<td>E10+</td>
 						<td>Everyone Ages 10 and Up</td>
 						<td>Action-Adventure</td>
-						<td>October 29, 2013</td>
+						<td>October 18, 2013 (Europe), October 19, 2013 (Australasia), October 24, 2013 (Japan), October 29, 2013 (North America)</td>
 						<td>Sonic Team, Dimps (3DS)</td>
 						<td>Sega</td>
 						<td>Single-Player, Multiplayer</td>
 						<td>Tomoya Ohtani, Takahito Eguchi</td>
 						<td>Morio Kishimoto (Wii U), Takao Hirabayashi (3DS)</td>
 						<td>None</td>
+						<td>Sachiko Kawabata, Yuji Uekawa</td>
 						<td>None</td>
 						<td>Sonic the Hedgehog</td>
 						<td>GameRankings: N/A, Metacritic: 63/100 (Wii U), 59/100 (3DS)</td>
-						<td><a href="Website About Me - Resources.html">64</a></td>
+						<td><a href="Website About Me - Works Cited.md">65</a></td>
 					</tr>
 					<tr>
 						<td>Super Smash Bros. For Wii U (Crossover)</td>
@@ -1045,7 +1100,7 @@
 						<td>E10+</td>
 						<td>Everyone Ages 10 and Up</td>
 						<td>Fighting</td>
-						<td>November 21, 2014</td>
+						<td>November 21, 2014 (North America), November 28, 2014 (Europe), November 29, 2014 (Australasia), December 6, 2014 (Japan)</td>
 						<td>Bandai Namco Games, Sora Ltd.</td>
 						<td>Nintendo</td>
 						<td>Single-Player, Multiplayer</td>
@@ -1053,9 +1108,10 @@
 						<td>Masahiro Sakurai</td>
 						<td>None</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Super Smash Bros.</td>
 						<td>GameRankings: N/A, Metacritic: 92/100</td>
-						<td><a href="Website About Me - Resources.html">43</a></td>
+						<td><a href="Website About Me - Works Cited.md">47</a></td>
 					</tr>
 					<tr>
 						<td>Super Smash Bros. (Crossover Video Game)</td>
@@ -1063,17 +1119,18 @@
 						<td>E</td>
 						<td>Everyone</td>
 						<td>Fighting</td>
-						<td>April 26, 1999</td>
+						<td>January 21, 1999 (Japan), April 26, 1999 (North America), November 19, 1999 (Europe)</td>
 						<td>HAL Laboratory</td>
 						<td>Nintendo</td>
 						<td>Single-Player, Multiplayer</td>
 						<td>Hirokazu Ando</td>
 						<td>Masahiro Sakurai</td>
 						<td>None</td>
+						<td>Tsuyoshi Wakayama</td>
 						<td>None</td>
 						<td>Super Smash Bros.</td>
 						<td>GameRankings: 78.81%, Metacritic: 79/100</td>
-						<td><a href="Website About Me - Resources.html">65</a></td>
+						<td><a href="Website About Me - Works Cited.md">66</a></td>
 					</tr>
 					<tr>
 						<td>Sonic Generations</td>
@@ -1081,17 +1138,18 @@
 						<td>E</td>
 						<td>Everyone</td>
 						<td>Platform, Action-Adventure</td>
-						<td>November 1, 2011 (Xbox 360), November 22, 2011 (3DS)</td>
+						<td>November 1, 2011 (North America), November 3, 2011 (Australasia), November 4, 2011 (Europe), December 1, 2011 (Japan, Xbox 360), November 22, 2011 (North America), November 24, 2011 (Australasia), November 25, 2011 (Europe), December 1, 2011 (Japan, 3DS)</td>
 						<td>Sonic Team, Dimps</td>
 						<td>Sega</td>
 						<td>Single-Player, Multiplayer</td>
 						<td>Jun Senoue</td>
 						<td>Hiroshi Miyamoto, Tetsu Katano (3DS)</td>
 						<td>None</td>
+						<td>Sachiko Kawamura</td>
 						<td>None</td>
 						<td>Sonic the Hedgehog</td>
 						<td>GameRankings: N/A, Metacritic: 77/100 (Xbox 360), 66/100 (3DS)</td>
-						<td><a href="Website About Me - Resources.html">66</a></td>
+						<td><a href="Website About Me - Works Cited.md">67</a></td>
 					</tr>
 					<tr>
 						<td>Super Smash Bros. Melee (Crossover)</td>
@@ -1099,7 +1157,7 @@
 						<td>T</td>
 						<td>Teen</td>
 						<td>Fighting</td>
-						<td>December 3, 2001</td>
+						<td>November 21, 2001 (Japan), December 3, 2001 (North America), May 24, 2002 (Europe), May 31, 2002 (Australasia)</td>
 						<td>HAL Laboratory</td>
 						<td>Nintendo</td>
 						<td>Single-Player, Multiplayer</td>
@@ -1107,9 +1165,10 @@
 						<td>Masahiro Sakurai</td>
 						<td>Masahiro Sakurai</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Super Smash Bros.</td>
 						<td>GameRankings: 90.52%, Metacritic: 92/100</td>
-						<td><a href="Website About Me - Resources.html">67</a></td>
+						<td><a href="Website About Me - Works Cited.md">68</a></td>
 					</tr>
 					<tr>
 						<td>Super Smash Bros. Brawl (Crossover)</td>
@@ -1117,17 +1176,18 @@
 						<td>T</td>
 						<td>Teen</td>
 						<td>Fighting</td>
-						<td>March 9, 2008</td>
+						<td>January 31, 2008 (Japan), March 9, 2008 (North America), June 26, 2008 (Australasia), June 27, 2008 (Europe)</td>
 						<td>Game Arts, Sora Ltd.</td>
 						<td>Nintendo</td>
 						<td>Single-Player, Multiplayer</td>
 						<td>Takahiro Nishi, Shogo Sakai, Masaaki Iwasaki, Yutaka Iraha, Keigo Ozaki, Kentaro Ishizaka</td>
 						<td>Masahiro Sakurai</td>
 						<td>None</td>
+						<td>Chiharu Sakiyama, Keisuke Terasaki, Akiya Sakamoto</td>
 						<td>None</td>
 						<td>Super Smash Bros.</td>
 						<td>GameRankings: 92.84%, Metacritic: 93/100</td>
-						<td><a href="Website About Me - Resources.html">68</a></td>
+						<td><a href="Website About Me - Works Cited.md">69</a></td>
 					</tr>
 					<tr>
 						<td>Call of Duty: Black Ops</td>
@@ -1135,17 +1195,18 @@
 						<td>M</td>
 						<td>Mature</td>
 						<td>First-Person Shooter</td>
-						<td>November 9, 2010</td>
+						<td>November 9, 2010 (Worldwide)</td>
 						<td>Treyarch, Raven Software</td>
 						<td>Activision</td>
 						<td>Single-Player, Multiplayer</td>
 						<td>Sean Murray</td>
 						<td>Dave Anthony</td>
 						<td>Corky Lehmukuhl, David Vonderhaar, Joe Chiang</td>
+						<td>Colin Whitney</td>
 						<td>IW Engine</td>
 						<td>Call of Duty</td>
 						<td>GameRankings: 87.56%, Metacritic: 87/100</td> 
-						<td><a href="Website About Me - Resources.html">69</a></td>
+						<td><a href="Website About Me - Works Cited.md">70</a></td>
 					</tr>
 					<tr>
 						<td>Call of Duty: Black Ops II</td>
@@ -1153,17 +1214,18 @@
 						<td>M</td>
 						<td>Mature</td>
 						<td>First-Person Shooter</td>
-						<td>November 13, 2012 (Xbox 360), November 18, 2012 (Wii U)</td>
+						<td>November 13, 2012 (Worldwide, Xbox 360), November 18, 2012 (North America), November 30, 2012 (Europe and Australia, Wii U)</td>
 						<td>Treyarch</td>
 						<td>Activision</td>
 						<td>Single-Player, Multiplayer</td>
 						<td>Jack Wall, Trent Reznor (Main Theme)</td>
 						<td>Dave Anthony</td>
 						<td>None</td>
+						<td>Colin Whitney</td>
 						<td>IW Engine</td>
 						<td>Call of Duty</td>
 						<td>GameRankings: 86.07% (Wii U), 85.53% (Xbox 360), Metacritic: 83/100 (Xbox 360), 81/100 (Wii U)</td>
-						<td><a href="Website About Me - Resources.html">70</a></td>
+						<td><a href="Website About Me - Works Cited.md">71</a></td>
 					</tr>
 					<tr>
 						<td>Call of Duty: Modern Warfare 2</td>
@@ -1171,17 +1233,18 @@
 						<td>M</td>
 						<td>Mature</td>
 						<td>First-Person Shooter</td>
-						<td>November 10, 2009</td>
+						<td>November 10, 2009 (Worldwide)</td>
 						<td>Infinity Ward</td>
 						<td>Activision</td>
 						<td>Single-Player, Multiplayer</td>
 						<td>Lorne Balfe, Hans Zimmer (Main Theme)</td>
 						<td>Jason West</td>
 						<td>Todd Alderman, Steve Fukuda, Mohammad Alavi</td>
+						<td>None</td>
 						<td>IW Engine</td>
 						<td>Call of Duty</td>
 						<td>GameRankings: 93.57%, Metacritic: 94/100</td>
-						<td><a href="Website About Me - Resources.html">71</a></td>
+						<td><a href="Website About Me - Works Cited.md">72</a></td>
 					</tr>
 					<tr>
 						<td>Call of Duty: Modern Warfare 3</td>
@@ -1189,17 +1252,18 @@
 						<td>M</td>
 						<td>Mature</td>
 						<td>First-Person Shooter</td>
-						<td>November 8, 2011</td>
+						<td>November 8, 2011 (Worldwide)</td>
 						<td>Infinity Ward, Sledgehammer Games, Raven Software, Treyarch</td>
 						<td>Activision</td>
 						<td>Single-Player, Multiplayer</td>
 						<td>Brian Tyler</td>
 						<td>Steve Pearce (Creative), Steve Ackrich (Production)</td>
 						<td>Calvin Smith, Michael Condrey, Jon Porter</td>
+						<td>Joseph Salud</td>
 						<td>IW Engine</td>
 						<td>Call of Duty</td>
 						<td>GameRankings: 88.49%, Metacritic: 88/100</td>
-						<td><a href="Website About Me - Resources.html">72</a></td>
+						<td><a href="Website About Me - Works Cited.md">73</a></td>
 					</tr>
 					<tr>
 						<td>Street Fighter IV</td>
@@ -1207,17 +1271,18 @@
 						<td>T</td>
 						<td>Teen</td>
 						<td>Fighting</td>
-						<td>February 17, 2009</td>
+						<td>February 12, 2009 (Japan), February 17, 2009 (North America), February 20, 2009 (Europe)</td>
 						<td>Dimps, Capcom</td>
 						<td>Capcom</td>
 						<td>Single-Player, Multiplayer</td>
 						<td>Hideyuki Fukasawa</td>
 						<td>Takashi Tsukamoto</td>
 						<td>Hirotoshi Shiozaki</td>
+						<td>Daigo Ikeno</td>
 						<td>None</td>
 						<td>Street Fighter</td>
 						<td>GameRankings: N/A, Metacritic: 93/100</td>
-						<td><a href="Website About Me - Resources.html">73</a></td>
+						<td><a href="Website About Me - Works Cited.md">74</a></td>
 					</tr>
 					<tr>
 						<td>Call of Duty: WWII</td>
@@ -1225,7 +1290,7 @@
 						<td>M</td>
 						<td>Mature</td>
 						<td>First-Person Shooter</td>
-						<td>November 3, 2017</td>
+						<td>November 3, 2017 (Worldwide)</td>
 						<td>Sledgehammer Games</td>
 						<td>Activision</td>
 						<td>Single-Player, Multiplayer</td>
@@ -1233,9 +1298,10 @@
 						<td>Glen Schofield, Michael Condrey</td>
 						<td>None</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Call of Duty</td>
 						<td>GameRankings: N/A, Metacritic: 81/100</td>
-						<td><a href="Website About Me - Resources.html">74</a></td>
+						<td><a href="Website About Me - Works Cited.md">75</a></td>
 					</tr>
 					<tr>
 						<td>Call of Duty: World at War</td>
@@ -1243,17 +1309,18 @@
 						<td>M</td>
 						<td>Mature</td>
 						<td>First-Person Shooter</td>
-						<td>November 11, 2008</td>
+						<td>November 11, 2008 (North America), November 12, 2008 (Australasia), November 14, 2008 (Europe)</td>
 						<td>Treyarch</td>
 						<td>Activision</td>
 						<td>Single-Player, Multiplayer</td>
 						<td>Sean Murray</td>
 						<td>Cesar Stastny</td>
 						<td>Jeremy Luyities, Jesse Synder</td>
+						<td>Colin Whitney, Brian Anderson</td>
 						<td>IW Engine</td>
 						<td>Call of Duty</td>
 						<td>GameRankings: 85.57%, Metacritic: 84/100</td>
-						<td><a href="Website About Me - Resources.html">75</a></td>
+						<td><a href="Website About Me - Works Cited.md">76</a></td>
 					</tr>
 					<tr>
 						<td>Call of Duty 2</td>
@@ -1261,17 +1328,18 @@
 						<td>T</td>
 						<td>Teen</td>
 						<td>First-Person Shooter</td>
-						<td>November 22, 2005</td>
+						<td>November 22, 2005 (North America), December 2, 2005 (Europe)</td>
 						<td>Infinity Ward</td>
 						<td>Activision</td>
 						<td>Single-Player, Multiplayer</td>
 						<td>Graeme Revell</td>
 						<td>Jason West</td>
 						<td>Mohammad Alavi, Mackey McCandlish, Zied Rieke</td>
+						<td>Michael Boon</td>
 						<td>IW Engine v2.0</td>
 						<td>Call of Duty</td>
 						<td>GameRankings: 89.78%, Metacritic: 89/100</td>
-						<td><a href="Website About Me - Resources.html">76</a></td>
+						<td><a href="Website About Me - Works Cited.md">77</a></td>
 					</tr>
 					<tr>
 						<td>Call of Duty 3</td>
@@ -1279,17 +1347,18 @@
 						<td>T</td>
 						<td>Teen</td>
 						<td>First-Person Shooter</td>
-						<td>November 7, 2006</td>
+						<td>November 7, 2006 (North America), November 10, 2006 (Europe), November 15, 2006 (Australasia)</td>
 						<td>Treyarch</td>
 						<td>Activision</td>
 						<td>Single-Player, Multiplayer</td>
 						<td>Joel Goldsmith</td>
 						<td>Richard Farrelly</td>
 						<td>None</td>
+						<td>Brian Anderson, Alex Bortoluzzi</td>
 						<td>Treyarch NGL</td>
 						<td>Call of Duty</td>
 						<td>GameRankings: 82.36%, Metacritic: 82/100</td>
-						<td><a href="Website About Me - Resources.html">77</a></td>
+						<td><a href="Website About Me - Works Cited.md">78</a></td>
 					</tr>
 					<tr>
 						<td>The Amazing Spider-Man (2012 Video Game)</td>
@@ -1297,7 +1366,7 @@
 						<td>T</td>
 						<td>Teen</td>
 						<td>Action-Adventure</td>
-						<td>June 26, 2012 (Xbox 360 and 3DS), March 5, 2013 (Wii U)</td>
+						<td>June 26, 2012 (North America), June 29, 2012 (Europe, Xbox 360 and 3DS), March 5, 2013 (North America), March 8, 2012 (Europe, Wii U)</td>
 						<td>Beenox</td>
 						<td>Activision</td>
 						<td>Single-Player</td>
@@ -1305,9 +1374,10 @@
 						<td>Gerard Lehiany</td>
 						<td>None</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Spider-Man</td>
 						<td>GameRankings: 70.87% (Xbox 360), 68.43% (Wii U), 56.67 (3DS), Metacritic: 69/100 (Xbox 360), 66/100 (Wii U), 55/100 (3DS)</td>
-						<td><a href="Website About Me - Resources.html">78</a></td>
+						<td><a href="Website About Me - Works Cited.md">79</a></td>
 					</tr>
 					<tr>
 						<td>The Amazing Spider-Man 2 (2014 Video Game)</td>
@@ -1315,17 +1385,18 @@
 						<td>T (Xbox 360, Xbox One, PS4), E10+ (3DS)</td>
 						<td>Teen (Xbox 360, Xbox One, PS4), Everyone Ages 10 and Up (3DS)</td>
 						<td>Action-Adventure</td>
-						<td>April 29, 2014 (3DS, PlayStation 4 (PS4), Wii U, Xbox 360), May 12, 2014 (Xbox One)</td>
+						<td>April 29, 2014 (North America), May 2, 2014 (Europe), May 7, 2014 (Australasia, 3DS, PlayStation 4 (PS4), Wii U, Xbox 360), May 12, 2014 (North America), May 4, 2014 (Europe), May 7, 2014 (Australasia, Xbox One)</td>
 						<td>Beenox (PlayStation 4 (PS4), Wii U, Xbox 360, Xbox One), High Voltage Software (3DS)</td>
 						<td>Activision</td>
 						<td>Single-Player</td>
 						<td>Samuel Laflamme</td>
 						<td>Thomas Wilson</td>
 						<td>None</td>
+						<td>Christos Gage</td>
 						<td>None</td>
 						<td>Spider-Man</td>
 						<td>GameRankings: 54.02% (PS4), 55.60% (Xbox 360), 55.20% (Xbox One), N/A (3DS and Wii U), Metacritic: 50/100 (PS4), 51/100 (Xbox One), N/A (3DS, Xbox 360, Wii U)</td>
-						<td><a href="Website About Me - Resources.html">79</a></td>
+						<td><a href="Website About Me - Works Cited.md">80</a></td>
 					</tr>
 					<tr>
 						<td>Mortal Kombat X</td>
@@ -1333,17 +1404,18 @@
 						<td>M</td>
 						<td>Mature</td>
 						<td>Fighting</td>
-						<td>April 14, 2015</td>
+						<td>April 14, 2015 (Worldwide)</td>
 						<td>NetherRealm Studios</td>
 						<td>Warner Bros. Interactive Entertainment</td>
 						<td>Single-Player, Multiplayer</td>
 						<td>Tilman Sillescu, Dynamedion, Richard Carle, Dan Forden</td>
 						<td>Ed Boon</td>
 						<td>John Edwards, Paulo Garcia</td>
+						<td>Brian Chard, Dominic Cianciolo, John Vogel, Jon Greenberg</td>
 						<td>Unreal Engine 3</td>
 						<td>Mortal Kombat</td>
 						<td>GameRankings: N/A, Metacritic: 86/100 (Xbox One), 83/100 (PS4)</td>
-						<td><a href="Website About Me - Resources.html">80</a></td>
+						<td><a href="Website About Me - Works Cited.md">81</a></td>
 					</tr>
 					<tr>
 						<td>Mortal Kombat XL</td>
@@ -1351,17 +1423,18 @@
 						<td>M</td>
 						<td>Mature</td>
 						<td>Fighting</td>
-						<td>March 1, 2016</td>
+						<td>March 1, 2016 (North America), March 4, 2016 (Europe)</td>
 						<td>NetherRealm Studios</td>
 						<td>Warner Bros. Interactive Entertainment</td>
 						<td>Single-Player, Multiplayer</td>
 						<td>Tilman Sillescu, Dynamedion, Richard Carle, Dan Forden</td>
 						<td>Ed Boon</td>
 						<td>John Edwards, Paulo Garcia</td>
+						<td>Brian Chard, Dominic Cianciolo, John Vogel, Jon Greenberg</td>
 						<td>Unreal Engine 3</td>
 						<td>Mortal Kombat</td>
 						<td>GameRankings: N/A, Metacritic: 86/100 (Xbox One), 83/100 (PS4)</td>
-						<td><a href="Website About Me - Resources.html">80</a></td>
+						<td><a href="Website About Me - Works Cited.md">81</a></td>
 					</tr>
 					<tr>
 						<td>Sonic Colors</td>
@@ -1369,17 +1442,18 @@
 						<td>E</td>
 						<td>Everyone</td>
 						<td>Platform, Action-Adventure</td>
-						<td>November 16, 2010</td>
+						<td>November 11, 2010 (PAL), November 16, 2010 (North America), November 18, 2010 (Japan)</td>
 						<td>Sonic Team (Wii), Dimps(DS)</td>
 						<td>Sega</td>
 						<td>Single-Player, Multiplayer</td>
 						<td>Tomoya Ohtani, Kenichi Tokoi, Fumie Kumatani, Hideaki Kobayashi, Mariko Nanba, Naofumi Hataya</td>
 						<td>Morio Kishimoto (Wii), Takao Hirabayashi (DS)</td>
 						<td>Morio Kishimoto (Wii), Yuka Hirabayashi (DS)</td>
+						<td>Sachiko Kawamura</td>
 						<td>None</td>
 						<td>Sonic the Hedgehog</td>
 						<td>GameRankings: N/A, Metacritic: 79/100 (DS), 78/100 (Wii)</td>
-						<td><a href="Website About Me - Resources.html">81</a></td>
+						<td><a href="Website About Me - Works Cited.md">82</a></td>
 					</tr>
 					<tr>
 						<td>Super Mario Sunshine</td>
@@ -1387,7 +1461,7 @@
 						<td>E</td>
 						<td>Everyone</td>
 						<td>Platform, Action-Adventure</td>
-						<td>August 26, 2002</td>
+						<td>July 19, 2002 (Japan), August 26, 2002 (United States), September 14, 2002 (Canada), October 4, 2002 (Europe), October 11, 2002 (Australasia)</td>
 						<td>Nintendo Entertainment Analysis and Development (EAD)</td>
 						<td>Nintendo</td>
 						<td>Single-Player</td>
@@ -1395,9 +1469,10 @@
 						<td>Yoshiaki Koizumi, Kenta Usui</td>
 						<td>None</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Super Mario</td>
 						<td>GameRankings: 92%, Metacritic: 92/100</td>
-						<td><a href="Website About Me - Resources.html">82</a>, <a href="Website About Me - Resources.html">4</a></td>
+						<td><a href="Website About Me - Works Cited.md">83</a>, <a href="Website About Me - Works Cited.md">4</a></td>
 					</tr>
 					<tr>
 						<td>Super Mario 64</td>
@@ -1405,7 +1480,7 @@
 						<td>KA (rerated E)</td>
 						<td>Kids to Adults (renamed Everyone)</td>
 						<td>Platform</td>
-						<td>September 29, 1996</td>
+						<td>June 23, 1996 (Japan), September 29, 1996 (North America), March 1, 1997 (Europe)</td>
 						<td>Nintendo Entertainment Analysis and Development (EAD)</td>
 						<td>Nintendo</td>
 						<td>Single-Player</td>
@@ -1413,9 +1488,10 @@
 						<td>Shigeru Miyamoto, Yoshiaki Koizumi, Takashi Tezuka</td>
 						<td>None</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Super Mario</td>
-						<Td>GameRankings: 96.41%, Metacritic: 94/100</td>
-						<td><a href="Website About Me - Resources.html">83</a>, <a href="Website About Me - Resources.html">84</a>, <a href="Website About Me - Resources.html">4</a></td>
+						<td>GameRankings: 96.41%, Metacritic: 94/100</td>
+						<td><a href="Website About Me - Works Cited.md">84</a>, <a href="Website About Me - Works Cited.md">85</a>, <a href="Website About Me - Works Cited.md">4</a></td>
 					</tr>
 					<tr>
 						<td>Super Mario 64 DS</td>
@@ -1423,17 +1499,18 @@
 						<td>E</td>
 						<td>Everyone</td>
 						<td>Platform</td>
-						<td>November 21, 2004</td>
+						<td>November 21, 2004 (North America), December 2, 2004 (Japan), February 24, 2005 (Australasia), March 11, 2005 (Europe and India)</td>
 						<td>Nintendo Entertainment Analysis and Development (EAD)</td>
 						<td>Nintendo</td>
 						<td>Single-Player, Multiplayer</td>
 						<td>Koji Kondo</td>
 						<td>Shinichi Ikematsu</td>
 						<td>None</td>
+						<td>Michiho Hayashi, Kenji Shinmoto</td>
 						<td>None</td>
 						<td>Super Mario</td>
 						<td>GameRankings: 86%, Metacritic: 85/100</td>
-						<td><a href="Website About Me - Resources.html">85</a>, <a href="Website About Me - Resources.html">4</a></td>
+						<td><a href="Website About Me - Works Cited.md">86</a>, <a href="Website About Me - Works Cited.md">4</a></td>
 					</tr>
 					<tr>
 						<td>Super Mario World</td>
@@ -1441,17 +1518,18 @@
 						<td>KA (rerated E)</td>
 						<td>Kids to Adults (renamed Everyone)</td>
 						<td>Platform</td>
-						<td>August 13, 1991 (SNES), February 11, 2002 (GBA)</td>
+						<td>November 21, 1990 (Japan), August 13, 1991 (North America), April 11, 1992 (Europe, SNES), December 14, 2001 (Japan), February 11, 2002 (North America), April 12, 2002 (PAL, GBA)</td>
 						<td>Nintendo Entertainment Analysis and Development (EAD)</td>
 						<td>Nintendo</td>
 						<td>Single-Player, Multiplayer</td>
 						<td>Koji Kondo</td>
 						<td>Takashi Tezuka</td>
 						<td>None</td>
+						<td>Shigefumi Hino</td>
 						<td>None</td>
 						<td>Super Mario</td>
 						<td>GameRankings: 94%, Metacritic: N/A</td>
-						<td><a href="Website About Me - Resources.html">86</a>, <a href="Website About Me - Resources.html">83</a>, <a href="Website About Me - Resources.html">4</a></td>
+						<td><a href="Website About Me - Works Cited.md">87</a>, <a href="Website About Me - Works Cited.md">85</a>, <a href="Website About Me - Works Cited.md">4</a></td>
 					</tr>
 					<tr>
 						<td>Ultimate Spider-Man (Video Game)</td>
@@ -1459,17 +1537,18 @@
 						<td>T</td>
 						<td>Teen</td>
 						<td>Beat'em Up</td>
-						<td>September 21, 2005</td>
+						<td>September 21, 2005 (North America), October 14, 2005 (Europe), June 29, 2006 (Japan)</td>
 						<td>Treyarch</td>
 						<td>Activision</td>
 						<td>Single-Player</td>
 						<td>Kevin Manthei</td>
 						<td>Brian Michael Bendis, Christopher A. Busse</td>
 						<td>Brian Reed</td>
+						<td>Chris Soares</td>
 						<td>None</td>
 						<td>Spider-Man</td>
 						<td>GameRankings: 75.41%, Metacritic: 76/100</td>
-						<td><a href="Website About Me - Resources.html">87</a></td>
+						<td><a href="Website About Me - Works Cited.md">88</a></td>
 					</tr>
 					<tr>
 						<td>Spider-Man: Web of Shadows</td>
@@ -1477,7 +1556,7 @@
 						<td>T</td>
 						<td>Teen</td>
 						<td>Action-Adventure</td>
-						<td>October 21, 2008</td>
+						<td>October 21, 2008 (North America), October 24, 2008 (Europe), October 28, 2008 (Australasia)</td>
 						<td>Shaba Games, Treyarch</td>
 						<td>Activision</td>
 						<td>Single-Player</td>
@@ -1485,9 +1564,10 @@
 						<td>Bradley Meyer</td>
 						<td>None</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Spider-Man</td>
 						<td>GameRankings: 68.37%, Metacritic: 68/100</td>
-						<td><a href="Website About Me - Resources.html">88</a>, <a href="Website About Me - Resources.html">89</a></td>
+						<td><a href="Website About Me - Works Cited.md">89</a>, <a href="Website About Me - Works Cited.md">90</a></td>
 					</tr>
 					<tr>
 						<td>Call of Duty: Modern Warfare Remastered</td>
@@ -1495,7 +1575,7 @@
 						<td>M</td>
 						<td>Mature</td>
 						<td>First-Person Shooter</td>
-						<td>November 4, 2016</td>
+						<td>November 4, 2016 (Worldwide)</td>
 						<td>Raven Software, Beenox, Certain Affinity, High Moon Studios, Infinity Ward (original)</td>
 						<td>Activision</td>
 						<td>Single-Player, Multiplayer</td>
@@ -1503,9 +1583,10 @@
 						<td>David Pellas</td>
 						<td>None</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Call of Duty</td>
 						<td>GameRankings: N/A, Metacritic: 89/100 (Xbox One), 83/100 (PS4)</td>
-						<td><a href="Website About Me - Resources.html">90</a></td>
+						<td><a href="Website About Me - Works Cited.md">91</a></td>
 					</tr>
 					<tr>
 						<td>Crash Bandicoot: Warped</td>
@@ -1513,17 +1594,18 @@
 						<td>E</td>
 						<td>Everyone</td>
 						<td>Platform</td>
-						<td>October 31, 1998</td>
+						<td>October 31, 1998 (North America), December 1, 1998 (Europe)</td>
 						<td>Naughty Dog</td>
 						<td>Sony Computer Entertainment</td>
 						<td>Single-Player</td>
 						<td>Josh Mancell</td>
 						<td>Jason Rubin</td>
 						<td>Evan Wells</td>
+						<td>Charles Zembillas, Erik Panglilinan</td>
 						<td>None</td>
 						<td>Crash Bandicoot</td>
 						<td>GameRankings: 89.07%, Metacritic: 91/100</td>
-						<td><a href="Website About Me - Resources.html">91</a></td>
+						<td><a href="Website About Me - Works Cited.md">92</a></td>
 					</tr>
 					<tr>
 						<td>Halo 5: Guardians</td>
@@ -1531,17 +1613,18 @@
 						<td>T</td>
 						<td>Teen</td>
 						<td>First-Person Shooter</td>
-						<td>October 27, 2015</td>
+						<td>October 27, 2015 (Worldwide)</td>
 						<td>343 Industries</td>
 						<td>Microsoft Studios</td>
 						<td>Single-Player, Multiplayer</td>
 						<td>Kazuma Jinnouchi</td>
 						<td>Tim Longo</td>
 						<td>Chris Haluke</td>
+						<td>Nicolas Bouvier</td>
 						<td>None</td>
 						<td>Halo</td>
 						<td>GameRankings: N/A, Metacritic: 84/100</td>
-						<td><a href="Website About Me - Resources.html">92</a></td>
+						<td><a href="Website About Me - Works Cited.md">93</a></td>
 					</tr>
 					<tr>
 						<td>Sonic Adventure 2 Battle</td>
@@ -1549,7 +1632,7 @@
 						<td>E</td>
 						<td>Everyone</td>
 						<td>Platform, Action-Adventure</td>
-						<td>February 11, 2002</td>
+						<td>December 20, 2001 (Japan), February 11, 2002 (North America), May 3, 2002 (PAL)</td>
 						<td>Sonic Team USA</td>
 						<td>Sega</td>
 						<td>Single-Player, Multiplayer</td>
@@ -1557,9 +1640,10 @@
 						<td>Takashi Iizuka</td>
 						<td>None</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Sonic the Hedgehog</td>
 						<td>GameRankings: N/A, Metacritic: N/A</td>
-						<td><a href="Website About Me - Resources.html">93</a></td>
+						<td><a href="Website About Me - Works Cited.md">94</a></td>
 					</tr>
 					<tr>
 						<td>Shadow the Hedgehog (Video Game)</td>
@@ -1567,17 +1651,18 @@
 						<td>E10+</td>
 						<td>Everyone Ages 10 and Up</td>
 						<td>Platform, Action-Adventure, Third-Person Shooter</td>
-						<td>November 15, 2005</td>
+						<td>November 15, 2005 (North America), November 18, 2005 (PAL), December 15, 2005 (Japan)</td>
 						<td>Sega Studio USA</td>
 						<td>Sega</td>
 						<td>Single-Player, Multiplayer, Co-Op</td>
 						<td>Jun Senoue, Yutaka Minobe, Tomoya Ohtani, Mariko Nanba</td>
 						<td>Takashi Iizuka</td>
 						<td>Takashi Iizuka</td>
+						<td>Takashi Iizuka</td>
 						<td>RenderWare</td>
 						<td>Sonic the Hedgehog</td>
 						<td>GameRankings: 53.10%, Metacritic: 51/100</td>
-						<td><a href="Website About Me - Resources.html">94</a></td>
+						<td><a href="Website About Me - Works Cited.md">95</a></td>
 					</tr>
 					<tr>
 						<td>Sonic Unleashed</td>
@@ -1585,17 +1670,18 @@
 						<td>E10+</td>
 						<td>Everyone Ages 10 and Up</td>
 						<td>Platform, Action-Adventure, Beat'em Up</td>
-						<td>November 18, 2008 (Wii), November 20, 2008 (Xbox 360)</td>
+						<td>November 18, 2008 (North America), November 27, 2008 (Australasia), November 28, 2008 (Europe), December 18, 2008 (Japan, Wii), November 20, 2008 (North America), November 27, 2008 (Australasia), November 28, 2008 (Europe), February 19, 2009 (Japan, Xbox 360)</td>
 						<td>Sonic Team</td>
 						<td>Sega</td>
 						<td>Single-Player</td>
 						<td>Tomoya Ohtani, Fumie Kumatani, Kenichi Tokoi, Hideaki Kobayashi, Takahito Eguchi</td>
 						<td>Yoshihisa Nishiyama</td>
 						<td>None</td>
+						<td>Kiyoko Yoshimura</td>
 						<td>Hedgehog Engine</td>
 						<td>Sonic the Hedgehog</td>
 						<td>GameRankings: N/A, Metacritic: 66/100 (Wii), 60/100 (Xbox 360)</td>
-						<td><a href="Website About Me - Resources.html">95</a></td>
+						<td><a href="Website About Me - Works Cited.md">96</a></td>
 					</tr>
 					<tr>
 						<td>Sonic the Hedgehog (2006 Video Game)</td>
@@ -1603,17 +1689,18 @@
 						<td>E10+</td>
 						<td>Everyone Ages 10 and Up</td>
 						<td>Platform, Action-Adventure</td>
-						<td>November 14, 2006</td>
+						<td>November 14, 2006 (North America), November 24, 2006 (PAL), December 21, 2006 (Japan)</td>
 						<td>Sonic Team</td>
 						<td>Sega</td>
 						<td>Single-Player</td>
 						<td>Hideaki Kobayashi, Tomoya Ohtani, Mariko Nanba, Taihei Sato, Takahito Eguchi</td>
 						<td>Shun Nakamura</td>
 						<td>None</td>
+						<td>Akira Mikame</td>
 						<td>None</td>
 						<td>Sonic the Hedgehog</td>
 						<td>GameRankings: N/A, Metacritic: 46/100</td>
-						<td><a href="Website About Me - Resources.html">96</a></td>
+						<td><a href="Website About Me - Works Cited.md">97</a></td>
 					</tr>
 					<tr>
 						<td>Sonic Heroes</td>
@@ -1621,17 +1708,18 @@
 						<td>E</td>
 						<td>Everyone</td>
 						<td>Platform, Action-Adventure</td>
-						<td>January 5, 2004 (GameCube), January 27, 2004 (PS2)</td>
+						<td>December 30, 2003 (Japan), January 5, 2004 (North America), February 6, 2004 (PAL, GameCube), December 30, 2003 (Japan), January 27, 2004 (North America), February 6, 2004 (PAL, PS2)</td>
 						<td>Sonic Team USA</td>
 						<td>Sega</td>
 						<td>Single-Player, Multiplayer</td>
 						<td>Jun Senoue</td>
 						<td>Takashi Iizuka</td>
 						<td>None</td>
+						<td>Kazuyuki Hoshino</td>
 						<td>RenderWare</td>
 						<td>Sonic the Hedgehog</td>
-						<Td>GameRankings: 74.27% (GameCube), 70.58% (PS2), Metacritic: 72/100 (GameCube), 64/100 (PS2)</td>
-						<td><a href="Website About Me - Resources.html">97</a></td>
+						<td>GameRankings: 74.27% (GameCube), 70.58% (PS2), Metacritic: 72/100 (GameCube), 64/100 (PS2)</td>
+						<td><a href="Website About Me - Works Cited.md">98</a></td>
 					</tr>
 					<tr>
 						<td>Sonic Adventure DX: Director's Cut</td>
@@ -1639,17 +1727,18 @@
 						<td>E</td>
 						<td>Everyone</td>
 						<td>Platform, Action, Role-Playing</td>
-						<td>June 17, 2003</td>
+						<td>June 17, 2003 (North America), June 19, 2003 (Japan), June 20, 2003 (Australasia), June 27, 2003 (Europe)</td>
 						<td>Sonic Team</td>
 						<td>Sega</td>
 						<td>Single-Player</td>
 						<td>Jun Senoue, Fumie Kumatani, Kenichi Tokoi, Masaru Setsumaru</td>
 						<td>Takashi Iizuka</td>
 						<td>None</td>
+						<td>Kazuyuki Hoshino, Yuji Uekawa</td>
 						<td>None</td>
 						<td>Sonic the Hedgehog</td>
 						<td>GameRankings: N/A, Metacritic: N/A</td>
-						<td><a href="Website About Me - Resources.html">98</a></td>
+						<td><a href="Website About Me - Works Cited.md">99</a></td>
 					</tr>
 					<tr>
 						<td>Super Mario Galaxy</td>
@@ -1657,17 +1746,18 @@
 						<td>E</td>
 						<td>Everyone</td>
 						<td>Platform, Action-Adventure</td>
-						<td>November 12, 2007</td>
+						<td>November 1, 2007 (Japan), November 12, 2007 (North America), November 16, 2007 (Europe), November 29, 2007 (Australasia)</td>
 						<td>Nintendo Entertainment and Development (EAD) Tokyo</td>
 						<td>Nintendo</td>
 						<td>Single-Player, Multiplayer</td>
 						<td>Mahito Yokota, Koji Kondo</td>
 						<td>Yoshiaki Koizumi</td>
 						<td>Yoshiaki Koizumi, Shigeru Miyamoto</td>
+						<td>Kenta Motokura</td>
 						<td>None</td>
 						<td>Super Mario</td>
 						<td>GameRankings: 97.64%, Metacritic: 97/100</td>
-						<td><a href="Website About Me - Resources.html">99</a>, <a href="Website About Me - Resources.html">4</a></td>
+						<td><a href="Website About Me - Works Cited.md">100</a>, <a href="Website About Me - Works Cited.md">4</a></td>
 					</tr>
 					<tr>
 						<td>Super Mario Galaxy 2</td>
@@ -1675,17 +1765,18 @@
 						<td>E</td>
 						<td>Everyone</td>
 						<td>Platform</td>
-						<td>May 23, 2010</td>
+						<td>May 23, 2010 (North America), May 27, 2010 (Japan), June 11, 2010 (Europe), July 1, 2010 (Australasia)</td>
 						<td>Nintendo Entertainment and Development (EAD) Tokyo</td>
 						<td>Nintendo</td>
 						<td>Single-Player, Multiplayer</td>
 						<td>Mahito Yokota, Ryo Nagamatsu, Koji Kondo</td>
 						<td>Koichi Hayashida</td>
 						<td>Kenta Motokura</td>
+						<td>Daisuke Watanabe</td>
 						<td>None</td>
 						<td>Super Mario</td>
 						<td>GameRankings: 97.35%, Metacritic: 97/100</td>
-						<td><a href="Website About Me - Resources.html">100</a>, <a href="Website About Me - Resources.html">4</a></td>
+						<td><a href="Website About Me - Works Cited.md">101</a>, <a href="Website About Me - Works Cited.md">4</a></td>
 					</tr>
 					<tr>
 						<td>Crash Bandicoot: The Wrath of Cortex</td>
@@ -1693,17 +1784,18 @@
 						<td>E</td>
 						<td>Everyone</td>
 						<td>Platform</td>
-						<td>October 29, 2001 (PlayStation 2 (PS2)), September 17, 2002 (GameCube)</td>
+						<td>October 29, 2001 (North America), November 23, 2001 (Europe, PlayStation 2 (PS2)), September 17, 2002 (North America), November 1, 2002 (Europe, GameCube)</td>
 						<td>Traveller's Tales, Eurocom (GameCube)</td>
 						<td>Universal Interactive, Konami Corporation</td>
 						<td>Single-Player</td>
 						<td>Andy Blythe, Marten Joustra</td>
 						<td>Jon Burton</td>
 						<td>Arthur Parsons, Jon Burton, James Cunliffe</td>
+						<td>James Cunliffe</td>
 						<td>None</td>
 						<td>Crash Bandicoot</td>
 						<td>GameRankings: 70.12% (PS2), 63.28% (GameCube), Metacritic: 66/100 (PS2), 62/100 (GameCube)</td>
-						<td><a href="Website About Me - Resources.html">101</a></td>
+						<td><a href="Website About Me - Works Cited.md">102</a></td>
 					</tr>
 					<tr>
 						<td>Assassin's Creed III</td>
@@ -1711,17 +1803,18 @@
 						<td>M</td>
 						<td>Mature</td>
 						<td>Action-Adventure, Stealth</td>
-						<td>October 30, 2012</td>
+						<td>October 30, 2012 (North America), October 31, 2012 (Europe and Australasia)</td>
 						<td>Ubisoft Montreal, Ubisoft Annecy, Ubisoft Singapore</td>
 						<td>Ubisoft</td>
 						<td>Single-Player, Multiplayer</td>
 						<td>Lorne Balfe</td>
 						<td>Alex Hutchinson</td>
 						<td>Steven Masters</td>
+						<td>None</td>
 						<td>AnvilNext</td>
 						<td>Assassin's Creed</td>
 						<td>GameRankings: 84.92%, Metacritic: 84/100</td>
-						<td><a href="Website About Me - Resources.html">102</a></td>
+						<td><a href="Website About Me - Works Cited.md">103</a></td>
 					</tr>
 					<tr>
 						<td>Pokk&eacute;n Tournament</td>
@@ -1729,17 +1822,18 @@
 						<td>E10+</td>
 						<td>Everyone Ages 10 and Up</td>
 						<td>Fighting</td>
-						<td>March 18, 2016</td>
+						<td>March 18, 2016 (Worldwide)</td>
 						<td>Bandai Namco Studios</td>
 						<td>The Pok&eacute;mon Company</td>
 						<td>Single-Player, Multiplayer</td>
-						<td>Hiroki Hashimoto, Hiroyuki Kawada, Rio Hanamoto, Taku Inoue, Eriko Sakurai, Yoshinori Sato, Mitsuhiro Kitadani, Yu Sugimoto, Shota Kageyama</td>
+						<td>Hiroki Hashimoto, Hiroyuki Kawada, Rio Hanamoto, Taku Inoue, Eriko Sakurai, Yoshinori Hirai, Takafumi Sato, Mitsuhiro Kitdani, Yu Sugimoto, Shota Kageyama</td>
 						<td>Haruki Suzaki</td>
 						<td>Yasuhito Kobayashi</td>
+						<td>Hiroyasu Hosoya, Hiromi Watanabe</td>
 						<td>None</td>
 						<td>Pok&eacute;mon, Tekken</td>
 						<td>GameRankings: N/A, Metacritic: 76/100</td>
-						<td><a href="Website About Me - Resources.html">103</a></td>
+						<td><a href="Website About Me - Works Cited.md">104</a></td>
 					</tr>
 					<tr>
 						<td>Pikmin 3</td>
@@ -1747,7 +1841,7 @@
 						<td>E10+</td>
 						<td>Everyone Ages 10 and Up</td>
 						<td>Real-Time Strategy</td>
-						<td>August 4, 2013</td>
+						<td>July 13, 2013 (Japan), July 27, 2013 (Europe), July 27, 2013 (Australasia), August 4, 2013 (North America)</td>
 						<td>Nintendo Entertainment Analysis and Development (EAD)</td>
 						<td>Nintendo</td>
 						<td>Single-Player, Multiplayer</td>
@@ -1755,9 +1849,10 @@
 						<td>Shigefumi Hino, Yuji Kando</td>
 						<td>Keisuke Nishimori, Atsushi Miyagi, Takafumi Kiuchi, Takuro Shimizu</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Pikmin</td>
 						<td>GameRankings: 87%, Metacritic: 87/100</td>
-						<td><a href="Website About Me - Resources.html">104</a>, <a href="Website About Me - Resources.html">4</a></td>
+						<td><a href="Website About Me - Works Cited.md">105</a>, <a href="Website About Me - Works Cited.md">4</a></td>
 					</tr>
 					<tr>
 						<td>Pikmin</td>
@@ -1765,7 +1860,7 @@
 						<td>E</td>
 						<td>Everyone</td>
 						<td>Real-Time Strategy</td>
-						<td>December 2, 2001 (GameCube) and March 9, 2009 (Wii)</td>
+						<td>October 26, 2001 (Japan), December 2, 2001 (North America), June 14, 2002 (PAL, GameCube) and December 25, 2008 (Japan), March 9, 2009 (North America), February 6, 2009 (Europe), February 26, 2009 (Australasia, Wii)</td>
 						<td>Nintendo Entertainment Analysis and Development (EAD)</td>
 						<td>Nintendo</td>
 						<td>Single-Player</td>
@@ -1773,9 +1868,10 @@
 						<td>Shigefumi Hino, Masamichi Abe</td>
 						<td>None</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Pikmin</td>
 						<td>GameRankings: 86.71% (GameCube), 79.31% (Wii), Metacritic: 89/100 (GameCube), 77/100 (Wii)</td>
-						<td><a href="Website About Me - Resources.html">105</a>, <a href="Website About Me - Resources.html">4</a></td>
+						<td><a href="Website About Me - Works Cited.md">106</a>, <a href="Website About Me - Works Cited.md">4</a></td>
 					</tr>
 					<tr>
 						<td>Metroid Prime: Trilogy (First-Person Game)</td>
@@ -1783,17 +1879,18 @@
 						<td>T</td>
 						<td>Teen</td>
 						<td>Action-Adventure</td>
-						<td>August 24, 2009</td>
+						<td>August 24, 2009 (North America), September 4, 2009 (Europe), October 15, 2009 (Australasia)</td>
 						<td>Retro Studios, Nintendo</td>
 						<td>Nintendo</td>
 						<td>Single-Player, Multiplayer</td>
 						<td>Kenji Yamamoto</td>
 						<td>Mark Pacini</td>
 						<td>None</td>
+						<td>Todd Keller</td>
 						<td>None</td>
 						<td>Metroid</td>
 						<td>GameRankings: 92.35%, Metacritic: 91/100</td>
-						<td><a href="Website About Me - Resources.html">106</a></td>
+						<td><a href="Website About Me - Works Cited.md">107</a></td>
 					</tr>
 					<tr>
 						<td>Donkey Kong Country Returns</td>
@@ -1801,17 +1898,18 @@
 						<td>E</td>
 						<td>Everyone</td>
 						<td>Platform</td>
-						<td>November 21, 2010</td>
+						<td>November 21, 2010 (North America), December 2, 2010 (Australasia), December 3, 2010 (Europe), December 9, 2010 (Japan)</td>
 						<td>Retro Studios</td>
 						<td>Nintendo</td>
 						<td>Single-Player, Multiplayer</td>
 						<td>Minako Hamano, Masaru Tajima, Shinji Ushiroda, Daisuke Matsuoka, Kenji Yamamoto</td>
 						<td>Bryan Walker</td>
 						<td>Kynan Pearson, Mike Wikan, Tom Ivey</td>
+						<td>Vince Joly</td>
 						<td>None</td>
 						<td>Donkey Kong Country, Donkey Kong</td>
 						<td>GameRankings: 87.79%, Metacritic: 87/100</td>
-						<td><a href="Website About Me - Resources.html">107</a></td>
+						<td><a href="Website About Me - Works Cited.md">108</a></td>
 					</tr>
 					<tr>
 						<td>New Super Mario Bros. U</td>
@@ -1819,17 +1917,18 @@
 						<td>E</td>
 						<td>Everyone</td>
 						<td>Platform</td>
-						<td>November 18, 2012</td>
+						<td>November 18, 2012 (North America), November 30, 2012 (PAL), December 8, 2012 (Japan)</td>
 						<td>Nintendo Entertainment Analysis and Development (EAD)</td>
 						<td>Nintendo</td>
 						<td>Single-Player, Multiplayer</td>
 						<td>Shiho Fujii, Mahito Yokota</td>
 						<td>Masataka Takemota</td>
 						<td>Shigeyuki Asuke, Daiki Iwamoto, Ryutaro Kanno</td>
+						<td>Masanobu Sato</td>
 						<td>None</td>
 						<td>Super Mario</td>
 						<td>GameRankings: 84.48%, Metacritic: 84/100</td>
-						<td><a href="Website About Me - Resources.html">108</a>, <a href="Website About Me - Resources.html">4</a></td>
+						<td><a href="Website About Me - Works Cited.md">109</a>, <a href="Website About Me - Works Cited.md">4</a></td>
 					</tr>
 					<tr>
 						<td>Super Mario 3D World</td>
@@ -1837,7 +1936,7 @@
 						<td>E</td>
 						<td>Everyone</td>
 						<td>Adventure, Platform</td>
-						<td>November 22, 2013</td>
+						<td>November 21, 2013 (Japan), November 22, 2013 (North America), November 29, 2013 (Europe), November 30, 2013 (Australasia)</td>
 						<td>Nintendo Entertainment Analysis and Development (EAD) Tokyo, 1-UP Studio</td>
 						<td>Nintendo</td>
 						<td>Single-Player, Multiplayer</td>
@@ -1845,9 +1944,10 @@
 						<td>Koichi Hayashida, Kenta Motokura</td>
 						<td>None</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Super Mario</td>
 						<td>GameRankings: 93%, Metacritic: 93/100</td>
-						<td><a href="Website About Me - Resources.html">109</a>, <a href="Website About Me - Resources.html">4</a></td>
+						<td><a href="Website About Me - Works Cited.md">110</a>, <a href="Website About Me - Works Cited.md">4</a></td>
 					</tr>
 					<tr>
 						<td>New Super Mario Bros. Wii</td>
@@ -1855,7 +1955,7 @@
 						<td>E</td>
 						<td>Everyone</td>
 						<td>Platform</td>
-						<td>November 15, 2009</td>
+						<td>November 11, 2009 (Australasia), November 15, 2009 (North America), November 20, 2009 (Europe), December 3, 2009 (Japan)</td>
 						<td>Nintendo Entertainment Analysis and Development (EAD)</td>
 						<td>Nintendo</td>
 						<td>Single-Player, Multiplayer</td>
@@ -1863,9 +1963,10 @@
 						<td>Shigeyuki Asuke</td>
 						<td>None</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Super Mario</td>
 						<td>GameRankings: 88.18%, Metacritic: 87/100</td>
-						<td><a href="Website About Me - Resources.html">110</a>, <a href="Website About Me - Resources.html">4</a></td>
+						<td><a href="Website About Me - Works Cited.md">111</a>, <a href="Website About Me - Works Cited.md">4</a></td>
 					</tr>
 					<tr>
 						<td>Assassin's Creed Syndicate</td>
@@ -1873,17 +1974,18 @@
 						<td>M</td>
 						<td>Mature</td>
 						<td>Action-Adventure, Stealth</td>
-						<td>October 23, 2015</td>
+						<td>October 23, 2015 (Worldwide)</td>
 						<td>Ubisoft Quebec</td>
 						<td>Ubisoft</td>
 						<td>Single-Player</td>
 						<td>Austin Wintory</td>
-						<td>Marc-Alexis Cote, Scott Philips, Wesley Pincombe</td>
+						<td>Marc-Alexis C&ocirc;t&eacute;, Scott Phillips, Wesley Pincombe</td>
 						<td>Fr&eacute;d&eacute;ric St-Laurent B.</td>
+						<td>Thierry Dansereau</td>
 						<td>AnvilNext 2.0</td>
 						<td>Assassin's Creed</td>
 						<td>GameRankings: N/A, Metacritic: 78/100 (Xbox One)</td>
-						<td><a href="Website About Me - Resources.html">111</a></td>
+						<td><a href="Website About Me - Works Cited.md">112</a></td>
 					</tr>
 					<tr>
 						<td>Assassin's Creed IV: Black Flag</td>
@@ -1891,17 +1993,18 @@
 						<td>M</td>
 						<td>Mature</td>
 						<td>Action-Adventure, Stealth</td>
-						<td>October 29, 2013 (Xbox 360), November 22, 2013 (Xbox One)</td>
+						<td>October 29, 2013 (Worldwide, Xbox 360), November 22, 2013 (Worldwide, Xbox One)</td>
 						<td>Ubisoft Montreal</td>
 						<td>Ubisoft</td>
 						<td>Single-Player, Multiplayer</td>
 						<td>Brian Tyler</td>
 						<td>Jean Guesdon, Ashraf Ismail, Damien Keiken</td>
 						<td>Eric Baptizat, Jean-Sebastien Decant</td>
+						<td>Raphael Lacoste</td>
 						<td>AnvilNext</td>
 						<td>Assassin's Creed</td>
 						<td>GameRankings: N/A, Metacritic: 86/100 (Xbox 360), N/A (Xbox One)</td>
-						<td><a href="Website About Me - Resources.html">112</a></td>
+						<td><a href="Website About Me - Works Cited.md">113</a></td>
 					</tr>
 					<tr>
 						<td>Sonic Advance</td>
@@ -1909,17 +2012,18 @@
 						<td>E</td>
 						<td>Everyone</td>
 						<td>Platform, Action</td>
-						<td>February 3, 2002</td>
+						<td>December 20, 2001 (Japan), February 3, 2002 (North America), March 8, 2002 (PAL)</td>
 						<td>Dimps, Sonic Team</td>
 						<td>THQ</td>
 						<td>Single-Player, Multiplayer</td>
 						<td>Tatsuyuki Maeda, Yutaka Minobe</td>
 						<td>Akinori Nishiyama</td>
 						<td>None</td>
+						<td>Yuji Uekawa</td>
 						<td>None</td>
 						<td>Sonic the Hedgehog</td>
 						<td>GameRankings: N/A, Metacritic: 87/100</td>
-						<td><a href="Website About Me - Resources.html">113</a></td>
+						<td><a href="Website About Me - Works Cited.md">114</a></td>
 					</tr>
 					<tr>
 						<td>Sonic Advance 2</td>
@@ -1927,17 +2031,18 @@
 						<td>E</td>
 						<td>Everyone</td>
 						<td>Platform, Action</td>
-						<td>March 9, 2003</td>
+						<td>December 19, 2002 (Japan), March 9, 2003 (North America), March 21, 2003 (PAL)</td>
 						<td>Dimps</td>
 						<td>THQ</td>
 						<td>Single-Player, Multiplayer</td>
 						<td>Tatsuyuki Maeda, Yutaka Minobe, Teruhiko Nakagawa</td>
 						<td>Akinori Nishiyama</td>
 						<td>None</td>
+						<td>Yuji Uekawa</td>
 						<td>None</td>
 						<td>Sonic the Hedgehog</td>
 						<td>GameRankings: N/A, Metacritic: 83/100</td>
-						<td><a href="Website About Me - Resources.html">114</a></td>
+						<td><a href="Website About Me - Works Cited.md">115</a></td>
 					</tr>
 					<tr>
 						<td>Sonic Advance 3</td>
@@ -1945,17 +2050,18 @@
 						<td>E</td>
 						<td>Everyone</td>
 						<td>Platform</td>
-						<td>June 7, 2004</td>
+						<td>June 7, 2004 (North America), June 15, 2004 (Europe), June 17, 2004 (Japan)</td>
 						<td>Dimps</td>
 						<td>THQ</td>
 						<td>Single-Player, Multiplayer</td>
 						<td>Hideaki Kobayashi, Kenichi Tokoi</td>
 						<td>Akinori Nishiyama</td>
 						<td>None</td>
+						<td>Yuji Uekawa</td>
 						<td>None</td>
 						<td>Sonic the Hedgehog</td>
 						<td>GameRankings: 81.37%, Metacritic: 79/100</td>
-						<td><a href="Website About Me - Resources.html">115</a></td>
+						<td><a href="Website About Me - Works Cited.md">116</a></td>
 					</tr>
 					<tr>
 						<td>Sonic and the Secret Rings</td>
@@ -1963,17 +2069,18 @@
 						<td>E</td>
 						<td>Everyone</td>
 						<td>Platform, Action</td>
-						<td>February 20, 2007</td>
+						<td>February 20, 2007 (North America), March 2, 2007 (Europe), March 8, 2007 (Australasia), March 15, 2007 (Japan)</td>
 						<td>Sonic Team</td>
 						<td>Sega</td>
 						<td>Single-Player, Multiplayer</td>
 						<td>Fumie Kumatani, Kenichi Tokoi, Seirou Okamoto, Le Club Bachraf</td>
 						<td>Yojiro Ogawa</td>
 						<td>Morio Kishimoto</td>
+						<td>Yoshitaka Miura</td>
 						<td>None</td>
 						<td>Sonic the Hedgehog</td>
 						<td>GameRankings: N/A, Metacritic: 69/100</td>
-						<td><a href="Website About Me - Resources.html">116</a></td>
+						<td><a href="Website About Me - Works Cited.md">117</a></td>
 					</tr>
 					<tr>
 						<td>Sonic and the Black Knight</td>
@@ -1981,17 +2088,18 @@
 						<td>E10+</td>
 						<td>Everyone Ages 10 and Up</td>
 						<td>Platform, Action-Adventure, Hack and Slash</td>
-						<td>March 3, 2009</td>
+						<td>March 3, 2009 (North America), March 12, 2009 (Japan and Australia), March 13, 2009 (Europe)</td>
 						<td>Sonic Team</td>
 						<td>Sega</td>
 						<td>Single-Player, Multiplayer</td>
 						<td>Jun Senoue, Yutaka Minobe, Richard Jacques, Howard Drossin, Tommy Tallarico</td>
 						<td>Tetsu Katano</td>
 						<td>Morio Kishimoto</td>
+						<td>Yoshitaka Miura</td>
 						<td>PhysX</td>
 						<td>Sonic the Hedgehog</td>
 						<td>GameRankings: 55.19%, Metacritic: 54/100</td>
-						<td><a href="Website About Me - Resources.html">117</a></td>
+						<td><a href="Website About Me - Works Cited.md">118</a></td>
 					</tr>
 					<tr>
 						<td>Super Mario All-Stars</td>
@@ -1999,7 +2107,7 @@
 						<td>KA (rerated E)</td>
 						<td>Kids to Adults (renamed Everyone)</td>
 						<td>Action, Platform</td>
-						<td>August 1, 1993 (SNES), December 12, 2010 (Wii)</td>
+						<td>July 14, 1993 (Japan), August 1, 1993 (North America), December 16, 1993 (PAL, SNES), October 21, 2010 (Japan), December 2, 2010 (Australasia), December 3, 2010 (Europe), December 12, 2010 (North America, Wii)</td>
 						<td>Nintendo Entertainment Analysis & Development (EAD)</td>
 						<td>Nintendo</td>
 						<td>Single-Player, Multiplayer</td>
@@ -2007,9 +2115,10 @@
 						<td>Takashi Tezuka</td>
 						<td>None</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Super Mario</td>
 						<td>GameRankings: 90.12%, Metacritic: N/A</td>
-						<td><a href="Website About Me - Resources.html">118</a>, <a href="Website About Me - Resources.html">84</a>, <a href="Website About Me - Resources.html">4</a></td>
+						<td><a href="Website About Me - Works Cited.md">119</a>, <a href="Website About Me - Works Cited.md">85</a>, <a href="Website About Me - Works Cited.md">4</a></td>
 					</tr>
 					<tr>
 						<td>Mario Kart 64</td>
@@ -2017,17 +2126,18 @@
 						<td>KA (rerated E)</td>
 						<td>Kids to Adults (renamed Everyone)</td>
 						<td>Kart Racing</td>
-						<td>February 10, 1997</td>
+						<td>December 14, 1996 (Japan), February 10, 1997 (North America), June 24, 1997 (Europe)</td>
 						<td>Nintendo Entertainment Analysis & Development (EAD)</td>
 						<td>Nintendo</td>
 						<td>Single-Player, Multiplayer</td>
-						<td>Tadashi Sugiyama</td>
+						<td>Kenta Nagata</td>
 						<td>Hideki Konno</td>
 						<td>None</td>
+						<td>Tadashi Sugiyama</td>
 						<td>None</td>
 						<td>Mario Kart</td>
 						<td>GameRankings: N/A, Metacritic: 83/100</td>
-						<td><a href="Website About Me - Resources.html">119</a>, <a href="Website About Me - Resources.html">84</a>, <a href="Website About Me - Resources.html">4</a></td>
+						<td><a href="Website About Me - Works Cited.md">120</a>, <a href="Website About Me - Works Cited.md">85</a>, <a href="Website About Me - Works Cited.md">4</a></td>
 					</tr>
 					<tr>
 						<td>Mario Kart: Double Dash!!</td>
@@ -2035,7 +2145,7 @@
 						<td>E</td>
 						<td>Everyone</td>
 						<td>Racing</td>
-						<td>November 17, 2003</td>
+						<td>November 7, 2003 (Japan), November 14, 2003 (Europe), November 17, 2003 (North America), November 19, 2003 (Australasia)</td>
 						<td>Nintendo Entertainment Analysis & Development (EAD)</td>
 						<td>Nintendo</td>
 						<td>Single-Player, Multiplayer</td>
@@ -2043,9 +2153,10 @@
 						<td>Yasuuki Oyagi, Futoshi Shirai, Daiji Imai</td>
 						<td>None</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Mario Kart</td>
 						<td>GameRankings: N/A, Metacritic: 87/100</td>
-						<td><a href="Website About Me - Resources.html">120</a>, <a href="Website About Me - Resources.html">4</a></td>
+						<td><a href="Website About Me - Works Cited.md">121</a>, <a href="Website About Me - Works Cited.md">4</a></td>
 					</tr>
 					<tr>
 						<td>Mario Kart: Super Circuit</td>
@@ -2053,7 +2164,7 @@
 						<td>E</td>
 						<td>Everyone</td>
 						<td>Racing</td>
-						<td>August 27, 2001</td>
+						<td>July 21, 2001 (Japan), August 27, 2001 (North America), September 13, 2001 (Australasia), September 14, 2001 (Europe)</td>
 						<td>Intelligent Systems</td>
 						<td>Nintendo</td>
 						<td>Single-Player, Multiplayer</td>
@@ -2061,9 +2172,10 @@
 						<td>Takeshi Ando, Yukio Morimoto</td>
 						<td>None</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Mario Kart</td>
 						<td>GameRankings: 91.54%, Metacritic: 93/100</td>
-						<td><a href="Website About Me - Resources.html">121</a></td>
+						<td><a href="Website About Me - Works Cited.md">122</a></td>
 					</tr>
 					<tr>
 						<td>Mario Kart 7</td>
@@ -2071,7 +2183,7 @@
 						<td>E</td>
 						<td>Everyone</td>
 						<td>Kart Racing</td>
-						<td>December 4, 2011</td>
+						<td>December 1, 2011 (Japan), December 2, 2011 (Europe), December 3, 2011 (Australasia), December 4, 2011 (North America)</td>
 						<td>Nintendo Entertainment Analysis & Development (EAD), Retro Studios</td>
 						<td>Nintendo</td>
 						<td>Single-Player, Multiplayer</td>
@@ -2079,9 +2191,10 @@
 						<td>Kosuke Yabuki</td>
 						<td>None</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Mario Kart</td>
 						<td>GameRankings: 85.17%, Metacritic: 85/100</td>
-						<td><a href="Website About Me - Resources.html">122</a>, <a href="Website About Me - Resources.html">4</a></td>
+						<td><a href="Website About Me - Works Cited.md">123</a>, <a href="Website About Me - Works Cited.md">4</a></td>
 					</tr>
 					<tr>
 						<td>Mario Tennis</td>
@@ -2089,7 +2202,7 @@
 						<td>E</td>
 						<td>Everyone</td>
 						<td>Sports</td>
-						<td>August 28, 2000</td>
+						<td>July 21, 2000 (Japan), August 28, 2000 (North America), November 3, 2000 (PAL)</td>
 						<td>Camelot Software Planning</td>
 						<td>Nintendo</td>
 						<td>Single-Player, Multiplayer</td>
@@ -2097,9 +2210,10 @@
 						<td>Haruki Kodera</td>
 						<td>Hiroyuki Takahashi, Shugo Takahashi</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Mario Tennis</td>
 						<td>GameRankings: 87%, Metacritic: 91/100</td>
-						<td><a href="Website About Me - Resources.html">123</a></td>
+						<td><a href="Website About Me - Works Cited.md">124</a></td>
 					</tr>
 					<tr>
 						<td>Mario Power Tennis</td>
@@ -2107,7 +2221,7 @@
 						<td>E</td>
 						<td>Everyone</td>
 						<td>Sports</td>
-						<td>November 8, 2004</td>
+						<td>October 28, 2004 (Japan), November 8, 2004 (North America), February 25, 2005 (PAL)</td>
 						<td>Camelot Software Planning</td>
 						<td>Nintendo</td>
 						<td>Single-Player, Multiplayer</td>
@@ -2115,9 +2229,10 @@
 						<td>Haruki Kodera</td>
 						<td>Hiroyuki Takahashi, Shugo Takahashi</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Mario Tennis</td>
 						<td>GameRankings: 81.03%, Metacritic: 80/100</td>
-						<td><a href="Website About Me - Resources.html">124</a></td>
+						<td><a href="Website About Me - Works Cited.md">125</a></td>
 					</tr>
 					<tr>
 						<td>Pikmin 2</td>
@@ -2125,7 +2240,7 @@
 						<td>E</td>
 						<td>Everyone</td>
 						<td>Puzzle, Real-Time Strategy</td>
-						<td>August 30, 2004</td>
+						<td>April 29, 2004 (Japan), August 30, 2004 (North America), October 8, 2004 (Europe), November 4, 2004 (Australasia)</td>
 						<td>Nintendo Entertainment Analysis & Development (EAD)</td>
 						<td>Nintendo</td>
 						<td>Single-Player, Multiplayer</td>
@@ -2133,9 +2248,10 @@
 						<td>Shigefumi Hino, Masamichi Abe</td>
 						<td>None</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Pikmin</td>
 						<td>GameRankings: 89.44%, Metacritic: 90/100</td>
-						<td><a href="Website About Me - Resources.html">125</a>, <a href="Website About Me - Resources.html">4</a></td>
+						<td><a href="Website About Me - Works Cited.md">126</a>, <a href="Website About Me - Works Cited.md">4</a></td>
 					</tr>
 					<tr>
 						<td>Sunset Overdrive (Open World)</td>
@@ -2143,17 +2259,18 @@
 						<td>M</td>
 						<td>Mature</td>
 						<td>Action-Adventure, Third-Person Shooter</td>
-						<td>October 28, 2014</td>
+						<td>October 28, 2014 (North America), October 30, 2014 (Australasia), October 31, 2014 (Europe)</td>
 						<td>Insomniac Games</td>
 						<td>Microsoft Studios</td>
 						<td>Single-Player, Multiplayer</td>
 						<td>Boris Salchow</td>
 						<td>Marcus Smith, Drew Murray</td>
 						<td>Cameron Christian</td>
+						<td>Jacinda Chew</td>
 						<td>None</td>
 						<td>None</td>
 						<td>GameRankings: 83%, Metacritic: 81/100</td>
-						<td><a href="Website About Me - Resources.html">126</a></td>
+						<td><a href="Website About Me - Works Cited.md">127</a></td>
 					</tr>
 					<tr>
 						<td>Spyro the Dragon (Video Game)</td>
@@ -2161,17 +2278,18 @@
 						<td>E</td>
 						<td>Everyone</td>
 						<td>Platform</td>
-						<td>September 9, 1998</td>
+						<td>September 9, 1998 (North America), October 1, 1998 (Europe)</td>
 						<td>Insomniac Games</td>
 						<td>Sony Computer Entertainment</td>
 						<td>Single-Player</td>
 						<td>Stewart Copeland</td>
 						<td>None</td>
 						<td>None</td>
+						<td>Charles Zembillas</td>
 						<td>None</td>
 						<td>Spyro</td>
 						<td>GameRankings: 85%, Metacritic: N/A</td>
-						<td><a href="Website About Me - Resources.html">127</a></td>
+						<td><a href="Website About Me - Works Cited.md">128</a></td>
 					</tr>
 					<tr>
 						<td>Spyro 2: Ripto's Rage!</td>
@@ -2179,7 +2297,7 @@
 						<td>E</td>
 						<td>Everyone</td>
 						<td>Platform</td>
-						<td>November 2, 1999</td>
+						<td>November 2, 1999 (North America), November 5, 1999 (Europe), March 16, 2000 (Japan)</td>
 						<td>Insomniac Games</td>
 						<td>Sony Computer Entertainment</td>
 						<td>Single-Player</td>
@@ -2187,9 +2305,10 @@
 						<td>None</td>
 						<td>None</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Spyro</td>
 						<td>GameRankings: 87%, Metacritic: N/A</td>
-						<td><a href="Website About Me - Resources.html">128</a></td>
+						<td><a href="Website About Me - Works Cited.md">129</a></td>
 					</tr>
 					<tr>
 						<td>Spyro: Year of the Dragon</td>
@@ -2197,17 +2316,18 @@
 						<td>E</td>
 						<td>Everyone</td>
 						<td>Platform</td>
-						<td>October 24, 2000</td>
+						<td>October 24, 2000 (North America), November 10, 2000 (Europe)</td>
 						<td>Insomniac Games</td>
 						<td>Sony Computer Entertainment</td>
 						<td>Single-Player</td>
 						<td>Stewart Copeland, Ryan Beveridge</td>
 						<td>Connie Booth</td>
 						<td>None</td>
+						<td>Charles Zembillas</td>
 						<td>None</td>
 						<td>Spyro</td>
 						<td>GameRankings: 91%, Metacritic: 91/100</td>
-						<td><a href="Website About Me - Resources.html">129</a></td>
+						<td><a href="Website About Me - Works Cited.md">130</a></td>
 					</tr>
 					<tr>
 						<td>Spyro: Enter the Dragonfly</td>
@@ -2215,7 +2335,7 @@
 						<td>E</td>
 						<td>Everyone</td>
 						<td>Platform</td>
-						<td>November 19, 2002</td>
+						<td>November 19, 2002 (North America), November 29, 2002 (Europe)</td>
 						<td>Check Six Games, Equinoxe Digital Entertainment</td>
 						<td>Universal Interactive</td>
 						<td>Single-Player</td>
@@ -2223,9 +2343,10 @@
 						<td>None</td>
 						<td>None</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Spyro</td>
 						<td>GameRankings: 48%, Metacritic: 48/100</td>
-						<td><a href="Website About Me - Resources.html">130</a></td>
+						<td><a href="Website About Me - Works Cited.md">131</a></td>
 					</tr>
 					<tr>
 						<td>Spyro: A Hero's Tail</td>
@@ -2233,7 +2354,7 @@
 						<td>E</td>
 						<td>Everyone</td>
 						<td>Platform</td>
-						<td>November 9, 2004</td>
+						<td>November 9, 2004 (North America), November 12, 2004 (Europe)</td>
 						<td>Eurocom</td>
 						<td>Vivendi Universal Games</td>
 						<td>Single-Player</td>
@@ -2241,27 +2362,29 @@
 						<td>Jon Williams</td>
 						<td>None</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Spyro</td>
 						<td>GameRankings: 63.29%, Metacritic: 62/100</td>
-						<td><a href="Website About Me - Resources.html">131</a></td>
+						<td><a href="Website About Me - Works Cited.md">132</a></td>
 					</tr>
 					<tr>
 						<td>Star Fox: Assault</td>
 						<td>GameCube</td>
 						<td>T</td>
 						<td>Teen</td>
-						<td>Shoot Em' Up, Third-Person Shooter</td>
-						<td>February 14, 2005</td>
+						<td>Shoot 'Em Up, Third-Person Shooter</td>
+						<td>February 14, 2005 (North America), February 24, 2005 (Japan), April 29, 2005 (Europe), June 16, 2005 (Australasia)</td>
 						<td>Namco</td>
 						<td>Nintendo</td>
 						<td>Single-Player, Multiplayer</td>
 						<td>Yoshie Arakawa, Yoshinori Kawamoto</td>
 						<td>Toshiyuki Nakanishi, Hideki Okazaki, Yutaka Yoshida</td>
 						<td>None</td>
+						<td>Yoshihiko Arawi</td>
 						<td>None</td>
 						<td>Star Fox</td>
 						<td>GameRankings: 71%, Metacritic: 67/100</td>
-						<td><a href="Website About Me - Resources.html">132</a></td>
+						<td><a href="Website About Me - Works Cited.md">133</a></td>
 					</tr>
 					<tr>
 						<td>Star Fox Adventures</td>
@@ -2269,17 +2392,18 @@
 						<td>T</td>
 						<td>Teen</td>
 						<td>Action-Adventure, Beat 'Em Up, Shooter</td>
-						<td>September 23, 2002</td>
+						<td>September 23, 2002 (North America), September 27, 2002 (Japan), November 15, 2002 (Australasia), November 22, 2002 (Europe)</td>
 						<td>Rare</td>
 						<td>Nintendo</td>
 						<td>Single-Player</td>
 						<td>David Wise, Ben Cullum</td>
 						<td>Lee Schuneman</td>
 						<td>Steven Brand, Shaun Read</td>
+						<td>Kevin Bayliss, Johnni Christensen, Keith Rabbette</td>
 						<td>None</td>
 						<td>Star Fox</td>
 						<td>GameRankings: N/A, Metacritic: 82/100</td>
-						<td><a href="Website About Me - Resources.html">133</a></td>
+						<td><a href="Website About Me - Works Cited.md">134</a></td>
 					</tr>
 					<tr>
 						<td>Marvel vs. Capcom 3: Fate of Two Worlds (Crossover)</td>
@@ -2287,17 +2411,18 @@
 						<td>T</td>
 						<td>Teen</td>
 						<td>Fighting</td>
-						<td>February 15, 2011</td>
+						<td>February 15, 2011 (North America), February 17, 2011 (Japan), February 18, 2011 (Europe)</td>
 						<td>Capcom, Eighting</td>
 						<td>Capcom</td>
 						<td>Single-Player, Multiplayer</td>
 						<td>Hideyuki Fukasawa</td>
 						<td>Go Usuma</td>
 						<td>None</td>
+						<td>Hiroyuki Nara</td>
 						<td>MT Framework</td>
 						<td>Marvel vs. Capcom</td>
 						<td>GameRankings: 86%, Metacritic: 85/100</td>
-						<td><a href="Website About Me - Resources.html">134</a></td>
+						<td><a href="Website About Me - Works Cited.md">135</a></td>
 					</tr>
 					<tr>
 						<td>Yo-kai Watch (Video Game)</td>
@@ -2305,17 +2430,18 @@
 						<td>E10+</td>
 						<td>Everyone Ages 10 and Up</td>
 						<td>Role-Playing</td>
-						<td>November 6, 2015</td>
+						<td>July 11, 2013 (Japan), November 6, 2015 (North America), December 5, 2015 (Australasia), April 29, 2016 (Europe)</td>
 						<td>Level-5</td>
 						<td>Nintendo</td>
 						<td>Single-Player, Multiplayer</td>
 						<td>Kenichiro Saigo</td>
 						<td>Ken Motomura</td>
 						<td>Akihiro Hino</td>
+						<td>Nobuyuki Yanai, Takuzo Nagano, Miho Tanaka</td>
 						<td>None</td>
 						<td>Yo-kai Watch</td>
 						<td>GameRankings: N/A, Metacritic: 76/100</td>
-						<td><a href="Website About Me - Resources.html">135</a></td>
+						<td><a href="Website About Me - Works Cited.md">136</a></td>
 					</tr>
 					<tr>
 						<td>DmC: Devil May Cry</td>
@@ -2323,17 +2449,18 @@
 						<td>M</td>
 						<td>Mature</td>
 						<td>Action-Adventure, Hack And Slash</td>
-						<td>January 15, 2013 (Xbox 360), March 10, 2015 (Xbox One)</td>
+						<td>January 15, 2013 (Worldwide) January 17, 2013 (Japan, Xbox 360), March 10, 2015 (Worldwide, Xbox One)</td>
 						<td>Ninja Theory</td>
 						<td>Capcom</td>
 						<td>Single-Player</td>
 						<td>Noisia, Combichrist, Jason Graves (Vergil's Downfall)</td>
 						<td>Tameem Antoniades</td>
 						<td>None</td>
+						<td>Alessandro Taini</td>
 						<td>Unreal Engine 3</td>
 						<td>Devil May Cry</td>
 						<td>GameRankings: N/A, Metacritic: 86/100 (Xbox 360), N/A (Xbox One)</td>
-						<td><a href="Website About Me - Resources.html">136</a></td>
+						<td><a href="Website About Me - Works Cited.md">137</a></td>
 					</tr>
 					<tr>
 						<td>Mario Tennis: Ultra Smash</td>
@@ -2341,17 +2468,18 @@
 						<td>E</td>
 						<td>Everyone</td>
 						<td>Sports</td>
-						<td>November 20, 2015</td>
+						<td>November 20, 2015 (North America and Europe), November 21, 2015 (Australasia), January 28, 2016 (Japan)</td>
 						<td>Camelot Software Planning</td>
 						<td>Nintendo</td>
 						<td>Single-Player, Multiplayer</td>
-						<td>Motoi Sakaguchi</td>
+						<td>Motoi Sakaraba</td>
 						<td>Shugo Takahashi</td>
 						<td>Hiroyuki Takahashi, Shugo Takahashi</td>
+						<td>Teppei Kamata</td>
 						<td>None</td>
 						<td>Mario Tennis</td>
 						<td>GameRankings: N/A, Metacritic: 58/100</td>
-						<td><a href="Website About Me - Resources.html">137</a></td>
+						<td><a href="Website About Me - Works Cited.md">138</a></td>
 					</tr>
 					<tr>
 						<td>Super Mario Strikers</td>
@@ -2359,17 +2487,18 @@
 						<td>E</td>
 						<td>Everyone</td>
 						<td>Sports</td>
-						<td>December 5, 2005</td>
+						<td>November 18, 2005 (Europe), December 5, 2005 (North America), January 19, 2006 (Japan), April 6, 2006 (Australasia)</td>
 						<td>Next Level Games</td>
 						<td>Nintendo</td>
 						<td>Single-Player, Multiplayer</td>
 						<td>Graig Robertson, Kyle Nordman</td>
 						<td>Mike Inglehart</td>
 						<td>Brandon Gill</td>
+						<td>Cassidy Scott</td>
 						<td>None</td>
 						<td>Mario Strikers</td>
 						<td>GameRankings: 76%, Metacritic: 76/100</td>
-						<td><a href="Website About Me - Resources.html">138</a></td>
+						<td><a href="Website About Me - Works Cited.md">139</a></td>
 					</tr>
 					<tr>
 						<td>Mario Strikers Charged</td>
@@ -2377,17 +2506,18 @@
 						<td>E10+</td>
 						<td>Everyone Ages 10 and Up</td>
 						<td>Sports</td>
-						<td>July 7, 2007</td>
+						<td>May 25, 2007, (Europe), June 7, 2007 (Australasia), July 30, 2007 (North America), September 20, 2007 (Japan)</td>
 						<td>Next Level Games</td>
 						<td>Nintendo</td>
 						<td>Single-Player, Multiplayer, Online</td>
 						<td>Mike Peacock, Darren Radtke, Chad York, Scott McFadyen, Davor Vulama</td>
 						<td>Mike Inglehart</td>
 						<td>Matt McTavish</td>
+						<td>Kalvin Lyle</td>
 						<td>None</td>
 						<td>Mario Strikers</td>
 						<td>GameRankings: 79%, Metacritic: 79/100</td>
-						<td><a href="Website About Me - Resources.html">139</a></td>
+						<td><a href="Website About Me - Works Cited.md">140</a></td>
 					</tr>
 					<tr>
 						<td>Mario Superstar Baseball</td>
@@ -2395,7 +2525,7 @@
 						<td>E</td>
 						<td>Everyone</td>
 						<td>Sports</td>
-						<td>August 29, 2005</td>
+						<td>July 21, 2005 (Japan), August 29, 2005 (North America), November 3, 2005 (Australasia), November 11, 2005 (Europe)</td>
 						<td>Namco, Now Productions</td>
 						<td>Nintendo</td>
 						<td>Single-Player, Multiplayer</td>
@@ -2403,9 +2533,10 @@
 						<td>Hideki Tomida</td>
 						<td>None</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Mario Sports</td>
 						<td>GameRankings: 76.70%, Metacritic: 76/100</td>
-						<td><a href="Website About Me - Resources.html">140</a>, <a href="Website About Me - Resources.html">141</a></td>
+						<td><a href="Website About Me - Works Cited.md">141</a>, <a href="Website About Me - Works Cited.md">142</a></td>
 					</tr>
 					<tr>
 						<td>Mario Super Sluggers</td>
@@ -2413,7 +2544,7 @@
 						<td>E</td>
 						<td>Everyone</td>
 						<td>Sports</td>
-						<td>August 25, 2008</td>
+						<td>June 19, 2008 (Japan), August 25, 2008 (North America)</td>
 						<td>Namco, Now Productions</td>
 						<td>Nintendo</td>
 						<td>Single-Player, Multiplayer</td>
@@ -2421,9 +2552,10 @@
 						<td>Hideki Tomida</td>
 						<td>None</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Mario Sports</td>
 						<td>GameRankings: 69.72%, Metacritic: 69/100</td>
-						<td><a href="Website About Me - Resources.html">142</a>, <a href="Website About Me - Resources.html">143</a></td>
+						<td><a href="Website About Me - Works Cited.md">142</a>, <a href="Website About Me - Works Cited.md">144</a></td>
 					</tr>
 					<tr>
 						<td>Mario Sports Mix</td>
@@ -2431,17 +2563,18 @@
 						<td>E</td>
 						<td>Everyone</td>
 						<td>Sports</td>
-						<td>February 7, 2011</td>
+						<td>November 25, 2010 (Japan), January 27, 2011 (Australasia), January 28, 2011 (Europe), February 4, 2011 (United Kingdom), February 7, 2011 (North America)</td>
 						<td>Square Enix</td>
 						<td>Nintendo</td>
 						<td>Single-Player, Multiplayer</td>
 						<td>Masayoshi Soken, Kumi Tanioka</td>
 						<td>Shin Azuma</td>
 						<td>None</td>
+						<td>Gen Kobayashi</td>
 						<td>None</td>
 						<td>Mario</td>
 						<td>GameRankings: 66%, Metacritic: 64/100</td>
-						<td><a href="Website About Me - Resources.html">144</a></td>
+						<td><a href="Website About Me - Works Citemd">145</a></td>
 					</tr>
 					<tr>
 						<td>Kirby Air Ride</td>
@@ -2449,17 +2582,18 @@
 						<td>E</td>
 						<td>Everyone</td>
 						<td>Racing</td>
-						<td>October 13, 2003</td>
+						<td>July 11, 2003 (Japan), October 13, 2003 (North America), February 27, 2004 (Europe), March 30, 2004 (Australasia)</td>
 						<td>HAL Laboratory</td>
 						<td>Nintendo</td>
 						<td>Single-Player, Multiplayer</td>
 						<td>Shogo Sakai, Jun Ishikawa, Hirokazu Ando, Tadashi Ikegami</td>
 						<td>Masahiro Sakurai</td>
 						<td>None</td>
+						<td>Kazuya Konishi</td>
 						<td>None</td>
 						<td>Kirby</td>
 						<td>GameRankings: N/A, Metacritic: 61/100</td>
-						<td><a href="Website About Me - Resources.html">145</a></td>
+						<td><a href="Website About Me - Works Citemd">146</a></td>
 					</tr>
 					<tr>
 						<td>Kirby 64: The Crystal Shards</td>
@@ -2467,7 +2601,7 @@
 						<td>E</td>
 						<td>Everyone</td>
 						<td>Action, Platform</td>
-						<td>June 26, 2000</td>
+						<td>March 24, 2000 (Japan), June 26, 2000 (North America), June 22, 2001 (Europe and Australasia)</td>
 						<td>HAL Laboratory</td>
 						<td>Nintendo</td>
 						<td>Single-Player, Multiplayer</td>
@@ -2475,9 +2609,10 @@
 						<td>Shinichi Shimomura</td>
 						<td>None</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Kirby</td>
 						<td>GameRankings: N/A, Metacritic: 77/100</td>
-						<td><a href="Website About Me - Resources.html">146</a></td>
+						<td><a href="Website About Me - Works Citemd">147</a></td>
 					</tr>
 					<tr>
 						<td>Kirby's Epic Yarn</td>
@@ -2485,17 +2620,18 @@
 						<td>E</td>
 						<td>Everyone</td>
 						<td>Platform</td>
-						<td>October 17, 2010</td>
+						<td>October 14, 2010 (Japan), October 17, 2010 (North America), February 24, 2011 (Australasia), February 25, 2011 (Europe)</td>
 						<td>Good-Feel, HAL Laboratory</td>
 						<td>Nintendo</td>
 						<td>Single-Player, Multiplayer</td>
 						<td>Tomoya Tomita</td>
 						<td>Kentaro Sei</td>
 						<td>Madoka Yamauchi</td>
+						<td>Tetsuya Notoya, Rieko Kawahara, Yumiko Sano</td>
 						<td>None</td>
 						<td>Kirby</td>
 						<td>GameRankings: 88.48%, Metacritic: 86/100</td>
-						<td><a href="Website About Me - Resources.html">147</a></td>
+						<td><a href="Website About Me - Works Citemd">148</a></td>
 					</tr>
 					<tr>
 						<td>Kirby's Return to Dream Land</td>
@@ -2503,17 +2639,18 @@
 						<td>E</td>
 						<td>Everyone</td>
 						<td>Action, Platform</td>
-						<td>October 24, 2011</td>
+						<td>October 24, 2011 (North America), October 27, 2011 (Japan), November 25, 2011 (Europe), December 1, 2011 (Australasia)</td>
 						<td>HAL Laboratory</td>
 						<td>Nintendo</td>
 						<td>Single-Player, Multiplayer</td>
 						<td>Hirokazu Ando, Jun Ishikawa</td>
 						<td>Shinya Kumazaki</td>
 						<td>None</td>
+						<td>Kazuyuki Nakamura, Kenichiro Kita</td>
 						<td>None</td>
 						<td>Kirby</td>
 						<td>GameRankings: 80.50%, Metacritic: 77/100</td>
-						<td><a href="Website About Me - Resources.html">148</a></td>
+						<td><a href="Website About Me - Works Cited.md">149</a></td>
 					</tr>
 					<tr>
 						<td>Sonic Forces</td>
@@ -2521,17 +2658,18 @@
 						<td>E10+</td>
 						<td>Everyone Ages 10 and Up</td>
 						<td>Platform</td>
-						<td>November 7, 2017</td>
+						<td>November 7, 2017 (Worldwide), November 9, 2017 (Japan)</td>
 						<td>Sonic Team</td>
 						<td>Sega</td>
 						<td>Single-Player</td>
 						<td>Tomoya Ohtani, Naofumi Hataya, Kenichi Tokoi, Takahito Eguchi</td>
 						<td>Morio Kishimoto</td>
 						<td>Morio Kishimoto, Takayuki Okada, Junpei Ootsu</td>
+						<td>Yoshitaka Miura, Sachiko Kawamura</td>
 						<td>Hedgehog Engine</td>
 						<td>Sonic the Hedgehog</td>
 						<td>GameRankings: N/A, Metacritic: 57/100 (Switch), 64/100 (Xbox One)</td>
-						<td><a href="Website About Me - Resources.html">149</a></td>
+						<td><a href="Website About Me - Works Cited.md">150</a></td>
 					</tr>
 					<tr>
 						<td>Super Mario Odyssey</td>
@@ -2539,17 +2677,18 @@
 						<td>E10+</td>
 						<td>Everyone Age 10 and Up</td>
 						<td>Platform, Adventure</td>
-						<td>October 27, 2017</td>
+						<td>October 27, 2017 (Worldwide)</td>
 						<td>Nintendo EPD (Entertainment Planning & Development)</td>
 						<td>Nintendo</td>
 						<td>Single-Player, Multiplayer</td>
 						<td>Naoto Kubo, Shiho Fujii, Koji Kondo</td>
 						<td>Kenta Motokura</td>
 						<td>Futoshi Shirai, Shinya Hiratake</td>
+						<td>Rikuto Yoshida, Naoki Mineta, Sho Murata</td>
 						<td>None</td>
 						<td>Super Mario</td>
 						<td>GameRankings: N/A, Metacritic: 97/100</td>
-						<td><a href="Website About Me - Resources.html">150</a>, <a href="Website About Me - Resources.html">36</a></td>
+						<td><a href="Website About Me - Works Cited.md">151</a>, <a href="Website About Me - Works Cited.md">37</a></td>
 					</tr>
 					<tr>
 						<td>Wolfenstein II: The New Colossus</td>
@@ -2557,17 +2696,18 @@
 						<td>M</td>
 						<td>Mature</td>
 						<td>First-Person Shooter, Action-Adventure</td>
-						<td>October 27, 2017</td>
-						<td>MachineGames, Panic Button</td>
+						<td>October 27, 2017 (Worldwide)</td>
+						<td>MachineGames</td>
 						<td>Bethesda Softworks</td>
 						<td>Single-Player</td>
 						<td>Mick Gordon, Martin Stig Andersen</td>
 						<td>Jens Matthies</td>
 						<td>Fredrik Ljungdahl</td>
+						<td>Axel Torvenius</td>
 						<td>id Tech 6</td>
 						<td>Wolfenstein</td>
 						<td>GameRankings: N/A, Metacritic: 88/100</td>
-						<td><a href="Website About Me - Resources.html">151</a></td>
+						<td><a href="Website About Me - Works Cited.md">152</a></td>
 					</tr>
 					<tr>
 						<td>Metroid: Samus Returns</td>
@@ -2575,17 +2715,18 @@
 						<td>E10+</td>
 						<td>Everyone Ages 10 and Up</td>
 						<td>Action-Adventure</td>
-						<td>September 15, 2017</td>
+						<td>September 15, 2017 (Worldwide)</td>
 						<td>MercurySteam, Nintendo Entertainment Planning & Development (EPD)</td>
 						<td>Nintendo</td>
 						<td>Single-Player</td>
 						<td>Daisuke Matsuoka</td>
-						<td>Jose Luis M&aacute;quez, Takehiko Hosokawa</td>
+						<td>Jose Luis M&aacute;rquez, Takehiko Hosokawa</td>
 						<td>Jacobo Luengo, Aleix Garrido Oberink</td>
+						<td>Rafael Jimenez Rodriguez</td>
 						<td>None</td>
 						<td>Metroid</td>
 						<td>GameRankings: N/A, Metacritic: 86/100</td>
-						<td><a href="Website About Me - Resources.html">152</a>, <a href="Website About Me - Resources.html">36</a></td>
+						<td><a href="Website About Me - Works Cited.md">153</a>, <a href="Website About Me - Works Cited.md">37</a></td>
 					</tr>
 					<tr>
 						<td>Assassin's Creed Origins</td>
@@ -2593,17 +2734,18 @@
 						<td>M</td>
 						<td>Mature</td>
 						<td>Action-Adventure, Stealth</td>
-						<td>October 27, 2017</td>
-						<td>Ubisoft Montreal, Ubisoft Sofia, Ubisoft Singapore, Ubisoft Chengdu, Ubisoft Shanghai, Ubisoft Bucharest, Ubisoft Kiev, and Ubisoft Philippines</td>
+						<td>October 27, 2017 (Worldwide)</td>
+						<td>Ubisoft Montreal, Ubisoft Sofia, Ubisoft Singapore, Ubisoft Chengdu, Ubisoft Shanghai, Ubisoft Bucharest, Ubisoft Kiev, Ubisoft Philippines</td>
 						<td>Ubisoft</td>
 						<td>Single-Player</td>
 						<td>Sarah Schachner</td>
 						<td>Jean Guesdon, Ashraf Ismail</td>
 						<td>Eric Baptizat</td>
+						<td>Raphael Lacoste</td>
 						<td>AnvilNext 2.0</td>
 						<td>Assassin's Creed</td>
 						<td>GameRankings: N/A, Metacritic: 81/100</td>
-						<td><a href="Website About Me - Resources.html">153</a></td>
+						<td><a href="Website About Me - Wroks Cited.md">154</a></td>
 					</tr>
 					<tr>
 						<td>Luigi's Mansion</td>
@@ -2611,7 +2753,7 @@
 						<td>E</td>
 						<td>Everyone</td>
 						<td>Action-Adventure</td>
-						<td>November 18, 2001</td>
+						<td>September 14, 2001 (Japan), November 18, 2001 (North America), May 3, 2002 (Europe), May 17, 2002 (Australasia)</td>
 						<td>Nintendo Entertainment Analysis and Development (EAD)</td>
 						<td>Nintendo</td>
 						<td>Single-Player</td>
@@ -2619,9 +2761,10 @@
 						<td>Hideki Konno</td>
 						<td>None</td>
 						<td>None</td>
+						<td>None</td>
 						<td>Luigi</td>
 						<td>GameRankings: 79.18%, Metacritic: 78/100</td>
-						<td><a href="Website About Me - Resources.html">154</a></td>
+						<td><a href="Website About Me - Works Cited.md">155</a></td>
 					</tr>
 					<tr>
 						<td>Luigi's Mansion: Dark Moon</td>
@@ -2629,17 +2772,18 @@
 						<td>E</td>
 						<td>Everyone</td>
 						<td>Action-Adventure</td>
-						<td>March 24, 2013</td>
+						<td>March 20, 2013 (Japan), March 24, 2013 (North America), March 28, 2013 (Europe and Australasia)</td>
 						<td>Next Level Games, Nintendo Software Planning and Development (SPD)</td>
 						<td>Nintendo</td>
 						<td>Single-Player, Multiplayer</td>
 						<td>Chad York, Darren Radtke, Mike Peacock</td>
 						<td>Bryce Holliday</td>
 						<td>None</td>
+						<td>Neil Singh</td>
 						<td>None</td>
 						<td>Luigi</td>
 						<td>GameRankings: 85.86%, Metacritic: 86/100</td>
-						<td><a href="Website About Me - Resources.html">155</a></td>
+						<td><a href="Website About Me - Works Cited.md">156</a></td>
 					</tr>
 					<tr>
 						<td>Mortal Kombat vs. DC Universe (Crossover)</td>
@@ -2647,17 +2791,18 @@
 						<td>T</td>
 						<td>Teen</td>
 						<td>Fighting</td>
-						<td>November 16, 2008</td>
+						<td>November 16, 2008 (North America), November 20, 2008 (Australasia), November 21, 2008 (Europe)</td>
 						<td>Midway Games</td>
 						<td>Midway Games, Warner Bros. Interactive Entertainment</td>
 						<td>Single-Player, Multiplayer</td>
 						<td>Cris Velasco, Sascha Dikiciyan, Todd Haberman, Soundelux DMG, Tilman Sillescu, Dynamedion, Alexander Pfeffer, Markus Schmidt, Pierre Langer</td>
 						<td>Dominic Cianciolo</td>
 						<td>Paulo Garcia, John Edwards</td>
+						<td>Vincent Proce, Richard Lee Sisco, Jr., Amy Lynn Umezu</td>
 						<td>Unreal Engine 3</td>
 						<td>Mortal Kombat</td>
 						<td>GameRankings: 74.55%, Metacritic: 72/100</td>
-						<td><a href="Website About Me - Resources.html">156</a>, <a href="Website About Me - Resources.html">157</a></td>
+						<td><a href="Website About Me - Works Cited.md">157</a>, <a href="Website About Me - Works Cited.md">158</a></td>
 					</tr>
 					<tr>
 						<td>Batman: Arkham Origins</td>
@@ -2665,17 +2810,18 @@
 						<td>T</td>
 						<td>Teen</td>
 						<td>Action-Adventure</td>
-						<td>October 25, 2013</td>
+						<td>October 25, 2013 (Worldwide)</td>
 						<td>WB Games Montreal</td>
 						<td>Warner Bros. Interactive Entertainment</td>
 						<td>Single-Player, Multiplayer</td>
 						<td>Christopher Drake</td>
 						<td>Eric Holmes, Benoit Richer</td>
 						<td>Pierre-Luc Foisy</td>
+						<td>Jeremy Price</td>
 						<td>Unreal Engine 3</td>
 						<td>Batman: Arkham</td>
 						<td>GameRankings: N/A, Metacritic: 74/100 (Xbox 360), 68/100 (Wii U)</td>
-						<td><a href="Website About Me - Resources.html">158</a></td>
+						<td><a href="Website About Me - Works Cited.md">159</a></td>
 					</tr>
 					<tr>
 						<td>Mirror's Edge Catalyst</td>
@@ -2683,17 +2829,18 @@
 						<td>T</td>
 						<td>Teen</td>
 						<td>Action-Adventure, Platform</td>
-						<td>June 7, 2016</td>
+						<td>June 7, 2016 (North America), June 9, 2016 (Europe)</td>
 						<td>EA DICE</td>
 						<td>Electronic Arts (EA)</td>
 						<td>Single-Player, Multiplayer</td>
 						<td>Solar Fields</td>
 						<td>Per Juhl&eacute;n</td>
 						<td>Erik Odeldahl</td>
+						<td>Jhony Ljungstedt</td>
 						<td>Frostbite 3</td>
 						<td>Mirror's Edge</td>
 						<td>GameRankings: N/A, Metacritic: 72/100</td>
-						<td><a href="Website About Me - Resources.html">159</a></td>
+						<td><a href="Website About Me - Works Cited.md">160</a></td>
 					</tr>
 					<tr>
 						<td>Assassin's Creed Unity</td>
@@ -2701,17 +2848,151 @@
 						<td>M</td>
 						<td>Mature</td>
 						<td>Action-Adventure, Stealth</td>
-						<td>November 11, 2014</td>
+						<td>November 11, 2014 (North America), November 13, 2014 (Australasia and Europe), November 14, 2014 (United Kingdom)</td>
 						<td>Ubisoft Montreal, Ubisoft Toronto, Ubisoft Singapore, Ubisoft Quebec, Ubisoft Annecy, Ubisoft Shanghai, Ubisoft Chengdu, Ubisoft Kiev, Ubisoft Montipellier, Ubisoft Bucharest</td>
 						<td>Ubisoft</td>
 						<td>Single-Player, Multiplayer</td>
-						<td>Chris Tilton, Sarah Schachner, Ryan Amon</td>
+						<td>Chris Tilton, Sarah Schachner, Ryan Amon, Cris Velasco</td>
 						<td>Alex Amancio</td>
+						<td>None</td>
 						<td>None</td>
 						<td>AnvilNext 2.0</td>
 						<td>Assassin's Creed</td>
 						<td>GameRankings: N/A, Metacritic: 72/100 (Xbox One), 70/100 (PS4)</td>
-						<td><a href="Website About Me - Resources.html">160</a></td>
+						<td><a href="Website About Me - Works Cited.md">161</a></td>
+					</tr>
+					<tr>
+						<td>Yoshi's Woolly World (Side-Scrolling Game)</td>
+						<td>Wii U</td>
+						<td>E10+</td>
+						<td>Everyone Ages 10 and Up</td>
+						<td>Platform</td>
+						<td>June 25, 2015 (Australasia), June 26, 2015 (Europe), July 16, 2015 (Japan), October 16, 2015 (North America)</td>
+						<td>Good-Feel</td>
+						<td>Nintendo</td>
+						<td>Single-Player, Multiplayer</td>
+						<td>Tomoya Tomita, Misaki Asada, Kazumi Totaka</td>
+						<td>Atsushi Kono, Naoya Abe</td>
+						<td>None</td>
+						<td>Ayano Otsuka</td>
+						<td>None</td>
+						<td>Yoshi</td>
+						<td>GameRankings: N/A, Metacritic: 78/100</td>
+						<td><a href="Website About Me - Works Cited.md">162</a></td>
+					</tr>
+					<tr>
+						<td>Donkey Kong Country: Tropical Freeze (Side-Scrolling Game)</td>
+						<td>Wii U</td>
+						<td>E10+</td>
+						<td>Everyone Ages 10 and Up</td>
+						<td>Platform</td>
+						<td>February 14, 2014 (Japan), February 21, 2014 (North America and Europe), February 22, 2014 (Australasia)</td>
+						<td>Retro Studios</td>
+						<td>Nintendo</td>
+						<td>Single-Player, Multiplayer</td>
+						<td>David Wise, Daisuke Matsuoka, Minako Hamano, Shinji Ushiroda</td>
+						<td>Ryan Harris, Vince Joly</td>
+						<td>None</td>
+						<td>None</td>
+						<td>None</td>
+						<td>Donkey Kong Country, Donkey Kong</td>
+						<td>GameRankings: N/A, Metacritic: 83/100</td>
+						<td><a href="Website About Me - Works Cited.md">163</a></td>
+					</tr>
+					<tr>
+						<td>Devil May Cry (Video Game)</td>
+						<td>Xbox 360</td>
+						<td>M</td>
+						<td>Mature</td>
+						<td>Action-Adventure, Hack and Slash</td>
+						<td>March 22, 2012 (Japan), March 29, 2012 (North America), April 3, 2012 (Europe), April 5, 2012 (Australasia)</td>
+						<td>Capcom</td>
+						<td>Capcom</td>
+						<td>Single-Player</td>
+						<td>Masami Ueda, Masato Kohda, Misao Senbongi</td>
+						<td>Hideki Kamiya</td>
+						<td>None</td>
+						<td>None</td>
+						<td>None</td>
+						<td>Devil May Cry</td>
+						<td>GameRankings: N/A, Metacritic: N/A</td>
+						<td><a href="Website About Me - Works Cited.md">164</a></td>
+					</tr>
+					<tr>
+						<td>Devil May Cry 2</td>
+						<td>Xbox 360</td>
+						<td>M</td>
+						<td>Mature</td>
+						<td>Action-Adventure, Hack and Slash</td>
+						<td>March 22, 2012 (Japan), March 29, 2012 (North America), April 3, 2012 (Europe), April 5, 2012 (Australasia)</td>
+						<td>Capcom</td>
+						<td>Capcom</td>
+						<td>Single-Player</td>
+						<td>Masato Kohda, Tetsuya Shibata, Satoshi Ise</td>
+						<td>Hideaki Itsuno</td>
+						<td>None</td>
+						<td>Daigo Ikeno</td>
+						<td>None</td>
+						<td>Devil May Cry</td>
+						<td>GameRankings: N/A, Metacritic: N/A</td>
+						<td><a href="Website About Me - Works Cited.md">165</a></td>
+					</tr>
+					<tr>
+						<td>Devil May Cry 3: Dante's Awakening</td>
+						<td>Xbox 360</td>
+						<td>M</td>
+						<td>Mature</td>
+						<td>Action-Adventure, Hack and Slash</td>
+						<td>March 22, 2012 (Japan), March 29, 2012 (North America), April 3, 2012 (Europe), April 5, 2012 (Australasia)</td>
+						<td>Capcom</td>
+						<td>Capcom</td>
+						<td>Single-Player</td>
+						<td>Tetsuya Shibata, Kento Hasegawa</td>
+						<td>Hideaki Itsuno</td>
+						<td>None</td>
+						<td>Daigo Ikeno</td>
+						<td>None</td>
+						<td>Devil May Cry</td>
+						<td>GameRankings: N/A, Metacritic: N/A</td>
+						<td><a href="Website About Me - Works Cited.md">166</a></td>
+					</tr>
+					<tr>
+						<td>Devil May Cry 4</td>
+						<td>Xbox 360</td>
+						<td>M</td>
+						<td>Mature</td>
+						<td>Action-Adventure, Hack and Slash</td>
+						<td>January 31, 2008 (Japan), February 5, 2008 (North America), February 7, 2008 (Australasia), February 8, 2008 (Europe)</td>
+						<td>Capcom</td>
+						<td>Capcom</td>
+						<td>Single-Player</td>
+						<td>Tetsuya Shibata, Kento Hasegawa, Akihiko Narita</td>
+						<td>Hideaki Itsuno</td>
+						<td>None</td>
+						<td>None</td>
+						<td>MT Framework V1.3</td>
+						<td>Devil May Cry</td>
+						<td>GameRankings: N/A, Metacritic: 84/100</td>
+						<td><a href="Website About Me - Works Cited.md">167</a></td>
+					</tr>
+					<tr>
+						<td>Fire Emblem Warriors</td>
+						<td>Nintendo Switch</td>
+						<td>T</td>
+						<td>Teen</td>
+						<td>Hack and Slash, Role-Playing</td>
+						<td>September 28, 2017 (Japan), October 20, 2017 (Worldwide)</td>
+						<td>Omega Force, Team Ninja</td>
+						<td>Nintendo</td>
+						<td>Single-Player</td>
+						<td>Yosuke Kinoshita, Kosuke Mizukami, Shinichiro Nakamura, Hiromu Akaba</td>
+						<td>Hiroya Usuda</td>
+						<td>Makoto Ishizuka</td>
+						<td>Yuta Matsunaga</td>
+						<td>None</td>
+						<td>Fire Emblem, Dynasty Warriors</td>
+						<td>GameRankings: N/A, Metacritic: 75/100</td>
+						<td><a href="Website About Me - Works Cited.md">168</a></td>
 					</tr>
 				</table>
 			</div>
