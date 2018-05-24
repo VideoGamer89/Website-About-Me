@@ -23,7 +23,7 @@
 				<li><a href="Website About Me - Computer Programming Skills.md">Computer Programming Skills</a></li>
 				<li><a href="Website About Me - Operating Systems.md">Operating Systems</a></li>
 				<li><a href="Website About Me - Software.md">Software</a></li>
-				<li><a href="Website About Me - Resources.md">Resources</a></li>
+				<li><a href="Website About Me - Works Cited.md">Works Cited</a></li>
 			</ul>
 		</div>
 		<div class = "content">
@@ -59,8 +59,8 @@
 						<td>Hybrid Video Game Console</td>
 						<td>March 3, 2017</td>
 						<td>TBD</td>
-						<td>The Legend of Zelda: Breath of the Wild (4.7 Million)</td>
-						<td>10 Million</td>
+						<td>Super Mario Odyssey (9.07 Million)</td>
+						<td>17.79 Million</td>
 						<td>$299.99</td>
 						<td>Wii U</td>
 						<td>TBD</td>
@@ -71,7 +71,7 @@
 						<td>Nintendo Switch System Software</td>
 						<td>Octa-Core (4xARM Cortex-A57 & 4xARM Cortex-A53) @ 1.020 GHz</td>
 						<td>Nvidia GM20B Maxwell-based GPU @ 307.2 - 384 MHz while undocked, 307.2 - 768 MHz while docked</td>
-						<td><a href="Website About Me - Resources.html">1</a>, <a href="Website About Me - Resources.md">2</a></td>
+						<td><a href="Website About Me - Works Cited.md">1</a>, <a href="Website About Me - Works Cited.md">2</a></td>
 					</tr>
 					<tr>
 						<td>Wii U</td>
@@ -92,7 +92,7 @@
 						<td>Wii U System Software</td>
 						<td>1.24 GHz Tri-Core IBM PowerPC "Espresso"</td>
 						<td>550 MHz AMD Radeon "Latte"</td>
-						<td><a href="Website About Me - Resources.md">3</a></td>
+						<td><a href="Website About Me - Works Cited.md">3</a></td>
 					</tr>
 					<tr>
 						<td>Nintendo 3DS</td>
@@ -113,14 +113,14 @@
 						<td>Nintendo 3DS System Software</td>
 						<td>268MHz Dual-Core ARM11 MPCore, Single-Core ARM9</td>
 						<td>DMP PICA200 GPU</td>
-						<td><a href="Website About Me - Resources.md">4</a></td>
+						<td><a href="Website About Me - Works Cited.md">4</a></td>
 					</tr>
 					<tr>
 						<td>Nintendo DS</td>
 						<td>Nintendo</td>
 						<td>Foxconn</td>
 						<td>Handheld Game Console</td>
-						<td>November 21, 2004 (DS), June 11, 2006(DS Lite), April 5, 2009 (DSi)</td>
+						<td>November 21, 2004 (DS), June 11, 2006 (DS Lite), April 5, 2009 (DSi)</td>
 						<td>TBD</td>
 						<td>New Super Mario Bros. (30.80 Million)</td>
 						<td>154.02 Million (DS), 93.86 Million (DS Lite), 27.11 Million (DSi)</td>
@@ -134,7 +134,7 @@
 						<td>None</td>
 						<td>Two ARM Architecture Processors</td>
 						<td>None</td>
-						<td><a href="Website About Me - Resources.md">5</a>, <a href="Website About Me - Resources.md">6</a>, <a href="Website About Me - Resources.md">7</a></td>
+						<td><a href="Website About Me - Works Cited.md">5</a>, <a href="Website About Me - Works Cited.md">6</a>, <a href="Website About Me - Works Cited.md">7</a>, <a href="Website About Me - Works Cited.md">8</a></td>
 					</tr>
 					<tr>
 						<td>Xbox One</td>
@@ -155,7 +155,7 @@
 						<td>Xbox One System Software</td>
 						<td>Custom 1.75 GHz AMD 8-Core APU (2 Quad-Core Jaguar Modules) (Orginal and S Model), Custom 2.3 GHz AMD 8-Core APU (2 Quad-Core Evolved Jaguar Modules) (X Model)</td>
 						<td>Xbox One: 853 MHz, Xbox One S: 914 MHz, Xbox One X: 1.172 GHz AMD Radeon GCN Architecture (Built Into APU)</td>
-						<td><a href="Website About Me - Resources.md">8</a>, <a href="Website About Me - Resources.md">9</a></td>
+						<td><a href="Website About Me - Works Cited.md">9</a>, <a href="Website About Me - Works Cited.md">10</a></td>
 					</tr>
 					<tr>
 						<td>Xbox 360</td>
@@ -176,7 +176,7 @@
 						<td>Xbox 360 System Software</td>
 						<td>3.2 GHz PowerPC Tri-Core Xenon</td>
 						<td>500 MHz ATI Xenos</td>
-						<td><a href="Website About Me - Resources.md">10</a></td>
+						<td><a href="Website About Me - Works Cited.md">11</a></td>
 					</tr>
 					<tr>
 						<td>PlayStation 4 (PS4)</td>
@@ -195,9 +195,9 @@
 						<td>Blu-Ray Disc, DVD</td>
 						<td>500 GB, or 1 TB Hard Drive</td>
 						<td>PlayStation 4 System Software</td>
-						td>Semi-Custom 8-Core AMD x86-64 Jaguar 1.6 GHz CPU (Integrated Into APU), Secondary Low Power Processor (For Background Tasks)</td>
+						<td>Semi-Custom 8-Core AMD x86-64 Jaguar 1.6 GHz CPU (Integrated Into APU), Secondary Low Power Processor (For Background Tasks)</td>
 						<td>Semi-Custom AMD GCN Radeon</td>
-						<td><a href="Website About Me - Resources.md">11</a>, <a href="Website About Me - Resources.md">12</a></td>
+						<td><a href="Website About Me - Works Cited.md">12</a>, <a href="Website About Me - Works Cited.md">13</a></td>
 					</tr>
 					<tr>
 						<td>GameCube</td>
@@ -218,7 +218,7 @@
 						<td>Dolphin OS</td>
 						<td>IBM PowerPC Gekko @ 486 MHz</td>
 						<td>ATI Flipper @ 162 MHz</td>
-						<td><a href="Website About Me - Resources.md">13</a>, <a href="Website About Me - Resources.md">6</a></td>
+						<td><a href="Website About Me - Works Citeds.md">14</a>, <a href="Website About Me - Works Cited.md">6</a></td>
 					</tr>
 					<tr>
 						<td>Wii</td>
@@ -239,7 +239,7 @@
 						<td>Wii System Software</td>
 						<td>729 MHz IBM PowerPC "Broadway"</td>
 						<td>243 MHz ATI "Hollywood"</td>
-						<td><a href="Website About Me - Resources.md">14</a></td>
+						<td><a href="Website About Me - Works Cited.md">15</a></td>
 					</tr>
 					<tr>
 						<td>Nintendo 64</td>
@@ -260,7 +260,7 @@
 						<td>None</td>
 						<td>64-Bit NEC VR4300 @ 93.75 MHz</td>
 						<td>SGI RCP @ 62.5 MHz</td>
-						<td><a href="Website About Me - Resources.md">15</a>, <a href="Website About Me - Resources.md">6</a></td>
+						<td><a href="Website About Me - Works Citeds.md">16</a>, <a href="Website About Me - Works Cited.md">6</a></td>
 					</tr>
 					<tr>
 						<td>Super Nintendo Entertainment System (SNES)</td>
@@ -281,7 +281,7 @@
 						<td>None</td>
 						<td>Ricoh 5A22 @ 3.58 MHz</td>
 						<td>None</td>
-						<td><a href="Website About Me - Resources.md">16</a>, <a href="Website About Me - Resources.md">6</a></td>
+						<td><a href="Website About Me - Works Cited.md">17</a>, <a href="Website About Me - Works Cited.md">6</a></td>
 					</tr>
 					<tr>
 						<td>Game Boy Advance (GBA)</td>
@@ -302,7 +302,7 @@
 						<td>None</td>
 						<td>ARM7tdMI @ 16.78 MHz, Zilog Z80 @ 8 or 4 MHz</td>
 						<td>None</td>
-						<td><a href="Website About Me - Resources.md">17</a>, <a href="Website About Me - Resources.md">6</a></td>
+						<td><a href="Website About Me - Works Cited.md">18</a>, <a href="Website About Me - Works Cited.md">6</a></td>
 					</tr>
 					<tr>
 						<td>PlayStation (PS)</td>
@@ -323,7 +323,7 @@
 						<td>None</td>
 						<td>R3000 @ 33.8688 MHz</td>
 						<td>None</td>
-						<td><a href="Website About Me - Resources.md">18</a>, <a href="Website About Me - Resources.md">6</a></td>
+						<td><a href="Website About Me - Works Cited.md">19</a>, <a href="Website About Me - Works Cited.md">6</a></td>
 					</tr>
 					<tr>
 						<td>PlayStation 2 (PS2)</td>
@@ -344,7 +344,7 @@
 						<td>None</td>
 						<td>"Emotion Engine" @ 300 MHz</td>
 						<td>150 MHz "Graphics Synthesizer"</td>
-						<td><a href="Website About Me - Resources.md">19</a>, <a href="Website About Me - Resources.md">6</a></td>
+						<td><a href="Website About Me - Works Cited.md">20</a>, <a href="Website About Me - Works Cited.md">6</a></td>
 					</tr>
 					<tr>
 						<td>Sega Genesis</td>
@@ -365,7 +365,7 @@
 						<td>None</td>
 						<td>Motorola 68000 @ 7.6 MHz, Zilog Z80 @ 3.58 MHz</td>
 						<td>None</td>
-						<td><a href="Website About Me - Resources.md">20</a>, <a href="Website About Me - Resources.md">6</a>
+						<td><a href="Website About Me - Works Cited.md">21</a>, <a href="Website About Me - Works Cited.md">6</a>
 					</tr>
 			<tr>
 						<td>Super NES Classic Edition</td>
@@ -386,7 +386,7 @@
 						<td>Linux</td>
 						<td>4 x ARM Cortex-A7</td>
 						<td>Mali-400 MP</td>
-						<td><a href="Website About Me - Works Cited.md">22</a></td>
+						<td><a href="Website About Me - Works Cited.md">23</a></td>
 					</tr>
 			<tr>
 						<td>Game Gear</td>
@@ -407,7 +407,7 @@
 						<td>None</td>
 						<td>Zilog Z80 @ 3.5 MHz</td>
 						<td>160 x 144 Pixel Resolution, 4096-Color Palette, 32 Colors On-Screen</td>
-						<td><a href="Website About Me - Works Cited.md">23</a></td>
+						<td><a href="Website About Me - Works Cited.md">24</a></td>
 					</tr>
 				</table>
 			</div>
