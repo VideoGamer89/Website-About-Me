@@ -30,6 +30,7 @@
 		<div id = "content">
 			<p>Here Are My Favorite Foods</p>
 			<div id = "myFavoriteFoodsDivElement">
+				<table>
 				<tr>
 						<th>Name</th>
 						<th>Type</th>
