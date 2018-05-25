@@ -24,7 +24,7 @@
 				<li><a href="Website About Me - Computer Programming Skills - mobile.md">Computer Programming Skills</a></li>
 				<li><a href="Website About Me - Operating Systems - mobile.md">Operating Systems</a></li>
 				<li><a href="Website About Me - Software - mobile.md">Software</a></li>
-				<li><a href="Website About Me - Resoruces - mobile.md">Resources</a></li>
+				<li><a href="Website About Me - Works Cited - mobile.md">Works Cited</a></li>
 			</ul>
 		</div>
 		<div class="content">
@@ -56,7 +56,7 @@
 						<td>6,500+</td>
 						<td>100+</td>
 						<td>Dave Thomas</td>
-						<td><a href="Website About Me - Resources - mobile.md">1</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">1</a></td>
 					</tr>
 					<tr>
 						<td><a href="https://www.mcdonalds.com/">McDonald's</a></td>
@@ -69,7 +69,7 @@
 						<td>36,900</td>
 						<td>375,000</td>
 						<td>Richard McDonald, Maurice McDonald, Ray Kroc</td>
-						<td><a href="Website About Me - Resources - mobile.md">2</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">2</a></td>
 					</tr>
 					<tr>
 						<td><a href="http://www.goldencorral.com/">Golden Corral</a></td>
@@ -82,7 +82,7 @@
 						<td>200</td>
 						<td>9000</td>
 						<td>James Maynard, William F. Carl</td>
-						<td><a href="Website About Me - Resources - mobile.md">3</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">3</a></td>
 					</tr>
 					<tr>
 						<td><a href="https://www.pizzahut.com/">Pizza Hut</a></td>
@@ -95,7 +95,7 @@
 						<td>13,728</td>
 						<td>100+</td>
 						<td>Dan Carney, Frank Carney</td>
-						<td><a href="Website About Me - Resources - mobile.md">4</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">4</a></td>
 					</tr>
 					<tr>
 						<td><a href="http://www.perkinsrestaurants.com/">Perkins Restaurant and Bakery</a></td>
@@ -108,7 +108,7 @@
 						<td>390</td>
 						<td>25,000</td>
 						<td>Matt Perkins, Ivan Perkins</td>
-						<td><a href="Website About Me - Resources - mobile.md">5</a>, <a href="Website About Me - Resources - mobile.md">6</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">5</a>, <a href="Website About Me - Works Cited - mobile.md">6</a></td>
 					</tr>
 					<tr>
 						<td><a href="https://pizzaranch.com/">Pizza Ranch</a></td>
@@ -121,7 +121,7 @@
 						<td>204</td>
 						<td>100+</td>
 						<td>Adrie Groeneweg, Lawrence Vander Esch</td>
-						<td><a href="Website About Me - Resources - mobile.md">7</a>, <a href="Website About Me - Resources - mobile.md">8</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">7</a>, <a href="Website About Me - Works Cited - mobile.md">8</a></td>
 					</tr>
 					<tr>
 						<td><a href="https://www.whitecastle.com/">White Castle</a></td>
@@ -134,7 +134,7 @@
 						<td>420</td>
 						<td>100+</td>
 						<td>Billy Ingram, Walter Anderson</td>
-						<td><a href="Website About Me - Resources - mobile.md">9</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">9</a></td>
 					</tr>
 					<tr>
 						<td><a href="https://www.kfc.com/">KFC (Kentucky Fried Chicken)</a></td>
@@ -147,7 +147,7 @@
 						<td>19,952</td>
 						<td>100+</td>
 						<td>Harland Sanders</td>
-						<td><a href="Website About Me - Resources - mobile.md">10</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">10</a></td>
 					</tr>
 					<tr>
 						<td><a href="http://www.subway.com/en-us">Subway</a></td>
@@ -160,7 +160,7 @@
 						<td>44,834</td>
 						<td>100+</td>
 						<td>Fred DeLuca, Peter Buck</td>
-						<td><a href="Website About Me - Resources - mobile.md">11</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">11</a></td>
 					</tr>
 					<tr>
 						<td><a href="https://www.dennys.com/">Denny's</a></td>
@@ -173,7 +173,7 @@
 						<td>1,700</td>
 						<td>100+</td>
 						<td>Harold Butler, Richard Jezak</td>
-						<td><a href="Website About Me - Resources - mobile.md">12</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">12</a></td>
 					</tr>
 					<tr>
 						<td><a href="http://www.oldcountrybuffet.com/">Old Country Buffet</a></td>
@@ -186,7 +186,7 @@
 						<td>113</td>
 						<td>100+</td>
 						<td>Roe Halten, C. Dennis Scott, Dermot Rowland, Doron Jensen</td>
-						<td><a href="Website About Me - Resources - mobile.md">13</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">13</a></td>
 					</tr>
 					<tr>
 						<td><a href="http://www.starbucks.com/">Starbucks</a></td>
@@ -199,7 +199,7 @@
 						<td>26,696</td>
 						<td>238,000</td>
 						<td>Jerry Baldwin, Zev Siegl, Gordon Bowker</td>
-						<td><a href="Website About Me - Resources - mobile.md">14</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">14</a></td>
 					</tr>
 					<tr>
 						<td><a href="https://www.dairyqueen.com/us-en/">Dairy Queen (DQ)</a></td>
@@ -212,7 +212,7 @@
 						<td>6,400</td>
 						<td>100+</td>
 						<td>John Fremont McCullough</td>
-						<td><a href="Website About Me - Resources - mobile.md">15</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">15</a></td>
 					</tr>
 					<tr>
 						<td><a href="https://www.tacobell.com/">Taco Bell</a></td>
@@ -225,7 +225,7 @@
 						<td>7,000</td>
 						<td>175,000+</td>
 						<td>Glen Bell</td>
-						<td><a href="Website About Me - Resources - mobile.md">16</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">16</a></td>
 					</tr>
 					<tr>
 						<td><a href="https://www.sonicdrivein.com/">Sonic</a></td>
@@ -238,7 +238,7 @@
 						<td>3,557</td>
 						<td>9,200</td>
 						<td>Troy Smith</td>
-						<td><a href="Website About Me - Resources - mobile.md">17</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">17</a></td>
 					</tr>
 					<tr>
 						<td><a href="https://arbys.com/">Arby's</a></td>
@@ -251,7 +251,7 @@
 						<td>3,342</td>
 						<td>74,000</td>
 						<td>Forrest Raffel, Leroy Raffel</td>
-						<td><a href="Website About Me - Resources - mobile.md">18</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">18</a></td>
 					</tr>
 					<tr>
 						<td><a href="https://www.culvers.com/">Culver's</a></td>
@@ -264,7 +264,7 @@
 						<td>640</td>
 						<td>100+</td>
 						<td>Craig Culver, Lea Culver</td>
-						<td><a href="Website About Me - Resources - mobile.md">19</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">19</a></td>
 					</tr>
 					<tr>
 						<td><a href="https://awrestaurants.com/">A & W</a></td>
@@ -277,7 +277,7 @@
 						<td>1,200+</td>
 						<td>100+</td>
 						<td>Roy W. Allen, Frank Wright</td>
-						<td><a href="Website About Me - Resources - mobile.md">20</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">20</a></td>
 					</tr>
 					<tr>
 						<td><a href="http://www.bk.com/">Burger King</a></td>
@@ -290,7 +290,7 @@
 						<td>15,000+</td>
 						<td>34,248</td>
 						<td>Keith J. Kramer, Matthew Burns, David Edgerton, James McLamore</td>
-						<td><a href="Website About Me - Resources - mobile.md">21</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">21</a></td>
 					</tr>
 					<tr>
 						<td><a href="http://www.olivegarden.com/home">Olive Garden</a></td>
@@ -303,7 +303,7 @@
 						<td>844</td>
 						<td>100+</td>
 						<td>Bill Darden</td>
-						<td><a href="Website About Me - Resources - mobile.md">22</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">22</a></td>
 					</tr>
 					<tr>
 						<td><a href="https://www.outback.com/">Outback Steakhouse</a></td>
@@ -316,7 +316,7 @@
 						<td>978</td>
 						<td>100+</td>
 						<td>Bob Basham, Trudy Cooper, Chris T. Sullivan, Tim Cannon</td>
-						<td><a href="Website About Me - Resources - mobile.md">23</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">23</a></td>
 					</tr>
 					<tr>
 						<td><a href="https://www.pon-bon.com/">Ponderosa</a></td>
@@ -329,7 +329,7 @@
 						<td>88</td>
 						<td>100+</td>
 						<td>Dan Lasater, Norm Wiese, Charles Kelptz</td>
-						<td><a href="Website About Me - Resources - mobile.md">24</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">24</a></td>
 					</tr>
 				</table>
 			</div>
