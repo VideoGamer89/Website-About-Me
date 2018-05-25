@@ -2263,6 +2263,29 @@
 						<td>Rhett Reese, Paul Wernick, Ryan Reynolds</td>
 						<td><a href="Website About Me - Works Cited.md">97</a></td>
 					</tr>
+					<tr>
+						<td>Titanic (1997 Epic Film)</td>
+						<td>PG-13</td>
+						<td>Romance, Disaster</td>
+						<td>November 1, 1997 (Tokyo), December 19, 1997</td>
+						<td>James Cameron</td>
+						<td>Paramount Pictures, 20th Century Fox, Lightstorm Entertainment</td>
+						<td>Paramount Pictures (North America), 20th Century Fox (International)</td>
+						<td>James Horner</td>
+						<td>$200 Million</td>
+						<td>$2.187 Billion</td>
+						<td>United States</td>
+						<td>English</td>
+						<td>195 Minutes</td>
+						<td>VHS, LaserDisc, DVD, Blu-Ray</td>
+						<td>Russell Carpenter</td>
+						<td>Conrad Buff, James Cameron, Richard A. Harris</td>
+						<td>Rotten Tomatoes: 8/10 (88%)</td>
+						<td>James Cameron, Jon Landau</td>
+						<td>Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates, Frances Fisher, Bernard Hill, Jonathan Hyde, Danny Nucci, David Warner, Bill Paxton</td>
+						<td>James Cameron</td>
+						<td><a href="Website About Me - Works Cited.md">98</a></td>
+					</tr>
 				</table>
 			</div>
 		</div>
