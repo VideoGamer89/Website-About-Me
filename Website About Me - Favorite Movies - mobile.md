@@ -24,7 +24,7 @@
 				<li><a href="Website About Me - Computer Programming Skills - mobile.md">Computer Programming Skills</a></li>
 				<li><a href="Website About Me - Operating Systems - mobile.md">Operating Systems</a></li>
 				<li><a href="Website About Me - Software - mobile.md">Software</a></li>
-				<li><a href="Website About Me - Resources - mobile.md">Resource</a></li> 
+				<li><a href="Website About Me - Works Cited - mobile.md">Works Cited</a></li> 
 			</ul>
 		</div>
 		<div id = "content">
@@ -70,7 +70,7 @@
 						<td>Ken Seng</td>
 						<td>Julian Clarke</td>
 						<td>Rotten Tomatoes: 6.9/10 (83%)</td>
-						<td><a href="Website About Me - Resources - mobile.md">1</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">1</a></td>
 					</tr>
 					<tr>
 						<td>The Amazing Spider-Man (2012 film)</td>
@@ -90,7 +90,7 @@
 						<td>John Schwartzman</td>
 						<td>Alan Edward Bell, Michael McCusker, Pietro Scalia</td>
 						<td>Rotten Tomatoes: 6.7/10 (73%)</td>
-						<td><a href="Website About Me - Resources - mobile.md">2</a></li>
+						<td><a href="Website About Me - Works Cited - mobile.md">2</a></li>
 					</tr>
 					<tr>
 						<td>Ratchet & Clank (2016 film) (Computer 3D Animated)</td>
@@ -110,7 +110,7 @@
 						<td>Anthony Di Ninno</td>
 						<td>Braden Oberson</td>
 						<td>Rotten Tomatoes: 4.1/10 (17%)</td>
-						<td><a href="Website About Me - Resources - mobile.md">3</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">3</a></td>
 					</tr>
 					<tr>
 						<td>Batman v Superman: Dawn of Justice</td>
@@ -130,7 +130,7 @@
 						<td>Larry Fong</td>
 						<td>David Brenner</td>
 						<td>Rotten Tomatoes: 4.9/10 (27%)</td>
-						<td><a href="Website About Me - Resources - mobile.md">4</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">4</a></td>
 					</tr>
 					<tr>
 						<td>Batman: The Killing Joke (2016 film) (Animated)</td>
@@ -150,7 +150,7 @@
 						<td>None</td>
 						<td>Christopher D. Lozinski</td>
 						<td>Rotten Tomatoes: 5.7/10 (45%)</td>
-						<td><a href="Website About Me - Resources - mobile.md">5</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">5</a></td>
 					</tr>
 					<tr>
 						<td>The Angry Birds Movie (Computer 3D Animated)</td>
@@ -170,7 +170,7 @@
 						<td>None</td>
 						<td>Kent Beyda, Ally Garrett</td>
 						<td>Rotten Tomatoes: 4.9/10 (44%)</td>
-						<td><a href="Website About Me - Resources - mobile.md">6</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">6</a></td>
 					</tr>
 					<tr>
 						<td>Teenage Mutant Ninja Turtles (2014 film)</td>
@@ -190,7 +190,7 @@
 						<td>Lula Carvalho</td>
 						<td>Joel Negron, Glen Scantlebury</td>
 						<td>Rotten Tomatoes: 4.2/10 (22%)</td>
-						<td><a href="Website About Me - Resources - mobile.md">7</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">7</a></td>
 					</tr>
 					<tr>
 						<td>Teenage Mutant Ninja Turtles: Out of the Shadows</td>
@@ -210,7 +210,7 @@
 						<td>Lula Carvalho</td>
 						<td>Jim May, Bob Ducsay</td>
 						<td>Rotten Tomatoes: 4.7/10 (36%)</td>
-						<td><a href="Website About Me - Resources - mobile.md">8</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">8</a></td>
 					</tr>
 					<tr>
 						<td>Warcraft (2016 film)</td>
@@ -230,7 +230,7 @@
 						<td>Simon Duggan</td>
 						<td>Paul Hirsch</td>
 						<td>Rotten Tomatoes: 4.2/10 (28%)</td>
-						<td><a href="Website About Me - Resources - mobile.md">9</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">9</a></td>
 					</tr>
 					<tr>
 						<td>Terminator Genisys</td>
@@ -250,7 +250,7 @@
 						<td>Kramer Morgenthau</td>
 						<td>Roger Barton</td>
 						<td>Rotten Tomatoes: 4.7/10 (25%)</td>
-						<td><a href="Website About Me - Resource.md">10</a></td>
+						<td><a href="Website About Me - Works Citedmd">10</a></td>
 					</tr>
 					<tr>
 						<td>Independence Day: Resurgence</td>
@@ -270,7 +270,7 @@
 						<td>Markus F&ouml;rderer</td>
 						<td>Adam Wolfe</td>
 						<td>Rotten Tomatoes: 4.3/10 (31%)</td>
-						<td><a href="Website About Me - Resources - mobile.md">11</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">11</a></td>
 					</tr>
 					<tr>
 						<td>Assassin's Creed (film)</td>
@@ -290,7 +290,7 @@
 						<td>Adam Arkapaw</td>
 						<td>Christopher Tellefsen</td>
 						<td>Rotten Tomatoes: 3.9/10 (18%)</td>
-						<td><a href="Website About Me - Resources - mobile.md">12</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">12</a></td>
 					</tr>
 					<tr>
 						<td>Ant-Man (film)</td>
@@ -310,7 +310,7 @@
 						<td>Russell Carpenter</td>
 						<td>Dan Lebental, Colby Parker Jr.</td>
 						<td>Rotten Tomatoes: 6.8/10 (82%)</td>
-						<td><a href="Website About Me - Resources - mobile.md">13</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">13</a></td>
 					</tr>
 					<tr>
 						<td>Ghost in the Shell (2017 film)</td>
@@ -330,7 +330,7 @@
 						<td>Jess Hall</td>
 						<td>Neil Smith, Billy Rich</td>
 						<td>Rotten Tomatoes: 5.6/10 (45%)</td>
-						<td><a href="Website About Me - Resources - mobile.md">14</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">14</a></td>
 					</tr>
 					<tr>
 						<td>Power Rangers (2017 film)</td>
@@ -350,7 +350,7 @@
 						<td>Matthew J. Lloyd</td>
 						<td>Martin Berfeld, Dody Dorn</td>
 						<td>Rotten Tomatoes: 5/10 (44%)</td>
-						<td><a href="Website About Me - Resources - mobile.md">15</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">15</a></td>
 					</tr>
 					<tr>
 						<td>Spider-Man: Homecoming</td>
@@ -370,7 +370,7 @@
 						<td>Salvatore Totino</td>
 						<td>Dan Lebental, Debbie Berman</td>
 						<td>Rotten Tomatoes: 7.7/10 (92%)</td>
-						<td><a href="Website About Me - Resources - mobile.md">16</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">16</a></td>
 					</tr>
 					<tr>
 						<td>Star Wars: The Force Awakens (Epic film)</td>
@@ -390,7 +390,7 @@
 						<td>Dan Mindel</td>
 						<td>Mary Jo Markey, Maryann Brandon</td>
 						<td>Rotten Tomatoes: 8.2/10 (93%)</td>
-						<td><a href="Website About Me - Resources - mobile.md">17</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">17</a></td>
 					</tr>
 					<tr>
 						<td>Rogue One: A Star Wars Story (Epic film)</td>
@@ -410,7 +410,7 @@
 						<td>Greig Fraser</td>
 						<td>John Gilroy, Colin Goudie, Jabez Olssen</td>
 						<td>Rotten Tomatoes: 7.5/10 (85%)</td>
-						<td><a href="Website About Me - Resources - mobile.md">18</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">18</a></td>
 					</tr>
 					<tr>
 						<td>Sing (2016 American film) (Computer 3D Animated)</td>
@@ -430,7 +430,7 @@
 						<td>None</td>
 						<td>Gregory Perler</td>
 						<td>Rotten Tomatoes: 6.5/10 (73%)</td>
-						<td><a href="Website About Me - Resources - mobile.md">19</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">19</a></td>
 					</tr>
 					<tr>
 						<td>Wonder Woman (2017 film)</td>
@@ -450,7 +450,7 @@
 						<td>Matthew Jensen</td>
 						<td>Martin Walsh</td>
 						<td>Rotten Tomatoes: 7.6/10 (92%)</td>
-						<td><a href="Website About Me - Resources - mobile.md">20</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">20</a></td>
 					</tr>
 					<tr>
 						<td>The Passion of the Christ (2004 Biblical film)</td>
@@ -470,7 +470,7 @@
 						<td>Caleb Deschanel</td>
 						<td>John Wright, Steve Mirkovich</td>
 						<td>Rotten Tomatoes: 5.9/10 (49%)</td>
-						<td><a href="Website About Me - Resources - mobile.md">21</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">21</a></td>
 					</tr>
 					<tr>
 						<td>The Amazing Spider-Man 2 (2014 film)</td>
@@ -490,7 +490,7 @@
 						<td>Dan Mindel</td>
 						<td>Pietro Scalia</td>
 						<td>Rotten Tomatoes: 5.8/10 (52%)</td>
-						<td><a href="Website About Me - Resources - mobile.md">22</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">22</a></td>
 					</tr>
 					<tr>
 						<td>Wreck-It Ralph (Computer 3D Animated)</td>
@@ -510,7 +510,7 @@
 						<td>None</td>
 						<td>Tim Mertens</td>
 						<td>Rotten Tomatoes: 7.5/10 (87%)</td>
-						<td><a href="Website About Me - Resources - mobile.md">23</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">23</a></td>
 					</tr>
 					<tr>
 						<td>Guardians of the Galaxy (2014 film)</td>
@@ -530,7 +530,7 @@
 						<td>Ben Davis</td>
 						<td>Fred Raskin, Craig Wood, Hughes Winborne</td>
 						<td>Rotten Tomatoes: 7.7/10 (91%)</td>
-						<td><a href="Website About Me - Resources - mobile.md">24</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">24</a></td>
 					</tr>
 					<tr>
 						<td>Guardians of the Galaxy Vol. 2 (2017 film)</td>
@@ -550,7 +550,7 @@
 						<td>Henry Braham</td>
 						<td>Fred Raskin, Craig Wood</td>
 						<td>Rotten Tomatoes: 7.2/10 (83%)</td>
-						<td><a href="Website About Me - Resources - mobile.md">25</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">25</a></td>
 					</tr>
 					<tr>
 						<td>Marvel's The Avengers (2012 film)</td>
@@ -570,7 +570,7 @@
 						<td>Seamus McGarvey</td>
 						<td>Jeffrey Ford, Lisa Laseek</td>
 						<td>Rotten Tomatoes: 8/10 (92%)</td>
-						<td><a href="Website About Me - Resources - mobile.md">26</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">26</a></td>
 					</tr>
 					<tr>
 						<td>Marvel's Avengers: Age of Ultron</td>
@@ -590,7 +590,7 @@
 						<td>Ben Davis</td>
 						<td>Jeffrey Ford, Lisa Lassek</td>
 						<td>Rotten Tomatoes: 6.7/10 (75%)</td>
-						<td><a href="Website About Me - Resources - mobile.md">27</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">27</a></td>
 					</tr>
 					<tr>
 						<td>Captain America: Civil War (2016 film)</td>
@@ -610,7 +610,7 @@
 						<td>Trent Opaloch</td>
 						<td>Jeffrey Ford, Matthew Schmidt</td>
 						<td>Rotten Tomatoes: 7.6/10 (91%)</td>
-						<td><a href="Website About Me - Resources - mobile.md">28</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">28</a></td>
 					</tr>
 					<tr>
 						<td>Captain America: The Winter Soldier (2014 film)</td>
@@ -630,7 +630,7 @@
 						<td>Trent Opaloch</td>
 						<td>Jeffrey Ford, Matthew Schmidt</td>
 						<td>Rotten Tomatoes: 7.6/10 (89%)</td>
-						<td><a href="Website About Me - Resources - mobile.md">29</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">29</a></td>
 					</tr>
 					<tr>
 						<td>Jurassic World</td>
@@ -650,7 +650,7 @@
 						<td>John Schwartzman</td>
 						<td>Kevin Stitt</td>
 						<td>Rotten Tomatoes: 6.7/10 (72%)</td>
-						<td><a href="Website About Me - Resources - mobile.md">30</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">30</a></td>
 					</tr>
 					<tr>
 						<td>Batman and Harley Quinn (2017 film) (Animated)</td>
@@ -670,7 +670,7 @@
 						<td>None</td>
 						<td>Christopher D. Lozinski</td>
 						<td>Rotten Tomatoes: 5.8/10 (56%)</td>
-						<td><a href="Website About Me - Resources - mobile.md">31</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">31</a></td>
 					</tr>
 					<tr>
 						<td>Suicide Squad (2016 film)</td>
@@ -690,7 +690,7 @@
 						<td>Roman Vasyanov</td>
 						<td>John Gilroy</td>
 						<td>Rotten Tomatoes: 4.7/10 (26%)</td>
-						<td><a href="Website About Me - Resources - mobile.md">32</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">32</a></td>
 					</tr>
 					<tr>
 						<td>Max Steel (2016 film)</td>
@@ -710,7 +710,7 @@
 						<td>Brett Pawlak</td>
 						<td>Michael Louis Hill</td>
 						<td>Rotten Tomatoes: 2.5/10 (0%)</td>
-						<td><a href="Website About Me - Resources - mobile.md">33</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">33</a></td>
 					</tr>
 					<tr>
 						<td>Doctor Strange (2016 film)</td>
@@ -730,7 +730,7 @@
 						<td>Ben Davis</td>
 						<td>Wyatt Smith, Sabrina Plisco</td>
 						<td>Rotten Tomatoes: 7.3/10 (89%)</td>
-						<td><a href="Website About Me - Resources - mobile.md">34</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">34</a></td>
 					</tr>
 					<tr>
 						<td>The Wolverine (2013 film)</td>
@@ -750,7 +750,7 @@
 						<td>Ross Emery</td>
 						<td>Michael McCusker</td>
 						<td>Rotten Tomatoes: 6.3/10 (70%)</td>
-						<td><a href="Website About Me - Resources - mobile.md">35</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">35</a></td>
 					</tr>
 					<tr>
 						<td>Star Wars Episode IV: A New Hope (Epic film)</td>
@@ -770,7 +770,7 @@
 						<td>Gilbert Taylor</td>
 						<td>Paul Hirsch, Marcia Lucas, Richard Chew</td>
 						<td>Rotten Tomatoes: 8.6/10 (93%)</td>
-						<td><a href="Website About Me - Resources - mobile.md">36</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">36</a></td>
 					</tr>
 					<tr>
 						<td>Logan (2017 film)</td>
@@ -790,7 +790,7 @@
 						<td>John Mathieson</td>
 						<td>Michael McCusker, Dirk Westervelt</td>
 						<td>Rotten Tomatoes: 7.9/10 (93%)</td>
-						<td><a href="Website About Me - Resources - mobile.md">37</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">37</a></td>
 					</tr>
 					<tr>
 						<td>X-Men: Apocalypse</td>
@@ -810,7 +810,7 @@
 						<td>Newton Thomas Sigel</td>
 						<td>John Ottman, Michael Louis Hill</td>
 						<td>Rotten Tomatoes: 5.6/10 (48%)</td>
-						<td><a href="Website About Me - Resources - mobile.md">38</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">38</a></td>
 					</tr>
 					<tr>
 						<td>Real Steel</td>
@@ -830,7 +830,7 @@
 						<td>Mauro Fiore</td>
 						<td>Dean Zimmerman</td>
 						<td>Rotten Tomatoes: 5.9/10 (59%)</td>
-						<td><a href="Website About Me - Resources - mobile.md">39</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">39</a></td>
 					</tr>
 					<tr>
 						<td>Thor: Ragnarok</td>
@@ -850,7 +850,7 @@
 						<td>Javier Aguirresarobe</td>
 						<td>Joel Negron, Zene Baker</td>
 						<td>Rotten Tomatoes: 7.5/10 (92%)</td>
-						<td><a href="Website About Me - Resources - mobile.md">40</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">40</a></td>
 					</tr>
 					<tr>
 						<td>The Shack (2017 film)</td>
@@ -870,7 +870,7 @@
 						<td>Declan Quinn</td>
 						<td>William Steinkamp</td>
 						<td>Rotten Tomatoes: 4/10 (21%)</td>
-						<td><a href="Website About Me - Resources - mobile.md">41</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">41</a></td>
 					</tr>
 					<tr>
 						<td>Going in Style (2017 film)</td>
@@ -890,7 +890,7 @@
 						<td>Rodney Charters</td>
 						<td>Myron I. Kerstein</td>
 						<td>Rotten Tomatoes: 5.3/10 (48%)</td>
-						<td><a href="Website About Me - Resources - mobile.md">42</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">42</a></td>
 					</tr>
 					<tr>
 						<td>The Blind Side (film)</td>
@@ -910,7 +910,7 @@
 						<td>Alar Kivilo</td>
 						<td>Mark Livolski</td>
 						<td>Rotten Tomatoes: 6.1/10 (69%)</td>
-						<td><a href="Website About Me - Resources - mobile.md">43</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">43</a></td>
 					</tr>
 					<tr>
 						<td>90 Minutes in Heaven (2015 Christian film)</td>
@@ -930,7 +930,7 @@
 						<td>M. David Mullen</td>
 						<td>Cary Gries</td>
 						<td>Rotten Tomatoes: 4.4/10 (24%)</td>
-						<td><a href="Website About Me - Resources - mobile.md">44</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">44</a></td>
 					</tr>
 					<tr>
 						<td>Justice League (film)</td>
@@ -950,7 +950,7 @@
 						<td>Fabian Wagner</td>
 						<td>David Brenner, Richard Pearson, Martin Walsh</td>
 						<td>Rotten Tomatoes: 5.3/10 (40%)</td>
-						<td><a href="Website About Me - Resources - mobile.md">45</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">45</a></td>
 					</tr>
 					<tr>
 						<td>War Room (Christian film)</td>
@@ -970,7 +970,7 @@
 						<td>Bob M. Scott</td>
 						<td>Steve Hullfish, Alex Kendrick</td>
 						<td>Rotten Tomatoes: 4.4/10 (33%)</td>
-						<td><a href="Website About Me - Resources - mobile.md">46</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">46</a></td>
 					</tr>
 					<tr>
 						<td>Left Behind (2014 Christian film)</td>
@@ -990,7 +990,7 @@
 						<td>Jack N. Green</td>
 						<td>Vic Armstrong</td>
 						<td>Rotten Tomatoes: 2.1/10 (1%)</td>
-						<td><a href="Website About Me - Resources - mobile.md">47</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">47</a></td>
 					</tr>
 					<tr>
 						<td>Into the Storm (2014 film)</td>
@@ -1010,7 +1010,7 @@
 						<td>Brian Pearson</td>
 						<td>Eric A. Sears</td>
 						<td>Rotten Tomatoes: 4.3/10 (21%)</td>
-						<td><a href="Website About Me - Resources - mobile.md">48</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">48</a></td>
 					</tr>
 					<tr>
 						<td>The Santa Clause (Christmas film)</td>
@@ -1030,7 +1030,7 @@
 						<td>Walt Lloyd</td>
 						<td>Lary Block</td>
 						<td>Rotten Tomatoes: 6/10 (75%)</td>
-						<td><a href="Website About Me - Resources - mobile.md">49</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">49</a></td>
 					</tr>
 					<tr>
 						<td>The Santa Clause 2 (Christmas film)</td>
@@ -1050,7 +1050,7 @@
 						<td>Adam Greenberg</td>
 						<td>David Finfer, Edward A. Warschilka</td>
 						<td>Rotten Tomatoes: 5.5/10 (55%)</td>
-						<td><a href="Website About Me - Resources - mobile.md">50</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">50</a></td>
 					</tr>
 					<tr>
 						<td>The Santa Clause 3: The Escape Clause (Christmas film)</td>
@@ -1070,7 +1070,7 @@
 						<td>Robbie Greenberg</td>
 						<td>David Finfer</td>
 						<td>Rotten Tomatoes: 3.7/10 (15%)</td>
-						<td><a href="Website About Me - Resources - mobile.md">51</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">51</a></td>
 					</tr>
 					<tr>
 						<td>Bedtime Stories (film)</td>
@@ -1090,7 +1090,7 @@
 						<td>Michael Barrett</td>
 						<td>Tom Costain</td>
 						<td>Rotten Tomatoes: 1.5/10 (25%)</td>
-						<td><a href="Website About Me - Resources - mobile.md">52</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">52</a></td>
 					</tr>
 					<tr>
 						<td>Bolt (2008 Computer Animated film)</td>
@@ -1110,7 +1110,7 @@
 						<td>None</td>
 						<td>Tim Mertens</td>
 						<td>Rotten Tomatoes: 7.5/10 (89%)</td>
-						<td><a href="Website About Me - Resources - mobile.md">53</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">53</a></td>
 					</tr>
 					<tr>
 						<td>Agent Cody Banks</td>
@@ -1130,7 +1130,7 @@
 						<td>Denis Crossan</td>
 						<td>Jim Miller</td>
 						<td>Rotten Tomatoes: 2.5/1 (39%)</td>
-						<td><a href="Website About Me - Resources - mobile.md">54</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">54</a></td>
 					</tr>
 					<tr>
 						<td>Agent Cody Banks 2: Destination London</td>
@@ -1150,7 +1150,7 @@
 						<td>Denis Crossan</td>
 						<td>Andrew MacRitchie</td>
 						<td>Rotten Tomatoes: 1.5/10 (13%)</td>
-						<td><a href="Website About Me - Resources - mobile.md">55</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">55</a></td>
 					</tr>
 					<tr>
 						<td>Man of Steel (film)</td>
@@ -1170,7 +1170,7 @@
 						<td>Amir Mokri</td>
 						<td>David Brenner</td>
 						<td>Rotten Tomatoes: 6.2/10 (55%)</td>
-						<td><a href="Website About Me - Resources - mobile.md">56</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">56</a></td>
 					</tr>
 					<tr>
 						<td>Edge of Tomorrow</td>
@@ -1190,7 +1190,7 @@
 						<td>Dion Beebe</td>
 						<td>James Herbert, Laura Jennings</td>
 						<td>Rotten Tomatoes: 7.5/10 (91%)</td>
-						<td><a href="Website About Me - Resources - mobile.md">57</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">57</a></td>
 					</tr>
 					<tr>
 						<td>Spider-Man (2002 film)</td>
@@ -1210,7 +1210,7 @@
 						<td>Don Burgess</td>
 						<td>Bob Murawski, Arthur Coburn</td>
 						<td>Rotten Tomatoes: 7.7/10 (89%)</td>
-						<td><a href="Website About Me - Resources - mobile.md">58</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">58</a></td>
 					</tr>
 					<tr>
 						<td>Spider-Man 2</td>
@@ -1230,7 +1230,7 @@
 						<td>Bill Pope</td>
 						<td>Bob Murawski</td>
 						<td>Rotten Tomatoes: 8.3/10 (93%)</td>
-						<td><a href="Website About Me - Resources - mobile.md">59</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">59</a></td>
 					</tr>
 					<tr>
 						<td>Spider-Man 3</td>
@@ -1250,7 +1250,7 @@
 						<td>Bill Pope</td>
 						<td>Bob Murawski</td>
 						<td>Rotten Tomatoes: 6.1/10 (63%)</td>
-						<td><a href="Website About Me - Resources - mobile.md">60</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">60</a></td>
 					</tr>
 					<tr>
 						<td>Captain America: The First Avenger</td>
@@ -1270,7 +1270,7 @@
 						<td>Shelly Johnson</td>
 						<td>Jeffrey Ford, Robert Dalva</td>
 						<td>Rotten Tomatoes: 7/10 (80%)</td>
-						<td><a href="Website About Me - Resources - mobile.md">61</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">61</a></td>
 					</tr>
 					<tr>
 						<td>Happy Gilmore</td>
@@ -1290,7 +1290,7 @@
 						<td>Arthur Albert</td>
 						<td>Jeff Gourson, Steve R. Moore</td>
 						<td>Rotten Tomatoes: 2.5/10 (60%)</td>
-						<td><a href="Website About Me - Resources - mobile.md">62</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">62</a></td>
 					</tr>
 					<tr>
 						<td>Fantastic Four (2015 film)</td>
@@ -1310,7 +1310,7 @@
 						<td>Matthew Jensen</td>
 						<td>Elliot Greenberg, Stephan E. Rivkin</td>
 						<td>Rotten Tomatoes: 3.4/10 (9%)</td>
-						<td><a href="Website About Me - Resources - mobile.md">63</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">63</a></td>
 					</tr>
 					<tr>
 						<td>Ghost Rider: Spirit of Vengeance</td>
@@ -1330,7 +1330,7 @@
 						<td>Brando Trost</td>
 						<td>Brian Berdan</td>
 						<td>Rotten Tomatoes: 2.5/10 (17%)</td>
-						<td><a href="Website About Me - Resources - mobile.md">64</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">64</a></td>
 					</tr>
 					<tr>
 						<td>Pixels (2015 film)</td>
@@ -1350,7 +1350,7 @@
 						<td>Amir Mokri</td>
 						<td>Hughes Winborne</td>
 						<td>Rotten Tomatoes: 3.8/10 (17%)</td>
-						<td><a href="Website About Me - Resources - mobile.md">65</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">65</a></td>
 					</tr>
 					<tr>
 						<td>Sky High (2005 film)</td>
@@ -1370,7 +1370,7 @@
 						<td>Shelly Johnson</td>
 						<td>Peter Amundson</td>
 						<td>Rotten Tomatoes: 6.5/10 (73%)</td>
-						<td><a href="Website About Me - Resources - mobile.md">66</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">66</a></td>
 					</tr>
 					<tr>
 						<td>Night at the Museum</td>
@@ -1390,7 +1390,7 @@
 						<td>Guillermo Navarro</td>
 						<td>Don Zimmerman</td>
 						<td>Rotten Tomatoes: 5.3/10 (43%)</td>
-						<td><a href="Website About Me - Resources - mobile.md">67</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">67</a></td>
 					</tr>
 					<tr>
 						<td>Night at the Museum: Battle of the Smithsonian</td>
@@ -1410,7 +1410,7 @@
 						<td>John Schwartzman</td>
 						<td>Don Zimmerman, Dean Zimmerman</td>
 						<td>Rotten Tomatoes: 5.1/10 (44%)</td>
-						<td><a href="Website About Me - Resources - mobile.md">68</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">68</a></td>
 					</tr>
 					<tr>
 						<td>Night at the Museum: Secret of the Tomb</td>
@@ -1430,7 +1430,7 @@
 						<td>Guillermo Navarro</td>
 						<td>Dean Zimmerman</td>
 						<td>Rotten Tomatoes: 5/10 (48%)</td>
-						<td><a href="Website About Me - Resources - mobile.md">69</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">69</a></td>
 					</tr>
 					<tr>
 						<td>The Polar Express (Christmas film)</td>
@@ -1450,7 +1450,7 @@
 						<td>Don Burgess, Robert Presley</td>
 						<td>R. Orlando Duenas, Jeremiah O'Driscoll</td>
 						<td>Rotten Tomatoes: 6.4/10 (55%)</td>
-						<td><a href="Website About Me - Resources - mobile.md">70</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">70</a></td>
 					</tr>
 					<tr>
 						<td>Green Lantern (film)</td>
@@ -1470,7 +1470,7 @@
 						<td>Dion Beebe</td>
 						<td>Stuart Baird</td>
 						<td>Rotten Tomatoes: 4.6/10 (26%)</td>
-						<td><a href="Website About Me - Resources - mobile.md">71</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">71</a></td>
 					</tr>
 					<tr>
 						<td>Home Alone</td>
@@ -1490,7 +1490,7 @@
 						<td>Julio Macat</td>
 						<td>Raja Gosnell</td>
 						<td>Rotten Tomatoes: 5.5/10 (62%)</td>
-						<td><a href="Website About Me - Resources - mobile.md">72</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">72</a></td>
 					</tr>
 					<tr>
 						<td>Home Alone 2: Lost in New York</td>
@@ -1510,7 +1510,7 @@
 						<td>Julio Macat</td>
 						<td>Raja Gosnell</td>
 						<td>Rotten Tomatoes: 3.7/10 (27%)</td>
-						<td><a href="Website About Me - Resources - mobile.md">73</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">73</a></td>
 					</tr>
 					<tr>
 						<td>Home Alone 3</td>
@@ -1530,7 +1530,7 @@
 						<td>Julio Macat</td>
 						<td>Bruce Green, Malcolm Campbell</td>
 						<td>Rotten Tomatoes: 1.5/10 (30%)</td>
-						<td><a href="Website About Me - Resources - mobile.md">74</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">74</a></td>
 					</tr>
 					<tr>
 						<td>Remember the Titans</td>
@@ -1550,7 +1550,7 @@
 						<td>Phillipe Rousselot</td>
 						<td>Michael Tronick</td>
 						<td>Rotten Tomatoes: 6.3/10 (73%)</td>
-						<td><a href="Website About Me - Resources - mobile.md">75</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">75</a></td>
 					</tr>
 					<tr>
 						<td>Star Wars: The Last Jedi (Epic film)</td>
@@ -1570,7 +1570,7 @@
 						<td>Steve Yedlin</td>
 						<td>Bob Ducsay</td>
 						<td>Rotten Tomatoes: 8.1/10 (90%)</td>
-						<td><a href="Website About Me - Resources - mobile.md">76</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">76</a></td>
 					</tr>
 					<tr>
 						<td>Valerian and the City of a Thousand Planets (3D film)</td>
@@ -1590,7 +1590,7 @@
 						<td>Thierry Arbogast</td>
 						<td>Julien Rey</td>
 						<td>Rotten Tomatoes: 5.5/10 (49%)</td>
-						<td><a href="Website About Me - Resources - mobile.md">77</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">77</a></td>
 					</tr>
 				</table>
 			</div>
