@@ -251,7 +251,7 @@
 					<td>1</td>
 					<td>13</td>
 					<td><?php echo $favorite_band_associated_act_1; ?></td>
-					<td><a href="Website About Me - Resources.html">1</a>, <a href="Website About Me - Resources.html">2</a></td>
+					<td><a href="Website About Me - Works Cited.php">1</a>, <a href="Website About Me - Works Cited.php">2</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_band_2; ?></td>
@@ -265,7 +265,7 @@
 					<td>4</td>
 					<td>34</td>
 					<td><?php echo $favorite_band_associated_act_2; ?>, <?php echo $favorite_band_associated_act_3; ?>, <?php echo $favorite_band_associated_act_4; ?>, <?php echo $favorite_band_associated_act_5; ?>, <?php echo $favorite_band_associated_act_6; ?>, <?php echo $favorite_band_associated_act_7; ?>, <?php echo $favorite_band_associated_act_8; ?></td>
-					<td><a href="Website About Me - Resources.html">3</a>, <a href="Website About Me - Resources.html">4</a></td>
+					<td><a href="Website About Me - Works Cited.php">3</a>, <a href="Website About Me - Works Cited.php">4</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_band_3; ?></td>
@@ -279,7 +279,7 @@
 					<td>4</td>
 					<td>15</td>
 					<td><?php echo $favorite_band_associated_act_9; ?></td>
-					<td><a href="Website About Me - Resources.html">5</a></td>
+					<td><a href="Website About Me - Works Cited.php">5</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_band_4; ?></td>
@@ -293,7 +293,7 @@
 					<td>0</td>
 					<td>42</td>
 					<td><?php echo $favorite_band_associated_act_9; ?></td>
-					<td><a href="Website About Me - Resources.html">6</a>, <a href="Website About Me - Resources.html">7</a></td>
+					<td><a href="Website About Me - Works Cited.php">6</a>, <a href="Website About Me - Works Cited.php">7</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_band_5; ?></td>
@@ -307,7 +307,7 @@
 					<td>5</td>
 					<td>19</td>
 					<td><?php echo $favorite_band_associated_act_10; ?>, <?php echo $favorite_band_associated_act_11; ?></td>
-					<td><a href="Website About Me - Resources.html">8</a>, <a href="Website About Me - Resources.html">9</a></td>
+					<td><a href="Website About Me - Works Cited.php">8</a>, <a href="Website About Me - Works Cited.php">9</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_band_6; ?></td>
@@ -321,7 +321,7 @@
 					<td>2</td>
 					<td>0</td>
 					<td><?php echo $favorite_band_associated_act_12; ?>, <?php echo $favorite_band_associated_act_13; ?></td>
-					<td><a href="Website About Me - Resources.html">10</a></td>
+					<td><a href="Website About Me - Works Cited.php">10</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_band_7; ?></td>
@@ -335,7 +335,7 @@
 					<td>2</td>
 					<td>20</td>
 					<td><?php echo $favorite_band_associated_act_14; ?>, <?php echo $favorite_band_associated_act_15; ?>, <?php echo $favorite_band_associated_act_16; ?>, <?php echo $favorite_band_associated_act_17; ?></td>
-					<td><a href="Website About Me - Resources.html">11</a></td>
+					<td><a href="Website About Me - Works Cited.php">11</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_band_8; ?></td>
@@ -349,7 +349,7 @@
 					<td>8</td>
 					<td>20</td>
 					<td><?php echo $favorite_band_associated_act_18; ?>, <?php echo $favorite_band_associated_act_19; ?></td>
-					<td><a href="Website About Me - Resources.html">12</a>, <a href="Website About Me - Resources.html">13</a></td>
+					<td><a href="Website About Me - Works Cited.php">12</a>, <a href="Website About Me - Works Cited.php">13</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_band_9; ?></td>
@@ -363,7 +363,7 @@
 					<td>4</td>
 					<td>35</td>
 					<td><?php echo $favorite_band_associated_act_9; ?></td>
-					<td><a href="Website About Me - Resources.html">14</a>, <a href="Website About Me - Resources.html">15</a></td>
+					<td><a href="Website About Me - Works Cited.php">14</a>, <a href="Website About Me - Works Cited.php">15</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_band_10; ?></td>
@@ -377,7 +377,7 @@
 					<td>4</td>
 					<td>58</td>
 					<td><?php echo $favorite_band_associated_act_9; ?></td>
-					<td><a href="Website About Me - Resources.html">16</a>, <a href="Website About Me - Resources.html">17</a></td>
+					<td><a href="Website About Me - Works Cited.php">16</a>, <a href="Website About Me - Works Cited.php">17</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_band_11; ?></td>
@@ -391,7 +391,7 @@
 					<td>6</td>
 					<td>25</td>
 					<td><?php echo $favorite_band_associated_act_20; ?>, <?php echo $favorite_band_associated_act_21; ?>, <?php echo $favorite_band_associated_act_22; ?></td>
-					<td><a href="Website About Me - Resources.html">18</a>, <a href="Website About Me - Resources.html">19</a></td>
+					<td><a href="Website About Me - Works Cited.php">18</a>, <a href="Website About Me - Works Cited.php">19</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_band_12; ?></td>
@@ -405,7 +405,7 @@
 					<td>0</td>
 					<td>21</td>
 					<td><?php echo $favorite_band_associated_act_23; ?>, <?php echo $favorite_band_associated_act_24; ?>, <?php echo $favorite_band_associated_act_25; ?></td>
-					<td><a href="Website About Me - Resources.html">20</a>, <a href="Website About Me - Resources.html">21</a></td>
+					<td><a href="Website About Me - Works Cited.php">20</a>, <a href="Website About Me - Works Cited.php">21</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_band_13; ?></td>
@@ -433,7 +433,7 @@
 					<td>2</td>
 					<td>29</td>
 					<td><?php echo $favorite_band_associated_act_9; ?></td>
-					<td><a href="Website About Me - Resources.html">23</a>, <a href="Website About Me - Resources.html">24</a></td>
+					<td><a href="Website About Me - Works Cited.php">23</a>, <a href="Website About Me - Works Cited.php">24</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_band_15; ?></td>
@@ -447,7 +447,7 @@
 					<td>5</td>
 					<td>22</td>
 					<td><?php echo $favorite_band_associated_act_26; ?>, <?php echo $favorite_band_associated_act_27; ?>, <?php echo $favorite_band_associated_act_28; ?></td>
-					<td><a href="Website About Me - Resources.html">25</a>, <a href="Website About Me - Resources.html">26</a></td>
+					<td><a href="Website About Me - Works Cited.php">25</a>, <a href="Website About Me - Works Cited.php">26</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_band_16; ?></td>
@@ -461,7 +461,7 @@
 					<td>4</td>
 					<td>36</td>
 					<td><?php echo $favorite_band_associated_act_29; ?>, <?php echo $favorite_band_associated_act_30; ?></td>
-					<td><a href="Website About Me - Resources.html">27</a>, <a href="Website About Me - Resources.html">28</a></td>
+					<td><a href="Website About Me - Works Cited.php">27</a>, <a href="Website About Me - Works Cited.php">28</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_band_17; ?></td>
@@ -475,7 +475,7 @@
 					<td>4</td>
 					<td>0</td>
 					<td><?php echo $favorite_band_associated_act_9; ?></td>
-					<td><a href="Website About Me - Resources.html">29</a></td>
+					<td><a href="Website About Me - Works Cited.php">29</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_band_18; ?></td>
@@ -503,7 +503,7 @@
 					<td>3</td>
 					<td>32</td>
 					<td><?php echo $favorite_band_associated_act_19; ?></td>
-					<td><a href="Website About Me - Resources.html">31</a>, <a href="Website About Me - Resources.html">32</a></td>
+					<td><a href="Website About Me - Works Cited.php">31</a>, <a href="Website About Me - Works Cited.php">32</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_band_20; ?></td>
@@ -517,7 +517,7 @@
 					<td>0</td>
 					<td>71</td>
 					<td><?php echo $favorite_band_associated_act_9; ?></td>
-					<td><a href="Website About Me - Resources.html">33</a>, <a href="Website About Me - Resources.html">34</a></td>
+					<td><a href="Website About Me - Works Cited.php">33</a>, <a href="Website About Me - Works Cited.php">34</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_band_21; ?></td>
@@ -531,7 +531,7 @@
 					<td>1</td>
 					<td>1</td>
 					<td><?php echo $favorite_band_associated_act_9; ?></td>
-					<td><a href="Website About Me - Resources.html">35</a></td>
+					<td><a href="Website About Me - Works Cited.php">35</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_band_22; ?></td>
@@ -545,7 +545,7 @@
 					<td>1</td>
 					<td>3</td>
 					<td><?php echo $favorite_band_associated_act_9; ?></td>
-					<td><a href="Website About Me - Resources.html">36</a></td>
+					<td><a href="Website About Me - Works Cited.php">36</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_band_23; ?></td>
@@ -559,7 +559,7 @@
 					<td>8</td>
 					<td>91</td>
 					<td><?php echo $favorite_band_associated_act_9; ?></td>
-					<td><a href="Website About Me - Resources.html">37</a>, <a href="Website About Me - Resources.html">38</a></td>
+					<td><a href="Website About Me - Works Cited.php">37</a>, <a href="Website About Me - Works Cited.php">38</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_band_24; ?></td>
@@ -573,7 +573,7 @@
 					<td>1</td>
 					<td>8</td>
 					<td><?php echo $favorite_band_associated_act_9; ?></td>
-					<td><a href="Website About Me - Resources.html">39</a></td>
+					<td><a href="Website About Me - Works Cited.php">39</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_band_25; ?></td>
@@ -587,7 +587,7 @@
 					<td>0</td>
 					<td>14</td>
 					<td><?php echo $favorite_band_associated_act_9; ?></td>
-					<td><a href="Website About Me - Resources.html">40</a></td>
+					<td><a href="Website About Me - Works Cited.php">40</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_band_26; ?></td>
@@ -601,7 +601,7 @@
 					<td>0</td>
 					<td>6</td>
 					<td><?php echo $favorite_band_associated_act_32; ?></td>
-					<td><a href="Website About Me - Resources.html">41</a></td>
+					<td><a href="Website About Me - Works Cited.php">41</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_band_27; ?></td>
@@ -615,7 +615,7 @@
 					<td>3</td>
 					<td>24</td>
 					<td><?php echo $favorite_band_associated_act_33; ?></td>
-					<td><a href="Website About Me - Resources.html">42</a>, <a href="Website About Me - Resources.html">43</a></td>
+					<td><a href="Website About Me - Works Cited.php">42</a>, <a href="Website About Me - Works Cited.php">43</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_band_28; ?></td>
@@ -629,7 +629,7 @@
 					<td>3</td>
 					<td>20</td>
 					<td><?php echo $favorite_band_associated_act_9; ?></td>
-					<td><a href="Website About Me - Resources.html">44</a>, <a href="Website About Me - Resources.html">45</a></td>
+					<td><a href="Website About Me - Works Cited.php">44</a>, <a href="Website About Me - Works Cited.php">45</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_band_29; ?></td>
@@ -643,7 +643,7 @@
 					<td>4</td>
 					<td>1</td>
 					<td><?php echo $favorite_band_associated_act_9; ?></td>
-					<td><a href="Website About Me - Resources.html">46</a>, <a href="Website About Me - Resources.html">47</a></td>
+					<td><a href="Website About Me - Works Cited.php">46</a>, <a href="Website About Me - Works Cited.php">47</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_band_30; ?></td>
@@ -657,7 +657,7 @@
 					<td>1</td>
 					<td>4</td>
 					<td><?php echo $favorite_band_associated_act_9; ?></td>
-					<td><a href="Website About Me - Resources.html">48</a></td>
+					<td><a href="Website About Me - Works Cited.php">48</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_band_31; ?></td>
@@ -671,7 +671,7 @@
 					<td>3</td>
 					<td>39</td>
 					<td><?php echo $favorite_band_associated_act_34; ?>, <?php echo $favorite_band_associated_act_35; ?>, <?php echo $favorite_band_associated_act_36; ?>, <?php echo $favorite_band_associated_act_37; ?>, <?php echo $favorite_band_associated_act_38; ?></td>
-					<td><a href="Website About Me - Resources.html">49</a>, <a href="Website About Me - Resources.html">50</a></td>
+					<td><a href="Website About Me - Works Cited.php">49</a>, <a href="Website About Me - Works Cited.php">50</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_band_32; ?></td>
@@ -685,7 +685,7 @@
 					<td>10</td>
 					<td>9</td>
 					<td><?php echo $favorite_band_associated_act_39; ?>, <?php echo $favorite_band_associated_act_40; ?>, <?php echo $favorite_band_associated_act_41; ?></td>
-					<td><a href="Website About Me - Resources.html">51</a>, <a href="Website About Me - Resources.html">52</a></td>
+					<td><a href="Website About Me - Works Cited.php">51</a>, <a href="Website About Me - Works Cited.php">52</a></td>
 				</tr>
 			</table>
 		</div><!-- end myFavoriteBandsDivElement -->
