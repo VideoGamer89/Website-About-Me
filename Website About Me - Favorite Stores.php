@@ -131,7 +131,7 @@
 					<td>20,000</td>
 					<td><?php echo $favorite_store_founder_1; ?>, <?php echo $favorite_store_founder_2; ?></td>
 					<td>$9 Billion (US)</td>
-					<td><a href="Website About Me - Resources.html">1</a></td>
+					<td><a href="Website About Me - Works Cited.php">1</a></td>
 				</tr>
 				<tr>
 					<td><a href="https://www.walmart.com/"><?php echo $favorite_store_2; ?></a></td>
@@ -145,7 +145,7 @@
 					<td>2.3 Million</td>
 					<td><?php echo $favorite_store_founder_3; ?></td>
 					<td>485.87 Billion (US)</td>
-					<td><a href="Website About Me - Resources.html">2</a></td>
+					<td><a href="Website About Me - Works Cited.php">2</a></td>
 				</tr>
 				<tr>
 					<td><a href="https://www.target.com/"><?php echo $favorite_store_3; ?></a></td>
@@ -159,7 +159,7 @@
 					<td>341,000</td>
 					<td><?php echo $favorite_store_founder_4; ?></td>
 					<td>$69.495 Billion (US)</td>
-					<td><a href="Website About Me - Resources.html">3</a></td>
+					<td><a href="Website About Me - Works Cited.php">3</a></td>
 				</tr>
 				<tr>
 					<td><a href="http://www.bestbuy.com/"><?php echo $favorite_store_4; ?></a></td>
@@ -173,7 +173,7 @@
 					<td>125,000</td>
 					<td><?php echo $favorite_store_founder_5; ?></td>
 					<td>$44.092 Billion (US)</td>
-					<td><a href="Website About Me - Resources.html">4</a></td>
+					<td><a href="Website About Me - Works Cited.php">4</a></td>
 				</tr>
 				<tr>
 					<td><a href="https://www.kohls.com/"><?php echo $favorite_store_5; ?></a></td>
@@ -187,7 +187,7 @@
 					<td>138,000</td>
 					<td><?php echo $favorite_store_founder_6; ?></td>
 					<td>$18.686 Billion (US)</td>
-					<td><a href="Website About Me - Resources.html">5</a></td>
+					<td><a href="Website About Me - Works Cited.php">5</a></td>
 				</tr>
 				<tr>
 					<td><a href="http://www.shopko.com/"><?php echo $favorite_store_6; ?></a></td>
@@ -201,7 +201,7 @@
 					<td>16,900</td>
 					<td><?php echo $favorite_store_founder_7; ?></td>
 					<td>$3.25 Billion (US)</td>
-					<td><a href="Website About Me - Resources.html">6</a></td>
+					<td><a href="Website About Me - Works Cited.php">6</a></td>
 				</tr>
 				<tr>
 					<td><a href="https://www.cub.com/"><?php echo $favorite_store_7; ?></a></td>
@@ -215,7 +215,7 @@
 					<td>100+</td>
 					<td><?php echo $favorite_store_founder_8; ?>, <?php echo $favorite_store_founder_9; ?>, <?php echo $favorite_store_founder_10; ?>, <?php echo $favorite_store_founder_11; ?></td>
 					<td>None</td>
-					<td><a href="Website About Me - Resources.html">7</a></td>
+					<td><a href="Website About Me - Works Cited.php">7</a></td>
 				</tr>
 				<tr>
 					<td><a href="http://www.dollargeneral.com/"><?php echo $favorite_store_8; ?></a></td>
@@ -229,7 +229,7 @@
 					<td>100+</td>
 					<td><?php echo $favorite_store_founder_12; ?>, <?php echo $favorite_store_founder_13; ?></td>
 					<td>$20.369 Billion (US)</td>
-					<td><a href="Website About Me - Resources.html">8</a></td>
+					<td><a href="Website About Me - Works Cited.php">8</a></td>
 				</tr>
 				<tr>
 					<td><a href="https://www.officedepot.com/"><?php echo $favorite_store_9; ?></a></td>
@@ -243,7 +243,7 @@
 					<td>100+</td>
 					<td><?php echo $favorite_store_founder_14; ?>, <?php echo $favorite_store_founder_15; ?></td>
 					<td>None</td>
-					<td><a href="Website About Me - Resources.html">9</a></td>
+					<td><a href="Website About Me - Works Cited.php">9</a></td>
 				</tr>
 				<tr>
 					<td><a href="https://www.barnesandnoble.com/"><?php echo $favorite_store_10; ?></a></td>
@@ -257,7 +257,7 @@
 					<td>26,000</td>
 					<td><?php echo $favorite_store_founder_16; ?>, <?php echo $favorite_store_founder_17; ?>, <?php echo $favorite_store_founder_18; ?>, <?php echo $favorite_store_founder_19; ?></td>
 					<td>$4.164 Billion (US)</td>
-					<td><a href="Website About Me - Resources.html">10</a></td>
+					<td><a href="Website About Me - Works Cited.php">10</a></td>
 				</tr>
 				<tr>
 					<td><a href="https://www.hpb.com/home"><?php echo $favorite_store_11; ?></a></td>
@@ -271,7 +271,7 @@
 					<td>100+</td>
 					<td><?php echo $favorite_store_founder_20; ?>, <?php echo $favorite_store_founder_21; ?></td>
 					<td>None</td>
-					<td><a href="Website About Me - Resources.html">11</a></td>
+					<td><a href="Website About Me - Works Cited.php">11</a></td>
 				</tr>
 			</table>
 		</div><!-- end myFavoriteStoresDivElement -->
