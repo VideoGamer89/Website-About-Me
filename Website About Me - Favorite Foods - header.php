@@ -17,7 +17,7 @@
 	$navigation_15 = $_GET['Operating Systems'];
 	$navigation_16 = $_GET['Software'];
 	$navigation_17 = $_GET['Favorite Beverages'];
-	$navigation_18 = $_GET['Resources'];
+	$navigation_18 = $_GET['Works Cited'];
 ?>
 <!DOCTYPE html>
 <html>
@@ -54,6 +54,6 @@
 					<li><a href="Website About Me - Operating Systems.php"><?php $navigation_15; ?></a></li>
 					<li><a href="Website About Me - Software.php"><?php $navigation_16; ?></a></li>
 					<li><a href="Website About Me - Favorite Beverages.php"><?php $navigation_17; ?></a></li>
-					<li><a href="Website About Me - Resources.php"><?php $navigation_18; ?></a></li>
+					<li><a href="Website About Me - Works Cited.php"><?php $navigation_18; ?></a></li>
 				</ul>
 			</div><!-- end nav -->
