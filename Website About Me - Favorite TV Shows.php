@@ -166,7 +166,7 @@
 					<td><?php echo $favorite_tv_show_network_1; ?></td>
 					<td><?php echo $favorite_tv_show_composer_1; ?></td>
 					<td><?php echo $favorite_tv_show_creator_1; ?></td>
-					<td><a href="Website About Me - Resources.html">1</a></td>
+					<td><a href="Website About Me - Works Cited.php">1</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_tv_show_2; ?></td>
@@ -181,7 +181,7 @@
 					<td><?php echo $favorite_tv_show_network_2; ?></td>
 					<td><?php echo $favorite_tv_show_composer_2; ?>, <?php echo $favorite_tv_show_composer_3; ?></td>
 					<td><?php echo $favorite_tv_show_creator_2; ?>, <?php echo $favorite_tv_show_creator_3; ?>, <?php echo $favorite_tv_show_creator_4; ?></td>
-					<td><a href="Website About Me - Resources.html">2</a></td>
+					<td><a href="Website About Me - Works Cited.php">2</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_tv_show_3; ?></td>
@@ -196,7 +196,7 @@
 					<td><?php echo $favorite_tv_show_network_1; ?></td>
 					<td><?php echo $favorite_tv_show_composer_4; ?></td>
 					<td><?php echo $favorite_tv_show_creator_5; ?></td>
-					<td><a href="Website About Me - Resources.html">3</a></td>
+					<td><a href="Website About Me - Works Cited.php">3</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_tv_show_4; ?></td>
@@ -211,7 +211,7 @@
 					<td><?php echo $favorite_tv_show_network_1; ?></td>
 					<td><?php echo $favorite_tv_show_composer_5; ?>, <?php echo $favorite_tv_show_composer_6; ?>, <?php echo $favorite_tv_show_composer_7; ?></td>
 					<td><?php echo $favorite_tv_show_creator_1; ?>, <?php echo $favorite_tv_show_creator_6; ?></td>
-					<td><a href="Website About Me - Resources.html">4</a></td>
+					<td><a href="Website About Me - Works Cited.php">4</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_tv_show_5; ?></td>
@@ -226,7 +226,7 @@
 					<td><?php echo $favorite_tv_show_network_3; ?>, <?php echo $favorite_tv_show_network_4; ?>, <?php echo $favorite_tv_show_network_5; ?>, <?php echo $favorite_tv_show_network_6; ?>, <?php echo $favorite_tv_show_network_1; ?>, <?php echo $favorite_tv_show_network_7; ?></td>
 					<td><?php echo $favorite_tv_show_composer_8; ?>, <?php echo $favorite_tv_show_composer_9; ?>, <?php echo $favorite_tv_show_composer_10; ?>, <?php echo $favorite_tv_show_composer_11; ?></td>
 					<td><?php echo $favorite_tv_show_creator_7; ?>, <?php echo $favorite_tv_show_creator_8; ?></td>
-					<td><a href="Website About Me - Resources.html">5</a></td>
+					<td><a href="Website About Me - Works Cited.php">5</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_tv_show_6; ?></td>
@@ -241,7 +241,7 @@
 					<td><?php echo $favorite_tv_show_network_8; ?></td>
 					<td><?php echo $favorite_tv_show_composer_12; ?></td>
 					<td><?php echo $favorite_tv_show_creator_9; ?>, <?php echo $favorite_tv_show_creator_10; ?></td>
-					<td><a href="Website About Me - Resources.html">6</a></td>
+					<td><a href="Website About Me - Works Cited.php">6</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_tv_show_7; ?></td>
@@ -256,7 +256,7 @@
 					<td><?php echo $favorite_tv_show_network_2; ?></td>
 					<td><?php echo $favorite_tv_show_composer_13; ?> (Rearranged by <?php echo $favorite_tv_show_composer_14; ?>)</td>
 					<td><?php echo $favorite_tv_show_creator_11; ?>, <?php echo $favorite_tv_show_creator_12; ?></td>
-					<td><a href="Website About Me - Resources.html">7</a></td>
+					<td><a href="Website About Me - Works Cited.php">7</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_tv_show_8; ?></td>
@@ -271,7 +271,7 @@
 					<td><?php echo $favorite_tv_show_network_9; ?></td>
 					<td><?php echo $favorite_tv_show_composer_15; ?> (Theme Music), <?php echo $favorite_tv_show_composer_16; ?>, <?php echo $favorite_tv_show_composer_17; ?>, <?php echo $favorite_tv_show_composer_18; ?>, <?php echo $favorite_tv_show_composer_19; ?></td>
 					<td><?php echo $favorite_tv_show_creator_13; ?></td>
-					<td><a href="Website About Me - Resources.html">8</a></td>
+					<td><a href="Website About Me - Works Cited.php">8</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_tv_show_9; ?></td>
@@ -286,7 +286,7 @@
 					<td><?php echo $favorite_tv_show_network_9; ?></td>
 					<td><?php echo $favorite_tv_show_composer_20; ?>, <?php echo $favorite_tv_show_composer_21; ?></td>
 					<td><?php echo $favorite_tv_show_creator_14; ?></td>
-					<td><a href="Website About Me - Resources.html">9</a></td>
+					<td><a href="Website About Me - Works Cited.php">9</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_tv_show_10; ?></td>
@@ -301,7 +301,7 @@
 					<td><?php echo $favorite_tv_show_network_10; ?></td>
 					<td><?php echo $favorite_tv_show_composer_22; ?></td>
 					<td><?php echo $favorite_tv_show_creator_15; ?>, <?php echo $favorite_tv_show_creator_16; ?></td>
-					<td><a href="Website About Me - Resources.html">10</a></td>
+					<td><a href="Website About Me - Works Cited.php">10</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_tv_show_11; ?></td>
@@ -316,7 +316,7 @@
 					<td><?php echo $favorite_tv_show_network_5; ?></td>
 					<td><?php echo $favorite_tv_show_composer_23; ?> (Remixed by <?php echo $favorite_tv_show_composer_24; ?>) (Theme Music), <?php echo $favorite_tv_show_composer_25; ?>, <?php echo $favorite_tv_show_composer_26; ?></td>
 					<td><?php echo $favorite_tv_show_creator_17; ?>, <?php echo $favorite_tv_show_creator_18; ?></td>
-					<td><a href="Website About Me - Resources.html">11</a></td>
+					<td><a href="Website About Me - Works Cited.php">11</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_tv_show_12; ?></td>
@@ -331,7 +331,7 @@
 					<td><?php echo $favorite_tv_show_network_4; ?></td>
 					<td><?php echo $favorite_tv_show_composer_27; ?></td>
 					<td><?php echo $favorite_tv_show_creator_19; ?></td>
-					<td><a href="Website About Me - Resources.html">12</a></td>
+					<td><a href="Website About Me - Works Cited.php">12</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_tv_show_13; ?></td>
@@ -346,7 +346,7 @@
 					<td><?php echo $favorite_tv_show_network_9; ?>, <?php echo $favorite_tv_show_network_11; ?></td>
 					<td><?php echo $favorite_tv_show_composer_21; ?>, <?php echo $favorite_tv_show_composer_28; ?>, <?php echo $favorite_tv_show_composer_20; ?></td>
 					<td><?php echo $favorite_tv_show_creator_14; ?>, <?php echo $favorite_tv_show_creator_20; ?>, <?php echo $favorite_tv_show_creator_21; ?></td>
-					<td><a href="Website About Me - Resources.html">13</a></td>
+					<td><a href="Website About Me - Works Cited.php">13</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_tv_show_14; ?></td>
@@ -361,7 +361,7 @@
 					<td><?php echo $favorite_tv_show_network_10; ?></td>
 					<td><?php echo $favorite_tv_show_composer_29; ?>, <?php echo $favorite_tv_show_composer_30; ?> (Theme Music Composer)</td>
 					<td><?php echo $favorite_tv_show_creator_22; ?>, <?php echo $favorite_tv_show_creator_23; ?></td>
-					<td><a href="Website About Me - Resources.html">14</a></td>
+					<td><a href="Website About Me - Works Cited.php">14</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_tv_show_15; ?></td>
@@ -376,7 +376,7 @@
 					<td><?php echo $favorite_tv_show_network_1; ?></td>
 					<td><?php echo $favorite_tv_show_composer_31; ?></td>
 					<td><?php echo $favorite_tv_show_creator_24; ?></td>
-					<td><a href="Website About Me - Resources.html">15</a></td>
+					<td><a href="Website About Me - Works Cited.php">15</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_tv_show_16; ?></td>
@@ -391,7 +391,7 @@
 					<td><?php echo $favorite_tv_show_network_1; ?></td>
 					<td><?php echo $favorite_tv_show_composer_1; ?></td>
 					<td><?php echo $favorite_tv_show_creator_25; ?></td>
-					<td><a href="Website About Me - Resources.html">16</a></td>
+					<td><a href="Website About Me - Works Cited.php">16</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_tv_show_17; ?></td>
@@ -406,7 +406,7 @@
 					<td><?php echo $favorite_tv_show_network_2; ?></td>
 					<td><?php echo $favorite_tv_show_composer_14; ?></td>
 					<td><?php echo $favorite_tv_show_creator_11; ?>, <?php echo $favorite_tv_show_creator_12; ?></td>
-					<td><a href="Website About Me - Resources.html">17</a></td>
+					<td><a href="Website About Me - Works Cited.php">17</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_tv_show_18; ?></td>
@@ -421,7 +421,7 @@
 					<td><?php echo $favorite_tv_show_network_4; ?>, <?php echo $favorite_tv_show_network_6; ?></td>
 					<td><?php echo $favorite_tv_show_composer_32; ?></td>
 					<td><?php echo $favorite_tv_show_creator_26; ?>, <?php echo $favorite_tv_show_creator_27; ?>, <?php echo $favorite_tv_show_creator_28; ?></td>
-					<td><a href="Website About Me - Resources.html">18</a></td>
+					<td><a href="Website About Me - Works Cited.php">18</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_tv_show_19; ?></td>
@@ -436,7 +436,7 @@
 					<td><?php echo $favorite_tv_show_network_12; ?></td>
 					<td><?php echo $favorite_tv_show_composer_33; ?>, <?php echo $favorite_tv_show_composer_34; ?></td>
 					<td><?php echo $favorite_tv_show_creator_29; ?></td>
-					<td><a href="Website About Me - Resources.html">19</a></td>
+					<td><a href="Website About Me - Works Cited.php">19</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_tv_show_20; ?></td>
@@ -451,7 +451,7 @@
 					<td><?php echo $favorite_tv_show_network_8; ?></td>
 					<td><?php echo $favorite_tv_show_composer_35; ?>, <?php echo $favorite_tv_show_composer_36; ?>, <?php echo $favorite_tv_show_composer_37; ?></td>
 					<td><?php echo $favorite_tv_show_creator_30; ?></td>
-					<td><a href="Website About Me - Resources.html">20</a></td>
+					<td><a href="Website About Me - Works Cited.php">20</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_tv_show_21; ?></td>
@@ -466,7 +466,7 @@
 					<td><?php echo $favorite_tv_show_network_13; ?></td>
 					<td><?php echo $favorite_tv_show_composer_38; ?></td>
 					<td><?php echo $favorite_tv_show_creator_31; ?></td>
-					<td><a href="Website About Me - Resources.html">21</a></td>
+					<td><a href="Website About Me - Works Cited.php">21</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_tv_show_22; ?></td>
@@ -481,7 +481,7 @@
 					<td><?php echo $favorite_tv_show_network_1; ?></td>
 					<td><?php echo $favorite_tv_show_composer_39; ?></td>
 					<td><?php echo $favorite_tv_show_creator_32; ?>, <?php echo $favorite_tv_show_creator_33; ?></td>
-					<td><a href="Website About Me - Resources.html">22</a></td>
+					<td><a href="Website About Me - Works Cited.php">22</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_tv_show_23; ?></td>
@@ -496,7 +496,7 @@
 					<td><?php echo $favorite_tv_show_network_4; ?></td>
 					<td><?php echo $favorite_tv_show_composer_40; ?>, <?php echo $favorite_tv_show_composer_41; ?></td>
 					<td><?php echo $favorite_tv_show_creator_34; ?></td>
-					<td><a href="Website About Me - Resources.html">23</a></td>
+					<td><a href="Website About Me - Works Cited.php">23</a></td>
 				</tr>
 			</table>
 		</div><!-- end myFavoriteTVShowsDivElement -->
