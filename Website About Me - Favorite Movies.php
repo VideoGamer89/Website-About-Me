@@ -572,7 +572,7 @@
 					<td><?php echo $favorite_movie_cinematographer_1; ?></td>
 					<td><?php echo $favorite_movie_editor_1; ?></td>
 					<td>Rotten Tomatoes: 6.9/10 (83%)</td>
-					<td><a href="Website About Me - Resources.html">1</a></td>
+					<td><a href="Website About Me - Works Cited.php">1</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_movie_2; ?> (2012 film)</td>
@@ -592,7 +592,7 @@
 					<td><?php echo $favorite_movie_cinematographer_2; ?></td>
 					<td><?php echo $favorite_movie_editor_2; ?>, <?php echo $favorite_movie_editor_4; ?>, <?php echo $favorite_movie_editor_5; ?></td>
 					<td>Rotten Tomatoes: 6.7/10 (73%)</td>
-					<td><a href="Website About Me - Resources.html">2</a></td>
+					<td><a href="Website About Me - Works Cited.php">2</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_movie_3; ?> (2016 film) (Computer 3D Animated)</td>
@@ -612,7 +612,7 @@
 					<td><?php echo $favorite_movie_cinematographer_3; ?></td>
 					<td><?php echo $favorite_movie_editor_5; ?></td>
 					<td>Rotten Tomatoes: 4.1/10 (17%)</td>
-					<td><a href="Website About Me - Resources.html">3</a></td>
+					<td><a href="Website About Me - Works Cited.php">3</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_movie_4; ?></td>
@@ -632,7 +632,7 @@
 					<td><?php echo $favorite_movie_cinematographer_4; ?></td>
 					<td><?php echo $favorite_movie_editor_6; ?></td>
 					<td>Rotten Tomatoes: 4.9/10 (27%)</td>
-					<td><a href="Website About Me - Resources.html">4</a></td>
+					<td><a href="Website About Me - Works Cited.php">4</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_movie_5; ?> (2016 film) (Animated)</td>
@@ -652,7 +652,7 @@
 					<td><?php echo $favorite_movie_cinematographer_5; ?></td>
 					<td><?php echo $favorite_movie_editor_7; ?></td>
 					<td>Rotten Tomatoes: 5.7/10 (45%)</td>
-					<td><a href="Website About Me - Resources.html">5</a></td>
+					<td><a href="Website About Me - Works Cited.php">5</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_movie_6; ?> (Computer 3D Animated)</td>
@@ -672,7 +672,7 @@
 					<td><?php echo $favorite_movie_cinematographer_5; ?></td>
 					<td><?php echo $favorite_movie_editor_8; ?>, <?php echo $favorite_movie_editor_9; ?></td>
 					<td>Rotten Tomatoes: 4.9/10 (44%)</td>
-					<td><a href="Website About Me - Resources.html">6</a></td>
+					<td><a href="Website About Me - Works Cited.php">6</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_movie_7; ?> (2014 film)</td>
@@ -692,7 +692,7 @@
 					<td><?php echo $favorite_movie_cinematographer_6; ?></td>
 					<td><?php echo $favorite_movie_editor_10; ?>, <?php echo $favorite_movie_editor_11; ?></td>
 					<td>Rotten Tomatoes: 4.2/10 (22%)</td>
-					<td><a href="Website About Me - Resources.html">7</a></td>
+					<td><a href="Website About Me - Works Cited.php">7</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_movie_8; ?></td>
@@ -712,7 +712,7 @@
 					<td><?php echo $favorite_movie_cinematographer_6; ?></td>
 					<td><?php echo $favorite_movie_editor_12; ?>, <?php echo $favorite_movie_editor_13; ?></td>
 					<td>Rotten Tomatoes: 4.7/10 (36%)</td>
-					<td><a href="Website About Me - Resources.html">8</a></td>
+					<td><a href="Website About Me - Works Cited.php">8</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_movie_9; ?> (2016 film)</td>
@@ -732,7 +732,7 @@
 					<td><?php echo $favorite_movie_cinematographer_7; ?></td>
 					<td><?php echo $favorite_movie_editor_14; ?></td>
 					<td>Rotten Tomatoes: 4.2/10 (28%)</td>
-					<td><a href="Website About Me - Resources.html">9</a></td>
+					<td><a href="Website About Me - Works Cited.php">9</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_movie_10; ?></td>
@@ -752,7 +752,7 @@
 					<td><?php echo $favorite_movie_cinematographer_8; ?></td>
 					<td><?php echo $favorite_movie_editor_15; ?></td>
 					<td>Rotten Tomatoes: 4.7/10 (25%)</td>
-					<td><a href="Website About Me - Resources.html">10</a></td>
+					<td><a href="Website About Me - Works Cited.php">10</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_movie_11; ?></td>
@@ -772,7 +772,7 @@
 					<td><?php echo $favorite_movie_cinematographer_9; ?></td>
 					<td><?php echo $favorite_movie_editor_16; ?></td>
 					<td>Rotten Tomatoes: 4.3/10 (31%)</td>
-					<td><a href="Website About Me - Resources.html">11</a></td>
+					<td><a href="Website About Me - Works Cited.php">11</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_movie_12; ?> (film)</td>
@@ -792,7 +792,7 @@
 					<td><?php echo $favorite_movie_cinematographer_10; ?></td>
 					<td><?php echo $favorite_movie_editor_17; ?></td>
 					<td>Rotten Tomatoes: 3.9/10 (18%)</td>
-					<td><a href="Website About Me - Resources.html">12</a></td>
+					<td><a href="Website About Me - Works Cited.php">12</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_movie_13; ?> (film)</td>
@@ -812,7 +812,7 @@
 					<td><?php echo $favorite_movie_cinematographer_11; ?></td>
 					<td><?php echo $favorite_movie_editor_18; ?>, <?php echo $favorite_movie_editor_19; ?></td>
 					<td>Rotten Tomatoes: 6.8/10 (82%)</td>
-					<td><a href="Website About Me - Resources.html">13</a></td>
+					<td><a href="Website About Me - Works Cited.php">13</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_movie_14; ?> (2017 film)</td>
@@ -832,7 +832,7 @@
 					<td><?php echo $favorite_movie_cinematographer_12; ?></td>
 					<td><?php echo $favorite_movie_editor_20; ?>, <?php echo $favorite_movie_editor_21; ?></td>
 					<td>Rotten Tomatoes: 5.6/10 (45%)</td>
-					<td><a href="Website About Me - Resources.html">14</a></td>
+					<td><a href="Website About Me - Works Cited.php">14</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_movie_15; ?> (2017 film)</td>
@@ -852,7 +852,7 @@
 					<td><?php echo $favorite_movie_cinematographer_13; ?></td>
 					<td><?php echo $favorite_movie_editor_22; ?>, <?php echo $favorite_movie_editor_23; ?></td>
 					<td>Rotten Tomatoes: 5/10 (44%)</td>
-					<td><a href="Website About Me - Resources.html">15</a></td>
+					<td><a href="Website About Me - Works Cited.php">15</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_movie_16; ?></td>
@@ -872,7 +872,7 @@
 					<td><?php echo $favorite_movie_cinematographer_14; ?></td>
 					<td><?php echo $favorite_movie_editor_18; ?>, <?php echo $favorite_movie_editor_24; ?></td>
 					<td>Rotten Tomatoes: 7.7/10 (92%)</td>
-					<td><a href="Website About Me - Resources.html">16</a></td>
+					<td><a href="Website About Me - Works Cited.php">16</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_movie_17; ?> (Epic film)</td>
@@ -892,7 +892,7 @@
 					<td><?php echo $favorite_movie_cinematographer_15; ?></td>
 					<td><?php echo $favorite_movie_editor_25; ?>, <?php echo $favorite_movie_editor_26; ?></td>
 					<td>Rotten Tomatoes: 8.2/10 (93%)</td>
-					<td><a href="Website About Me - Resources.html">17</a></td>
+					<td><a href="Website About Me - Works Cited.php">17</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_movie_18; ?> (Epic film)</td>
@@ -912,7 +912,7 @@
 					<td><?php echo $favorite_movie_cinematographer_16; ?></td>
 					<td><?php echo $favorite_movie_editor_27; ?>, <?php echo $favorite_movie_editor_28; ?>, <?php echo $favorite_movie_editor_28; ?></td>
 					<td>Rotten Tomatoes: 7.5/10 (85%)</td>
-					<td><a href="Website About Me - Resources.html">18</a></td>
+					<td><a href="Website About Me - Works Cited.php">18</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_movie_19; ?> (2016 American film) (Computer 3D Animated)</td>
@@ -932,7 +932,7 @@
 					<td><?php echo $favorite_movie_cinematographer_5; ?></td>
 					<td><?php echo $favorite_movie_editor_30; ?></td>
 					<td>Rotten Tomatoes: 6.5/10 (73%)</td>
-					<td><a href="Website About Me - Resources.html">19</a></td>
+					<td><a href="Website About Me - Works Cited.php">19</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_movie_20; ?> (2017 film)</td>
@@ -952,7 +952,7 @@
 					<td><?php echo $favorite_movie_cinematographer_17; ?></td>
 					<td><?php echo $favorite_movie_editor_31; ?></td>
 					<td>Rotten Tomatoes: 7.6/10 (92%)</td>
-					<td><a href="Website About Me - Resources.html">20</a></td>
+					<td><a href="Website About Me - Works Cited.php">20</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_movie_21; ?> (2004 Biblical film)</td>
@@ -972,7 +972,7 @@
 					<td><?php echo $favorite_movie_cinematographer_18; ?></td>
 					<td><?php echo $favorite_movie_editor_32; ?>, <?php echo $favorite_movie_editor_33; ?></td>
 					<td>Rotten Tomatoes: 5.9/10 (49%)</td>
-					<td><a href="Website About Me - Resources.html">21</a></td>
+					<td><a href="Website About Me - Works Cited.php">21</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_movie_22; ?> (2014 film)</td>
@@ -1012,7 +1012,7 @@
 					<td><?php echo $favorite_movie_cinematographer_5; ?></td>
 					<td><?php echo $favorite_movie_editor_34; ?></td>
 					<td>Rotten Tomatoes: 7.5/10 (87%)</td>
-					<td><a href="Website About Me - Resources.html">23</a></td>
+					<td><a href="Website About Me - Works Cited.php">23</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_movie_24; ?> (2014 film)</td>
@@ -1032,7 +1032,7 @@
 					<td><?php echo $favorite_movie_cinematographer_19; ?></td>
 					<td><?php echo $favorite_movie_editor_35; ?>, <?php echo $favorite_movie_editor_36; ?>, <?php echo $favorite_movie_editor_36; ?></td>
 					<td>Rotten Tomatoes: 7.7/10 (91%)</td>
-					<td><a href="Website About Me - Resources.html">24</a></td>
+					<td><a href="Website About Me - Works Cited.php">24</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_movie_25; ?> (2017 film)</td>
@@ -1052,7 +1052,7 @@
 					<td><?php echo $favorite_movie_cinematographer_20; ?></td>
 					<td><?php echo $favorite_movie_editor_35; ?>, <?php echo $favorite_movie_editor_36; ?></td>
 					<td>Rotten Tomatoes: 7.2/10 (83%)</td>
-					<td><a href="Website About Me - Resources.html">25</a></td>
+					<td><a href="Website About Me - Works Cited.php">25</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_movie_26; ?> (2012 film)</td>
@@ -1072,7 +1072,7 @@
 					<td><?php echo $favorite_movie_cinematographer_21; ?></td>
 					<td><?php echo $favorite_movie_editor_38; ?>, <?php echo $favorite_movie_editor_39; ?></td>
 					<td>Rotten Tomatoes: 8/10 (92%)</td>
-					<td><a href="Website About Me - Resources.html">26</a></td>
+					<td><a href="Website About Me - Works Cited.php">26</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_movie_27; ?></td>
@@ -1092,7 +1092,7 @@
 					<td><?php echo $favorite_movie_cinematographer_19; ?></td>
 					<td><?php echo $favorite_movie_editor_38; ?>, <?php echo $favorite_movie_editor_39; ?></td>
 					<td>Rotten Tomatoes: 6.7/10 (75%)</td>
-					<td><a href="Website About Me - Resources.html">27</a></td>
+					<td><a href="Website About Me - Works Cited.php">27</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_movie_28; ?> (2016 film)</td>
@@ -1112,7 +1112,7 @@
 					<td><?php echo $favorite_movie_cinematographer_22; ?></td>
 					<td><?php echo $favorite_movie_editor_38; ?>, <?php echo $favorite_movie_editor_40; ?></td>
 					<td>Rotten Tomatoes: 7.6/10 (91%)</td>
-					<td><a href="Website About Me - Resources.html">28</a></td>
+					<td><a href="Website About Me - Works Cited.php">28</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_movie_29; ?> (2014 film)</td>
@@ -1132,7 +1132,7 @@
 					<td><?php echo $favorite_movie_cinematographer_22; ?></td>
 					<td><?php echo $favorite_movie_editor_38; ?>, <?php echo $favorite_movie_editor_40; ?></td>
 					<td>Rotten Tomatoes: 7.6/10 (89%)</td>
-					<td><a href="Website About Me - Resources.html">29</a></td>
+					<td><a href="Website About Me - Works Cited.php">29</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_movie_30; ?></td>
@@ -1152,7 +1152,7 @@
 					<td><?php echo $favorite_movie_cinematographer_2; ?></td>
 					<td><?php echo $favorite_movie_editor_41; ?></td>
 					<td>Rotten Tomatoes: 6.7/10 (72%)</td>
-					<td><a href="Website About Me - Resources.html">30</a></td>
+					<td><a href="Website About Me - Works Cited.php">30</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_movie_31; ?> (2017 film) (Animated)</td>
@@ -1172,7 +1172,7 @@
 					<td><?php echo $favorite_movie_cinematographer_5; ?></td>
 					<td><?php echo $favorite_movie_editor_7; ?></td>
 					<td>Rotten Tomatoes: 5.8/10 (56%)</td>
-					<td><a href="Website About Me - Resources.html">31</a></td>
+					<td><a href="Website About Me - Works Cited.php">31</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_movie_32; ?> (2016 film)</td>
@@ -1212,7 +1212,7 @@
 					<td><?php echo $favorite_movie_cinematographer_24; ?></td>
 					<td><?php echo $favorite_movie_editor_43; ?></td>
 					<td>Rotten Tomatoes: 2.5/10 (0%)</td>
-					<td><a href="Website About Me - Resources.html">33</a></td>
+					<td><a href="Website About Me - Works Cited.php">33</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_movie_34; ?> (2016 film)</td>
@@ -1232,7 +1232,7 @@
 					<td><?php echo $favorite_movie_cinematographer_19; ?></td>
 					<td><?php echo $favorite_movie_editor_44; ?>, <?php echo $favorite_movie_editor_45; ?></td>
 					<td>Rotten Tomatoes: 7.3/10 (89%)</td>
-					<td><a href="Website About Me - Resources.html">34</a></td>
+					<td><a href="Website About Me - Works Cited.php">34</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_movie_35; ?> (2013 film)</td>
@@ -1252,7 +1252,7 @@
 					<td><?php echo $favorite_movie_cinematographer_25; ?></td>
 					<td><?php echo $favorite_movie_editor_4; ?></td>
 					<td>Rotten Tomatoes: 6.3/10 (70%)</td>
-					<td><a href="Website About Me - Resources.html">35</a></td>
+					<td><a href="Website About Me - Works Cited.php">35</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_movie_36; ?> (Epic film)</td>
@@ -1272,7 +1272,7 @@
 					<td><?php echo $favorite_movie_cinematographer_26; ?></td>
 					<td><?php echo $favorite_movie_editor_14; ?>, <?php echo $favorite_movie_editor_46; ?>, <?php echo $favorite_movie_editor_47; ?></td>
 					<td>Rotten Tomatoes: 8.6/10 (93%)</td>
-					<td><a href="Website About Me - Resources.html">36</a></td>
+					<td><a href="Website About Me - Works Cited.php">36</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_movie_37; ?> (2017 film)</td>
@@ -1292,7 +1292,7 @@
 					<td><?php echo $favorite_movie_cinematographer_27; ?></td>
 					<td><?php echo $favorite_movie_editor_4; ?>, <?php echo $favorite_movie_editor_48; ?></td>
 					<td>Rotten Tomatoes: 7.9/10 (93%)</td>
-					<td><a href="Website About Me - Resources.html">37</a></td>
+					<td><a href="Website About Me - Works Cited.php">37</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_movie_38; ?></td>
@@ -1312,7 +1312,7 @@
 					<td><?php echo $favorite_movie_cinematographer_28; ?></td>
 					<td><?php echo $favorite_movie_editor_49; ?>, <?php echo $favorite_movie_editor_43; ?></td>
 					<td>Rotten Tomatoes: 5.6/10 (48%)</td>
-					<td><a href="Website About Me - Resources.html">38</a></td>
+					<td><a href="Website About Me - Works Cited.php">38</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_movie_39; ?></td>
@@ -1332,7 +1332,7 @@
 					<td><?php echo $favorite_movie_cinematographer_29; ?></td>
 					<td><?php echo $favorite_movie_editor_51; ?></td>
 					<td>Rotten Tomatoes: 5.9/10 (59%)</td>
-					<td><a href="Website About Me - Resources.html">39</a></td>
+					<td><a href="Website About Me - Works Cited.php">39</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_movie_40; ?></td>
@@ -1352,7 +1352,7 @@
 					<td><?php echo $favorite_movie_cinematographer_30; ?></td>
 					<td><?php echo $favorite_movie_editor_10; ?>, <?php echo $favorite_movie_editor_52; ?></td>
 					<td>Rotten Tomatoes: 7.5/10 (92%)</td>
-					<td><a href="Website About Me - Resources.html">40</a></td>
+					<td><a href="Website About Me - Works Cited.php">40</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_movie_41; ?> (2017 film)</td>
@@ -1372,7 +1372,7 @@
 					<td><?php echo $favorite_movie_cinematographer_31; ?></td>
 					<td><?php echo $favorite_movie_editor_53; ?></td>
 					<td>Rotten Tomatoes: 4/10 (21%)</td>
-					<td><a href="Website About Me - Resources.html">41</a></td>
+					<td><a href="Website About Me - Works Cited.php">41</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_movie_42; ?> (2017 film)</td>
@@ -1392,7 +1392,7 @@
 					<td><?php echo $favorite_movie_cinematographer_32; ?></td>
 					<td><?php echo $favorite_movie_editor_54; ?></td>
 					<td>Rotten Tomatoes: 5.3/10 (48%)</td>
-					<td><a href="Website About Me - Resources.html">42</a></td>
+					<td><a href="Website About Me - Works Cited.php">42</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_movie_43; ?> (film)</td>
@@ -1412,7 +1412,7 @@
 					<td><?php echo $favorite_movie_cinematographer_33; ?></td>
 					<td><?php echo $favorite_movie_editor_55; ?></td>
 					<td>Rotten Tomatoes: 6.1/10 (69%)</td>
-					<td><a href="Website About Me - Resources.html">43</a></td>
+					<td><a href="Website About Me - Works Cited.php">43</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_movie_44; ?> (2015 Christian film)</td>
@@ -1432,7 +1432,7 @@
 					<td><?php echo $favorite_movie_cinematographer_34; ?></td>
 					<td><?php echo $favorite_movie_editor_56; ?></td>
 					<td>Rotten Tomatoes: 4.4/10 (24%)</td>
-					<td><a href="Website About Me - Resources.html">44</a></td>
+					<td><a href="Website About Me - Works Cited.php">44</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_movie_45; ?> (film)</td>
@@ -1452,7 +1452,7 @@
 					<td><?php echo $favorite_movie_cinematographer_35; ?></td>
 					<td><?php echo $favorite_movie_editor_6; ?>, <?php echo $favorite_movie_editor_57; ?>, <?php echo $favorite_movie_editor_31; ?></td>
 					<td>Rotten Tomatoes: 5.3/10 (40%)</td>
-					<td><a href="Website About Me - Resources.html">45</a></td>
+					<td><a href="Website About Me - Works Cited.php">45</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_movie_46; ?> (Christian film)</td>
@@ -1472,7 +1472,7 @@
 					<td><?php echo $favorite_movie_cinematographer_36; ?></td>
 					<td><?php echo $favorite_movie_editor_58; ?>, <?php echo $favorite_movie_editor_59; ?></td>
 					<td>Rotten Tomatoes: 4.4/10 (33%)</td>
-					<td><a href="Website About Me - Resources.html">46</a></td>
+					<td><a href="Website About Me - Works Cited.php">46</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_movie_47; ?> (2014 Christian film)</td>
@@ -1492,7 +1492,7 @@
 					<td><?php echo $favorite_movie_cinematographer_37; ?></td>
 					<td><?php echo $favorite_movie_editor_60; ?></td>
 					<td>Rotten Tomatoes: 2.1/10 (1%)</td>
-					<td><a href="Website About Me - Resources.html">47</a></td>
+					<td><a href="Website About Me - Works Cited.php">47</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_movie_48; ?> (2014 film)</td>
@@ -1512,7 +1512,7 @@
 					<td><?php echo $favorite_movie_cinematographer_38; ?></td>
 					<td><?php echo $favorite_movie_editor_61; ?></td>
 					<td>Rotten Tomatoes: 4.3/10 (21%)</td>
-					<td><a href="Website About Me - Resources.html">48</a></td>
+					<td><a href="Website About Me - Works Cited.php">48</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_movie_49; ?> (Christmas film)</td>
@@ -1532,7 +1532,7 @@
 					<td><?php echo $favorite_movie_cinematographer_39; ?></td>
 					<td><?php echo $favorite_movie_editor_62; ?></td>
 					<td>Rotten Tomatoes: 6/10 (75%)</td>
-					<td><a href="Website About Me - Resources.html">49</a></td>
+					<td><a href="Website About Me - Works Cited.php">49</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_movie_50; ?> (Christmas film)</td>
@@ -1552,7 +1552,7 @@
 					<td><?php echo $favorite_movie_cinematographer_40; ?></td>
 					<td><?php echo $favorite_movie_editor_63; ?>, <?php echo $favorite_movie_editor_64; ?></td>
 					<td>Rotten Tomatoes: 5.5/10 (55%)</td>
-					<td><a href="Website About Me - Resources.html">50</a></td>
+					<td><a href="Website About Me - Works Cited.php">50</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_movie_51; ?> (Christmas film)</td>
@@ -1592,7 +1592,7 @@
 					<td><?php echo $favorite_movie_cinematographer_42; ?></td>
 					<td><?php echo $favorite_movie_editor_65; ?></td>
 					<td>Rotten Tomatoes: 1.5/10 (25%)</td>
-					<td><a href="Website About Me - Resources.html">52</a></td>
+					<td><a href="Website About Me - Works Cited.php">52</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_movie_53; ?> (2008 Computer Animated film)</td>
@@ -1612,7 +1612,7 @@
 					<td><?php echo $favorite_movie_cinematographer_5; ?></td>
 					<td><?php echo $favorite_movie_editor_34; ?></td>
 					<td>Rotten Tomatoes: 7.5/10 (89%)</td>
-					<td><a href="Website About Me - Resources.html">53</a></td>
+					<td><a href="Website About Me - Works Cited.php">53</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_movie_54; ?></td>
@@ -1632,7 +1632,7 @@
 					<td><?php echo $favorite_movie_cinematographer_43; ?></td>
 					<td><?php echo $favorite_movie_editor_66; ?></td>
 					<td>Rotten Tomatoes: 2.5/10 (39%)</td>
-					<td><a href="Website About Me - Resources.html">54</a></td>
+					<td><a href="Website About Me - Works Cited.php">54</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_movie_55; ?></td>
@@ -1652,7 +1652,7 @@
 					<td><?php echo $favorite_movie_cinematographer_43; ?></td>
 					<td><?php echo $favorite_movie_editor_67; ?></td>
 					<td>Rotten Tomatoes: 1.5/10 (13%)</td>
-					<td><a href="Website About Me - Resources.html">55</a></td>
+					<td><a href="Website About Me - Works Cited.php">55</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_movie_56; ?> (film)</td>
@@ -1672,7 +1672,7 @@
 					<td><?php echo $favorite_movie_cinematographer_44; ?></td>
 					<td><?php echo $favorite_movie_editor_6; ?></td>
 					<td>Rotten Tomatoes: 6.2/10 (55%)</td>
-					<td><a href="Website About Me - Resources.html">56</a></td>
+					<td><a href="Website About Me - Works Cited.php">56</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_movie_57; ?></td>
@@ -1692,7 +1692,7 @@
 					<td><?php echo $favorite_movie_cinematographer_45; ?></td>
 					<td><?php echo $favorite_movie_editor_68; ?>, <?php echo $favorite_movie_editor_69; ?></td>
 					<td>Rotten Tomatoes: 7.5/10 (91%)</td>
-					<td><a href="Website About Me - Resources.html">57</a></td>
+					<td><a href="Website About Me - Works Cited.php">57</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_movie_58; ?> (2002 film)</td>
@@ -1712,7 +1712,7 @@
 					<td><?php echo $favorite_movie_cinematographer_46; ?></td>
 					<td><?php echo $favorite_movie_editor_70; ?>, <?php echo $favorite_movie_editor_71; ?></td>
 					<td>Rotten Tomatoes: 7.7/10 (89%)</td>
-					<td><a href="Website About Me - Resources.html">58</a></td>
+					<td><a href="Website About Me - Works Cited.php">58</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_movie_59; ?></td>
@@ -1732,7 +1732,7 @@
 					<td><?php echo $favorite_movie_cinematographer_47; ?></td>
 					<td><?php echo $favorite_movie_editor_70; ?></td>
 					<td>Rotten Tomatoes: 8.3/10 (93%)</td>
-					<td><a href="Website About Me - Resources.html">59</a></td>
+					<td><a href="Website About Me - Works Cited.php">59</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_movie_60; ?></td>
@@ -1752,7 +1752,7 @@
 					<td><?php echo $favorite_movie_cinematographer_47; ?></td>
 					<td><?php echo $favorite_movie_editor_70; ?></td>
 					<td>Rotten Tomatoes: 6.1/10 (63%)</td>
-					<td><a href="Website About Me - Resources.html">60</a></td>
+					<td><a href="Website About Me - Works Cited.php">60</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_movie_61; ?></td>
@@ -1772,7 +1772,7 @@
 					<td><?php echo $favorite_movie_cinematographer_48; ?></td>
 					<td><?php echo $favorite_movie_editor_38; ?>, <?php echo $favorite_movie_editor_72; ?></td>
 					<td>Rotten Tomatoes: 7/10 (80%)</td>
-					<td><a href="Website About Me - Resources.html">61</a></td>
+					<td><a href="Website About Me - Works Cited.php">61</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_movie_62; ?></td>
@@ -1792,7 +1792,7 @@
 					<td><?php echo $favorite_movie_cinematographer_49; ?></td>
 					<td><?php echo $favorite_movie_editor_73; ?>, <?php echo $favorite_movie_editor_74; ?></td>
 					<td>Rotten Tomatoes: 2.5/10 (60%)</td>
-					<td><a href="Website About Me - Resources.html">62</a></td>
+					<td><a href="Website About Me - Works Cited.php">62</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_movie_63; ?> (2015 film)</td>
@@ -1812,7 +1812,7 @@
 					<td><?php echo $favorite_movie_cinematographer_17; ?></td>
 					<td><?php echo $favorite_movie_editor_75; ?>, <?php echo $favorite_movie_editor_76; ?></td>
 					<td>Rotten Tomatoes: 3.4/10 (9%)</td>
-					<td><a href="Website About Me - Resources.html">63</a></td>
+					<td><a href="Website About Me - Works Cited.php">63</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_movie_64; ?></td>
@@ -1832,7 +1832,7 @@
 					<td><?php echo $favorite_movie_cinematographer_50; ?></td>
 					<td><?php echo $favorite_movie_editor_77; ?></td>
 					<td>Rotten Tomatoes: 2.5/10 (17%)</td>
-					<td><a href="Website About Me - Resources.html">64</a></td>
+					<td><a href="Website About Me - Works Cited.php">64</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_movie_65; ?> (2015 film)</td>
@@ -1852,7 +1852,7 @@
 					<td><?php echo $favorite_movie_cinematographer_44; ?></td>
 					<td><?php echo $favorite_movie_editor_36; ?></td>
 					<td>Rotten Tomatoes: 3.8/10 (17%)</td>
-					<td><a href="Website About Me - Resources.html">65</a></td>
+					<td><a href="Website About Me - Works Cited.php">65</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_movie_66; ?> (2005 film)</td>
@@ -1872,7 +1872,7 @@
 					<td><?php echo $favorite_movie_cinematographer_48; ?></td>
 					<td><?php echo $favorite_movie_editor_78; ?></td>
 					<td>Rotten Tomatoes: 6.5/10 (73%)</td>
-					<td><a href="Website About Me - Resources.html">66</a></td>
+					<td><a href="Website About Me - Works Cited.php">66</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_movie_67; ?></td>
@@ -1892,7 +1892,7 @@
 					<td><?php echo $favorite_movie_cinematographer_51; ?></td>
 					<td><?php echo $favorite_movie_editor_79; ?></td>
 					<td>Rotten Tomatoes: 5.3/10 (43%)</td>
-					<td><a href="Website About Me - Resources.html">67</a></td>
+					<td><a href="Website About Me - Works Cited.php">67</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_movie_68; ?></td>
@@ -1912,7 +1912,7 @@
 					<td><?php echo $favorite_movie_cinematographer_2; ?></td>
 					<td><?php echo $favorite_movie_editor_79; ?>, <?php echo $favorite_movie_editor_51; ?></td>
 					<td>Rotten Tomatoes: 5.1/10 (44%)</td> 
-					<td><a href="Website About Me - Resources.html">68</a></td>
+					<td><a href="Website About Me - Works Cited.php">68</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_movie_69; ?></td>
@@ -1932,7 +1932,7 @@
 					<td><?php echo $favorite_movie_cinematographer_51; ?></td>
 					<td><?php echo $favorite_movie_editor_51; ?></td>
 					<td>Rotten Tomatoes: 5/10 (48%)</td>
-					<td><a href="Website About Me - Resources.html">69</a></td>
+					<td><a href="Website About Me - Works Cited.php">69</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_movie_70; ?> (Christmas film)</td>
@@ -1952,7 +1952,7 @@
 					<td><?php echo $favorite_movie_cinematographer_46; ?>, <?php echo $favorite_movie_cinematographer_52; ?></td>
 					<td><?php echo $favorite_movie_editor_80; ?>, <?php echo $favorite_movie_editor_81; ?></td>
 					<td>Rotten Tomatoes: 6.4/10 (55%)</td>
-					<td><a href="Website About Me - Resources.html">70</a></td>
+					<td><a href="Website About Me - Works Cited.php">70</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_movie_71; ?> (film)</td>
@@ -1972,7 +1972,7 @@
 					<td><?php echo $favorite_movie_cinematographer_45; ?></td>
 					<td><?php echo $favorite_movie_editor_82; ?></td>
 					<td>Rotten Tomatoes: 4.6/10 (26%)</td>
-					<td><a href="Website About Me - Resources.html">71</a></td>
+					<td><a href="Website About Me - Works Cited.php">71</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_movie_72; ?></td>
@@ -1992,7 +1992,7 @@
 					<td><?php echo $favorite_movie_cinematographer_53; ?></td>
 					<td><?php echo $favorite_movie_editor_83; ?></td>
 					<td>Rotten Tomatoes: 5.5/10 (62%)</td>
-					<td><a href="Website About Me - Resources.html">72</a></td>
+					<td><a href="Website About Me - Works Cited.php">72</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_movie_73; ?></td>
@@ -2012,7 +2012,7 @@
 					<td><?php echo $favorite_movie_cinematographer_53; ?></td>
 					<td><?php echo $favorite_movie_editor_83; ?></td>
 					<td>Rotten Tomatoes: 3.7/10 (27%)</td>
-					<td><a href="Website About Me - Resources.html">73</a></td>
+					<td><a href="Website About Me - Works Cited.php">73</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_movie_74; ?></td>
@@ -2032,7 +2032,7 @@
 					<td><?php echo $favorite_movie_cinematographer_53; ?></td>
 					<td><?php echo $favorite_movie_editor_84; ?>, <?php echo $favorite_movie_editor_85; ?></td>
 					<td>Rotten Tomatoes: 1.5/10 (30%)</td>
-					<td><a href="Website About Me - Resources.html">74</a></td>
+					<td><a href="Website About Me - Works Cited.php">74</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_movie_75; ?></td>
@@ -2052,7 +2052,7 @@
 					<td><?php echo $favorite_movie_cinematographer_54; ?></td>
 					<td><?php echo $favorite_movie_editor_86; ?></td>
 					<td>Rotten Tomatoes: 6.3/10 (73%)</td>
-					<td><a href="Website About Me - Resources.html">75</a></td>
+					<td><a href="Website About Me - Works Cited.php">75</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_movie_76; ?> (Epic film)</td>
@@ -2072,7 +2072,7 @@
 					<td><?php echo $favorite_movie_cinematographer_55; ?></td>
 					<td><?php echo $favorite_movie_editor_13; ?></td>
 					<td>Rotten Tomatoes: 8.1/10 (90%)</td>
-					<td><a href="Website About Me - Resources.html">76</a></td>
+					<td><a href="Website About Me - Works Cited.php">76</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_movie_77; ?> (3D film)</td>
@@ -2112,7 +2112,7 @@
 					<td><?php echo $favorite_movie_cinematographer_57; ?></td>
 					<td><?php echo $favorite_movie_editor_88; ?>, <?php echo $favorite_movie_editor_89; ?></td>
 					<td>Rotten Tomatoes: 9/10 (96%)</td>
-					<td><a href="Website About Me - Resources.html">78</a></td>
+					<td><a href="Website About Me - Works Cited.php">78</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_movie_79; ?> (Epic film)</td>
@@ -2152,7 +2152,7 @@
 					<td><?php echo $favorite_movie_cinematographer_58; ?></td>
 					<td><?php echo $favorite_movie_editor_91; ?></td>
 					<td>Rotten Tomatoes: 6.7/10 (65%)</td>
-					<td><a href="Website About Me - Resources.html">80</a></td>
+					<td><a href="Website About Me - Works Cited.php">80</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_movie_81; ?> (Epic film)</td>
@@ -2172,7 +2172,7 @@
 					<td><?php echo $favorite_movie_cinematographer_58; ?></td>
 					<td><?php echo $favorite_movie_editor_15; ?>, <?php echo $favorite_movie_editor_91; ?></td>
 					<td>Rotten Tomatoes: 7.3/10 (79%)</td>
-					<td><a href="Website About Me - Resources.html">81</a></td>
+					<td><a href="Website About Me - Works Cited.php">81</a></td>
 				</tr>
 			</table>
 		</div><!-- end myFavoriteMoviesDivElement -->
