@@ -164,7 +164,7 @@
 					<td>6,500+</td>
 					<td>100+</td>
 					<td><?php echo $favorite_restaurant_founder_1; ?></td>
-					<td><a href="Website About Me - Resources.html">1</a></td>
+					<td><a href="Website About Me - Works Cited.php">1</a></td>
 				</tr>
 				<tr>
 					<td><a href="https://www.mcdonalds.com/"><?php echo $favorite_restaurant_2; ?></a></td>
@@ -177,7 +177,7 @@
 					<td>36,900</td>
 					<td>375,000</td>
 					<td><?php echo $favorite_restaurant_founder_2; ?>, <?php echo $favorite_restaurant_founder_2; ?>, <?php echo $favorite_restaurant_founder_3; ?></td>
-					<td><a href="Website About Me - Resources.html">2</a></td>
+					<td><a href="Website About Me - Works Cited.php">2</a></td>
 				</tr>
 				<tr>
 					<td><a href="http://www.goldencorral.com/"><?php echo $favorite_restaurant_3; ?></a></td>
@@ -190,7 +190,7 @@
 					<td>200</td>
 					<td>9000</td>
 					<td><?php echo $favorite_restaurant_founder_5; ?>, <?php echo $favorite_restaurant_founder_6; ?></td>
-					<td><a href="Website About Me - Resources.html">3</a></td>
+					<td><a href="Website About Me - Works Cited.php">3</a></td>
 				</tr>
 				<tr>
 					<td><a href="https://www.pizzahut.com/"><?php echo $favorite_restaurant_4; ?></a></td>
@@ -203,7 +203,7 @@
 					<td>13,728</td>
 					<td>100+</td>
 					<td><?php echo $favorite_restaurant_founder_7; ?>, <?php echo $favorite_restaurant_founder_8; ?></td>
-					<td><a href="Website About Me - Resources.html">4</a></td>
+					<td><a href="Website About Me - Works Cited.php">4</a></td>
 				</tr>
 				<tr>
 					<td><a href="http://www.perkinsrestaurants.com/"><?php echo $favorite_restaurant_5; ?></a></td>
@@ -216,7 +216,7 @@
 					<td>390</td>
 					<td>25,000</td>
 					<td><?php echo $favorite_restaurant_founder_9; ?>, <?php echo $favorite_restaurant_founder_10; ?></td>
-					<td><a href="Website About Me - Resources.html">5</a>, <a href="Website About Me - Resources.html">6</a></td>
+					<td><a href="Website About Me - Works Cited.php">5</a>, <a href="Website About Me - Works Cited.php">6</a></td>
 				</tr>
 				<tr>
 					<td><a href="https://pizzaranch.com/"><?php echo $favorite_restaurant_6; ?></a></td>
@@ -229,7 +229,7 @@
 					<td>204</td>
 					<td>100+</td>
 					<td><?php echo $favorite_restaurant_founder_11; ?>, <?php echo $favorite_restaurant_founder_12; ?></td>
-					<td><a href="Website About Me - Resources.html">7</a>, <a href="Website About Me - Resources.html">8</a></td>
+					<td><a href="Website About Me - Works Cited.php">7</a>, <a href="Website About Me - Works Cited.php">8</a></td>
 				</tr>
 				<tr>
 					<td><a href="https://www.whitecastle.com/"><?php echo $favorite_restaurant_7; ?></a></td>
@@ -242,7 +242,7 @@
 					<td>420</td>
 					<td>100+</td>
 					<td><?php echo $favorite_restaurant_founder_13; ?>, <?php echo $favorite_restaurant_founder_14; ?></td>
-					<td><a href="Website About Me - Resources.html">9</a></td>
+					<td><a href="Website About Me - Works Cited.php">9</a></td>
 				</tr>
 				<tr>
 					<td><a href="https://www.kfc.com/"><?php echo $favorite_restaurant_8; ?></a></td>
@@ -255,7 +255,7 @@
 					<td>19,952</td>
 					<td>100+</td>
 					<td><?php echo $favorite_restaurant_founder_15; ?></td>
-					<td><a href="Website About Me - Resources.html">10</a></td>
+					<td><a href="Website About Me - Works Cited.php">10</a></td>
 				</tr>
 				<tr>
 					<td><a href="http://www.subway.com/en-us"><?php echo $favorite_restaurant_9; ?></a></td>
@@ -268,7 +268,7 @@
 					<td>44,834</td>
 					<td>100+</td>
 					<td><?php echo $favorite_restaurant_founder_16; ?>, <?php echo $favorite_restaurant_founder_17; ?></td>
-					<td><a href="Website About Me - Resources.html">11</a></td>
+					<td><a href="Website About Me - Works Cited.php">11</a></td>
 				</tr>
 				<tr>
 					<td><a href="https://www.dennys.com/"><?php echo $favorite_restaurant_10; ?></a></td>
@@ -281,7 +281,7 @@
 					<td>1,700</td>
 					<td>100+</td>
 					<td><?php echo $favorite_restaurant_founder_18; ?>, <?php echo $favorite_restaurant_founder_19; ?></td>
-					<td><a href="Website About Me - Resources.html">12</a></td>
+					<td><a href="Website About Me - Works Cited.php">12</a></td>
 				</tr>
 				<tr>
 					<td><a href="http://www.oldcountrybuffet.com/"><?php echo $favorite_restaurant_11; ?></a></td>
@@ -294,7 +294,7 @@
 					<td>113</td>
 					<td>100+</td>
 					<td><?php echo $favorite_restaurant_founder_20; ?>, <?php echo $favorite_restaurant_founder_21; ?>, <?php echo $favorite_restaurant_founder_22; ?>, Doron Jensen</td>
-					<td><a href="Website About Me - Resources.html">13</a></td>
+					<td><a href="Website About Me - Works Cited.php">13</a></td>
 				</tr>
 				<tr>
 					<td><a href="http://www.starbucks.com/"><?php echo $favorite_restaurant_12; ?></a></td>
@@ -307,7 +307,7 @@
 					<td>26,696</td>
 					<td>238,000</td>
 					<td><?php echo $favorite_restaurant_founder_24; ?>, <?php echo $favorite_restaurant_founder_25; ?>, <?php echo $favorite_restaurant_founder_26; ?></td>
-					<td><a href="Website About Me - Resources.html">14</a></td>
+					<td><a href="Website About Me - Works Cited.php">14</a></td>
 				</tr>
 				<tr>
 					<td><a href="https://www.dairyqueen.com/us-en/"><?php echo $favorite_restaurant_13; ?></a></td>
@@ -320,7 +320,7 @@
 					<td>6,400</td>
 					<td>100+</td>
 					<td><?php echo $favorite_restaurant_founder_27; ?></td>
-					<td><a href="Website About Me - Resources.html">15</a></td>
+					<td><a href="Website About Me - Works Cited.php">15</a></td>
 				</tr>
 				<tr>
 					<td><a href="https://www.tacobell.com/"><?php echo $favorite_restaurant_14; ?></a></td>
@@ -333,7 +333,7 @@
 					<td>7,000</td>
 					<td>175,000+</td>
 					<td><?php echo $favorite_product_founder_28; ?></td>
-					<td><a href="Website About Me - Resources.html">16</a></td>
+					<td><a href="Website About Me - Works Cited.php">16</a></td>
 				</tr>
 				<tr>
 					<td><a href="https://www.sonicdrivein.com/"><?php echo $favorite_restaurant_15; ?></a></td>
@@ -346,7 +346,7 @@
 					<td>3,557</td>
 					<td>9,200</td>
 					<td><?php echo $favorite_restuarant_founder_29; ?></td>
-					<td><a href="Website About Me - Resources.html">17</a></td>
+					<td><a href="Website About Me - Works Cited.php">17</a></td>
 				</tr>
 				<tr>
 					<td><a href="https://arbys.com/"><?php echo $favorite_restaurant_16; ?></a></td>
@@ -359,7 +359,7 @@
 					<td>3,342</td>
 					<td>74,000</td>
 					<td><?php echo $favorite_restaurant_founder_30; ?>, <?php echo $favorite_restaurant_founder_31; ?></td>
-					<td><a href="Website About Me - Resources.html">18</a></td>
+					<td><a href="Website About Me - Works Cited.php">18</a></td>
 				</tr>
 				<tr>
 					<td><a href="https://www.culvers.com/"><?php echo $favorite_restaurant_17; ?></a></td>
@@ -372,7 +372,7 @@
 					<td>640</td>
 					<td>100+</td>
 					<td><?php echo $favorite_restaurant_founder_32; ?>, <?php echo $favorite_restaurant_founder_33; ?></td>
-					<td><a href="Website About Me - Resources.html">19</a></td>
+					<td><a href="Website About Me - Works Cited.php">19</a></td>
 				</tr>
 				<tr>
 					<td><a href="https://awrestaurants.com/"><?php echo $favorite_restaurant_18; ?></a></td>
@@ -385,7 +385,7 @@
 					<td>1,200+</td>
 					<td>100+</td>
 					<td><?php echo $favorite_restaurant_founder_34; ?>, <?php echo $favorite_restaurant_founder_35; ?></td>
-					<td><a href="Website About Me - Resources.html">20</a></td>
+					<td><a href="Website About Me - Works Cited.php">20</a></td>
 				</tr>
 				<tr>
 					<td><a href="http://www.bk.com/"><?php echo $favorite_restaurant_19; ?></a></td>
@@ -398,7 +398,7 @@
 					<td>15,000+</td>
 					<td>34,248</td>
 					<td><?php echo $favorite_restaurant_founder_36; ?>, <?php echo $favorite_restaurant_founder_37; ?>, <?php echo $favorite_restaurant_founder_38; ?>, <?php echo $favorite_restaurant_founder_39; ?></td>
-					<td><a href="Website About Me - Resources.html">21</a></td>
+					<td><a href="Website About Me - Works Cited.php">21</a></td>
 				</tr>
 				<tr>
 					<td><a href="http://www.olivegarden.com/home"><?php echo $favorite_restaurant_20; ?></a></td>
@@ -411,7 +411,7 @@
 					<td>844</td>
 					<td>100+</td>
 					<td><?php echo $favorite_restaurant_founder_40; ?></td>
-					<td><a href="Website About Me - Resources.html">22</a></td>
+					<td><a href="Website About Me - Works Cited.php">22</a></td>
 				</tr>
 				<tr>
 					<td><a href="https://www.outback.com/"><?php echo $favorite_restaurant_21; ?></a></td>
@@ -424,7 +424,7 @@
 					<td>978</td>
 					<td>100+</td>
 					<td><?php echo $favorite_restaurant_founder_41; ?>, <?php echo $favorite_restaurant_founder_42; ?>, <?php echo $favorite_restaurant_founder_43; ?>, <?php echo $favorite_restaurant_founder_44; ?></td>
-					<td><a href="Website About Me - Resources.html">23</a></td>
+					<td><a href="Website About Me - Works Cited.php">23</a></td>
 				</tr>
 				<tr>
 					<td><a href="https://www.pon-bon.com/"><?php echo $favorite_restaurant_22; ?></a></td>
@@ -437,7 +437,7 @@
 					<td>88</td>
 					<td>100+</td>
 					<td><?php echo $favorite_restaurant_founder_45; ?>, <?php echo $favorite_restaurant_founder_46; ?>, <?php echo $favorite_restaurant_founder_47; ?></td>
-					<td><a href="Website About Me - Resources.html">24</a></td>
+					<td><a href="Website About Me - Works Cited.php">24</a></td>
 				</tr>
 			</table>
 		</div><!-- end myFavoriteRestaurantsDivElement -->
