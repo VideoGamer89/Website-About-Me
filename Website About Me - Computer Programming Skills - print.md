@@ -24,7 +24,7 @@
 				<li><a href="Website About Me - Work Samples - print.md">Work Samples</a></li>
 				<li><a href="Website About Me - Operating Systems - print.md">Operating Systems</a></li>
 				<li><a href="Website About Me - Software - print.md">Software</a></li>
-				<li><a href="Website About Me - Resources - print.md">Resources</a></li>
+				<li><a href="Website About Me - Works Cited - print.md">Works Cited</a></li>
 			</ul>
 		</div>
 		<div class = "content">
@@ -46,7 +46,7 @@
 					<td>Multi-Paradigm, Procedural, Functional, Object-Oriented, Generic</td>
 					<td>Static, Nominative, Partially Inferred</td>
 					<td>Bjarne Stroustrup</td>
-					<td><a href="Website About Me - Resources - print.md">1</a></td>
+					<td><a href="Website About Me - Works Cited - print.md">1</a></td>
 				</tr>
 				<tr>
 					<td>C#</td>
@@ -54,7 +54,7 @@
 					<td>Structured, Imperative, Object-Oriented, Event-Driven, Task-Driven, Functional, Generic, Reflective, Concurrent</td>
 					<td>Static, Dynamic, Strong, Safe, Nominative, Partially Inferred</td>
 					<td>Microsoft</td>
-					<td><a href="Website About Me - Resources - print.md">2</a></td>
+					<td><a href="Website About Me - Works Cited - print.md">2</a></td>
 				</tr>
 				<tr>
 					<td>Java</td>
@@ -62,7 +62,7 @@
 					<td>Multi-Paradigm, Object-Oriented (Class-Based), Structured, Imperative, Generic, Reflective, Concurrent</td>
 					<td>Static, Strong, Safe, Nominative, Manifest</td>
 					<td>James Gosling</td>
-					<td><a href="Website About Me - Resources - print.md">3</a></td>
+					<td><a href="Website About Me - Works Cited - print.md">3</a></td>
 				</tr>
 				<tr>
 					<td>JavaScript</td>
@@ -70,7 +70,7 @@
 					<td>Multi-Paradigm, Object-Oriented (Prototype-Based), Imperative, Functional, Event-Driven</td>
 					<td>Dynamic, Duck</td>
 					<td>Brendan Eich</td>
-					<td><a href="Website About Me - Resources - print.md">4</a></td>
+					<td><a href="Website About Me - Works Cited - print.md">4</a></td>
 				</tr>
 				<tr>
 					<td>HTML (HyperText Markup Language)</td>
@@ -78,7 +78,7 @@
 					<td>None</td>
 					<td>None</td>
 					<td>Tim Berners-Lee</td>
-					<td><a href="Website About Me - Resources - print.md">5</a></td>
+					<td><a href="Website About Me - Works Cited - print.md">5</a></td>
 				</tr>
 				<tr>
 					<td>CSS (Cascading Style Sheet)</td>
@@ -86,7 +86,7 @@
 					<td>None</td>
 					<td>None</td>
 					<td>Hakon Wium Lie</td>
-					<td><a href="Website About Me - Resources - print.md">6</a></td>
+					<td><a href="Website About Me - Works Cited - print.md">6</a></td>
 				</tr>
 				<tr>
 					<td>AJAX (Asynchronous JavaScript and XML)</td>
@@ -94,7 +94,7 @@
 					<td>None</td>
 					<td>None</td>
 					<td>None</td>
-					<td><a href="Website About Me - Resources - print.md">7</a></td>
+					<td><a href="Website About Me - Works Cited - print.md">7</a></td>
 				</tr>
 				<tr>
 					<td>MySQL (Structured Query Language)</td>
@@ -102,7 +102,7 @@
 					<td>None</td>
 					<td>None</td>
 					<td>David Axmark, Allan Larsson and Micheal "Monty" Widenius</td>
-					<td><a href="Website About Me - Resources - print.md">8</a></td>
+					<td><a href="Website About Me - Works Cited - print.md">8</a></td>
 				</tr>
 				<tr>
 					<td>PHP (Personal Home Page)</td>
@@ -110,7 +110,7 @@
 					<td>Dynamic, Weak, Gradual</td>
 					<td>Imperative, Object-Oriented, Procedural, Reflective</td>
 					<td>Rasmus Lerdorf</td>
-					<td><a href="Website About Me - Resources - print.md">9</a></td>
+					<td><a href="Website About Me - Works Cited - print.md">9</a></td>
 				</tr>
 				<tr>
 					<td>F#</td>
@@ -118,7 +118,7 @@
 					<td>Static, Strong, Inferred</td>
 					<td>Multi-Paradigm, Functional, Imperative, Object-Oriented, Metaprogramming, Reflective, Concurrent</td>
 					<td>Don Syme, Microsoft Research</td>
-					<td><a href="Website About Me - Resources - print.md">10</a></td>
+					<td><a href="Website About Me - Works Cited - print.md">10</a></td>
 				</tr>
 				<tr>
 					<td>XML (eXtensible Markup Language)</td>
@@ -126,7 +126,7 @@
 					<td>None</td>
 					<td>None</td>
 					<td>None</td>
-					<td><a href="Website About Me - Resources - print.md">11</a></td>
+					<td><a href="Website About Me - Works Cited - print.md">11</a></td>
 				</tr>
 				<tr>
 					<td>Visual Basic (Beginner's All-Purpose Symbolic Instruction Code)</td>
@@ -134,7 +134,7 @@
 					<td>Static, Strong</td>
 					<td>Object-Based, Event-Driven</td>
 					<td>Alan Cooper</td>
-					<td><a href="Website About Me - Resources - print.md">12</a>, <a href="Website About Me - Resources - print.md">13</a></td>
+					<td><a href="Website About Me - Works Cited - print.md">12</a>, <a href="Website About Me - Works Cited - print.md">13</a></td>
 				</tr>
 				<tr>
 					<td>VBScript (Microsoft Visual Basic Scripting Edition)</td>
@@ -142,7 +142,7 @@
 					<td>None</td>
 					<td>None</td>
 					<td>Alan Cooper</td>
-					<td><a href="Website About Me - Resources - print.md">14</a></td>
+					<td><a href="Website About Me - Works Cited - print.md">14</a></td>
 				</tr>
 				<tr>
 					<td>Trello</td>
@@ -150,7 +150,7 @@
 					<td>None</td>
 					<td>None</td>
 					<td>Joel Spolsky</td>
-					<td><a href="Website About Me - Resources - print.md">15</a></td>
+					<td><a href="Website About Me - Works Cited - print.md">15</a></td>
 				</tr>
 				<tr>
 					<td>WordPress</td>
@@ -158,7 +158,7 @@
 					<td>None</td>
 					<td>None</td>
 					<td>Matt Mullenweg, Mike Little</td>
-					<td><a href="Website About Me - Resources - print.md">16</a></td>
+					<td><a href="Website About Me - Works Cited - print.md">16</a></td>
 				</tr>
 				<tr>
 					<td>Typeform</td>
@@ -166,7 +166,7 @@
 					<td>None</td>
 					<td>None</td>
 					<td>Robert Munoz, David Okuniev</td>
-					<td><a href="Website About Me - Resources - print.md">17</a></td>
+					<td><a href="Website About Me - Works Cited - print.md">17</a></td>
 				</tr>
 				<tr>
 					<td>Google Analytics</td>
@@ -174,7 +174,7 @@
 					<td>None</td>
 					<td>None</td>
 					<td>Google</td>
-					<td><a href="Website About Me - Resources - print.md">18</a></td>
+					<td><a href="Website About Me - Works Cited - print.md">18</a></td>
 				</tr>
 				<tr>
 					<td>Google Tag Manager</td>
@@ -182,7 +182,7 @@
 					<td>None</td>
 					<td>None</td>
 					<td>Google</td>
-					<td><a href="Website About Me - Resources - print.md">19</a></td>
+					<td><a href="Website About Me - Works Cited - print.md">19</a></td>
 				</tr>
 				<tr>
 					<td>Gliffy</td>
@@ -190,7 +190,7 @@
 					<td>None</td>
 					<td>None</td>
 					<td>Chris Kohlhardt, Clint Dickson</td>
-					<td><a href="Website About Me - Resources - print.md">20</a></td>
+					<td><a href="Website About Me - Works Cited - print.md">20</a></td>
 				</tr>
 				<tr>
 					<td>Google Sheets</td>
@@ -198,7 +198,7 @@
 					<td>None</td>
 					<td>None</td>
 					<td>Google</td>
-					<td><a href="Website About Me - Resources - print.md">21</a></td>
+					<td><a href="Website About Me - Works Cited - print.md">21</a></td>
 				</tr>
 				<tr>
 					<td>Google Docs</td>
@@ -206,7 +206,7 @@
 					<td>None</td>
 					<td>None</td>
 					<td>Google</td>
-					<td><a href="Website About Me - Resources - print.md">21</a></td>
+					<td><a href="Website About Me - Works Cited - print.md">21</a></td>
 				</tr>
 				<tr>
 					<td>Google Slides</td>
@@ -214,7 +214,7 @@
 					<td>None</td>
 					<td>None</td>
 					<td>Google</td>
-					<td><a href="Website About Me - Resources - print.md">21</a></td>
+					<td><a href="Website About Me - Works Cited - print.md">21</a></td>
 				</tr>
 				<tr>
 					<td>Google Page Speed</td>
@@ -222,7 +222,7 @@
 					<td>None</td>
 					<td>None</td>
 					<td>Google</td>
-					<td><a href="Website About Me - Resources - print.md">22</a></td>
+					<td><a href="Website About Me - Works Cited - print.md">22</a></td>
 				</tr>
 				<tr>
 					<td>C</td>
@@ -230,20 +230,9 @@
 					<td>Imperative (Procedural), Structured</td>
 					<td>Static, Weak, Manifest, Nominal</td>
 					<td>Dennis Ritchie</td>
-					<td><a href="Website About Me - Resources - print.md">23</a></td>
+					<td><a href="Website About Me - Works Cited - print.md">23</a></td>
 				</tr>
 				</table>
-				<ul>
-					<li>Android Development</li>
-					<li>Web Development</li>
-					<li>Hot Jar</li>
-					<li>LearnDash</li>
-					<li>Tag Cloud</li>
-					<li>Webpage Test</li>
-					<li>Wikia</li>
-					<li>Google Chrome Developer Tools</li>
-					<li>Conversion Fly</li>
-				</ul>
 				<ul>
 					<li>Android Development</li>
 					<li>Web Development</li>
