@@ -24,7 +24,7 @@
 				<li><a href="Website About Me - Computer Programming Skills - print.md">Computer Programming Skills</a></li>
 				<li><a href="Website About Me - Operating Systems - print.md">Operating Systems</a></li>
 				<li><a href="Website About Me - Software - print.md">Software</a></li>
-				<li><a href="Website About Me - Resources - print.md">Resources</a></li>
+				<li><a href="Website About Me - Works Cited - print.md">Works Cited</a></li>
 			</ul>
 		</div>
 		<div class = "content">
@@ -58,7 +58,7 @@
 						<td>20,000</td>
 						<td>James McCurry, Gary M. Kusin</td>
 						<td>$9 Billion (US)</td>
-						<td><a href="Website About Me - Resources - print.md">1</a></td>
+						<td><a href="Website About Me - Works Cited - print.md">1</a></td>
 					</tr>
 					<tr>
 						<td><a href="https://www.walmart.com/">Walmart</a></td>
@@ -72,7 +72,7 @@
 						<td>2.3 Million</td>
 						<td>Sam Walton</td>
 						<td>485.87 billion (US)</td>
-						<td><a href="Website About Me - Resources - print.md">2</a></td>
+						<td><a href="Website About Me - Works Cited - print.md">2</a></td>
 					</tr>
 					<tr>
 						<td><a href="https://www.target.com/">Target</a></td>
@@ -86,7 +86,7 @@
 						<td>341,000</td>
 						<td>George Dayton</td>
 						<td>$69.495 billion (US)</td>
-						<td><a href="Website About Me - Resources - print.md">3</a></td>
+						<td><a href="Website About Me - Works Cited - print.md">3</a></td>
 					</tr>
 					<tr>
 						<td><a href="http://www.bestbuy.com/">Best Buy</a></td>
@@ -100,7 +100,7 @@
 						<td>125,000</td>
 						<td>Richard M. Schulze</td>
 						<td>$44.092 billion (US)</td>
-						<td><a href="Website About Me - Resources - print.md">4</a></td>
+						<td><a href="Website About Me - Works Cited - print.md">4</a></td>
 					</tr>
 					<tr>
 						<td><a href="https://www.kohls.com/">Kohl's</a></td>
@@ -114,7 +114,7 @@
 						<td>138,000</td>
 						<td>Maxwell Kohl</td>
 						<td>$18.686 billion (US)</td>
-						<td><a href="Website About Me - Resources - print.md">5</a></td>
+						<td><a href="Website About Me - Works Cited - print.md">5</a></td>
 					</tr>
 					<tr>
 						<td><a href="http://www.shopko.com/">Shopko</a></td>
@@ -128,7 +128,7 @@
 						<td>16,900</td>
 						<td>James Ruben</td>
 						<td>$3.25 billion (US)</td>
-						<td><a href="Website About Me - Resources - print.md">6</a></td>
+						<td><a href="Website About Me - Works Cited - print.md">6</a></td>
 					</tr>
 					<tr>
 						<td><a href="https://www.cub.com/">Cub Foods</a></td>
@@ -142,7 +142,7 @@
 						<td>100+</td>
 						<td>Charles Hooley, Jack Hooley, Robert Thueson, Culver Davis Jr.</td>
 						<td>None</td>
-						<td><a href="Website About Me - Resources - print.md">7</a></td>
+						<td><a href="Website About Me - Works Cited - print.md">7</a></td>
 					</tr>
 					<tr>
 						<td><a href="http://www.dollargeneral.com/">Dollar General</a></td>
@@ -156,7 +156,7 @@
 						<td>100+</td>
 						<td>J.L. Turner, Cal Turner</td>
 						<td>$20.369 billion (US)</td>
-						<td><a href="Website About Me - Resources - print.md">8</a></td>
+						<td><a href="Website About Me - Works Cited - print.md">8</a></td>
 					</tr>
 					<tr>
 						<td><a href="https://www.officedepot.com/">OfficeMax</a></td>
@@ -184,7 +184,7 @@
 						<td>26,000</td>
 						<td>Charles M. Barnes, William Barnes, G. Clifford Noble, Leonard Riggio</td>
 						<td>$4.164 billion (US)</td>
-						<td><a href="Website About Me - Resources - print.md">10</a></td>
+						<td><a href="Website About Me - Works Cited - print.md">10</a></td>
 					</tr>
 					<tr>
 						<td><a href="https://www.hpb.com/home">Half Price Books</a></td>
@@ -198,7 +198,7 @@
 						<td>100+</td>
 						<td>Ken Gjemre, Pat Anderson</td>
 						<td>None</td>
-						<td><a href="Website About Me - Resources - print.md">11</a></td>
+						<td><a href="Website About Me - Works Cited - print.md">11</a></td>
 					</tr>
 				</table>
 			</div>
