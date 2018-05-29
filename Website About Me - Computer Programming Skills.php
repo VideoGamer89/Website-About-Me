@@ -108,7 +108,7 @@
 					<td><?php echo $computer_programming_skill_paradigm_1; ?>, <?php echo $computer_programming_skill_paradigm_2; ?>, <?php echo $computer_programming_skill_paradigm_3; ?>, <?php echo $computer_programming_skill_paradigm_4; ?>, <?php echo $computer_programming_skill_paradigm_5; ?></td>
 					<td><?php echo $computer_programming_skill_typing_discipline_1; ?>, <?php echo $computer_programming_skill_typing_discipline_2; ?>, <?php echo $computer_programming_skill_typing_discipline_3; ?></td>
 					<td><?php echo $computer_programming_skill_designer_1; ?></td>
-					<td><a href="Website About Me - Resources.php">1</a></td>
+					<td><a href="Website About Me - Works Cited.php">1</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $computer_programming_skill_2; ?></td>
@@ -116,7 +116,7 @@
 					<td><?php echo $computer_programming_skill_paradigm_6; ?>, <?php echo $computer_programming_skill_paradigm_7; ?>, <?php echo $computer_programming_skill_paradigm_4; ?>, <?php echo $computer_programming_skill_paradigm_8; ?>, <?php echo $computer_programming_skill_paradigm_9; ?>, <?php echo $computer_programming_skill_paradigm_3; ?>, <?php echo $computer_programming_skill_paradigm_5; ?>, <?php echo $computer_programming_skill_paradigm_10; ?>, <?php echo $computer_programming_skill_paradigm_11; ?></td>
 					<td><?php echo $computer_programming_skill_typing_discipline_1; ?>, <?php echo $computer_programming_skill_typing_discipline_4; ?>, <?php echo $computer_programming_skill_typing_discipline_5; ?>, <?php echo $computer_programming_skill_typing_discipline_6; ?>, <?php echo $computer_programming_skill_typing_discipline_2; ?>, <?php echo $computer_programming_skill_typing_discipline_3; ?></td>
 					<td><?php echo $computer_programming_skill_designer_2; ?></td>
-					<td><a href="Website About Me - Resources.php">2</a></td>
+					<td><a href="Website About Me - Works Cited.php">2</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $computer_programming_skill_3; ?></td>
@@ -124,7 +124,7 @@
 					<td><?php echo $computer_programming_skill_paradigm_1; ?>, <?php echo $computer_programming_skill_paradigm_4; ?> (<?php echo $computer_programming_skill_paradigm_12; ?>), <?php echo $computer_programming_skill_paradigm_6; ?>, <?php echo $computer_programming_skill_paradigm_7; ?>, <?php echo $computer_programming_skill_paradigm_5; ?>, <?php echo $computer_programming_skill_paradigm_10; ?>, <?php echo $computer_programming_skill_paradigm_11; ?></td>
 					<td><?php echo $computer_programming_skill_typing_discipline_1; ?>, <?php echo $computer_programming_skill_typing_discipline_5; ?>, <?php echo $computer_programming_skill_typing_discipline_6; ?>, <?php echo $computer_programming_skill_typing_discipline_2; ?>, <?php echo $computer_programming_skill_typing_discipline_7; ?></td>
 					<td><?php echo $computer_programming_skill_designer_3; ?></td>
-					<td><a href="Website About Me - Resources.php">3</a></td>
+					<td><a href="Website About Me - Works Cited.php">3</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $computer_programming_skill_4; ?></td>
@@ -132,7 +132,7 @@
 					<td><?php echo $computer_programming_skill_paradigm_1; ?>, <?php echo $computer_programming_skill_paradigm_4; ?> (<?php echo $computer_programming_skill_paradigm_13; ?>), <?php echo $computer_programming_skill_paradigm_7; ?>, <?php echo $computer_programming_skill_paradigm_3; ?>, <?php echo $computer_programming_skill_paradigm_8; ?></td>
 					<td><?php echo $computer_programming_skill_typing_discipline_4; ?>, <?php echo $computer_programming_skill_typing_discipline_8; ?></td>
 					<td><?php echo $computer_programming_skill_designer_4; ?></td>
-					<td><a href="Website About Me - Resources.php">4</a></td>
+					<td><a href="Website About Me - Works Cited.php">4</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $computer_programming_skill_5; ?></td>
@@ -140,7 +140,7 @@
 					<td><?php echo $computer_programming_skill_paradigm_15; ?></td>
 					<td><?php echo $computer_programming_skill_typing_discipline_9; ?></td>
 					<td><?php echo $computer_programming_skill_designer_5; ?></td>
-					<td><a href="Website About Me - Resources.php">5</a></td>
+					<td><a href="Website About Me - Works Cited.php">5</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $computer_programming_skill_6; ?></td>
@@ -148,7 +148,7 @@
 					<td><?php echo $computer_programming_skill_paradigm_15; ?></td>
 					<td><?php echo $computer_programming_skill_typing_discipline_9; ?></td>
 					<td><?php echo $computer_programming_skill_designer_6; ?></td>
-					<td><a href="Website About Me - Resources.php">6</a></td>
+					<td><a href="Website About Me - Works Cited.php">6</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $computer_programming_skill_7; ?></td>
@@ -156,7 +156,7 @@
 					<td><?php echo $computer_programming_skill_paradigm_15; ?></td>
 					<td><?php echo $computer_programming_skill_designer_7; ?></td>
 					<td><?php echo $computer_programming_skill_typing_discipline_9; ?></td>
-					<td><a href="Website About Me - Resources.php">7</a></td>
+					<td><a href="Website About Me - Works Cited.php">7</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $computer_programming_skill_8; ?></td>
@@ -164,7 +164,7 @@
 					<td><?php echo $computer_programming_skill_paradigm_15; ?></td>
 					<td><?php echo $computer_programming_skill_typing_discipline_9; ?></td>
 					<td><?php echo $computer_programming_skill_designer_8; ?>, <?php echo $computer_programming_skill_designer_9; ?> and <?php echo $computer_programming_skill_designer_10; ?></td>
-					<td><a href="Website About Me - Resources.php">8</a></td>
+					<td><a href="Website About Me - Works Cited.php">8</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $computer_programming_skill_9; ?></td>
@@ -172,7 +172,7 @@
 					<td><?php echo $computer_programming_skill_typing_discipline_4; ?>, <?php echo $computer_programming_skill_typing_discipline_10; ?>, <?php echo $computer_programming_skill_typing_discipline_11; ?></td>
 					<td><?php echo $computer_programming_skill_paradigm_7; ?>, <?php echo $computer_programming_skill_paradigm_4; ?>, <?php echo $computer_programming_skill_paradigm_2; ?>, <?php echo $computer_programming_skill_paradigm_10; ?></td>
 					<td><?php echo $computer_programming_skill_typing_designer_11; ?></td>
-					<td><a href="Website About Me - Resources.php">9</a></td>
+					<td><a href="Website About Me - Works Cited.php">9</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $computer_programming_skill_10; ?></td>
@@ -180,7 +180,7 @@
 					<td><?php echo $computer_programming_skill_typing_discipline_1; ?>, <?php echo $computer_programming_skill_typing_discipline_5; ?>, <?php echo $computer_programming_skill_typing_discipline_15; ?></td>
 					<td><?php echo $computer_programming_skill_paradigm_1; ?>, <?php echo $computer_programming_skill_paradigm_3; ?>, <?php echo $computer_programming_skill_paradigm_7; ?>, <?php echo $computer_programming_skill_paradigm_4; ?>, <?php echo $computer_programming_skill_paradigm_16; ?>, <?php echo $computer_programming_skill_paradigm_10; ?>, <?php echo $computer_programming_skill_paradigm_11; ?></td>
 					<td><?php echo $computer_programming_skill_desinger_12; ?>, <?php echo $computer_programming_skill_designer_2; ?></td>
-					<td><a href="Website About Me - Resources.php">10</a></td>
+					<td><a href="Website About Me - Works Cited.php">10</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $computer_programming_skill_11; ?></td>
@@ -188,7 +188,7 @@
 					<td><?php echo $computer_programming_skill_paradigm_15; ?></td>
 					<td><?php echo $computer_programming_skill_typing_discipline_9; ?></td>
 					<td><?php echo $computer_programming_skill_designer_7; ?></td>
-					<td><a href="Website About Me - Resources.php">11</a></td>
+					<td><a href="Website About Me - Works Cited.php">11</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $computer_programming_skill_12; ?></td>
@@ -196,7 +196,7 @@
 					<td><?php echo $computer_programming_skill_typing_discipline_1; ?>, <?php echo $computer_programming_skill_typing_discipline_5; ?></td>
 					<td><?php echo $computer_programming_skill_12; ?>, <?php echo $computer_programming_skill_paradigm_8; ?></td>
 					<td><?php echo $computer_programming_skill_designer_13; ?></td>
-					<td><a href="Website About Me - Resources.php">12</a>, <a href="Website About Me - Resources.php">13</a></td>
+					<td><a href="Website About Me - Works Cited.php">12</a>, <a href="Website About Me - Works Cited.php">13</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $computer_programming_skill_13; ?></td>
@@ -204,7 +204,7 @@
 					<td><?php echo $computer_programming_skill_paradigm_15; ?></td>
 					<td><?php echo $computer_programming_skill_typing_discipline_9; ?></td>
 					<td><?php echo $computer_programming_skill_designer_13; ?></td>
-					<td><a href="Website About Me - Resources.php">14</a></td>
+					<td><a href="Website About Me - Works Cited.php">14</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $computer_programming_skill_14; ?></td>
@@ -212,7 +212,7 @@
 					<td><?php echo $computer_programming_skill_paradigm_15; ?></td>
 					<td><?php echo $computer_programming_skill_typing_discipline_9; ?></td>
 					<td><?php echo $computer_programming_skill_designer_14; ?></td>
-					<td><a href="Website About Me - Resources.php">15</a></td>
+					<td><a href="Website About Me - Works Cited.php">15</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $computer_programming_skill_15; ?></td>
@@ -220,7 +220,7 @@
 					<td><?php echo $computer_programming_skill_paradigm_15; ?></td>
 					<td><?php echo $computer_programming_skill_typing_discipline_9; ?></td>
 					<td><?php echo $computer_programming_skill_designer_15; ?>, <?php echo $computer_programming_skill_designer_16; ?></td>
-					<td><a href="Website About Me - Resources.php">16</a></td>
+					<td><a href="Website About Me - Works Cited.php">16</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $computer_programming_skill_16; ?></td>
@@ -228,7 +228,7 @@
 					<td><?php echo $computer_programming_skill_paradigm_15; ?></td>
 					<td><?php echo $computer_programming_skill_typing_discipline_9; ?></td>
 					<td><?php echo $computer_programming_skill_designer_17; ?>, <?php echo $computer_programming_skill_designer_18; ?></td>
-					<td><a href="Website About Me - Resources.php">17</a></td>
+					<td><a href="Website About Me - Works Cited.php">17</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $computer_programming_skill_17; ?></td>
@@ -236,7 +236,7 @@
 					<td><?php echo $computer_programming_skill_paradigm_15; ?></td>
 					<td><?php echo $computer_programming_skill_typing_discipline_9; ?></td>
 					<td><?php echo $computer_programming_skill_designer_19; ?></td>
-					<td><a href="Website About Me - Resources.php">18</a></td>
+					<td><a href="Website About Me - Works Cited.php">18</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $computer_programming_skill_18; ?></td>
@@ -244,7 +244,7 @@
 					<td><?php echo $computer_programming_skill_paradigm_15; ?></td>
 					<td><?php echo $computer_programming_skill_typing_discipline_9; ?></td>
 					<td><?php echo $computer_programming_skill_designer_19; ?></td>
-					<td><a href="Website About Me - Resources.php">19</a></td>
+					<td><a href="Website About Me - Works Cited.php">19</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $computer_programming_skill_19; ?></td>
@@ -252,7 +252,7 @@
 					<td><?php echo $computer_programming_skill_paradigm_15; ?></td>
 					<td><?php echo $computer_programming_skill_typing_discipline_9; ?></td>
 					<td><?php echo $computer_programming_skill_designer_20; ?>, <?php echo $computer_programming_skill_designer_21; ?></td>
-					<td><a href="Website About Me - Resources.php">20</a></td>
+					<td><a href="Website About Me - Works Cited.php">20</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $computer_programming_skill_20; ?></td>
@@ -260,31 +260,31 @@
 					<td><?php echo $computer_programming_skill_paradigm_15; ?></td>
 					<td><?php echo $computer_programming_skill_typing_discipline_9; ?></td>
 					<td><?php echo $computer_programming_skill_designer_19; ?></td>
-					<td><a href="Website About Me - Resources.php">21</a></td>
+					<td><a href="Website About Me - Works Cited.php">21</a></td>
 				</tr>
 				<tr>
-					<td><?php echo $computer_programming_skill_20; ?></td>
+					<td><?php echo $computer_programming_skill_21; ?></td>
 					<td>2006</td>
 					<td><?php echo $computer_programming_skill_paradigm_15; ?></td>
 					<td><?php echo $computer_programming_skill_typing_discipline_9; ?></td>
 					<td><?php echo $computer_programming_skill_designer_19; ?></td>
-					<td><a href="Website About Me - Resources.php">21</a></td>
+					<td><a href="Website About Me - Works Cited.php">21</a></td>
 				</tr>
 				<tr>
-					<td><?php echo $computer_programming_skill_20; ?></td>
+					<td><?php echo $computer_programming_skill_22; ?></td>
 					<td>2006</td>
 					<td><?php echo $computer_programming_skill_paradigm_15; ?></td>
 					<td><?php echo $computer_programming_skill_typing_discipline_9; ?></td>
 					<td><?php echo $computer_programming_skill_designer_19; ?></td>
-					<td><a href="Website About Me - Resources.php">21</a></td>
+					<td><a href="Website About Me - Works Cited.php">21</a></td>
 				</tr>
 				<tr>
-					<td><?php echo $computer_programming_skill_20; ?></td>
+					<td><?php echo $computer_programming_skill_23; ?></td>
 					<td>2010</td>
 					<td><?php echo $computer_programming_skill_paradigm_15; ?></td>
 					<td><?php echo $computer_programming_skill_typing_discipline_9; ?></td>
 					<td><?php echo $computer_programming_skill_designer_19; ?></td>
-					<td><a href="Website About Me - Resources.php">22</a></td>
+					<td><a href="Website About Me - Works Cited.php">22</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $computer_programming_skill_24; ?></td>
@@ -292,7 +292,7 @@
 					<td><?php echo $computer_programming_skill_paradigm_7; ?> (<?php echo $computer_programming_skill_paradigm_2; ?>), <?php echo $computer_programming_skill_paradigm_6; ?></td>
 					<td><?php echo $computer_programming_skill_typing_discipline_1; ?>, <?php echo $computer_programming_skill_typing_discipline_10; ?>, <?php echo $computer_programming_skill_typing_discipline_7; ?>, <?php echo $computer_programming_skill_typing_discipline_2; ?></td>
 					<td><?php echo $computer_programming_skill_designer_22; ?></td>
-					<td><a href="Website About Me - Resources.php">23</a></td>
+					<td><a href="Website About Me - Works Cited.php">23</a></td>
 				</tr>
 			</table>
 			<ul>
