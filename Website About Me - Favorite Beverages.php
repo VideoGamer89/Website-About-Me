@@ -53,7 +53,7 @@
 					<td>1964</td>
 					<td>2013</td>
 					<td><?php echo $favorite_beverage_variant_1; ?>, <?php echo $favorite_beverage_variant_2; ?>, <?php echo $favorite_beverage_variant_3; ?>, <?php echo $favorite_beverage_variant_4; ?></td>
-					<td><a href="Website About Me - Resources.html">1</a></td>
+					<td><a href="Website About Me - Works Cited.php">1</a></td>
         </tr>
         <tr>
           <td><?php echo $favorite_beverage_2; ?></td>
@@ -63,7 +63,7 @@
 					<td>1972</td>
 					<td>None</td>
 					<td><?php echo $favorite_beverage_variant_5; ?></td>
-					<td><a href="Website About Me - Resources.html">2</a></td>
+					<td><a href="Website About Me - Works Cited.php">2</a></td>
         </tr>
         <tr>
           <td><?php echo $favorite_beverage_3; ?></td>
@@ -73,7 +73,7 @@
 					<td>1982</td>
 					<td>None</td>
 					<td><?php echo $favorite_beverage_variant_6; ?>, <?php echo $favorite_beverage_variant_7; ?>, D<?php echo $favorite_beverage_variant_8; ?>, <?php echo $favorite_beverage_variant_9; ?>, <?php echo $favorite_beverage_variant_10; ?></td>
-					<td><a href="Website About Me - Resources.html">3</a></td>
+					<td><a href="Website About Me - Works Cited.php">3</a></td>
         </tr>
         <tr>
           <td><?php echo $favorite_beverage_4; ?></td>
@@ -83,7 +83,7 @@
 					<td>1974</td>
 					<td>None</td>
 					<td><?php echo $favorite_beverage_variant_11; ?></td>
-					<td><a href="Website About Me - Resources.html">4</a></td>
+					<td><a href="Website About Me - Works Cited.php">4</a></td>
         </tr>
       </table>
     </div><!-- end myFavoriteBeveragesDivElement -->
