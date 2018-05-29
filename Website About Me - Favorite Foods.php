@@ -97,7 +97,7 @@
 					<td>Naples, Campania, Southern Italy</td>
 					<td><?php echo $favorite_food_ingredient_1; ?>, <?php echo $favorite_food_ingredient_2; ?>, <?php echo $favorite_food_ingredient_3; ?></td>
 					<td><?php echo $favorite_food_course_1; ?> or <?php echo $favorite_food_course_2; ?></td>
-					<td><a href="Website About Me - Resources.html">1</a></td>
+					<td><a href="Website About Me - Works Cited.php">1</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_food_2; ?></td>
@@ -105,7 +105,7 @@
 					<td>Babylon, Iraq</td>
 					<td><?php echo $favorite_food_ingredient_4; ?></td>
 					<td><?php echo $favorite_food_course_3; ?>, <?php echo $favorite_food_course_4; ?>, <?php echo $favorite_food_course_5; ?></td>
-					<td><a href="Website About Me - Resources.html">2</a></td>
+					<td><a href="Website About Me - Works Cited.php">2</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_food_3; ?></td>
@@ -113,7 +113,7 @@
 					<td>Mexico</td>
 					<td><?php echo $favorite_food_ingredient_5; ?>, <?php echo $favorite_food_ingredient_3; ?>, <?php echo $favorite_food_ingredient_6; ?>, <?php echo $favorite_food_ingredient_7; ?>, <?php echo $favorite_food_ingredient_8; ?>, <?php echo $favorite_food_ingredient_9; ?>, <?php echo $favorite_food_ingredient_10; ?>, <?php echo $favorite_food_ingredient_11; ?></td>
 					<td><?php echo $favorite_food_course_1; ?> or <?php echo $favorite_food_course_2; ?></td>
-					<td><a href="Website About Me - Resources.html">3</a></td>
+					<td><a href="Website About Me - Works Cited.php">3</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_food_4; ?></td>
@@ -121,7 +121,7 @@
 					<td>United States</td>
 					<td><?php echo $favorite_food_ingredient_12; ?>, <?php echo $favorite_food_ingredient_3; ?>, <?php echo $favorite_food_ingredient_13; ?></td>
 					<td><?php echo $favorite_food_course_4; ?></td>
-					<td><a href="Website About Me - Resources.html">4</a></td>
+					<td><a href="Website About Me - Works Cited.php">4</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_food_5; ?></td>
@@ -129,7 +129,7 @@
 					<td>England</td>
 					<td><?php echo $favorite_food_ingredient_14; ?>, <?php echo $favorite_food_ingredient_15; ?>, <?php echo $favorite_food_ingredient_16; ?>, <?php echo $favorite_food_ingredient_17; ?>, <?php echo $favorite_food_ingredient_18; ?></td>
 					<td><?php echo $favorite_food_course_4; ?> or <?php echo $favorite_food_course_5; ?></td>
-					<td><a href="Website About Me - Resources.html">5</a></td>
+					<td><a href="Website About Me - Works Cited.php">5</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_food_6; ?></td>
@@ -137,7 +137,7 @@
 					<td>Europe</td>
 					<td><?php echo $favorite_food_ingredient_4; ?></td>
 					<td><?php echo $favorite_food_course_5; ?>, <?php echo $favorite_food_course_6; ?></td>
-					<td><a href="Website About Me - Resources.html">6</a></td>
+					<td><a href="Website About Me - Works Cited.php">6</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_food_7; ?></td>
@@ -145,7 +145,7 @@
 					<td>Malus, Turkey</td>
 					<td><?php echo $favorite_food_ingredient_4; ?></td>
 					<td><?php echo $favorite_food_course_5; ?>, <?php echo $favorite_food_course_6; ?></td>
-					<td><a href="Website About Me - Resources.html">7</a></td>
+					<td><a href="Website About Me - Works Cited.php">7</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_food_8; ?></td>
@@ -153,7 +153,7 @@
 					<td>France</td>
 					<td><?php echo $favorite_food_ingredient_4; ?></td>
 					<td><?php echo $favorite_food_course_5; ?>, <?php echo $favorite_food_course_6; ?></td>
-					<td><a href="Website About Me - Resources.html">8</a></td>
+					<td><a href="Website About Me - Works Cited.php">8</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_food_9; ?></td>
@@ -161,7 +161,7 @@
 					<td>United States</td>
 					<td><?php echo $favorite_food_ingredient_19; ?>, <?php echo $favorite_food_ingredient_20; ?>, <?php echo $favorite_food_ingredient_21; ?></td>
 					<td><?php echo $favorite_food_course_5; ?>, <?php echo $favorite_food_course_6; ?></td>
-					<td><a href="Website About Me - Resources.html">9</a></td>
+					<td><a href="Website About Me - Works Cited.php">9</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_food_10; ?></td>
@@ -169,7 +169,7 @@
 					<td>Southeast Asia</td>
 					<td><?php echo $favorite_food_ingredient_4; ?></td>
 					<td><?php echo $favorite_food_course_5; ?>, <?php echo $favorite_food_course_6; ?></td>
-					<td><a href="Website About Me - Resources.html">10</a></td>
+					<td><a href="Website About Me - Works Cited.php">10</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_food_11; ?></td>
@@ -177,7 +177,7 @@
 					<td>England</td>
 					<td><?php echo $favorite_food_ingredient_22; ?>, <?php echo $favorite_food_ingredient_23; ?>, <?php echo $favorite_food_ingredient_24; ?>, <?php echo $favorite_food_ingredient_25; ?>, <?php echo $favorite_food_ingredient_3; ?>, <?php echo $favorite_food_ingredient_26; ?></td>
 					<td><?php echo $favorite_food_course_6; ?>, <?php echo $favorite_food_course_5; ?></td>
-					<td><a href="Website About Me - Resources.html">11</a></td>
+					<td><a href="Website About Me - Works Cited.php">11</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_food_12; ?></td>
@@ -185,7 +185,7 @@
 					<td>United States</td>
 					<td><?php echo $favorite_food_type_ingredient_27; ?>, <?php echo $favorite_food_type_ingredient_28; ?></td>
 					<td><?php echo $favorite_food_type_course_7; ?></td>
-					<td><a href="Website About Me - Resources.html">12</a></td>
+					<td><a href="Website About Me - Works Cited.php">12</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_food_13; ?></td>
@@ -193,7 +193,7 @@
 					<td>Italy</td>
 					<td><?php echo $favorite_food_ingredient_22; ?>, <?php echo $favorite_food_ingredient_29; ?>, <?php echo $favorite_food_ingredient_30; ?>, <?php echo $favorite_food_ingredient_31; ?>, <?php echo $favorite_food_ingredient_32; ?>, <?php echo $favorite_food_ingredient_3; ?></td>
 					<td><?php echo $favorite_food_course_8; ?></td>
-					<td><a href="Website About Me - Resources.html">13</a></td>
+					<td><a href="Website About Me - Works Cited.php">13</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $favorite_food_14; ?></td>
@@ -201,7 +201,7 @@
 					<td>United States</td>
 					<td><?php echo $favorite_food_ingredient_33; ?>, <?php echo $favorite_food_ingredient_34; ?>, <?php echo $favorite_food_ingredient_35; ?></td>
 					<td><?php echo $favorite_food_course_1; ?>, <?php echo $favorite_food_course_6; ?>, and <?php echo $favorite_food_course_2; ?></td>
-					<td><a href="Website About Me - Resouces.html">14</a></td> 
+					<td><a href="Website About Me - Works Cited.php">14</a></td> 
 				</tr>
 			</table>
 			<p><?php echo $favorite_food_15; ?></p>
