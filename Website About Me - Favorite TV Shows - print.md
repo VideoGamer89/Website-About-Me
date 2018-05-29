@@ -24,7 +24,7 @@
 				<li><a href="Website About Me - Computer Programming Skills - mobile.md">Computer Programming Skills</a></li>
 				<li><a href="Website About Me - Operating Systems - mobile.md">Operating Systems</a></li>
 				<li><a href="Website About Me - Software - print.md">Software</a></li>
-				<li><a href="Website About Me - Resources - print.md">Resources</a></li>
+				<li><a href="Website About Me - Works Cited - print.md">Works Cited</a></li>
 			</ul>
 		</div>
 		<div id = "content">
@@ -60,7 +60,7 @@
 						<td>Disney XD</td>
 						<td>Kevin Menthei</td>
 						<td>Marvel Animation</td>
-						<td><a href="Website About Me - Resources - print.md">1</a></td>
+						<td><a href="Website About Me - Works Cited - print.md">1</a></td>
 					</tr>
 					<tr>
 						<td>Teenage Mutant Ninja Turtles (2012 3D Animated TV Series)</td>
@@ -75,7 +75,7 @@
 						<td>Nickelodeon</td>
 						<td>Sebastian Evans II, Stanley Martinez</td>
 						<td>Ciro Nieli, Joshua Sternin, J. R. Ventimilia</td>
-						<td><a href="Website About Me - Resources - print.md">2</a></td>
+						<td><a href="Website About Me - Works Cited - print.md">2</a></td>
 					</tr>
 					<tr>
 						<td>Yo-Kai Watch (Animated TV Series)</td>
@@ -90,7 +90,7 @@
 						<td>Disney XD</td>
 						<td>Kenichiro Saigo</td>
 						<td>Level-5</td>
-						<td><a href="Website About Me - Resources - print.md">3</a></td>
+						<td><a href="Website About Me - Works Cited - print.md">3</a></td>
 					</tr>
 					<tr>
 						<td>Avengers Assemble (Animated TV Series)</td>
@@ -105,7 +105,7 @@
 						<td>Disney XD</td>
 						<td>Micheal McCuistion, Lolita Ritmanis, Kristopher Carter</td>
 						<td>Marvel Animation, Man of Action</td>
-						<td><a href="Website About Me - Resources - print.md">4</a></td>
+						<td><a href="Website About Me - Works Cited - print.md">4</a></td>
 					</tr>
 					<tr>
 						<td>Pok&eacute;mon (Animated TV Series)</td>
@@ -120,7 +120,7 @@
 						<td>First Run Syndication, The WB (Kids' WB), Cartoon Network, Boomerang, Disney XD, UniMas</td>
 						<td>Shinji Miyazaki, Hirokazu Tanaka, Manny Corallo, John Loeffler</td>
 						<td>None</td>
-						<td><a href="Website About Me - Resources - print.md">5</a></td>
+						<td><a href="Website About Me - Works Cited - print.md">5</a></td>
 					</tr>
 					<tr>
 						<td>Voltron: Legendary Defender (Animated)</td>
@@ -135,7 +135,7 @@
 						<td>Netflix</td>
 						<td>Brad Breeck</td>
 						<td>None</td>
-						<td><a href="Website About Me - Resources - print.md">6</a></td>
+						<td><a href="Website About Me - Works Cited - print.md">6</a></td>
 					</tr>
 					<tr>
 						<td>Power Rangers: Dino Charge</td>
@@ -150,7 +150,7 @@
 						<td>Nickelodeon</td>
 						<td>Ron Wasserman (Rearranged by Noam Kaniel)</td>
 						<td>Haim Saban, Toei Company</td>
-						<td><a href="Website About Me - Resources - print.md">7</a></td>
+						<td><a href="Website About Me - Works Cited - print.md">7</a></td>
 					</tr>
 					<tr>
 						<td>The Simpsons (Animated)</td>
@@ -165,7 +165,7 @@
 						<td>Fox</td>
 						<td>Danny Elfman (Theme Music), Richard Gibbs, Arthur B. Rubinstein, Alf Clausen, Bleeding Fingers Music</td>
 						<td>Matt Groening</td>
-						<td><a href="Website About Me - Resources - print.md">8</a></td>
+						<td><a href="Website About Me - Works Cited - print.md">8</a></td>
 					</tr>
 					<tr>
 						<td>Family Guy (Animated)</td>
@@ -180,7 +180,7 @@
 						<td>Fox</td>
 						<td>Ron Jones, Walt Murphy</td>
 						<td>Seth MacFarlane</td>
-						<td><a href="Website About Me - Resources - print.md">9</a></td>
+						<td><a href="Website About Me - Works Cited - print.md">9</a></td>
 					</tr>
 					<tr>
 						<td>How I Met Your Mother (TV Series)</td>
@@ -195,7 +195,7 @@
 						<td>CBS</td>
 						<td>John Swihart</td>
 						<td>Carter Bays, Craig Thomas</td>
-						<td><a href="Website About Me - Resources - print.md">10</a></td>
+						<td><a href="Website About Me - Works Cited - print.md">10</a></td>
 					</tr>
 					<tr>
 						<td>Teen Titans Go! (Animated)</td>
@@ -210,7 +210,7 @@
 						<td>Cartoon Network</td>
 						<td>Andy Sturmer (Remixed by Mix Master Mike) (Theme Music), Armen Chakmakian, Jason Brandt</td>
 						<td>Aaron Horvath, Michael Jelenic</td>
-						<td><a href="Website About Me - Resources - print.md">11</a></td>
+						<td><a href="Website About Me - Works Cited - print.md">11</a></td>
 					</tr>
 					<tr>
 						<td>Justice League Action (Animated)</td>
@@ -225,7 +225,7 @@
 						<td>Cartoon Network</td>
 						<td>Kevin Reipl</td>
 						<td>None</td>
-						<td><a href="Website About Me - Resources - print.md">12</a></td>
+						<td><a href="Website About Me - Works Cited - print.md">12</a></td>
 					</tr>
 					<tr>
 						<td>American Dad! (2005 Animated TV Series)</td>
@@ -240,7 +240,7 @@
 						<td>Fox, TBS</td>
 						<td>Walter Murphy, Joel McNeely, Ron Jones</td>
 						<td>Seth MacFarlane, Mike Barker, Matt Weitzman</td>
-						<td><a href="Website About Me - Resources - print.md">13</a></td>
+						<td><a href="Website About Me - Works Cited - print.md">13</a></td>
 					</tr>
 					<tr>
 						<td>The Big Bang Theory (TV Series)</td>
@@ -255,7 +255,7 @@
 						<td>CBS</td>
 						<td>None, Barenaked Ladies (Theme Music Composer)</td>
 						<td>Chuck Lorre, Bill Prady</td>
-						<td><a href="Website About Me - Resources - print.md">14</a></td>
+						<td><a href="Website About Me - Works Cited - print.md">14</a></td>
 					</tr>
 					<tr>
 						<td>Guardians of the Galaxy (Animated TV Series)</td>
@@ -270,7 +270,7 @@
 						<td>Disney XD</td>
 						<td>Micheal Tavera</td>
 						<td>Marty Isenberg</td>
-						<td><a href="Website About Me - Resources - print.md">15</a></td>
+						<td><a href="Website About Me - Works Cited - print.md">15</a></td>
 					</tr>
 					<tr>
 						<td>Marvel's Spider-Man (2017 Animated TV Series)</td>
@@ -285,7 +285,7 @@
 						<td>Disney XD</td>
 						<td>Kevin Manthei</td>
 						<td>Kevin Shinick</td>
-						<td><a href="Website About Me - Resources - print.md">16</a></td>
+						<td><a href="Website About Me - Works Cited - print.md">16</a></td>
 					</tr>
 					<tr>
 						<td>Power Rangers Ninja Steel</td>
@@ -300,7 +300,7 @@
 						<td>Nickelodeon</td>
 						<td>Noam Kaniel</td>
 						<td>Haim Saban, Toei Company</td>
-						<td><a href="Website About Me - Resources - print.md">17</a></td>
+						<td><a href="Website About Me - Works Cited - print.md">17</a></td>
 					</tr>
 					<tr>
 						<td>Sonic Boom (2014 3D Animated TV Series)</td>
@@ -315,7 +315,7 @@
 						<td>Cartoon Network, Boomerang</td>
 						<td>Micheal Richard Plowman</td>
 						<td>Evan Bailey, Donna Friedman Meir, Sandrine Nguyen</td>
-						<td><a href="Website About Me - Resources - print.md">18</a></td>
+						<td><a href="Website About Me - Works Cited - print.md">18</a></td>
 					</tr>
 					<tr>
 						<td>Last Man Standing (2011 U.S. TV Series)</td>
@@ -330,7 +330,7 @@
 						<td>ABC</td>
 						<td>Monte Montgomery, Carl Theil</td>
 						<td>Jack Burditt</td>
-						<td><a href="Website About Me - Resources - print.md">19</a></td>
+						<td><a href="Website About Me - Works Cited - print.md">19</a></td>
 					</tr>
 					<tr>
 						<td>Skylanders Academy (Animated)</td>
@@ -345,7 +345,7 @@
 						<td>Netflix</td>
 						<td>Conrad Wedde, Samuel Scott, Lukasz Buda</td>
 						<td>Eric Rogers</td>
-						<td><a href="Website About Me - Resources - print.md">20</a></td>
+						<td><a href="Website About Me - Works Cited - print.md">20</a></td>
 					</tr>
 					<tr>
 						<td>Baby Daddy</td>
@@ -360,7 +360,7 @@
 						<td>Freeform</td>
 						<td>Doug DeAngelis</td>
 						<td>Dan Berendsen</td>
-						<td><a href="Website About Me - Resources - print.md">21</a></td>
+						<td><a href="Website About Me - Works Cited - print.md">21</a></td>
 					</tr>
 					<tr>
 						<td>Milo Murphy's Law</td>
@@ -375,7 +375,7 @@
 						<td>Disney XD</td>
 						<td>Danny Jacob</td>
 						<td>Dan Povenmire, Jeff "Swampy" Marsh</td>
-						<td><a href="Website About Me - Resources - print.md">22</a></td>
+						<td><a href="Website About Me - Works Cited - print.md">22</a></td>
 					</tr>
 					<tr>
 						<td>Adventure Time</td>
@@ -390,7 +390,22 @@
 						<td>Cartoon Network</td>
 						<td>Casey James Basichis, Tim Kiefer</td>
 						<td>Pendleton Ward</td>
-						<td><a href="Website About Me - Resources - print.md">23</a></td>
+						<td><a href="Website About Me - Works Cited - print.md">23</a></td>
+					</tr>
+				<tr>
+						<td>Adventure Time</td>
+						<td>April 5, 2010</td>
+						<td>TBD</td>
+						<td>United States</td>
+						<td>English</td>
+						<td>Comedy, Fantasy, Adventure, Science Fiction</td>
+						<td>10</td>
+						<td>274</td>
+						<td>11 Minutes, 6 Minutes (pilot only)</td>
+						<td>Cartoon Network</td>
+						<td>Casey James Basichis, Tim Kiefer</td>
+						<td>Pendleton Ward</td>
+						<td><a href="Website About Me - Works Cited - print.html">23</a></td>
 					</tr>
 				</table>
 			</div>
