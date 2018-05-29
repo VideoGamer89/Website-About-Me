@@ -24,7 +24,7 @@
 				<li><a href="Website About Me - Computer Programming Skills - mobile.md">Computer Programming Skills</a></li>
 				<li><a href="Website About Me - Operating Systems - mobile.md">Operating Systems</a></li>
 				<li><a href="Website About Me - Software - mobile.md">Software</a></li>
-				<li><a href="Website About Me - Resources - mobile.md">Resources</a></li>
+				<li><a href="Website About Me - Works Cited - mobile.md">Works Cited</a></li>
 			</ul>
 		</div>
 		<div class = "content">
@@ -64,7 +64,7 @@
 						<td>None</td>
 						<td>Killer Instinct</td>
 						<td>GameRankings: 75% (Season One), 85% (Season Two), 84% (Season Three), Metacritic: 73/100 (Season One), 85/100 (Season Two), 86/100 (Season Three)</td>
-						<td><a href="Website About Me - Resources - mobile.md">1</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">1</a></td>
 					</tr>
 					<tr>
 						<td>Call Of Duty: Black Ops III</td>
@@ -81,7 +81,7 @@
 						<td>IW Engine</td>
 						<td>Call of Duty</td>
 						<td>GameRankings: N/A, Metacritic: 81/100 (Xbox One), 81/100 (PS4)</td>
-						<td><a href="Website About Me - Resources - mobile.md">2</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">2</a></td>
 					</tr>
 					<tr>
 						<td>Super Mario Maker (Side-Scrolling and Game Creation)</td>
@@ -98,7 +98,7 @@
 						<td>None</td>
 						<td>Super Mario</td>
 						<td>GameRankings: N/A, Metacritic: 88/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">3</a>, <a href="Website About Me - Resources - mobile.md">4</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">3</a>, <a href="Website About Me - Works Cited - mobile.md">4</a></td>
 					</tr>
 					<tr>
 						<td>Spider-Man: Shattered Dimensions</td>
@@ -115,7 +115,7 @@
 						<td>None</td>
 						<td>Spider-Man</td>
 						<td>GameRankings: 79.16% (Xbox 360), 74.50% (DS), Metacritic: 76/100 (Xbox 360), 73/100 (DS)</td>
-						<td><a href="Website About Me - Resources - mobile.md">5</a>, <a href="Website About Me - Resources - mobile.md">6</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">5</a>, <a href="Website About Me - Works Cited - mobile.md">6</a></td>
 					</tr>
 					<tr>
 						<td>Pok&ecaute;mon Puzzle League</td>
@@ -132,7 +132,7 @@
 						<td>None</td>
 						<td>Pok&eacute;mon</td>
 						<td>GameRankings: 82.65%, Metacritic: 81/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">7</a>, <a href="Website About Me - Resources - mobile.md">8</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">7</a>, <a href="Website About Me - Works Cited - mobile.md">8</a></td>
 					</tr>
 					<tr>
 						<td>Dr. Mario 64</td>
@@ -149,7 +149,7 @@
 						<td>None</td>
 						<td>Dr. Mario</td>
 						<td>GameRankings: 70.03%, Metacritic: 71/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">9</a>, <a href="Website About Me - Resources - mobile.md">10</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">9</a>, <a href="Website About Me - Works Cited - mobile.md">10</a></td>
 					</tr>
 					<tr>
 						<td>Injustice: Gods Among Us</td>
@@ -165,7 +165,7 @@
 						<td>Ed Boon</td>
 						<td>Unreal Engine 3</td>
 						<td>DC Universe</td>
-						<td><a href="Website About Me - Resources - mobile.md">11</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">11</a></td>
 					</tr>
 					<tr>
 						<td>Teenage Mutant Ninja Turtles: Mutants in Manhattan</td>
@@ -182,7 +182,7 @@
 						<td>None</td>
 						<td>Teenage Mutant Ninja Turtles</td>
 						<td>GameRankings: N/A, Metacritic: 55/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">12</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">12</a></td>
 					</tr>
 					<tr>
 						<td>Call of Duty: Ghosts</td>
@@ -199,7 +199,7 @@
 						<td>IW Engine</td>
 						<td>Call of Duty</td>
 						<td>GameRankings: 78.31% (PS4), 77.40% (Xbox One), 76.64% (Xbox 360), Metacritic: 78/100 (PS4), 78/100 (Xbox One), 73/100 (Xbox 360)</td>
-						<td><a href="Website About Me - Resources - mobile.md">13</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">13</a></td>
 					</tr>
 					<tr>
 						<td>Call of Duty: Advanced Warfare</td>
@@ -216,7 +216,7 @@
 						<td>None</td>
 						<td>Call of Duty</td>
 						<td>GameRankings: 83.50% (PS4), 82.88% (Xbox One), Metacritic: 83/100 (PS4), 81/100 (Xbox One)</td>
-						<td><a href="Website About Me - Resources - mobile.md">14</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">14</a></td>
 					</tr>
 					<tr>
 						<td>Call of Duty 4: Modern Warfare</td>
@@ -233,7 +233,7 @@
 						<td>IW 3.0</td>
 						<td>Call of Duty</td>
 						<td>GameRankings: N/A, Metacritic: 94/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">15</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">15</a></td>
 					</tr>
 					<tr>
 						<td>Bayonetta 2</td>
@@ -250,7 +250,7 @@
 						<td>None</td>
 						<td>Bayonetta</td>
 						<td>GameRankings: N/A, Metacritic: 91/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">16</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">16</a></td>
 					</tr>
 					<tr>
 						<td>Guitar Hero Live</td>
@@ -267,7 +267,7 @@
 						<td>None</td>
 						<td>Guitar Hero</td>
 						<td>GameRankings: 80.93%, Metacritic: 81/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">17</a>, <a href="Website About Me - Resources - mobile.md">18</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">17</a>, <a href="Website About Me - Works Cited - mobile.md">18</a></td>
 					</tr>
 					<tr>
 						<td>Street Fighter V</td>
@@ -284,7 +284,7 @@
 						<td>Unreal Engine 4</td>
 						<td>Street Fighter</td>
 						<td>GameRankings: N/A, Metacritic: 77/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">19</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">19</a></td>
 					</tr>
 					<tr>
 						<td>Call of Duty: Infinite Warfare</td>
@@ -301,7 +301,7 @@
 						<td>IW Engine</td>
 						<td>Call of Duty</td>
 						<td>GameRankings: N/A, Metacritic: 77/100 (PS4), 78/100 (Xbox One)</td>
-						<td><a href="Website About Me - Resources - mobile.md">20</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">20</a></td>
 					</tr>
 					<tr>
 						<td>Watch Dogs</td>
@@ -318,7 +318,7 @@
 						<td>None</td>
 						<td>Watch Dogs</td>
 						<td>GameRankings: N/A, Metacritic: 78/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">21</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">21</a></td>
 					</tr>
 					<tr>
 						<td>Watch Dogs 2</td>
@@ -335,7 +335,7 @@
 						<td>None</td>
 						<td>Watch Dogs</td>
 						<td>GameRankings: N/A, Metacritic: 82/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">22</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">22</a></td>
 					</tr>
 					<tr>
 						<td>Assassin's Creed (video game)</td>
@@ -352,7 +352,7 @@
 						<td>Scimitar</td>
 						<td>Assassin's Creed</td>
 						<td>GameRankings: N/A, Metacritic: 81/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">23</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">23</a></td>
 					</tr>
 					<tr>
 						<td>Puyo Puyo Tetris</td>
@@ -369,7 +369,7 @@
 						<td>None</td>
 						<td>Puyo Puyo, Tetris</td>
 						<td>GameRankings: N/A, Metacritic: N/A</td>
-						<td><a href="Website About Me - Resources - mobile.md">24</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">24</a></td>
 					</tr>
 					<tr>
 						<td>Injustice 2</td>
@@ -386,7 +386,7 @@
 						<td>Unreal Engine 3, Unreal Engine 4 (Android)</td>
 						<td>DC Universe</td>
 						<td>GameRankings: N/A, Metacritic: 87/100 (PS4), 89/100 (Xbox One)</td>
-						<td><a href="Website About Me - Resources - mobile.md">25</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">25</a></td>
 					</tr>
 					<tr>
 						<td>Hey! Pikmin</td>
@@ -403,7 +403,7 @@
 						<td>None</td>
 						<td>Pikmin</td>
 						<td>GameRankings: N/A, Metacritic: 69/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">26</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">26</a></td>
 					</tr>
 					<tr>
 						<td>Bulletstorm</td>
@@ -420,7 +420,7 @@
 						<td>Unreal Engine 3</td>
 						<td>None</td>
 						<td>GameRankings: N/A, Metacritic: 84/100 (Xbox 360), N/A (Xbox One)</td>
-						<td><a href="Website About Me - Resources - mobile.md">27</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">27</a></td>
 					</tr>
 					<tr>
 						<td>Ultimate Marvel vs. Capcom 3 (Crossover Game)</td>
@@ -437,7 +437,7 @@
 						<td>MT Framework</td>
 						<td>Marvel vs. Capcom</td>
 						<td>GameRankings: 81% (Xbox 360), 79% (PS4), N/A (Xbox One), Metacritic: 79/100 (Xbox 360), 77/100 (PS4), N/A (Xbox One)</td>
-						<td><a href="Website About Me - Resources - mobile.md">28</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">28</a></td>
 					</tr>
 					<tr>
 						<td>Spider-Man: Edge of Time</td>
@@ -454,7 +454,7 @@
 						<td>None</td>
 						<td>Spider-Man</td>
 						<td>GameRankings: N/A, Metacritic: N/A</td>
-						<td><a href="Website About Me - Resources - mobile.md">29</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">29</a></td>
 					</tr>
 					<tr>
 						<td>Ultra Street Fighter II: The Final Challengers</td>
@@ -471,7 +471,7 @@
 						<td>MT Framework</td>
 						<td>Street Fighter</td>
 						<td>GameRankings: N/A, Metacritic: 66/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">30</a>, <a href="Website About Me - Resources - mobile.md">31</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">30</a>, <a href="Website About Me - Works Cited - mobile.md">31</a></td>
 					</tr>
 					<tr>
 						<td>Batman: Arkham Knight</td>
@@ -488,7 +488,7 @@
 						<td>Unreal Engine 3</td>
 						<td>Batman: Arkham</td>
 						<td>GameRankings: N/A, Metacritic: 87/100 (PS4), 85/100 (Xbox One)</td>
-						<td><a href="Website About Me - Resources - mobile.md">32</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">32</a></td>
 					</tr>
 					<tr>
 						<td>Marvel vs. Capcom: Infinite (Crossover Game)</td>
@@ -505,7 +505,7 @@
 						<td>Unreal Engine 4</td>
 						<td>Marvel vs. Capcom</td>
 						<td>GameRankings: N/A, Metacritic: 77/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">33</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">33</a></td>
 					</tr>
 					<tr>
 						<td>Sonic Mania (Side-Scrolling Game)</td>
@@ -522,7 +522,7 @@
 						<td>Retro Engine</td>
 						<td>Sonic the Hedgehog</td>
 						<td>GameRankings: N/A, Metacritic: 83/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">34</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">34</a></td>
 					</tr>
 					<tr>
 						<td>Splatoon 2</td>
@@ -539,7 +539,7 @@
 						<td>None</td>
 						<td>Splatoon</td>
 						<td>GameRankings: N/A, Metacritic: 83/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">35</a>, <a href="Website About Me - Resources - mobile.md">36</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">35</a>, <a href="Website About Me - Works Cited - mobile.md">36</a></td>
 					</tr>
 					<tr>
 						<td>Arms (video game)</td>
@@ -556,7 +556,7 @@
 						<td>None</td>
 						<td>None</td>
 						<td>GameRankings: N/A, Metacritic: 77/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">37</a>, <a href="Website About Me - Resources - mobile.md">36</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">37</a>, <a href="Website About Me - Works Cited - mobile.md">36</a></td>
 					</tr>
 					<tr>
 						<td>Prototype (Open World Video Game)</td>
@@ -573,7 +573,7 @@
 						<td>Titanium</td>
 						<td>Prototype</td>
 						<td>GameRankings: 80% (Xbox 360), N/A (Xbox One and PS4), Metacritic: 78/100 (Xbox 360), N/A (Xbox One and PS4)</td>
-						<td><a href="Website About Me - Resources - mobile.md">38</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">38</a></td>
 					</tr>
 					<tr>
 						<td>Prototype 2 (Open World)</td>
@@ -590,7 +590,7 @@
 						<td>None</td>
 						<td>Prototype</td>
 						<td>GameRankings: 75% (Xbox 360), N/A (Xbox One and PS4), Metacritic: 74/100 (Xbox 360), N/A (Xbox One and PS4)</td>
-						<td><a href="Website About Me - Resources - mobile.md">39</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">39</a></td>
 					</tr>
 					<tr>
 						<td>Star Fox Zero (3D Game)</td>
@@ -607,7 +607,7 @@
 						<td>None</td>
 						<td>Star Fox</td>
 						<td>GameRankings: N/A, Metacritic: 69/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">40</a>, <a href="Website About Me - Resources - mobile.md">36</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">40</a>, <a href="Website About Me - Works Cited - mobile.md">36</a></td>
 					</tr>
 					<tr>
 						<td>Splatoon</td>
@@ -624,7 +624,7 @@
 						<td>None</td>
 						<td>Splatoon</td>
 						<td>GameRankings: N/A, Metacritic: 81/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">41</a>, <a href="Website About Me - Resources - mobile.md">4</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">41</a>, <a href="Website About Me - Works Cited - mobile.md">4</a></td>
 					</tr>
 					<tr>
 						<td>Gears of War 4</td>
@@ -641,7 +641,7 @@
 						<td>Unreal Engine 4</td>
 						<td>Gears of War</td>
 						<td>GameRankings: N/A, Metacritic: 84/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">42</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">42</a></td>
 					</tr>
 					<tr>
 						<td>Crash Bandicoot N. Sane Trilogy</td>
@@ -658,7 +658,7 @@
 						<td>None</td>
 						<td>Crash Bandicoot</td>
 						<td>GameRankings: N/A, Metacritic: 80/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">43</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">43</a></td>
 					</tr>
 					<tr>
 						<td>Puzzle & Dragons Z + Puzzle & Dragons: Super Mario Bros. Edition</td>
@@ -675,7 +675,7 @@
 						<td>None</td>
 						<td>Puzzle & Dragons</td>
 						<td>GameRankings: N/A, Metacritic: 73%</td>
-						<td><a href="Website About Me - Resources - mobile.md">44</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">44</a></td>
 					</tr>
 					<tr>
 						<td>Kid Icarus: Uprising</td>
@@ -692,7 +692,7 @@
 						<td>None</td>
 						<td>Kid Icarus</td>
 						<td>GameRankings: N/A, Metacritic: 83/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">45</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">45</a></td>
 					</tr>
 					<tr>
 						<td>Super Smash Bros. for Nintendo 3DS (Crossover)</td>
@@ -709,7 +709,7 @@
 						<td>None</td>
 						<td>Super Smash Bros.</td>
 						<td>GameRankings: N/A, Metacritic: 85/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">46</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">46</a></td>
 					</tr>
 					<tr>
 						<td>Hyrule Warriors</td>
@@ -726,7 +726,7 @@
 						<td>None</td>
 						<td>The Legend of Zelda, Dynasty Warriors</td>
 						<td>GameRankings: N/A, Metacritic: 76/100 (Wii U), 70/100 (3DS)
-						<td><a href="Website About Me - Resources - mobile.md">47</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">47</a></td>
 					</tr>
 					<tr>
 						<td>Deadpool (2013 Antihero Comedy Video Game)</td>
@@ -743,7 +743,7 @@
 						<td>Unreal Engine 3</td>
 						<td>Marvel Universe</td>
 						<td>GameRankings: 65.76% (Xbox 360), 57.50%(PS4), 47.50% (Xbox One), Metacritic: 62/100 (Xbox 360), 60/100 (PS4), N/A (Xbox One)</td>
-						<td><a href="Website About Me - Resources - mobile.md">48</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">48</a></td>
 					</tr>
 					<tr>
 						<td>Mario Kart 8</td>
@@ -760,7 +760,7 @@
 						<td>None</td>
 						<td>Mario Kart</td>
 						<td>GameRankings: N/A, Metacritic: 88/100 (Wii U), 92/100 (Switch)</td>
-						<td><a href="Website About Me - Resources - mobile.md">49</a>, <a href="Website About Me - Resources - mobile.md">4</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">49</a>, <a href="Website About Me - Works Cited - mobile.md">4</a></td>
 					</tr>
 					<tr>
 						<td>The Legend of Zelda: Breath of the Wild</td>
@@ -777,7 +777,7 @@
 						<td>None</td>
 						<td>The Legend of Zelda</td>
 						<td>GameRankings: N/A, Metacritic: 97/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">50</a>, <a href="Website About Me - Resources - mobile.md">36</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">50</a>, <a href="Website About Me - Works Cited - mobile.md">36</a></td>
 					</tr>
 					<tr>
 						<td>Lego City Undercover</td>
@@ -794,7 +794,7 @@
 						<td>None</td>
 						<td>None</td>
 						<td>GameRankings: N/A, Metacritic: 78/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">51</a>, <a href="Website About Me - Resources - mobile.md">52</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">51</a>, <a href="Website About Me - Works Cited - mobile.md">52</a></td>
 					</tr>
 					<tr>
 						<td>Metroid Prime: Federation Force (Co-Op Game)</td>
@@ -811,7 +811,7 @@
 						<td>None</td>
 						<td>Metroid</td>
 						<td>GameRankings: N/A, Metacritic: 64/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">53</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">53</a></td>
 					</tr>
 					<tr>
 						<td>Metroid Prime (First-Person Game)</td>
@@ -828,7 +828,7 @@
 						<td>None</td>
 						<td>Metroid</td>
 						<td>GameRankings: N/A, Metacritic: 97/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">54</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">54</a></td>
 					</tr>
 					<tr>
 						<td>Metroid Prime 2: Echoes (First-Person Game)</td>
@@ -845,7 +845,7 @@
 						<td>None</td>
 						<td>Metroid</td>
 						<td>GameRankings: 91.97%, Metacritic: 92/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">55</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">55</a></td>
 					</tr>
 					<tr>
 						<td>Metroid Prime 3: Corruption (First-Person Game)</td>
@@ -862,7 +862,7 @@
 						<td>None</td>
 						<td>Metroid</td>
 						<td>GameRankings: N/A, Metacritic: 90/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">56</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">56</a></td>
 					</tr>
 					<tr>
 						<td>Metroid: Other M</td>
@@ -879,7 +879,7 @@
 						<td>None</td>
 						<td>Metroid</td>
 						<td>GameRankings: N/A, Metacritic: 79/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">57</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">57</a></td>
 					</tr>
 					<tr>
 						<td>Assassin's Creed II</td>
@@ -896,7 +896,7 @@
 						<td>Anvil</td>
 						<td>Assassin's Creed</td>
 						<td>GameRankings: 90.01% (Xbox 360), N/A (PS4), Metacritic: 90/100 (Xbox 360), N/A (PS4)</td>
-						<td><a href="Website About Me - Resources - mobile.md">58</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">58</a></td>
 					</tr>
 					<tr>
 						<td>Assassin's Creed: Brotherhood</td>
@@ -913,7 +913,7 @@
 						<td>Anvil</td>
 						<td>Assassin's Creed</td>
 						<td>GameRankings: 90.55% (Xbox 360), N/A (PS4), Metacritic: 89/100 (Xbox 360), N/A (PS4)</td>
-						<td><a href="Website About Me - Resources - mobile.md">59</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">59</a></td>
 					</tr>
 					<tr>
 						<td>Assassin's Creed: Revelations</td>
@@ -930,7 +930,7 @@
 						<td>Anvil</td>
 						<td>Assassin's Creed</td>
 						<td>GameRankings: 79.37% (Xbox 360), N/A (PS4), Metacritic: 80/100 (Xbox 360), N/A (PS4)</td>
-						<td><a href="Website About Me - Resources - mobile.md">60</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">60</a></td>
 					</tr>
 					<tr>
 						<td>Batman: Arkham Asylum</td>
@@ -947,7 +947,7 @@
 						<td>Unreal Engine 3</td>
 						<td>Batman: Arkham</td>
 						<td>GameRankings: N/A, Metacritic: 92/100 (Xbox 360), N/A (PS4 and Xbox One)</td>
-						<td><a href="Website About Me - Resources - mobile.md">61</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">61</a></td>
 					</tr>
 					<tr>
 						<td>Batman: Arkham City</td>
@@ -964,7 +964,7 @@
 						<td>Unreal Engine 3</td>
 						<td>Batman: Arkham</td>
 						<td>GameRankings: N/A, Metacritic: 94/100 (Xbox 360), 85/100 (Wii U), N/A (Xbox One and PS4)</td>
-						<td><a href="Website About Me - Resources - mobile.md">62</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">62</a></td>
 					</tr>
 					<tr>
 						<td>Sonic Lost World</td>
@@ -981,7 +981,7 @@
 						<td>None</td>
 						<td>Sonic the Hedgehog</td>
 						<td>GameRankings: N/A, Metacritic: 63/100 (Wii U), 59/100 (3DS)</td>
-						<td><a href="Website About Me - Resources - mobile.md">63</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">63</a></td>
 					</tr>
 					<tr>
 						<td>Super Smash Bros. For Wii U (Crossover)</td>
@@ -998,7 +998,7 @@
 						<td>None</td>
 						<td>Super Smash Bros.</td>
 						<td>GameRankings: N/A, Metacritic: 92/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">46</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">46</a></td>
 					</tr>
 					<tr>
 						<td>Super Smash Bros. (Crossover Video Game)</td>
@@ -1015,7 +1015,7 @@
 						<td>None</td>
 						<td>Super Smash Bros.</td>
 						<td>GameRankings: 78.81%, Metacritic: 79/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">64</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">64</a></td>
 					</tr>
 					<tr>
 						<td>Sonic Generations</td>
@@ -1032,7 +1032,7 @@
 						<td>None</td>
 						<td>Sonic the Hedgehog</td>
 						<td>GameRankings: N/A, Metacritic: 77/100 (Xbox 360), 66/100 (3DS)</td>
-						<td><a href="Website About Me - Resources - mobile.md">65</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">65</a></td>
 					</tr>
 					<tr>
 						<td>Super Smash Bros. Melee (Crossover)</td>
@@ -1049,7 +1049,7 @@
 						<td>None</td>
 						<td>Super Smash Bros.</td>
 						<td>GameRankings: 90.52%, Metacritic: 92/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">66</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">66</a></td>
 					</tr>
 					<tr>
 						<td>Super Smash Bros. Brawl (Crossover)</td>
@@ -1066,7 +1066,7 @@
 						<td>None</td>
 						<td>Super Smash Bros.</td>
 						<td>GameRankings: 92.84%, Metacritic: 93/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">67</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">67</a></td>
 					</tr>
 					<tr>
 						<td>Call of Duty: Black Ops</td>
@@ -1083,7 +1083,7 @@
 						<td>IW Engine</td>
 						<td>Call of Duty</td>
 						<td>GameRankings: 87.56%, Metacritic: 87/100</td> 
-						<td><a href="Website About Me - Resources - mobile.md">68</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">68</a></td>
 					</tr>
 					<tr>
 						<td>Call of Duty: Black Ops II</td>
@@ -1100,7 +1100,7 @@
 						<td>IW Engine</td>
 						<td>Call of Duty</td>
 						<td>GameRankings: 86.07% (Wii U), 85.53% (Xbox 360), Metacritic: 83/100 (Xbox 360), 81/100 (Wii U)</td>
-						<td><a href="Website About Me - Resources - mobile.md">69</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">69</a></td>
 					</tr>
 					<tr>
 						<td>Call of Duty: Modern Warfare 2</td>
@@ -1117,7 +1117,7 @@
 						<td>IW Engine</td>
 						<td>Call of Duty</td>
 						<td>GameRankings: 93.57%, Metacritic: 94/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">70</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">70</a></td>
 					</tr>
 					<tr>
 						<td>Call of Duty: Modern Warfare 3</td>
@@ -1134,7 +1134,7 @@
 						<td>IW Engine</td>
 						<td>Call of Duty</td>
 						<td>GameRankings: 88.49%, Metacritic: 88/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">71</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">71</a></td>
 					</tr>
 					<tr>
 						<td>Street Fighter IV</td>
@@ -1151,7 +1151,7 @@
 						<td>None</td>
 						<td>Street Fighter</td>
 						<td>GameRankings: N/A, Metacritic: 93/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">72</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">72</a></td>
 					</tr>
 					<tr>
 						<td>Call of Duty: WWII</td>
@@ -1168,7 +1168,7 @@
 						<td>None</td>
 						<td>Call of Duty</td>
 						<td>GameRankings: N/A, Metacritic: 81/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">73</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">73</a></td>
 					</tr>
 					<tr>
 						<td>Call of Duty: World at War</td>
@@ -1185,7 +1185,7 @@
 						<td>IW Engine</td>
 						<td>Call of Duty</td>
 						<td>GameRankings: 85.57%, Metacritic: 84/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">74</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">74</a></td>
 					</tr>
 					<tr>
 						<td>Call of Duty 2</td>
@@ -1202,7 +1202,7 @@
 						<td>IW Engine v2.0</td>
 						<td>Call of Duty</td>
 						<td>GameRankings: 89.78%, Metacritic: 89/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">75</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">75</a></td>
 					</tr>
 					<tr>
 						<td>Call of Duty 3</td>
@@ -1219,7 +1219,7 @@
 						<td>Treyarch NGL</td>
 						<td>Call of Duty</td>
 						<td>GameRankings: 82.36%, Metacritic: 82/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">76</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">76</a></td>
 					</tr>
 					<tr>
 						<td>The Amazing Spider-Man (2012 Video Game)</td>
@@ -1236,7 +1236,7 @@
 						<td>None</td>
 						<td>Spider-Man</td>
 						<td>GameRankings: 70.87% (Xbox 360), 68.43% (Wii U), 56.67 (3DS), Metacritic: 69/100 (Xbox 360), 66/100 (Wii U), 55/100 (3DS)</td>
-						<td><a href="Website About Me - Resources - mobile.md">77</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">77</a></td>
 					</tr>
 					<tr>
 						<td>The Amazing Spider-Man 2 (2014 Video Game)</td>
@@ -1253,7 +1253,7 @@
 						<td>None</td>
 						<td>Spider-Man</td>
 						<td>GameRankings: 54.02% (PS4), 55.60% (Xbox 360), 55.20% (Xbox One), N/A (3DS and Wii U), Metacritic: 50/100 (PS4), 51/100 (Xbox One), N/A (3DS, Xbox 360, Wii U)</td>
-						<td><a href="Website About Me - Resources - mobile.md">78</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">78</a></td>
 					</tr>
 					<tr>
 						<td>Mortal Kombat X</td>
@@ -1270,7 +1270,7 @@
 						<td>Unreal Engine 3</td>
 						<td>Mortal Kombat</td>
 						<td>GameRankings: N/A, Metacritic: 86/100 (Xbox One), 83/100 (PS4)</td>
-						<td><a href="Website About Me - Resources - mobile.md">79</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">79</a></td>
 					</tr>
 					<tr>
 						<td>Mortal Kombat XL</td>
@@ -1287,7 +1287,7 @@
 						<td>Unreal Engine 3</td>
 						<td>Mortal Kombat</td>
 						<td>GameRankings: N/A, Metacritic: 86/100 (Xbox One), 83/100 (PS4)</td>
-						<td><a href="Website About Me - Resources - mobile.md">79</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">79</a></td>
 					</tr>
 					<tr>
 						<td>Sonic Colors</td>
@@ -1304,7 +1304,7 @@
 						<td>None</td>
 						<td>Sonic the Hedgehog</td>
 						<td>GameRankings: N/A, Metacritic: 79/100 (DS), 78/100 (Wii)</td>
-						<td><a href="Website About Me - Resources - mobile.md">80</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">80</a></td>
 					</tr>
 					<tr>
 						<td>Super Mario Sunshine</td>
@@ -1321,7 +1321,7 @@
 						<td>None</td>
 						<td>Super Mario</td>
 						<td>GameRankings: 92%, Metacritic: 92/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">81</a>, <a href="Website About Me - Resources - mobile.md">4</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">81</a>, <a href="Website About Me - Works Cited - mobile.md">4</a></td>
 					</tr>
 					<tr>
 						<td>Super Mario 64</td>
@@ -1338,7 +1338,7 @@
 						<td>None</td>
 						<td>Super Mario</td>
 						<Td>GameRankings: 96.41%, Metacritic: 94/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">82</a>, <a href="Website About Me - Resources.md">83</a>, <a href="Website About Me - Resources - mobile.md">4</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">82</a>, <a href="Website About Me - Works Cited - mobile.md">83</a>, <a href="Website About Me - Works Cited - mobile.md">4</a></td>
 					</tr>
 					<tr>
 						<td>Super Mario 64 DS</td>
@@ -1355,7 +1355,7 @@
 						<td>None</td>
 						<td>Super Mario</td>
 						<td>GameRankings: 86%, Metacritic: 85/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">84</a>, <a href="Website About Me - Resources - mobile.md">4</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">84</a>, <a href="Website About Me - Works Cited - mobile.md">4</a></td>
 					</tr>
 					<tr>
 						<td>Super Mario World</td>
@@ -1372,7 +1372,7 @@
 						<td>None</td>
 						<td>Super Mario</td>
 						<td>GameRankings: 94%, Metacritic: N/A</td>
-						<td><a href="Website About Me - Resources - mobile.md">85</a>, <a href="Website About Me - Resources - mobile.md">83</a>, <a href="Website About Me - Resources - mobile.md">4</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">85</a>, <a href="Website About Me - Works Cited - mobile.md">83</a>, <a href="Website About Me - Works Cited - mobile.md">4</a></td>
 					</tr>
 					<tr>
 						<td>Ultimate Spider-Man (Video Game)</td>
@@ -1389,7 +1389,7 @@
 						<td>None</td>
 						<td>Spider-Man</td>
 						<td>GameRankings: 75.41%, Metacritic: 76/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">86</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">86</a></td>
 					</tr>
 					<tr>
 						<td>Spider-Man: Web of Shadows</td>
@@ -1406,7 +1406,7 @@
 						<td>None</td>
 						<td>Spider-Man</td>
 						<td>GameRankings: 68.37%, Metacritic: 68/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">87</a>, <a href="Website About Me - Resources - mobile.md">88</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">87</a>, <a href="Website About Me - Works Cited - mobile.md">88</a></td>
 					</tr>
 					<tr>
 						<td>Call of Duty: Modern Warfare Remastered</td>
@@ -1423,7 +1423,7 @@
 						<td>None</td>
 						<td>Call of Duty</td>
 						<td>GameRankings: N/A, Metacritic: 89/100 (Xbox One), 83/100 (PS4)</td>
-						<td><a href="Website About Me - Resources - mobile.md">89</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">89</a></td>
 					</tr>
 					<tr>
 						<td>Crash Bandicoot: Warped</td>
@@ -1440,7 +1440,7 @@
 						<td>None</td>
 						<td>Crash Bandicoot</td>
 						<td>GameRankings: 89.07%, Metacritic: 91/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">90</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">90</a></td>
 					</tr>
 					<tr>
 						<td>Halo 5: Guardians</td>
@@ -1457,7 +1457,7 @@
 						<td>None</td>
 						<td>Halo</td>
 						<td>GameRankings: N/A, Metacritic: 84/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">91</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">91</a></td>
 					</tr>
 					<tr>
 						<td>Sonic Adventure 2 Battle</td>
@@ -1474,7 +1474,7 @@
 						<td>None</td>
 						<td>Sonic the Hedgehog</td>
 						<td>GameRankings: N/A, Metacritic: N/A</td>
-						<td><a href="Website About Me - Resources - mobile.md">92</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">92</a></td>
 					</tr>
 					<tr>
 						<td>Shadow the Hedgehog (Video Game)</td>
@@ -1491,7 +1491,7 @@
 						<td>RenderWare</td>
 						<td>Sonic the Hedgehog</td>
 						<td>GameRankings: 53.10%, Metacritic: 51/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">93</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">93</a></td>
 					</tr>
 					<tr>
 						<td>Sonic Unleashed</td>
@@ -1508,7 +1508,7 @@
 						<td>None</td>
 						<td>Sonic the Hedgehog</td>
 						<td>GameRankings: N/A, Metacritic: 66/100 (Wii), 60/100 (Xbox 360)</td>
-						<td><a href="Website About Me - Resources - mobile.md">94</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">94</a></td>
 					</tr>
 					<tr>
 						<td>Sonic the Hedgehog (2006 Video Game)</td>
@@ -1525,7 +1525,7 @@
 						<td>None</td>
 						<td>Sonic the Hedgehog</td>
 						<td>GameRankings: N/A, Metacritic: 46/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">95</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">95</a></td>
 					</tr>
 					<tr>
 						<td>Sonic Heroes</td>
@@ -1542,7 +1542,7 @@
 						<td>RenderWare</td>
 						<td>Sonic the Hedgehog</td>
 						<Td>GameRankings: 74.27% (GameCube), 70.58% (PS2), Metacritic: 72/100 (GameCube), 64/100 (PS2)</td>
-						<td><a href="Website About Me - Resources - mobile.md">96</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">96</a></td>
 					</tr>
 					<tr>
 						<td>Sonic Adventure DX: Director's Cut</td>
@@ -1559,7 +1559,7 @@
 						<td>None</td>
 						<td>Sonic the Hedgehog</td>
 						<td>GameRankings: N/A, Metacritic: N/A</td>
-						<td><a href="Website About Me - Resources - mobile.md">97</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">97</a></td>
 					</tr>
 					<tr>
 						<td>Super Mario Galaxy</td>
@@ -1576,7 +1576,7 @@
 						<td>None</td>
 						<td>Super Mario</td>
 						<td>GameRankings: 97.64%, Metacritic: 97/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">98</a>, <a href="Website About Me - Resources - mobile.md">4</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">98</a>, <a href="Website About Me - Works Cited - mobile.md">4</a></td>
 					</tr>
 					<tr>
 						<td>Super Mario Galaxy 2</td>
@@ -1593,7 +1593,7 @@
 						<td>None</td>
 						<td>Super Mario</td>
 						<td>GameRankings: 97.35%, Metacritic: 97/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">99</a>, <a href="Website About Me - Resources - mobile.md">4</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">99</a>, <a href="Website About Me - Works Cited - mobile.md">4</a></td>
 					</tr>
 					<tr>
 						<td>Crash Bandicoot: The Wrath of Cortex</td>
@@ -1610,7 +1610,7 @@
 						<td>None</td>
 						<td>Crash Bandicoot</td>
 						<td>GameRankings: 70.12% (PS2), 63.28% (GameCube), Metacritic: 66/100 (PS2), 62/100 (GameCube)</td>
-						<td><a href="Website About Me - Resources - mobile.md">100</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">100</a></td>
 					</tr>
 					<tr>
 						<td>Assassin's Creed III</td>
@@ -1627,7 +1627,7 @@
 						<td>AnvilNext</td>
 						<td>Assassin's Creed</td>
 						<td>GameRankings: 84.92%, Metacritic: 84/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">101</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">101</a></td>
 					</tr>
 					<tr>
 						<td>Pokk&eacute;n Tournament</td>
@@ -1644,7 +1644,7 @@
 						<td>None</td>
 						<td>Pok&eacute;mon, Tekken</td>
 						<td>GameRankings: N/A, Metacritic: 76/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">102</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">102</a></td>
 					</tr>
 					<tr>
 						<td>Pikmin 3</td>
@@ -1661,7 +1661,7 @@
 						<td>None</td>
 						<td>Pikmin</td>
 						<td>GameRankings: 87%, Metacritic: 87/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">103</a>, <a href="Website About Me - Resources - mobile.md">4</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">103</a>, <a href="Website About Me - Works Cited - mobile.md">4</a></td>
 					</tr>
 					<tr>
 						<td>Pikmin</td>
@@ -1678,7 +1678,7 @@
 						<td>None</td>
 						<td>Pikmin</td>
 						<td>GameRankings: 86.71% (GameCube), 79.31% (Wii), Metacritic: 89/100 (GameCube), 77/100 (Wii)</td>
-						<td><a href="Website About Me - Resources - mobile.md">104</a>, <a href="Website About Me - Resources - mobile.md">4</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">104</a>, <a href="Website About Me - Works Cited - mobile.md">4</a></td>
 					</tr>
 					<tr>
 						<td>Metroid Prime: Trilogy (First-Person Game)</td>
@@ -1695,7 +1695,7 @@
 						<td>None</td>
 						<td>Metroid</td>
 						<td>GameRankings: 92.35%, Metacritic: 91/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">105</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">105</a></td>
 					</tr>
 					<tr>
 						<td>Donkey Kong Country Returns</td>
@@ -1712,7 +1712,7 @@
 						<td>None</td>
 						<td>Donkey Kong Country, Donkey Kong</td>
 						<td>GameRankings: 87.79%, Metacritic: 87/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">106</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">106</a></td>
 					</tr>
 					<tr>
 						<td>New Super Mario Bros. U</td>
@@ -1729,7 +1729,7 @@
 						<td>None</td>
 						<td>Super Mario</td>
 						<td>GameRankings: 84.48%, Metacritic: 84/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">107</a>, <a href="Website About Me - Resources - mobile.md">4</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">107</a>, <a href="Website About Me - Works Cited - mobile.md">4</a></td>
 					</tr>
 					<tr>
 						<td>Super Mario 3D World</td>
@@ -1746,7 +1746,7 @@
 						<td>None</td>
 						<td>Super Mario</td>
 						<td>GameRankings: 93%, Metacritic: 93/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">108</a>, <a href="Website About Me - Resources - mobile.md">4</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">108</a>, <a href="Website About Me - Works Cited - mobile.md">4</a></td>
 					</tr>
 					<tr>
 						<td>New Super Mario Bros. Wii</td>
@@ -1763,7 +1763,7 @@
 						<td>None</td>
 						<td>Super Mario</td>
 						<td>GameRankings: 88.18%, Metacritic: 87/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">109</a>, <a href="Website About Me - Resources - mobile.md">4</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">109</a>, <a href="Website About Me - Works Cited - mobile.md">4</a></td>
 					</tr>
 					<tr>
 						<td>Assassin's Creed Syndicate</td>
@@ -1780,7 +1780,7 @@
 						<td>AnvilNext 2.0</td>
 						<td>Assassin's Creed</td>
 						<td>GameRankings: N/A, Metacritic: 78/100 (Xbox One)</td>
-						<td><a href="Website About Me - Resources - mobile.md">110</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">110</a></td>
 					</tr>
 					<tr>
 						<td>Assassin's Creed IV: Black Flag</td>
@@ -1797,7 +1797,7 @@
 						<td>AnvilNext</td>
 						<td>Assassin's Creed</td>
 						<td>GameRankings: N/A, Metacritic: 86/100 (Xbox 360), N/A (Xbox One)</td>
-						<td><a href="Website About Me - Resources - mobile.md">111</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">111</a></td>
 					</tr>
 					<tr>
 						<td>Sonic Advance</td>
@@ -1814,7 +1814,7 @@
 						<td>None</td>
 						<td>Sonic the Hedgehog</td>
 						<td>GameRankings: N/A, Metacritic: 87/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">112</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">112</a></td>
 					</tr>
 					<tr>
 						<td>Sonic Advance 2</td>
@@ -1831,7 +1831,7 @@
 						<td>None</td>
 						<td>Sonic the Hedgehog</td>
 						<td>GameRankings: N/A, Metacritic: 83/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">113</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">113</a></td>
 					</tr>
 					<tr>
 						<td>Sonic Advance 3</td>
@@ -1848,7 +1848,7 @@
 						<td>None</td>
 						<td>Sonic the Hedgehog</td>
 						<td>GameRankings: 81.37%, Metacritic: 79/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">114</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">114</a></td>
 					</tr>
 					<tr>
 						<td>Sonic and the Secret Rings</td>
@@ -1865,7 +1865,7 @@
 						<td>None</td>
 						<td>Sonic the Hedgehog</td>
 						<td>GameRankings: N/A, Metacritic: 69/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">115</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">115</a></td>
 					</tr>
 					<tr>
 						<td>Sonic and the Black Knight</td>
@@ -1882,7 +1882,7 @@
 						<td>PhysX</td>
 						<td>Sonic the Hedgehog</td>
 						<td>GameRankings: 55.19%, Metacritic: 54/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">116</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">116</a></td>
 					</tr>
 					<tr>
 						<td>Super Mario All-Stars</td>
@@ -1899,7 +1899,7 @@
 						<td>None</td>
 						<td>Super Mario</td>
 						<td>GameRankings: 90.12%, Metacritic: N/A</td>
-						<td><a href="Website About Me - Resources - mobile.md">117</a>, <a href="Website About Me - Resources - mobile.md">83</a>, <a href="Website About Me - Resources - mobile.md">4</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">117</a>, <a href="Website About Me - Works Cited - mobile.md">83</a>, <a href="Website About Me - Works Cited - mobile.md">4</a></td>
 					</tr>
 					<tr>
 						<td>Mario Kart 64</td>
@@ -1916,7 +1916,7 @@
 						<td>None</td>
 						<td>Mario Kart</td>
 						<td>GameRankings: N/A, Metacritic: 83/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">118</a>, <a href="Website About Me - Resources - mobile.md">83</a>, <a href="Website About Me - Resources - mobile.md">4</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">118</a>, <a href="Website About Me - Works Cited - mobile.md">83</a>, <a href="Website About Me - Works Cited - mobile.md">4</a></td>
 					</tr>
 					<tr>
 						<td>Mario Kart: Double Dash!!</td>
@@ -1933,7 +1933,7 @@
 						<td>None</td>
 						<td>Mario Kart</td>
 						<td>GameRankings: N/A, Metacritic: 87/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">119</a>, <a href="Website About Me - Resources - mobile.md">4</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">119</a>, <a href="Website About Me - Works Cited - mobile.md">4</a></td>
 					</tr>
 					<tr>
 						<td>Mario Kart: Super Circuit</td>
@@ -1950,7 +1950,7 @@
 						<td>None</td>
 						<td>Mario Kart</td>
 						<td>GameRankings: 91.54%, Metacritic: 93/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">120</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">120</a></td>
 					</tr>
 					<tr>
 						<td>Mario Kart 7</td>
@@ -1967,7 +1967,7 @@
 						<td>None</td>
 						<td>Mario Kart</td>
 						<td>GameRankings: 85.17%, Metacritic: 85/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">121</a>, <a href="Website About Me - Resources - mobile.md">4</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">121</a>, <a href="Website About Me - Works Cited - mobile.md">4</a></td>
 					</tr>
 					<tr>
 						<td>Mario Tennis</td>
@@ -1984,7 +1984,7 @@
 						<td>None</td>
 						<td>Mario Tennis</td>
 						<td>GameRankings: 87%, Metacritic: 91/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">122</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">122</a></td>
 					</tr>
 					<tr>
 						<td>Mario Power Tennis</td>
@@ -2001,7 +2001,7 @@
 						<td>None</td>
 						<td>Mario Tennis</td>
 						<td>GameRankings: 81.03%, Metacritic: 80/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">123</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">123</a></td>
 					</tr>
 					<tr>
 						<td>Pikmin 2</td>
@@ -2018,7 +2018,7 @@
 						<td>None</td>
 						<td>Pikmin</td>
 						<td>GameRankings: 89.44%, Metacritic: 90/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">124</a>, <a href="Website About Me - Resources - mobile.md">4</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">124</a>, <a href="Website About Me - Works Cited - mobile.md">4</a></td>
 					</tr>
 					<tr>
 						<td>Sunset Overdrive (Open World)</td>
@@ -2035,7 +2035,7 @@
 						<td>None</td>
 						<td>None</td>
 						<td>GameRankings: 83%, Metacritic: 81/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">125</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">125</a></td>
 					</tr>
 					<tr>
 						<td>Spyro the Dragon (Video Game)</td>
@@ -2052,7 +2052,7 @@
 						<td>None</td>
 						<td>Spyro</td>
 						<td>GameRankings: 85%, Metacritic: N/A</td>
-						<td><a href="Website About Me - Resources - mobile.md">126</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">126</a></td>
 					</tr>
 					<tr>
 						<td>Spyro 2: Ripto's Rage!</td>
@@ -2069,7 +2069,7 @@
 						<td>None</td>
 						<td>Spyro</td>
 						<td>GameRankings: 87%, Metacritic: N/A</td>
-						<td><a href="Website About Me - Resources - mobile.md">127</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">127</a></td>
 					</tr>
 					<tr>
 						<td>Spyro: Year of the Dragon</td>
@@ -2086,7 +2086,7 @@
 						<td>None</td>
 						<td>Spyro</td>
 						<td>GameRankings: 91%, Metacritic: 91/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">128</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">128</a></td>
 					</tr>
 					<tr>
 						<td>Spyro: Enter the Dragonfly</td>
@@ -2103,7 +2103,7 @@
 						<td>None</td>
 						<td>Spyro</td>
 						<td>GameRankings: 48%, Metacritic: 48/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">129</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">129</a></td>
 					</tr>
 					<tr>
 						<td>Spyro: A Hero's Tail</td>
@@ -2120,7 +2120,7 @@
 						<td>None</td>
 						<td>Spyro</td>
 						<td>GameRankings: 63.29%, Metacritic: 62/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">130</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">130</a></td>
 					</tr>
 					<tr>
 						<td>Star Fox: Assault</td>
@@ -2137,7 +2137,7 @@
 						<td>None</td>
 						<td>Star Fox</td>
 						<td>GameRankings: 71%, Metacritic: 67/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">131</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">131</a></td>
 					</tr>
 					<tr>
 						<td>Star Fox Adventures</td>
@@ -2154,7 +2154,7 @@
 						<td>None</td>
 						<td>Star Fox</td>
 						<td>GameRankings: N/A, Metacritic: 82/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">132</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">132</a></td>
 					</tr>
 					<tr>
 						<td>Marvel vs. Capcom 3: Fate of Two Worlds (Crossover)</td>
@@ -2171,7 +2171,7 @@
 						<td>MT Framework</td>
 						<td>Marvel vs. Capcom</td>
 						<td>GameRankings: 86%, Metacritic: 85/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">133</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">133</a></td>
 					</tr>
 					<tr>
 						<td>Yo-kai Watch (Video Game)</td>
@@ -2188,7 +2188,7 @@
 						<td>None</td>
 						<td>Yo-kai Watch</td>
 						<td>GameRankings: N/A, Metacritic: 76/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">134</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">134</a></td>
 					</tr>
 					<tr>
 						<td>DmC: Devil May Cry</td>
@@ -2205,7 +2205,7 @@
 						<td>Unreal Engine 3</td>
 						<td>Devil May Cry</td>
 						<td>GameRankings: N/A, Metacritic: 86/100 (Xbox 360), N/A (Xbox One)</td>
-						<td><a href="Website About Me - Resources - mobile.md">135</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">135</a></td>
 					</tr>
 					<tr>
 						<td>Mario Tennis: Ultra Smash</td>
@@ -2222,7 +2222,7 @@
 						<td>None</td>
 						<td>Mario Tennis</td>
 						<td>GameRankings: N/A, Metacritic: 58/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">136</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">136</a></td>
 					</tr>
 					<tr>
 						<td>Super Mario Strikers</td>
@@ -2239,7 +2239,7 @@
 						<td>None</td>
 						<td>Mario Strikers</td>
 						<td>GameRankings: 76%, Metacritic: 76/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">137</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">137</a></td>
 					</tr>
 					<tr>
 						<td>Mario Strikers Charged</td>
@@ -2256,7 +2256,7 @@
 						<td>None</td>
 						<td>Mario Strikers</td>
 						<td>GameRankings: 79%, Metacritic: 79/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">138</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">138</a></td>
 					</tr>
 					<tr>
 						<td>Mario Superstar Baseball</td>
@@ -2273,7 +2273,7 @@
 						<td>None</td>
 						<td>Mario Sports</td>
 						<td>GameRankings: 76.70%, Metacritic: 76/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">139</a>, <a href="Website About Me - Resources - mobile.md">140</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">139</a>, <a href="Website About Me - Works Cited - mobile.md">140</a></td>
 					</tr>
 					<tr>
 						<td>Mario Super Sluggers</td>
@@ -2290,7 +2290,7 @@
 						<td>None</td>
 						<td>Mario Sports</td>
 						<td>GameRankings: 69.72%, Metacritic: 69/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">141</a>, <a href="Website About Me - Resources - mobile.md">142</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">141</a>, <a href="Website About Me - Works Cited - mobile.md">142</a></td>
 					</tr>
 					<tr>
 						<td>Mario Sports Mix</td>
@@ -2307,7 +2307,7 @@
 						<td>None</td>
 						<td>Mario</td>
 						<td>GameRankings: 66%, Metacritic: 64/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">143</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">143</a></td>
 					</tr>
 					<tr>
 						<td>Kirby Air Ride</td>
@@ -2324,7 +2324,7 @@
 						<td>None</td>
 						<td>Kirby</td>
 						<td>GameRankings: N/A, Metacritic: 61/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">144</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">144</a></td>
 					</tr>
 					<tr>
 						<td>Kirby 64: The Crystal Shards</td>
@@ -2341,7 +2341,7 @@
 						<td>None</td>
 						<td>Kirby</td>
 						<td>GameRankings: N/A, Metacritic: 77/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">145</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">145</a></td>
 					</tr>
 					<tr>
 						<td>Kirby's Epic Yarn</td>
@@ -2358,7 +2358,7 @@
 						<td>None</td>
 						<td>Kirby</td>
 						<td>GameRankings: 88.48%, Metacritic: 86/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">146</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">146</a></td>
 					</tr>
 					<tr>
 						<td>Kirby's Return to Dream Land</td>
@@ -2375,7 +2375,7 @@
 						<td>None</td>
 						<td>Kirby</td>
 						<td>GameRankings: 80.50%, Metacritic: 77/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">147</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">147</a></td>
 					</tr>
 					<tr>
 						<td>Sonic Forces</td>
@@ -2392,7 +2392,7 @@
 						<td>None</td>
 						<td>Sonic the Hedgehog</td>
 						<td>GameRankings: N/A, Metacritic: 57/100 (Switch), 64/100 (Xbox One)</td>
-						<td><a href="Website About Me - Resources - mobile.md">148</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">148</a></td>
 					</tr>
 					<tr>
 						<td>Super Mario Odyssey</td>
@@ -2409,7 +2409,7 @@
 						<td>None</td>
 						<td>Super Mario</td>
 						<td>GameRankings: N/A, Metacritic: 97/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">149</a>, <a href="Website About Me - Resources - mobile.md">36</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">149</a>, <a href="Website About Me - Works Cited - mobile.md">36</a></td>
 					</tr>
 					<tr>
 						<td>Wolfenstein II: The New Colossus</td>
@@ -2426,7 +2426,7 @@
 						<td>id Tech 6</td>
 						<td>Wolfenstein</td>
 						<td>GameRankings: N/A, Metacritic: 88/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">150</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">150</a></td>
 					</tr>
 					<tr>
 						<td>Metroid: Samus Returns</td>
@@ -2443,7 +2443,7 @@
 						<td>None</td>
 						<td>Metroid</td>
 						<td>GameRankings: N/A, Metacritic: 86/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">151</a>, <a href="Website About Me - Mobile/Website About Me - Resources - mobile.md">36</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">151</a>, <a href="Website About Me - Works Cited - mobile.md">36</a></td>
 					</tr>
 					<tr>
 						<td>Assassin's Creed Origins</td>
@@ -2460,7 +2460,7 @@
 						<td>AnvilNext 2.0</td>
 						<td>Assassin's Creed</td>
 						<td>GameRankings: N/A, Metacritic: 81/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">152</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">152</a></td>
 					</tr>
 					<tr>
 						<td>Luigi's Mansion</td>
@@ -2477,7 +2477,7 @@
 						<td>None</td>
 						<td>Luigi</td>
 						<td>GameRankings: 79.18%, Metacritic: 78/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">153</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">153</a></td>
 					</tr>
 					<tr>
 						<td>Luigi's Mansion: Dark Moon</td>
@@ -2494,7 +2494,7 @@
 						<td>None</td>
 						<td>Luigi</td>
 						<td>GameRankings: 85.86%, Metacritic: 86/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">154</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">154</a></td>
 					</tr>
 					<tr>
 						<td>Mortal Kombat vs. DC Universe (Crossover)</td>
@@ -2511,7 +2511,7 @@
 						<td>Unreal Engine 3</td>
 						<td>Mortal Kombat</td>
 						<td>GameRankings: 74.55%, Metacritic: 72/100</td>
-						<td><a href="Website About Me - Resources - mobile.md">155</a>, <a href="Website About Me - Resources.md">156</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">155</a>, <a href="Website About Me - Works Cited.md">156</a></td>
 					</tr>
 					<tr>
 						<td>Batman: Arkham Origins</td>
@@ -2528,7 +2528,7 @@
 						<td>Unreal Engine 3</td>
 						<td>Batman: Arkham</td>
 						<td>GameRankings: N/A, Metacritic: 74/100 (Xbox 360), 68/100 (Wii U)</td>
-						<td><a href="Website About - Me - Resources - mobile.md">157</a></td>
+						<td><a href="Website About - Me - Works Cited - mobile.md">157</a></td>
 					</tr>
 				</table>
 			</div>
