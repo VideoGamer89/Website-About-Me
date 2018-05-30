@@ -3,7 +3,8 @@
 	</head>
 	<body>
 		<div id = "header">
-			<h1>Works Cited/div>
+			<h1>Works Cited</h1>
+	</div>
 		<div id = "nav">
 			<ul>
 				<li><a href="Website About Me - Main - mobile.md">Home</a></li>
