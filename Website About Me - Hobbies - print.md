@@ -23,7 +23,7 @@
 				<li><a href="Website About Me - Computer Programming Skills - print.md">Computer Programming Skills</a></li>
 				<li><a href="Website About Me - Operating Systems - print.md">Operating Systems</a></li>
 				<li><a href="Website About Me - Software - print.md">Software</a></li>
-				<li><a href="Website About Me - Resources - print.md">Resources</a></li>
+				<li><a href="Website About Me - Works Cited - print.md">Works Cited</a></li>
 			</ul>
 		</div>
 		<div id = "content">
