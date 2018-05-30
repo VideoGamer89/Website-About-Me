@@ -3,7 +3,7 @@
 	</head>
 <body>
 		<div id = "header">
-			<h1>Resources</h1>
+			<h1>Works Cited</h1>
 		</div>
 		<div id = "nav">
 			<ul>
