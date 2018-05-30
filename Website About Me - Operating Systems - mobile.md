@@ -24,7 +24,7 @@
 				<li><a href="Website About Me - Work Samples - mobile.md">Work Samples</a></li>
 				<li><a href="Website About Me - Computer Programming Skills - mobile.md">Computer Programming Skills</a></li>
 				<li><a href="Website About Me - Software - mobile.md">Software</a></li>
-				<li><a href="Website About Me - Resources - mobile.md">Resources</a></li>
+				<li><a href="Website About Me - Works CitWorks Cited - mobile.md">Work Cited</a></li>
 			</ul>
 		</div>
 		<div class = "content">
@@ -50,7 +50,7 @@
 						<td>Closed Source and Shared Source</td>
 						<td>Hybrid</td>
 						<td>Windows Update</td>
-						<td><a href="Website About Me - Resources - mobile.md">1</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">1</a></td>
 					</tr>
 					<tr>
 						<td>Microsoft Windows 8</td>
@@ -60,7 +60,7 @@
 						<td>Closed Source and Shared Source</td>
 						<td>Hybrid</td>
 						<td>Windows Update, Windows Store, Windows Server Update Services</td>
-						<td><a href="Website About Me - Resources - mobile.md">2</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">2</a></td>
 					</tr>
 					<tr>
 						<td>Microsoft Windows 8.1</td>
@@ -70,7 +70,7 @@
 						<td>None</td>
 						<td>Hybrid</td>
 						<td>Windows Update, Windows Store, Windows Server Update Services</td>
-						<td><a href="Website About Me - Resources - mobile.md">3</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">3</a></td>
 					</tr>
 					<tr>
 						<td>Microsoft Windows 10</td>
@@ -80,7 +80,7 @@
 						<td>Closed Source and Shared Source (Windows Driver Frameworks is now Open-Source)</td>
 						<td>Hybrid (Windows NT)</td>
 						<td>Windows Update, Windows Store, Windows Server Update Services</td>
-						<td><a href="Website About Me - Resources - mobile.md">4</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">4</a></td>
 					</tr>
 					<tr>
 						<td>Android</td>
@@ -90,7 +90,7 @@
 						<td>Open Source and In Most Devices With Proprietary Components</td>
 						<td>Monolithic (modified Linux kernel)</td>
 						<td>None</td>
-						<td><a href="Website About Me - Resources - mobile.md">5</a></td>
+						<td><a href="Website About Me - Works Cited - mobile.md">5</a></td>
 					</tr>
 				</table>
 			</div>
