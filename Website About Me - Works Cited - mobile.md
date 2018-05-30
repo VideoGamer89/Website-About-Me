@@ -3,8 +3,7 @@
 	</head>
 	<body>
 		<div id = "header">
-			<h1>Resources</h1>
-		</div>
+			<h1>Works Cited/div>
 		<div id = "nav">
 			<ul>
 				<li><a href="Website About Me - Main - mobile.md">Home</a></li>
@@ -869,7 +868,7 @@
 				</ol>
 		</div>
 		<div id = "backToTop">
-			<a href = "Website About Me - Resources - mobile.md">BackToTop</a>
+			<a href = "Website About Me - Works Cited - mobile.md">BackToTop</a>
 		</div>
 		<div id = "footer">
 			<p>&copy; Jeff Vogel 2018</p>
