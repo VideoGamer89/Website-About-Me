@@ -1,5 +1,4 @@
-<head>
-	<style>
+<style>
 		body { background-color: #006600;
 	  color: #FFFFFF;
 	  font-family: Arial, Verdana, sans-serif;}
@@ -36,6 +35,8 @@ table { background-color: #006600;
 		font-family: Arial, Verdana, sans-serif;
 		border = 2; }
 	</style>
+<head>
+	
 </head>
 	<body>
 		<div class = "header">
