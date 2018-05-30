@@ -31,7 +31,9 @@
 	<div class = "content">
 	<p>Here are the operating systems that I have used.</p>
 		<div id = "myOperatingSystemsDivElement">
-			<table>
+			<!-- the Operating Systems table section -->
+			<table border = "3">
+			<caption>Operating Systems</caption>
 				<tr>
 					<th>Name</th>
 					<th>Developer(s)</th>
@@ -40,6 +42,7 @@
 					<th>Source Model(s)</th>
 					<th>Kernel type</th>
 					<th>Update Method(s)</th>
+					<th>Resource Number</th>
 				</tr>
 				<tr>
 					<td><?php echo $operating_system_1; ?></td>
@@ -49,6 +52,7 @@
 					<td><?php echo $operating_system_source_model_1; ?> and <?php $operating_system_source_model_2; ?></td>
 					<td><?php echo $operating_system_kernel_type_1; ?></td>
 					<td><?php echo $operating_system_update_method_1; ?></td>
+					<td><a href="Website About Me - Works Cited.php">1</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $operating_system_2; ?></td>
@@ -58,6 +62,7 @@
 					<td><?php echo $operating_system_source_model_1; ?> and <?php $operating_system_source_model_2; ?></td>
 					<td><?php echo $operating_system_kernel_type_1; ?></td>
 					<td><?php echo $operating_system_update_method_1; ?>, <?php echo $operating_system_update_2; ?>, <?php echo $operating_system_update_3; ?></td>
+					<td><a href="Website About Me - Works Cited.php">2</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $operating_system_3; ?></td>
@@ -67,6 +72,7 @@
 					<td><?php echo $operating_system_source_model_3; ?> </td>
 					<td><?php echo $operating_system_kernel_type_1; ?> (<?php echo $operating_system_kernel_type_2?>)</td>
 					<td><?php echo $operating_system_update_method_1; ?>, <?php echo $operating_system_update_2; ?>, <?php echo $operating_system_update_3; ?></td>
+					<td><a href="Website About Me - Works Cited.php">3</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $operating_system_4; ?></td>
@@ -76,6 +82,7 @@
 					<td><?php echo $operating_system_source_model_1; ?> and <?php $operating_system_source_model_2; ?> (<?php echo $operating_system_source_model_4; ?> is now <?php $operating_system_source_model_5)?>)</td>
 					<td><?php echo $operating_system_kernel_type_1; ?> (<?php echo $operating_system_kernel_type_2?>)</td>
 					<td><?php echo $operating_system_update_method_1; ?>, <?php echo $operating_system_update_2; ?>, <?php echo $operating_system_update_3; ?></td>
+					<td><a href="Website About Me - Works Cited.php">4</a></td>
 				</tr>
 				<tr>
 					<td><?php echo $operating_system_5; ?></td>
@@ -85,8 +92,9 @@
 					<td><?php echo $operating_system_source_model_5; ?> and and in most devices with proprietary components</td>
 					<td><?php echo $operating_system_kernel_type_3; ?></td>
 					<td><?php echo $operating_system_update_method_4; ?></td>
+					<td><a href="Website About Me - Works Cited.php">5</a></td>
 				</tr>
-			</table>
+			</table><!-- end Operating Systems table -->
 		</div><!-- end myOperatingSystemsDivElement -->
 	</div><!-- end content -->
 <?php include '../view/Website About Me - footer.php'; ?>
