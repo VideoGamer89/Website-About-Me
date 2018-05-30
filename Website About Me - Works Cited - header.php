@@ -22,7 +22,7 @@
 <html>
 	<!-- the head section -->
 	<head>
-		<title>Website About Me - Resources</title>
+		<title>Website About Me - Works Cited</title>
 		<link href = "styles/Website About Me - php.css" rel = "stylesheet" />
 	</head><!-- end header -->
 	<!-- the body section -->
@@ -31,7 +31,7 @@
 		<div id = "page">
 			<!-- the header -->
 			<div id = "header">
-				<h1>Resources</h1>
+				<h1>Works Cited</h1>
 			</div><!-- end header -->
 			<!-- the nav section -->
 			<div id = "nav">
