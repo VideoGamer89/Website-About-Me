@@ -4,7 +4,7 @@ function FavoriteVideoGamesProcess()
 	var string;
 	string = "<table>"
 			+ "<tr>"
-				+ "<th>NaMe</th>"
+				+ "<th>Name</th>"
 				+ "<th>Platform(s)</th>"
 				+ "<th>Rating Abbreviation(s)</th>"
 				+ "<th>Rating Description(s)</th>"
