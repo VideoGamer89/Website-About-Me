@@ -14,7 +14,7 @@
   $header_12 = $_GET['Software'];
   $header_13 = $_GET['Images'];
 ?>
-<?php include '../view/header/Website About Me - Resources - header.php'; ?>
+<?php include '../view/header/Website About Me - Works Cited - header.php'; ?>
   <!-- the content section -->
   <div id = "content">
     <h2><?php echo $header_1; ?></h2>
