@@ -1,4 +1,4 @@
-function FavoriteVideoGamesProcess()
+function FavoriteMusicProcess()
 {
 	// Create HTML code
 	var string;
