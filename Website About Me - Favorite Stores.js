@@ -3,7 +3,7 @@ function FavoriteStoresProcess
 	// Create HTML code
 	var string;
 	string = "<table border = " + "3" + ">"
-			+ "<caption>Favorite TV Shows</caption>"
+			+ "<caption>Favorite Stores</caption>"
 			+ "<tr>"
 				+ "<th>Name</th>"
 				+ "<th>Type</th>"
