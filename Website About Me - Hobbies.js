@@ -9,6 +9,7 @@ function HobbiesProcess()
 			+ "<li>Watching Movies</li>"
 			+ "<li>Bowling</li>"
 			+ "<li>Going to the <a href=" + "http://www.wisdells.com/wisconsin-dells.htm" + ">Wisconsin Dells</a></li>"
+			+ "<li>Going to the library</td>"
 		+ "</ul>";
 	// obtain a reference to the <div>
 	myDiv = document.getElementById("myDivHobbiesElement");
