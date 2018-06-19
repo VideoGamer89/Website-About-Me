@@ -2,7 +2,7 @@ function FavoriteBandsProcess()
 {
 	// Create HTML code
 	var string;
-	string = "<table>"
+	string = "<table border = " + "3" + ">"
 			+ "<caption>Favorite Bands</caption>"
 			+ "<tr>"
 				+ "<th>Name</th>"
@@ -142,7 +142,7 @@ function FavoriteBandsProcess()
 				+ "<td>4</td>"
 				+ "<td>35</td>"
 				+ "<td>None</td>"
-				+ "<td><a href=" + "Website About Me -Works Citeds.html" + ">14</a>, <a href=" + "Website About Me - Works Cited.html" + ">15</a></td>"
+				+ "<td><a href=" + "Website About ME - Works Cited.html" + ">14</a>, <a href=" + "Website About Me - Works Cited.html" + ">15</a></td>"
 			+ "</tr>"
 			+ "<tr>"
 				+ "<td>Skillet (Band)</td>"
