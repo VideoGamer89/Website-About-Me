@@ -2,7 +2,7 @@ function EducationProcess()
 {
 	// Create HTML code
 	var string;
-	string = "<table>"
+	string = "<table border = " + "3" + ">"
 			+ "<caption>Education</caption>"
 			+ "<tr>"
 				+ "<th>Name</th>"
@@ -16,7 +16,7 @@ function EducationProcess()
 				+ "<th>Number of Years</th>"
 			+ "</tr>"
 			+ "<tr>"
-				+ "<td>Pine Technical and Community College</td>"
+				+ "<td>Pine Technical and Community College (PTCC)</td>"
 				+ "<td>2011</td>"
 				+ "<td>2015</td>"
 				+ "<td>Computer Programming</td>"
@@ -71,7 +71,7 @@ function EducationProcess()
 				+ "<td>1</td>"
 			+ "</tr>"
 			+ "<tr>"
-				+ "<td>North Branch Area Primary School</td>"
+				+ "<td>North Branch Area Primary School (Now North Branch Area Education Center)</td>"
 				+ "<td>1992</td>"
 				+ "<td>1999</td>"
 				+ "<td>General</td>"
