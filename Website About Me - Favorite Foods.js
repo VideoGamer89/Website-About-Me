@@ -2,7 +2,8 @@ function FavoriteFoodsProcess()
 {
 	// Create HTML code
 	var string;
-	string = "<table>"
+	string = "<table border = " + "3" + ">"
+				+ "<caption>Favorite Foods</caption>"
 				+ "<tr>"
 					+ "<th>Name</th>"
 					+ "<th>Type</th>"
@@ -114,6 +115,14 @@ function FavoriteFoodsProcess()
 					+ "<td>Potatoes, Semolina, Wheat Flour, Breadcrumbs, Eggs, Cheese</td>"
 					+ "<td>Entr&eacute;e</td>"
 					+ "<td><a href=" + "Website About Me - Works Cited.html" + ">13</a></td>"
+				+ "</tr>"
+				+ "<tr>"
+					+ "<td>Rice-A-Roni</td>"
+					+ "<td>Flavored Rice, Pasta Mixes</td>"
+					+ "<td>United States</td>"
+					+ "<td>Rice, Vermicelli Pasta, Seasonings</td>"
+					+ "<td>Lunch, Snack, and Dinner</td>"
+					+ "<a href=" + "Website About Me - Works Cited.html" + ">14</a></td>"
 				+ "</tr>"
 			+ "</table>"
 			+ "<p>Subway's Oven Roasted Chicken Breast Sub</p>";
